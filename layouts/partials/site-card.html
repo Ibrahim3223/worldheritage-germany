@@ -65,10 +65,14 @@
     <p class="card-text line-clamp-4 overflow-hidden mb-4">
       {{ $excerpt := "" }}
       {{ if .Content }}
-        {{/* Extract first sentence from content (after ## Overview) */}}
+        {{/* Extract first paragraph from content, skip Overview heading */}}
         {{ $content := .Content | plainify }}
-        {{ $content = replaceRE "(?s).*?## Overview\\s+" "" $content }}
+        {{/* Remove everything up to and including ## Overview */}}
+        {{ $content = replaceRE "(?s).*?##\\s*Overview\\s*" "" $content }}
+        {{/* Get first sentence */}}
         {{ $firstSentence := replaceRE "(?s)^([^.!?]+[.!?]).*" "$1" $content }}
+        {{/* Remove "Overview" if it appears at the start */}}
+        {{ $firstSentence = replaceRE "^Overview\\s+" "" $firstSentence }}
         {{ $excerpt = $firstSentence | truncate 180 }}
       {{ end }}
       {{ if $excerpt }}
