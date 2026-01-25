@@ -28,7 +28,6 @@
       description: {{ .Description | jsonify }},
       region: {{ .Params.region | jsonify }},
       heritage_type: {{ .Params.heritage_type | jsonify }},
-      content: {{ .Plain | jsonify }},
       image: {{ if .Params.images }}{{ index .Params.images 0 | relURL | jsonify }}{{ else }}''{{ end }},
       unesco: {{ if in .Params.tags "unesco" }}true{{ else }}false{{ end }}
     },{{ end }}{{ end }}].filter(s => s.title);
@@ -37,8 +36,7 @@
       return site.title.toLowerCase().includes(query) ||
              site.description.toLowerCase().includes(query) ||
              site.region.toLowerCase().includes(query) ||
-             site.heritage_type.toLowerCase().includes(query) ||
-             site.content.toLowerCase().includes(query);
+             site.heritage_type.toLowerCase().includes(query);
     }).slice(0, 20);
 
     this.searching = false;
