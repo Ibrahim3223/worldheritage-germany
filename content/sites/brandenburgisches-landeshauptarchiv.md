@@ -10,6 +10,7 @@ categories:
 - Library
 regions:
 - Germany
+site_name: "Brandenburgisches Landeshauptarchiv"
 latitude: 52.41384
 longitude: 12.97074
 images:

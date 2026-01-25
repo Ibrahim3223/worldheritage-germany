@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Statue of Theodor Fontane"
 latitude: 52.50984
 longitude: 13.34829
 images:

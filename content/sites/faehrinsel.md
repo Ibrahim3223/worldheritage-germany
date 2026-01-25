@@ -10,6 +10,7 @@ categories:
 - Island
 regions:
 - Germany
+site_name: "Fährinsel"
 latitude: 54.54388889
 longitude: 13.12083333
 images:

@@ -10,6 +10,7 @@ categories:
 - Market Square
 regions:
 - Germany
+site_name: "Borsigplatz"
 latitude: 51.523333055
 longitude: 7.481666944
 images:

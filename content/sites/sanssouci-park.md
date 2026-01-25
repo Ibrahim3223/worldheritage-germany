@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Sanssouci Park"
 latitude: 52.402
 longitude: 13.0336
 images:

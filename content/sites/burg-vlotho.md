@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Vlotho"
 latitude: 52.1714
 longitude: 8.85944
 images:

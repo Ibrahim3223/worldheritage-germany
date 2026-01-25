@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Ehrenfriedhof Elberfeld"
 latitude: 51.2447
 longitude: 7.12389
 images:

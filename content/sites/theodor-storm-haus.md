@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Theodor-Storm-Haus"
 latitude: 54.4757
 longitude: 9.04766
 images:

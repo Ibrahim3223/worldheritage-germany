@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Moselle"
 latitude: 50.3661
 longitude: 7.6076
 images:

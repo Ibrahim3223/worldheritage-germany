@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Glass Museum, Passau"
 latitude: 48.5753
 longitude: 13.4686
 images:

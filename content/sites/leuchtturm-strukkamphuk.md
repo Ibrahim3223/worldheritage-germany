@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Leuchtturm Strukkamphuk"
 latitude: 54.409367
 longitude: 11.095616
 images:

@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Messeturm Köln"
 latitude: 50.9444
 longitude: 6.96972
 images:

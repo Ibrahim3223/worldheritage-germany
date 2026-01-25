@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Tegelberg"
 latitude: 47.5595
 longitude: 10.7785
 images:

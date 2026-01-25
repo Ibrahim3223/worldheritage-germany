@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Castrop-Rauxel Central Station"
 latitude: 51.573555555
 longitude: 7.304166666
 images:

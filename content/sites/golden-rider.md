@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Golden Rider"
 latitude: 51.058114
 longitude: 13.741347
 images:

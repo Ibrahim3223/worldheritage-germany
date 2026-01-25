@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Brandberge"
 latitude: 51.5097
 longitude: 11.9281
 images:

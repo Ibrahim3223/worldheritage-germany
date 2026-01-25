@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Mine Prosper-Haniel"
 latitude: 51.5189
 longitude: 6.95972
 images:

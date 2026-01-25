@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Margon Arena"
 latitude: 51.022473799
 longitude: 13.80863583
 images:

@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Theater Pforzheim"
 latitude: 48.8895
 longitude: 8.70245
 images:

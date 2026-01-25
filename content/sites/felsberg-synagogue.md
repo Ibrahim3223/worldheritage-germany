@@ -10,6 +10,7 @@ categories:
 - Synagogue
 regions:
 - Germany
+site_name: "Felsberg synagogue"
 latitude: 51.13572
 longitude: 9.421845
 images:

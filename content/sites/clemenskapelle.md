@@ -10,6 +10,7 @@ categories:
 - Chapel
 regions:
 - Germany
+site_name: "Clemenskapelle"
 latitude: 50.9769
 longitude: 10.3361
 images:

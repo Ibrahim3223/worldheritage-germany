@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Langenegg"
 latitude: 47.6153
 longitude: 10.2936
 images:

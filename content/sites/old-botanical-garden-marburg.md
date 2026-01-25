@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Old Botanical Garden Marburg"
 latitude: 50.8124
 longitude: 8.77236
 

@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Fletch Bizzel"
 latitude: 51.5105
 longitude: 7.45375
 images:

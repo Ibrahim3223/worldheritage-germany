@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Villa Ten Hompel"
 latitude: 51.9663
 longitude: 7.64653
 images:

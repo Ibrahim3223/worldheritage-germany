@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Rosenhohe Park"
 latitude: 49.875833333
 longitude: 8.679444444
 images:

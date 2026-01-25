@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Staatspark Wilhelmsbad"
 latitude: 50.1481
 longitude: 8.88222
 images:

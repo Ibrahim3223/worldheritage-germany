@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Hertenstein Castle"
 latitude: 49.2979
 longitude: 9.88854
 images:

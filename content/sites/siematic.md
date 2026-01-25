@@ -10,6 +10,7 @@ categories:
   - "Factory"
 regions:
   - "Germany"
+site_name: "SieMatic"
 latitude: 52.198611111
 longitude: 8.730555555
 images:

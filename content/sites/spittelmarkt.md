@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Spittelmarkt"
 latitude: 52.5119
 longitude: 13.4014
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Erich Kästner Museum"
 latitude: 51.0638
 longitude: 13.7457
 images:

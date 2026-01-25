@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Kohnstein"
 latitude: 51.54044444
 longitude: 10.73505556
 images:

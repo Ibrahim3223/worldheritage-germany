@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Hessian State Museum"
 latitude: 51.3108
 longitude: 9.48972
 images:

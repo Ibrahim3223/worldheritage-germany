@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Obersee"
 latitude: 47.5161
 longitude: 12.9883
 images:

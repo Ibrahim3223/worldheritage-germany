@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Karl Marx monument"
 latitude: 52.3498
 longitude: 14.5492
 images:

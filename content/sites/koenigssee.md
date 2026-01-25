@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Königssee"
 latitude: 47.55
 longitude: 12.975
 images:

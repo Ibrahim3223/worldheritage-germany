@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Martin Luther's Birth House"
 latitude: 51.52694
 longitude: 11.55007
 images:

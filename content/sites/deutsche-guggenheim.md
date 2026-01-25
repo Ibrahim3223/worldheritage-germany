@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Deutsche Guggenheim"
 latitude: 52.5168
 longitude: 13.391
 images:

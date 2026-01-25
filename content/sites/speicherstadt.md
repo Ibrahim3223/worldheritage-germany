@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Speicherstadt"
 latitude: 53.54333333
 longitude: 9.99194444
 images:

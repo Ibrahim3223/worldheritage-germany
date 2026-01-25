@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Ehrenfriedhof"
 latitude: 53.546388888
 longitude: 8.1025
 images:

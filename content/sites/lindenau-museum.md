@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Lindenau museum"
 latitude: 50.9919
 longitude: 12.4449
 

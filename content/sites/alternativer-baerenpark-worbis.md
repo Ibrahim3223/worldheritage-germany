@@ -10,6 +10,7 @@ categories:
 - Zoo
 regions:
 - Germany
+site_name: "Alternativer Bärenpark Worbis"
 latitude: 51.4272
 longitude: 10.3469
 images:

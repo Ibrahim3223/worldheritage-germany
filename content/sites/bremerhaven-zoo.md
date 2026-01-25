@@ -10,6 +10,7 @@ categories:
 - Zoo
 regions:
 - Germany
+site_name: "Bremerhaven Zoo"
 latitude: 53.5447
 longitude: 8.57028
 images:

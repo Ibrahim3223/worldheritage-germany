@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue (Ihringen)"
 latitude: 48.0448
 longitude: 7.64661
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Lichteneck"
 latitude: 48.1723
 longitude: 7.7677
 images:

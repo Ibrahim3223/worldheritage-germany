@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Ständehaus"
 latitude: 51.2166398
 longitude: 6.773972
 

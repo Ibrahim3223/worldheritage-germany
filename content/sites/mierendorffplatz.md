@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Mierendorffplatz"
 latitude: 52.5265
 longitude: 13.3051
 images:

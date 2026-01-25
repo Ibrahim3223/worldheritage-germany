@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Niddapark"
 latitude: 50.14374
 longitude: 8.63457
 images:

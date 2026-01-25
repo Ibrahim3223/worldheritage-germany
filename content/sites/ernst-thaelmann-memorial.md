@@ -10,6 +10,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Ernst Thälmann memorial"
 latitude: 52.5381
 longitude: 13.4339
 images:

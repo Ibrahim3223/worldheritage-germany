@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Düsseldorf North Cemetery"
 latitude: 51.258
 longitude: 6.772
 images:

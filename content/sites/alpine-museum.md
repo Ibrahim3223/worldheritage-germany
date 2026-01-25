@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Alpine Museum"
 latitude: 48.13519722
 longitude: 11.58902222
 images:

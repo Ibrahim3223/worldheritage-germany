@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Wernberg"
 latitude: 49.539187634
 longitude: 12.165876368
 images:

@@ -10,6 +10,7 @@ categories:
 - Pilgrimage Church
 regions:
 - Germany
+site_name: "Dom St.Peter und Paul in Brandenburg"
 latitude: 52.4152
 longitude: 12.5674
 images:

@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Olhörn lighthouse"
 latitude: 54.68076389
 longitude: 8.56631944
 images:

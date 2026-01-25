@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Wallnau / Fehmarn"
 latitude: 54.472777777
 longitude: 11.021388888
 images:

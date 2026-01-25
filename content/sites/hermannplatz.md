@@ -10,6 +10,7 @@ categories:
 - Market Square
 regions:
 - Germany
+site_name: "Hermannplatz"
 latitude: 52.4872
 longitude: 13.4247
 images:

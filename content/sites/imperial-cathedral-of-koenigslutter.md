@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Imperial cathedral of Königslutter"
 latitude: 52.2447
 longitude: 10.8157
 images:

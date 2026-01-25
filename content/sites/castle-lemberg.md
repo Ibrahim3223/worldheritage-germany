@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Castle Lemberg"
 latitude: 49.173888888
 longitude: 7.661388888
 images:

@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Deichvorland bei Grieth mit Kalflack"
 latitude: 51.810277777
 longitude: 6.281111111
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum der Schwalm"
 latitude: 50.9109
 longitude: 9.2347
 images:

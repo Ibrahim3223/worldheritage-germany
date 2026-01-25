@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Carl-Maria-von-Weber-Museum"
 latitude: 51.0168
 longitude: 13.8645
 images:

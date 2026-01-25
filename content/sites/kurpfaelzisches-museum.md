@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kurpfälzisches Museum"
 latitude: 49.4114
 longitude: 8.70278
 

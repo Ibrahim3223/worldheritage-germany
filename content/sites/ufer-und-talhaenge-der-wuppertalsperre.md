@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Ufer und Talhänge der Wuppertalsperre"
 latitude: 51.168579
 longitude: 7.3183367
 images:

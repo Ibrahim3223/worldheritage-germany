@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Alter Garnisonfriedhof Berlin"
 latitude: 52.528333333
 longitude: 13.404166666
 images:

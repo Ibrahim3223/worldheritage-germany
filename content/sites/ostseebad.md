@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Ostseebad"
 latitude: 54.8134
 longitude: 9.42986
 

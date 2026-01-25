@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Volksgarten"
 latitude: 50.9209
 longitude: 6.94684
 images:

@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Bottsand"
 latitude: 54.42472
 longitude: 10.28423
 images:

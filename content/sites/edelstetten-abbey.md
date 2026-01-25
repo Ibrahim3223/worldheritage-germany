@@ -11,6 +11,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Edelstetten Abbey"
 latitude: 48.2986
 longitude: 10.3948
 images:

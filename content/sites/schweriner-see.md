@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Schweriner See"
 latitude: 53.716666666
 longitude: 11.466666666
 images:

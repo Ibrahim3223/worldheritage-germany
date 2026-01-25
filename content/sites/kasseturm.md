@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Kasseturm"
 latitude: 50.9819
 longitude: 11.3261
 images:

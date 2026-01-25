@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Hopfensee"
 latitude: 47.600833333
 longitude: 10.671111111
 images:

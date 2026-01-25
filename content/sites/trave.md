@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Trave"
 latitude: 53.9608
 longitude: 10.8872
 images:

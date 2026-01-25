@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Stadioner Hof"
 latitude: 50.0009
 longitude: 8.2648
 images:

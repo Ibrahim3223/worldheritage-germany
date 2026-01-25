@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Kollhoff Tower"
 latitude: 52.5089
 longitude: 13.375
 images:

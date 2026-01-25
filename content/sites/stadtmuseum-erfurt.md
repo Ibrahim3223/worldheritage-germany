@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Stadtmuseum Erfurt"
 latitude: 50.97952
 longitude: 11.03483
 images:

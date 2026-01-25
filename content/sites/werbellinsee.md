@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Werbellinsee"
 latitude: 52.933333333
 longitude: 13.716666666
 images:

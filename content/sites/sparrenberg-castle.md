@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Sparrenberg Castle"
 latitude: 52.0149
 longitude: 8.52677
 

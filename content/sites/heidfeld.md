@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Heidfeld"
 latitude: 52.3594
 longitude: 7.25
 images:

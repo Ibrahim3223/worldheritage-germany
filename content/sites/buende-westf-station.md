@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Bünde (Westf) station"
 latitude: 52.202246
 longitude: 8.5743329
 images:

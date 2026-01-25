@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Münchner Lach- und Schießgesellschaft"
 latitude: 48.1619
 longitude: 11.5908
 images:

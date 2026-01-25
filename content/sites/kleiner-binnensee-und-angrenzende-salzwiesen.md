@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Kleiner Binnensee und angrenzende Salzwiesen"
 latitude: 54.3492
 longitude: 10.63
 images:

@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Our Lady of Altötting"
 latitude: 48.226272
 longitude: 12.676461
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Denklingen Castle"
 latitude: 50.9153
 longitude: 7.65517
 images:

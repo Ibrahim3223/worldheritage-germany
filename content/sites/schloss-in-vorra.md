@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Schloss in Vorra"
 latitude: 49.57336
 longitude: 11.49708
 images:

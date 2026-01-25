@@ -10,6 +10,7 @@ categories:
   - "Statue"
 regions:
   - "Germany"
+site_name: "Mendelssohn-Denkmal"
 latitude: 51.339488
 longitude: 12.371575
 images:

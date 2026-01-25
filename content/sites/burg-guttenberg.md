@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Guttenberg"
 latitude: 49.2806
 longitude: 9.13444
 images:

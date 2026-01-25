@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Christgarten Charterhouse"
 latitude: 48.7823
 longitude: 10.4633
 images:

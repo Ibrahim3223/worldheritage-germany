@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Eschweiler"
 latitude: 50.818
 longitude: 6.2646
 images:

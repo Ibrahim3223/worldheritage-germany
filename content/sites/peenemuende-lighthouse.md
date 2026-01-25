@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Peenemünde lighthouse"
 latitude: 54.18562
 longitude: 13.77528
 images:

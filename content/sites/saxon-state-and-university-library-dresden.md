@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "Saxon State and University Library, Dresden"
 latitude: 51.0283
 longitude: 13.73659
 images:

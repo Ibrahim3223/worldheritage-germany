@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Beuron Archabbey"
 latitude: 48.050722222
 longitude: 8.969333333
 images:

@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagoge Braunschweig"
 latitude: 52.2608
 longitude: 10.5169
 images:

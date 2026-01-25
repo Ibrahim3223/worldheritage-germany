@@ -10,6 +10,7 @@ categories:
   - "Windmill"
 regions:
   - "Germany"
+site_name: "Steprather Mühle"
 latitude: 51.49961
 longitude: 6.24479
 images:

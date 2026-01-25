@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Komödie Düsseldorf"
 latitude: 51.2228
 longitude: 6.78333
 images:

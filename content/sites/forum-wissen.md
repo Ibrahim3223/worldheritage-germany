@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Forum Wissen"
 latitude: 51.534411946
 longitude: 9.926379969
 images:

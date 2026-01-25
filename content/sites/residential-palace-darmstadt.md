@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Residential Palace Darmstadt"
 latitude: 49.8736
 longitude: 8.65528
 images:

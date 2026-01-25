@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Monterberg"
 latitude: 51.7214
 longitude: 6.30472
 images:

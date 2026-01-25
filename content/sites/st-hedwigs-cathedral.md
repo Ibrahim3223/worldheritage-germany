@@ -10,6 +10,7 @@ categories:
   - "Pilgrimage Church"
 regions:
   - "Germany"
+site_name: "St. Hedwig's Cathedral"
 latitude: 52.515833333
 longitude: 13.394722222
 images:

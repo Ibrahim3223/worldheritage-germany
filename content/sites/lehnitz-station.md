@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Lehnitz station"
 latitude: 52.7411
 longitude: 13.2635
 images:

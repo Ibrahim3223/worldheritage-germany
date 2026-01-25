@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Gärten der Welt"
 latitude: 52.539444444
 longitude: 13.576666666
 images:

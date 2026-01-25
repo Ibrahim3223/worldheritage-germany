@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Berggarten"
 latitude: 52.3941
 longitude: 9.69876
 images:

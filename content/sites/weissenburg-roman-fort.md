@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Weißenburg Roman Fort"
 latitude: 49.0308
 longitude: 10.9625
 

@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Hamm (Westf) Hbf"
 latitude: 51.678333333
 longitude: 7.808333333
 images:

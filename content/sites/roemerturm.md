@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Römerturm"
 latitude: 49.0192
 longitude: 12.0997
 images:

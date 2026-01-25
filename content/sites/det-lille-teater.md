@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Det lille Teater"
 latitude: 54.7899
 longitude: 9.43013
 images:

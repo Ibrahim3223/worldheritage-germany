@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Soviet memorial"
 latitude: 50.608482
 longitude: 10.682672
 images:

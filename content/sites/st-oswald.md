@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "St. Oswald"
 latitude: 47.9175
 longitude: 8.06916667
 images:

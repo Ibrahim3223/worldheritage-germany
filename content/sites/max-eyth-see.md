@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Max-Eyth-See"
 latitude: 48.835243
 longitude: 9.216243
 images:

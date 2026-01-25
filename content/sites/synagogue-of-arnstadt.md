@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue of Arnstadt"
 latitude: 50.83669
 longitude: 10.94686
 images:

@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Köln Messe/Deutz station"
 latitude: 50.940833333
 longitude: 6.975
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum für Natur und Umwelt Lübeck"
 latitude: 53.860277777
 longitude: 10.685555555
 images:

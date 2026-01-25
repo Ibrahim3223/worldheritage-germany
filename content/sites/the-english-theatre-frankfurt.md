@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "The English Theatre Frankfurt"
 latitude: 50.1094
 longitude: 8.67131
 images:

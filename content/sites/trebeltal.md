@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Trebeltal"
 latitude: 54.0141
 longitude: 12.7744
 images:

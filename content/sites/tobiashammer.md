@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Tobiashammer"
 latitude: 50.8019
 longitude: 10.7318
 images:

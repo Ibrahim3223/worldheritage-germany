@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Saxon Museum of Psychiatry"
 latitude: 51.336666666
 longitude: 12.355277777
 images:

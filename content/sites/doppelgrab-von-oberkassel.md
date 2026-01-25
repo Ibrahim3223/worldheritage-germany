@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Doppelgrab von Oberkassel"
 latitude: 50.7144
 longitude: 7.17464
 images:

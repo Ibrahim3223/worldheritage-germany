@@ -10,6 +10,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Berlin-Marzahn concentration camp"
 latitude: 52.5510779
 longitude: 13.5470238
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Namedy Castle"
 latitude: 50.4559
 longitude: 7.35666
 

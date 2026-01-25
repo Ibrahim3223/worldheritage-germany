@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Burschenschaftsdenkmal"
 latitude: 50.9666
 longitude: 10.3351
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Hinta"
 latitude: 53.4156
 longitude: 7.19472
 images:

@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Dahlem Cemetery"
 latitude: 52.458913888
 longitude: 13.286105555
 images:

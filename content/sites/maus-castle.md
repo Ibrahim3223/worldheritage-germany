@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Maus Castle"
 latitude: 50.1719
 longitude: 7.69599
 

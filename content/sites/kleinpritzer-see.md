@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Kleinpritzer See"
 latitude: 53.649444444
 longitude: 11.940833333
 images:

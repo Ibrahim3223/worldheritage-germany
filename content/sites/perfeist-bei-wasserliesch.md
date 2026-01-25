@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Perfeist bei Wasserliesch"
 latitude: 49.697
 longitude: 6.52791
 images:

@@ -10,6 +10,7 @@ categories:
   - "Fortress"
 regions:
   - "Germany"
+site_name: "Thyraborg"
 latitude: 54.48921
 longitude: 9.5065
 images:

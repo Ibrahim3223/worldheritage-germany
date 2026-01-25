@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum zur Vorgeschichte des Films"
 latitude: 51.4291
 longitude: 6.86818
 images:

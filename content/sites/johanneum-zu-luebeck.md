@@ -10,6 +10,7 @@ categories:
 - School Building
 regions:
 - Germany
+site_name: "Johanneum zu Lübeck"
 latitude: 53.8667
 longitude: 10.6931
 images:

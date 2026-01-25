@@ -10,6 +10,7 @@ categories:
 - Waterfall
 regions:
 - Germany
+site_name: "Geroldsau Waterfall"
 latitude: 48.7128
 longitude: 8.24958
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Neuerburg"
 latitude: 50.0107
 longitude: 6.29037
 

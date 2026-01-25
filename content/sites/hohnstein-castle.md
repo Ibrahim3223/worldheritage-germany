@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Hohnstein Castle"
 latitude: 51.57
 longitude: 10.8375
 images:

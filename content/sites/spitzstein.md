@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Spitzstein"
 latitude: 47.710833333
 longitude: 12.246666666
 images:

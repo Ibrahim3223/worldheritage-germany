@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Planetarium Jena"
 latitude: 50.931805555
 longitude: 11.586888888
 images:

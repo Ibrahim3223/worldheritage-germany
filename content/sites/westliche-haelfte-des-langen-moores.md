@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Westliche Hälfte des Langen Moores"
 latitude: 53.1864
 longitude: 8.90444
 images:

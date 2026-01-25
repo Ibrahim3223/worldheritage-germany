@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Hamburg Dammtor station"
 latitude: 53.560833
 longitude: 9.989444
 images:

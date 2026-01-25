@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Rur"
 latitude: 51.196666666
 longitude: 5.981666666
 images:

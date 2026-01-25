@@ -10,6 +10,7 @@ categories:
 - River
 regions:
 - Germany
+site_name: "Havel"
 latitude: 53.4678
 longitude: 12.9356
 images:

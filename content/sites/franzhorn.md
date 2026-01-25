@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Franzhorn"
 latitude: 53.423611111
 longitude: 9.005555555
 images:

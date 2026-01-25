@@ -11,6 +11,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "geographical center of Europe"
 latitude: 49.96202
 longitude: 12.49068
 images:

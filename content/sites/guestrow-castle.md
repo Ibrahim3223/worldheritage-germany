@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Güstrow Castle"
 latitude: 53.79084
 longitude: 12.17706
 images:

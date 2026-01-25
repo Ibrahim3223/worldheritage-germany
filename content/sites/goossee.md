@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Goossee"
 latitude: 54.441388888
 longitude: 9.855555555
 images:

@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Kröpcke"
 latitude: 52.374410811
 longitude: 9.738757942
 images:

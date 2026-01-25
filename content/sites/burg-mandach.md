@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Mandach"
 latitude: 47.70684487
 longitude: 8.27603102
 images:

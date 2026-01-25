@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Wilmersdorf Cemetery"
 latitude: 52.485166666
 longitude: 13.311
 images:

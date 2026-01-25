@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Herzogenhorn"
 latitude: 47.835
 longitude: 8.019444444
 images:

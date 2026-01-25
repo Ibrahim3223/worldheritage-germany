@@ -10,6 +10,7 @@ categories:
   - "Factory"
 regions:
   - "Germany"
+site_name: "Waggonfabrik Gebrüder Gastell"
 latitude: 50.0161
 longitude: 8.23417
 images:

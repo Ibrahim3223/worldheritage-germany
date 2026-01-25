@@ -10,6 +10,7 @@ categories:
 - School Building
 regions:
 - Germany
+site_name: "Domschule Schleswig"
 latitude: 54.5142
 longitude: 9.55713
 images:

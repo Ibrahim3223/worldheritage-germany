@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Günter Grass House"
 latitude: 53.8694
 longitude: 10.69
 images:

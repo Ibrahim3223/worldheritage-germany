@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Essenrode Manor"
 latitude: 52.3715
 longitude: 10.6353
 images:

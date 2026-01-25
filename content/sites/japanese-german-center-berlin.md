@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "Japanese-German Center Berlin"
 latitude: 52.4505
 longitude: 13.2717
 images:

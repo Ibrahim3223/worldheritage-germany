@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Crossen Palace"
 latitude: 50.97805556
 longitude: 11.97513889
 images:

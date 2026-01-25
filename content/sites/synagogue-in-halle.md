@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue in Halle"
 latitude: 51.4933
 longitude: 11.9803
 images:

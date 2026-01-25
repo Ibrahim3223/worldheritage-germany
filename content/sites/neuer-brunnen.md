@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Neuer Brunnen"
 latitude: 50.0021
 longitude: 8.266
 images:

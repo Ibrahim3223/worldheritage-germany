@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Manufaktur der Träume"
 latitude: 50.5792
 longitude: 13.0019
 images:

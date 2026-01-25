@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Wiedersberg Castle"
 latitude: 50.3653
 longitude: 11.9983
 

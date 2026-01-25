@@ -11,6 +11,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Freiburg Castle"
 latitude: 47.993726
 longitude: 7.858187
 images:

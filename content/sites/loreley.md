@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Loreley"
 latitude: 50.139444444
 longitude: 7.728888888
 images:

@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Arendsee"
 latitude: 52.8892
 longitude: 11.4742
 images:

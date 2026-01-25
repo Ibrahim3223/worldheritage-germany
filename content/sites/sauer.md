@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Sauer"
 latitude: 49.713588888
 longitude: 6.506686111
 images:

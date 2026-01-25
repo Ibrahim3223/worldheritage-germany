@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum of Communication Hamburg"
 latitude: 53.55788889
 longitude: 9.98797222
 images:

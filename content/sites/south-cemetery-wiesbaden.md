@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "South Cemetery Wiesbaden"
 latitude: 50.060388888
 longitude: 8.268055555
 images:

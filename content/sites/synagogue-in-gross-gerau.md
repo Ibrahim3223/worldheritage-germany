@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue in Gross-Gerau"
 latitude: 49.923703
 longitude: 8.483328
 images:

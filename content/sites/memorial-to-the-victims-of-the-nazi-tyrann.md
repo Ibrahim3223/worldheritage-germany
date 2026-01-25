@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Memorial to the victims of the Nazi tyrann"
 latitude: 48.1431
 longitude: 11.574
 images:

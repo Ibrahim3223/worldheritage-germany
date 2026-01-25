@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Liubice"
 latitude: 53.90777778
 longitude: 10.71444444
 

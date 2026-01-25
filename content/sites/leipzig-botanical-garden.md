@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Leipzig Botanical Garden"
 latitude: 51.3287
 longitude: 12.3913
 

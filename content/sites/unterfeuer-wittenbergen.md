@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Unterfeuer Wittenbergen"
 latitude: 53.56391667
 longitude: 9.75146111
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Heidenhäuschen"
 latitude: 50.4796
 longitude: 8.0881
 images:

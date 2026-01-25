@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Berlin-Hohenschönhausen Memorial"
 latitude: 52.5417
 longitude: 13.5011
 images:

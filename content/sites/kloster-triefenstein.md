@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Kloster Triefenstein"
 latitude: 49.807637776
 longitude: 9.598983751
 images:

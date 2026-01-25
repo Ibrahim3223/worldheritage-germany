@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Germany Spy Museum"
 latitude: 52.509
 longitude: 13.379277777
 images:

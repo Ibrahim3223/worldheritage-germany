@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Kempen"
 latitude: 51.3668
 longitude: 6.42142
 images:

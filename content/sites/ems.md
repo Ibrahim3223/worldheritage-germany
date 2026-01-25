@@ -10,6 +10,7 @@ categories:
 - River
 regions:
 - Germany
+site_name: "Ems"
 latitude: 53.32555556
 longitude: 7.24472222
 images:

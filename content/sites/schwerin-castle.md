@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schwerin Castle"
 latitude: 53.624166666
 longitude: 11.418888888
 images:

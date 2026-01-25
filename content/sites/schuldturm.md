@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Schuldturm"
 latitude: 49.4526
 longitude: 11.0809
 images:

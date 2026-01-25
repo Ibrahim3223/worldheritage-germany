@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Natural history museum Schleusingen"
 latitude: 50.5092
 longitude: 10.7493
 images:

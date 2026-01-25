@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Villa Bosch"
 latitude: 49.4158
 longitude: 8.73444
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Colmberg"
 latitude: 49.3602
 longitude: 10.4081
 images:

@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Hohes Moor (Lüneburg)"
 latitude: 53.5519
 longitude: 9.25889
 images:

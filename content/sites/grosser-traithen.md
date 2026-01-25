@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Großer Traithen"
 latitude: 47.647777777
 longitude: 12.039444444
 images:

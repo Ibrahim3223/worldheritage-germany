@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Fürstenfeld Abbey"
 latitude: 48.169740071
 longitude: 11.249592078
 images:

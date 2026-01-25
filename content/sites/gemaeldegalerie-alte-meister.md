@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Gemäldegalerie Alte Meister"
 latitude: 51.315
 longitude: 9.41611
 images:

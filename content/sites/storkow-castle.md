@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Storkow Castle"
 latitude: 52.2528
 longitude: 13.9333
 images:

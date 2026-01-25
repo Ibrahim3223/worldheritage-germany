@@ -10,6 +10,7 @@ categories:
 - Garden
 regions:
 - Germany
+site_name: "Garden of Steinhausstraße 72"
 latitude: 53.1995
 longitude: 7.28304
 images:

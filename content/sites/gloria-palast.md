@@ -10,6 +10,7 @@ categories:
 - Cinema
 regions:
 - Germany
+site_name: "Gloria-Palast"
 latitude: 52.504572
 longitude: 13.333282
 images:

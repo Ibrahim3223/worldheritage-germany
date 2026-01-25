@@ -10,6 +10,7 @@ categories:
 - Library
 regions:
 - Germany
+site_name: "Baden State Library"
 latitude: 49.0078
 longitude: 8.39917
 images:

@@ -10,6 +10,7 @@ categories:
   - "Valley"
 regions:
   - "Germany"
+site_name: "Schwedenlöcher"
 latitude: 50.9694
 longitude: 14.0736
 images:

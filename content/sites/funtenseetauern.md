@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Funtenseetauern"
 latitude: 47.485
 longitude: 12.976944444
 images:

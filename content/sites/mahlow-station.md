@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Mahlow station"
 latitude: 52.3602
 longitude: 13.4085
 images:

@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Seehamer See"
 latitude: 47.85
 longitude: 11.856111111
 images:

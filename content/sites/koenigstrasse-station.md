@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Königstrasse station"
 latitude: 53.548333
 longitude: 9.945556
 images:

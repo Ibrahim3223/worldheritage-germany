@@ -11,6 +11,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Dabelowsee"
 latitude: 53.256666666
 longitude: 13.206388888
 images:

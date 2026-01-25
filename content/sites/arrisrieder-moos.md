@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Arrisrieder Moos"
 latitude: 47.749438888
 longitude: 9.879169444
 images:

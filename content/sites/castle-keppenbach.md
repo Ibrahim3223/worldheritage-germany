@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Castle Keppenbach"
 latitude: 48.1647
 longitude: 7.9168
 images:

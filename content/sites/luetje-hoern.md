@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Lütje Hörn"
 latitude: 53.583333333
 longitude: 6.866666666
 images:

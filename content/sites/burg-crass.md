@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Crass"
 latitude: 50.02555556
 longitude: 8.12472222
 images:

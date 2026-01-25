@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Haseldorf manor"
 latitude: 53.632630555
 longitude: 9.597725
 images:

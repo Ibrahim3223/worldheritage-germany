@@ -10,6 +10,7 @@ categories:
   - "Cinema"
 regions:
   - "Germany"
+site_name: "Rundkino"
 latitude: 51.0449
 longitude: 13.7369
 images:

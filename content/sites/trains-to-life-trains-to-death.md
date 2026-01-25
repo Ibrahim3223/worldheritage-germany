@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Trains to Life – Trains to Death"
 latitude: 52.519847
 longitude: 13.387743
 images:

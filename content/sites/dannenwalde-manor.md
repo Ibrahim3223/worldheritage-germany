@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Dannenwalde Manor"
 latitude: 53.0788
 longitude: 13.1867
 images:

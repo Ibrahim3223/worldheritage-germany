@@ -10,6 +10,7 @@ categories:
   - "Valley"
 regions:
   - "Germany"
+site_name: "Kleinziegenfelder Valley"
 latitude: 50.0199
 longitude: 11.2022
 images:

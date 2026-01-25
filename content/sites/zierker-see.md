@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Zierker See"
 latitude: 53.361513888
 longitude: 13.035963888
 images:

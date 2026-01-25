@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Usedom"
 latitude: 53.933333333
 longitude: 14.083333333
 images:

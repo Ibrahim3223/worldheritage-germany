@@ -10,6 +10,7 @@ categories:
 - Synagogue
 regions:
 - Germany
+site_name: "Hauptsynagoge Mainz"
 latitude: 50.0087
 longitude: 8.25931
 images:

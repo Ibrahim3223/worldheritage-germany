@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Walkenried Abbey"
 latitude: 51.583055555
 longitude: 10.619166666
 images:

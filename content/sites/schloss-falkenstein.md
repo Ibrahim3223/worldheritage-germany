@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloß Falkenstein"
 latitude: 49.9696
 longitude: 6.19439
 

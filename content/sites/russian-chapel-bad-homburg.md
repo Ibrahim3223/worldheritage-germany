@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Russian Chapel, Bad Homburg"
 latitude: 50.2258
 longitude: 8.62528
 images:

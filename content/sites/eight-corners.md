@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Eight Corners"
 latitude: 52.3961
 longitude: 13.0586
 images:

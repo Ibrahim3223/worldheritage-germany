@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Altenbeken station"
 latitude: 51.7664
 longitude: 8.94222
 images:

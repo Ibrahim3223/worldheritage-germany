@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Wittenbergplatz"
 latitude: 52.5019
 longitude: 13.3428
 images:

@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Oranienburg Gate"
 latitude: 52.5271
 longitude: 13.3871
 images:

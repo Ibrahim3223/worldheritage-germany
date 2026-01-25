@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Schloss Mellenthin"
 latitude: 53.924
 longitude: 14.0165
 images:

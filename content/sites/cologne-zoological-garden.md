@@ -10,6 +10,7 @@ categories:
 - Zoo
 regions:
 - Germany
+site_name: "Cologne Zoological Garden"
 latitude: 50.958333
 longitude: 6.973333
 images:

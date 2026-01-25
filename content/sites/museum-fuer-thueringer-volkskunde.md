@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum für Thüringer Volkskunde"
 latitude: 50.9814
 longitude: 11.0356
 images:

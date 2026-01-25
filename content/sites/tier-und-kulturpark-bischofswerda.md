@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Tier- und Kulturpark Bischofswerda"
 latitude: 51.1264
 longitude: 14.1758
 images:

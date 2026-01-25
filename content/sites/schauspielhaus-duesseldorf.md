@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Schauspielhaus Düsseldorf"
 latitude: 51.2201
 longitude: 6.77586
 images:

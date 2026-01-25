@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Großer Wariner See"
 latitude: 53.812777777
 longitude: 11.692222222
 images:

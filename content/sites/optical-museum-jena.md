@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Optical Museum Jena"
 latitude: 50.927811111
 longitude: 11.579275
 images:

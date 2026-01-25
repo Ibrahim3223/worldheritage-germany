@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Europäisches Museum für modernes Glas"
 latitude: 50.295982
 longitude: 11.020505
 images:

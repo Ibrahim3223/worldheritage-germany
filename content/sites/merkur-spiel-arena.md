@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Merkur Spiel-Arena"
 latitude: 51.261539
 longitude: 6.733083
 images:

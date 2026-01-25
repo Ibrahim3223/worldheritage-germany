@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Rose Island"
 latitude: 47.941554206
 longitude: 11.308772468
 

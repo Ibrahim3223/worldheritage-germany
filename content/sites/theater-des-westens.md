@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Theater des Westens"
 latitude: 52.5059
 longitude: 13.3291
 images:

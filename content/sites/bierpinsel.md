@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Bierpinsel"
 latitude: 52.461388888
 longitude: 13.324444444
 images:

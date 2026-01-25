@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Hirsau Abbey"
 latitude: 48.7378
 longitude: 8.7321
 images:

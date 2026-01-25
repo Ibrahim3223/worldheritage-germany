@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Bucher Brack-Bölsdorfer Haken"
 latitude: 52.494166666
 longitude: 12.001944444
 images:

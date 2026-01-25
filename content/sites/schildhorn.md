@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Schildhorn"
 latitude: 52.4962
 longitude: 13.1953
 images:

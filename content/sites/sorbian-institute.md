@@ -10,6 +10,7 @@ categories:
   - "Cultural Center"
 regions:
   - "Germany"
+site_name: "Sorbian Institute"
 latitude: 51.175469
 longitude: 14.429029
 images:

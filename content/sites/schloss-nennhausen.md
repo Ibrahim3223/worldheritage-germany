@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Schloss Nennhausen"
 latitude: 52.60547
 longitude: 12.50368
 images:

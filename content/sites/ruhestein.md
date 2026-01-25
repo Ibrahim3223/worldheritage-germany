@@ -10,6 +10,7 @@ categories:
   - "Gorge"
 regions:
   - "Germany"
+site_name: "Ruhestein"
 latitude: 48.5611
 longitude: 8.22139
 images:

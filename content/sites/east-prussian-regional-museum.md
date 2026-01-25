@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "East Prussian Regional Museum"
 latitude: 53.24619444
 longitude: 10.40744444
 images:

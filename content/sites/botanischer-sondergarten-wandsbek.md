@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Sondergarten Wandsbek"
 latitude: 53.5824
 longitude: 10.0985
 images:

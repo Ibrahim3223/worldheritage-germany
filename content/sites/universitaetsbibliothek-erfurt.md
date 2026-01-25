@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "Universitätsbibliothek Erfurt"
 latitude: 50.98907
 longitude: 11.01438
 images:

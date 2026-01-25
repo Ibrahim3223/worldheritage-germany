@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Ohrenbrücker Tor"
 latitude: 49.9591
 longitude: 8.05682
 images:

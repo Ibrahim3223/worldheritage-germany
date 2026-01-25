@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Wittelsbach"
 latitude: 48.4686
 longitude: 11.1762
 images:

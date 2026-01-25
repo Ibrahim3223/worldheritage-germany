@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Zoologischer Garten Magdeburg"
 latitude: 52.168056
 longitude: 11.641111
 images:

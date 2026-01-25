@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Mildenstein Castle"
 latitude: 51.1623
 longitude: 12.9255
 

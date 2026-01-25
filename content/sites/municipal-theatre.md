@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Municipal Theatre"
 latitude: 54.0853
 longitude: 12.1417
 images:

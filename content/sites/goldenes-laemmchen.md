@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Goldenes Lämmchen"
 latitude: 50.111062
 longitude: 8.683466
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Luisenpark"
 latitude: 49.4827
 longitude: 8.4974
 

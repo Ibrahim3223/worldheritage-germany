@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kranich Museum"
 latitude: 54.3005
 longitude: 12.5467
 

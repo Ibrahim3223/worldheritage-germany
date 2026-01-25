@@ -10,6 +10,7 @@ categories:
   - "Waterfall"
 regions:
   - "Germany"
+site_name: "Radau"
 latitude: 51.9581
 longitude: 10.5725
 images:

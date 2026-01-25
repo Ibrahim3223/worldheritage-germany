@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Equestrian statue of Frederick William IV"
 latitude: 52.5206
 longitude: 13.3986
 images:

@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Thalia Theater"
 latitude: 53.55197222
 longitude: 9.99827778
 images:

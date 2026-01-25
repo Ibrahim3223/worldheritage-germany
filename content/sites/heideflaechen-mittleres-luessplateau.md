@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Heideflächen mittleres Lüßplateau"
 latitude: 52.81388889
 longitude: 10.16277778
 images:

@@ -11,6 +11,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Hauptfriedhof Karlsruhe"
 latitude: 49.017461111
 longitude: 8.435427777
 images:

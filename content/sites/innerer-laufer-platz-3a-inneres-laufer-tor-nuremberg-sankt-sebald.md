@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Innerer Laufer Platz 3a, Inneres Laufer Tor (Nuremberg-Sankt Sebald)"
 latitude: 49.4561
 longitude: 11.0836
 images:

@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Metropol-Theater"
 latitude: 48.1923
 longitude: 11.6191
 images:

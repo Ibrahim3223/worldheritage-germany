@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Altwied Castle"
 latitude: 50.4835
 longitude: 7.46722
 images:

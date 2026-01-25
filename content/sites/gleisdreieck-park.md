@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Gleisdreieck Park"
 latitude: 52.4958
 longitude: 13.3758
 images:

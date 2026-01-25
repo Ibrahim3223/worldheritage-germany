@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Borgwallsee"
 latitude: 54.273333333
 longitude: 13.007777777
 images:

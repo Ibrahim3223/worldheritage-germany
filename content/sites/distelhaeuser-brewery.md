@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Distelhäuser Brewery"
 latitude: 49.598953
 longitude: 9.693397
 images:

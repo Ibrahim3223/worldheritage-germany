@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Hamburg Hauptbahnhof"
 latitude: 53.552778
 longitude: 10.006389
 images:

@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Schauspielhaus"
 latitude: 50.9733
 longitude: 11.0249
 images:

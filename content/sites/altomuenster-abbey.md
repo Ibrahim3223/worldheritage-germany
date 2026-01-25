@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Altomünster Abbey"
 latitude: 48.3886
 longitude: 11.2565
 images:

@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Neues Palais"
 latitude: 49.8686472
 longitude: 8.65098774
 images:

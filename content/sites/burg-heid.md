@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Heid"
 latitude: 49.6417
 longitude: 6.72917
 images:

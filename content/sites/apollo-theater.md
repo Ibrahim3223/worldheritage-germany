@@ -11,6 +11,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Apollo-Theater"
 latitude: 50.87398
 longitude: 8.01758
 images:

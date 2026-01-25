@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Weimar railway station"
 latitude: 50.9917
 longitude: 11.3269
 images:

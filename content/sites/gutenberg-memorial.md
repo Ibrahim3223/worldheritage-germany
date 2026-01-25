@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Gutenberg memorial"
 latitude: 49.9988
 longitude: 8.27162
 images:

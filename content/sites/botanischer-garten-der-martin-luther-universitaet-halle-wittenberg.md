@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten der Martin-Luther-Universität Halle-Wittenberg"
 latitude: 51.4889
 longitude: 11.9614
 images:

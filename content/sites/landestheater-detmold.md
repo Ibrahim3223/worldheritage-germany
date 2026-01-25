@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Landestheater Detmold"
 latitude: 51.937833333
 longitude: 8.878944444
 images:

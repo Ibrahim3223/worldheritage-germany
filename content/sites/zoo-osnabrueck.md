@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Zoo Osnabrück"
 latitude: 52.25
 longitude: 8.07028
 images:

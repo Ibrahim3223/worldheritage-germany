@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Kirchsee"
 latitude: 47.8189
 longitude: 11.6181
 images:

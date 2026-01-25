@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Künstlerhaus am Lenbachplatz"
 latitude: 48.140025396
 longitude: 11.567772023
 

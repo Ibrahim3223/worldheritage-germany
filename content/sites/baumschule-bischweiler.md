@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Baumschule Bischweiler"
 latitude: 48.1194
 longitude: 11.565
 images:

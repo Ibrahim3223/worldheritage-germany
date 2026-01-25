@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Vogelfreistätte Lebrader Teich"
 latitude: 54.2194
 longitude: 10.4367
 images:

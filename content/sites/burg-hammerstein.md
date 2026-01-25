@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Hammerstein"
 latitude: 50.4712
 longitude: 7.35771
 images:

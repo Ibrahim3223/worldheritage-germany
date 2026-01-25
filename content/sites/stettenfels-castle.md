@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Stettenfels Castle"
 latitude: 49.0894
 longitude: 9.28167
 

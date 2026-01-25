@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Leipzig Panometer"
 latitude: 51.3143
 longitude: 12.3867
 images:

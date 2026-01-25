@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Haus der Springmaus"
 latitude: 50.7275
 longitude: 7.07438
 images:

@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Koblenz Central Station"
 latitude: 50.3506
 longitude: 7.58917
 images:

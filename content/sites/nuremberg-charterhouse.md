@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Nuremberg Charterhouse"
 latitude: 49.4481
 longitude: 11.0764
 images:

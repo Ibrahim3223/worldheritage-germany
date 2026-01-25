@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Ruppiner See"
 latitude: 52.8975
 longitude: 12.8075
 images:

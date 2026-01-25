@@ -11,6 +11,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Hohenzollern Castle"
 latitude: 48.323561111
 longitude: 8.9674
 images:

@@ -10,6 +10,7 @@ categories:
 - Fountain
 regions:
 - Germany
+site_name: "Hygieia-Fountain"
 latitude: 53.550258
 longitude: 9.991934
 images:

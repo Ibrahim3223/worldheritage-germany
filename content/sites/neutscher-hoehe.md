@@ -10,6 +10,7 @@ categories:
   - "Gorge"
 regions:
   - "Germany"
+site_name: "Neutscher Höhe"
 latitude: 49.770472222
 longitude: 8.699833333
 images:

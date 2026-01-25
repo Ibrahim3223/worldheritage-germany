@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Altrathen Castle"
 latitude: 50.9588
 longitude: 14.0806
 images:

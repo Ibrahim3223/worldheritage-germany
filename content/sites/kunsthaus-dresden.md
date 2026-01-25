@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kunsthaus Dresden"
 latitude: 51.0593
 longitude: 13.741
 

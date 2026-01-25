@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Hexenturm"
 latitude: 50.92082
 longitude: 6.35598
 images:

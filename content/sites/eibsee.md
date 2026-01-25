@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Eibsee"
 latitude: 47.457777777
 longitude: 10.973055555
 images:

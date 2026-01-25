@@ -5,6 +5,12 @@ slug: "basilica-of-sts-peter-and-paul-dillingen"
 region: "Baden-Württemberg"
 
 # Location
+image_srcset:
+  Basilika%20St.%20Peter%20(Dillingen).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Basilika_St._Peter_(Dillingen).JPG/400px-Basilika_St._Peter_(Dillingen).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Basilika_St._Peter_(Dillingen).JPG/800px-Basilika_St._Peter_(Dillingen).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Basilika_St._Peter_(Dillingen).JPG/1200px-Basilika_St._Peter_(Dillingen).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Basilika_St._Peter_(Dillingen).JPG/1920px-Basilika_St._Peter_(Dillingen).JPG
 latitude: 48.5779645518025
 longitude: 10.4939068923476
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q1295245"
 description: "In the heart of Dillingen an der Donau, the Basilica of Sts. Peter and Paul captivates with its striking baroque architecture and rich spiritual signifi..."
 images:
-  - "/images/basilica-of-sts-peter-and-paul-dillingen/01-c4f31b1b-1920w.webp"
-  - "/images/basilica-of-sts-peter-and-paul-dillingen/02-9869b060-1920w.webp"
-  - "/images/basilica-of-sts-peter-and-paul-dillingen/03-d721339e-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Basilika_St._Peter_(Dillingen).JPG/1200px-Basilika_St._Peter_(Dillingen).JPG
 ---
 
 ## Overview

@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Lusatian Nysa"
 latitude: 52.069722222
 longitude: 14.755555555
 images:

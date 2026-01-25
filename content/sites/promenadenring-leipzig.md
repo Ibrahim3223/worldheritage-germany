@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Promenadenring (Leipzig)"
 latitude: 51.3406
 longitude: 12.3761
 images:

@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Lundtop"
 latitude: 54.805
 longitude: 9.20944444
 images:

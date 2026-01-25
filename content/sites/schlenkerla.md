@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schlenkerla"
 latitude: 49.891666666
 longitude: 10.884722222
 

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Thurant Castle"
 latitude: 50.2482
 longitude: 7.45291
 

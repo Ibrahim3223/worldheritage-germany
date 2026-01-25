@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Schloss Grünsberg"
 latitude: 49.3714
 longitude: 11.3272
 images:

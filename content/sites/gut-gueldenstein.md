@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Gut Güldenstein"
 latitude: 54.2189
 longitude: 10.8358
 images:

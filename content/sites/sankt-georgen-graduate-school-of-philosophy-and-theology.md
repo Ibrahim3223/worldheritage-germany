@@ -10,6 +10,7 @@ categories:
   - "University"
 regions:
   - "Germany"
+site_name: "Sankt Georgen Graduate School of Philosophy and Theology"
 latitude: 50.09848
 longitude: 8.712
 images:

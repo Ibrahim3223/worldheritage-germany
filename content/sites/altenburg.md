@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Altenburg"
 latitude: 51.2477
 longitude: 9.29062
 images:

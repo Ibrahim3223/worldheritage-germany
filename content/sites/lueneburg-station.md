@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Lüneburg station"
 latitude: 53.2499
 longitude: 10.4199
 images:

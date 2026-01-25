@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Gaslaternen-Freilichtmuseum Berlin"
 latitude: 52.51268333
 longitude: 13.33705278
 images:

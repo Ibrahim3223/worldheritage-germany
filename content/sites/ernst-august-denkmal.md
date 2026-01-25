@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Ernst-August-Denkmal"
 latitude: 52.376277777
 longitude: 9.74075
 images:

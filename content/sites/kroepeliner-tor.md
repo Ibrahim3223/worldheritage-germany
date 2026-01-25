@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Kröpeliner Tor"
 latitude: 54.0885
 longitude: 12.1289
 images:

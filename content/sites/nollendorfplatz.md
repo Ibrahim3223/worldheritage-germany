@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Nollendorfplatz"
 latitude: 52.4992
 longitude: 13.3539
 images:

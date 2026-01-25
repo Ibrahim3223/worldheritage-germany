@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Kiel Maritime Museum"
 latitude: 54.3227
 longitude: 10.1436
 images:

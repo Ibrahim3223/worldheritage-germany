@@ -10,6 +10,7 @@ categories:
 - Dam
 regions:
 - Germany
+site_name: "Agger Dam"
 latitude: 51.03639
 longitude: 7.63333
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Öömrang Hüs"
 latitude: 54.6511
 longitude: 8.35668
 images:

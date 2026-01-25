@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Hochkalter"
 latitude: 47.569166666
 longitude: 12.865555555
 images:

@@ -10,6 +10,7 @@ categories:
   - "Dam"
 regions:
   - "Germany"
+site_name: "Oleftalsperre"
 latitude: 50.502777777
 longitude: 6.405833333
 images:

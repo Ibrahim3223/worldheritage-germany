@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Zeche Mont Cenis"
 latitude: 51.5406
 longitude: 7.25664
 images:

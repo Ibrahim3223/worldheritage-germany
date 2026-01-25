@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum Mineralogia Munich"
 latitude: 48.1478
 longitude: 11.5728
 images:

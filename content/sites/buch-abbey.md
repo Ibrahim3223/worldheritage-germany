@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Buch Abbey"
 latitude: 51.1522
 longitude: 12.9869
 images:

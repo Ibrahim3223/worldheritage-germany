@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Wendener Hütte"
 latitude: 50.9708
 longitude: 7.82799
 images:

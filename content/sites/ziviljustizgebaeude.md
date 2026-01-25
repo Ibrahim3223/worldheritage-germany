@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Ziviljustizgebäude"
 latitude: 53.55638889
 longitude: 9.9775
 images:

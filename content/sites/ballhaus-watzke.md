@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Ballhaus Watzke"
 latitude: 51.0775
 longitude: 13.7157
 images:

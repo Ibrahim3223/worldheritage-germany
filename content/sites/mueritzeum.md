@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Müritzeum"
 latitude: 53.514583333
 longitude: 12.683333333
 images:

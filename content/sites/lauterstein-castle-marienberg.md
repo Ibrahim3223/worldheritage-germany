@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Lauterstein Castle (Marienberg)"
 latitude: 50.6686
 longitude: 13.2081
 

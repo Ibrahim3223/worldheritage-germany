@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Südfriedhof"
 latitude: 54.3121
 longitude: 10.1151
 images:

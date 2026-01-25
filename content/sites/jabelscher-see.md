@@ -11,6 +11,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Jabelscher See"
 latitude: 53.526636111
 longitude: 12.540205555
 images:

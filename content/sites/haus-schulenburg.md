@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Haus Schulenburg"
 latitude: 50.8671
 longitude: 12.0607
 images:

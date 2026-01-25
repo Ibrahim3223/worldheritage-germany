@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Alte Elbe Kathewitz"
 latitude: 51.514
 longitude: 13.0909
 images:

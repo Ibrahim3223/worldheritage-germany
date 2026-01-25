@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Hemmelsdorfer See"
 latitude: 53.966433333
 longitude: 10.782708333
 images:

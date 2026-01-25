@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Burg Kutin"
 latitude: 53.4881
 longitude: 12.285
 images:

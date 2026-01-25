@@ -10,6 +10,7 @@ categories:
   - "School Building"
 regions:
   - "Germany"
+site_name: "Spetzgart Castle"
 latitude: 47.777
 longitude: 9.1452
 images:

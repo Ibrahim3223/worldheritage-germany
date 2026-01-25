@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Deutsches Tapetenmuseum"
 latitude: 51.3108
 longitude: 9.49
 images:

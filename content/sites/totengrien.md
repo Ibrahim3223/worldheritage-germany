@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Totengrien"
 latitude: 47.654759
 longitude: 7.535957
 images:

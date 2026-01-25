@@ -10,6 +10,7 @@ categories:
 - Zoo
 regions:
 - Germany
+site_name: "Eekholt Wildlife Park"
 latitude: 53.9492
 longitude: 10.0288
 images:

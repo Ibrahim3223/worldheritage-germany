@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten Wuppertal"
 latitude: 51.26027778
 longitude: 7.16055556
 images:

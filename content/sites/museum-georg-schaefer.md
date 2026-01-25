@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum Georg Schäfer"
 latitude: 50.0439
 longitude: 10.2361
 

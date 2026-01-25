@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Wernau Clay Pit"
 latitude: 48.6794
 longitude: 9.41914
 images:

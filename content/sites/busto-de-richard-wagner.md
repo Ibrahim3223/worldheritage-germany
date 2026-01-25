@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Busto de Richard Wagner"
 latitude: 51.34124
 longitude: 12.38214
 images:

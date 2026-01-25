@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Kloster Lorch"
 latitude: 48.7988
 longitude: 9.70317
 images:

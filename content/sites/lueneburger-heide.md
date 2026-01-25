@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Lüneburger Heide"
 latitude: 53.1686
 longitude: 9.93971
 images:

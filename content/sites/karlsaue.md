@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Karlsaue"
 latitude: 51.302222222
 longitude: 9.493055555
 images:

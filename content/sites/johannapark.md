@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Johannapark"
 latitude: 51.3346
 longitude: 12.3625
 images:

@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Stolper See"
 latitude: 54.127288888
 longitude: 10.230955555
 images:

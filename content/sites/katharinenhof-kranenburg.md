@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Katharinenhof Kranenburg"
 latitude: 51.7889
 longitude: 6.00778
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Castle Rheineck"
 latitude: 50.4959
 longitude: 7.31299
 images:

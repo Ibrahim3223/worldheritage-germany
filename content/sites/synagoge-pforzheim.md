@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagoge Pforzheim"
 latitude: 48.8907
 longitude: 8.69572
 images:

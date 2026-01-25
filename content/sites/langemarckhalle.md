@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Langemarckhalle"
 latitude: 52.5142
 longitude: 13.2322
 images:

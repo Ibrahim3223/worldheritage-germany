@@ -11,6 +11,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Canower See"
 latitude: 53.197497222
 longitude: 12.912025
 images:

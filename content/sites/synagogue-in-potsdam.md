@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue in Potsdam"
 latitude: 52.3981
 longitude: 13.0603
 images:

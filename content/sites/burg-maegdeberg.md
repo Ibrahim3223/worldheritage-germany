@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Mägdeberg"
 latitude: 47.80527778
 longitude: 8.7975
 images:

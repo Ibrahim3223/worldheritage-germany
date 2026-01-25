@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schiller house (Bauerbach)"
 latitude: 50.4983
 longitude: 10.3894
 images:

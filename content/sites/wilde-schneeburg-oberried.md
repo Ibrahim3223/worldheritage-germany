@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Wilde Schneeburg, Oberried"
 latitude: 47.91055556
 longitude: 7.93916667
 

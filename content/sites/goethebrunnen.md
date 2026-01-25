@@ -10,6 +10,7 @@ categories:
 - Fountain
 regions:
 - Germany
+site_name: "Goethebrunnen"
 latitude: 50.6891971
 longitude: 10.9124472
 images:

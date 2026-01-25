@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Miniatur Wunderland"
 latitude: 53.5438229
 longitude: 9.9889448
 images:

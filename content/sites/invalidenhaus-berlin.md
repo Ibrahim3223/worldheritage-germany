@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "Invalidenhaus Berlin"
 latitude: 52.53
 longitude: 13.3731
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kunstmuseum Walter"
 latitude: 48.3675
 longitude: 10.9197
 

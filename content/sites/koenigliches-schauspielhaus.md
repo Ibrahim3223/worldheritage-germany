@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Königliches Schauspielhaus"
 latitude: 52.3987
 longitude: 13.0654
 images:

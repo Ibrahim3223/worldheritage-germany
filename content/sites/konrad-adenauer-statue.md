@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Konrad Adenauer statue"
 latitude: 52.5004448
 longitude: 13.307244
 images:

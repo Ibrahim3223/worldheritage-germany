@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Körnerpark"
 latitude: 52.471944444
 longitude: 13.437777777
 images:

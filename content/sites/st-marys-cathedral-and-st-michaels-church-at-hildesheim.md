@@ -10,6 +10,7 @@ categories:
   - "Cathedral"
 regions:
   - "Germany"
+site_name: "St Mary's Cathedral and St Michael's Church at Hildesheim"
 latitude: 52.15278
 longitude: 9.94389
 images:

@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Donnersberg"
 latitude: 49.625280555
 longitude: 7.914719444
 images:

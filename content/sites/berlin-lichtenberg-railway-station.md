@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Berlin-Lichtenberg railway station"
 latitude: 52.5106
 longitude: 13.4964
 images:

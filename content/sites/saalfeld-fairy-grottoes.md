@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Saalfeld Fairy Grottoes"
 latitude: 50.63549
 longitude: 11.34331
 images:

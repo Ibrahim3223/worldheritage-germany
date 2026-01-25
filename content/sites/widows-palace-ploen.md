@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Widow's Palace, Plön"
 latitude: 54.1581
 longitude: 10.4124
 images:

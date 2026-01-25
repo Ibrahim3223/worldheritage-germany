@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Nellenburg"
 latitude: 47.84861111
 longitude: 8.98472222
 images:

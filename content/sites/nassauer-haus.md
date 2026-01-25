@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Nassauer Haus"
 latitude: 49.4511
 longitude: 11.0777
 images:

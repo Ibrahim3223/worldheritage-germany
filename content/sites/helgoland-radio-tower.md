@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Helgoland radio tower"
 latitude: 54.180408
 longitude: 7.883275
 images:

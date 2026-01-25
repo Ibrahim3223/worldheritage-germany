@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Karlsbrunnen"
 latitude: 50.7764
 longitude: 6.08371
 images:

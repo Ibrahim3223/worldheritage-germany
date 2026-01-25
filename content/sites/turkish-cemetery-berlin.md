@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Turkish Cemetery Berlin"
 latitude: 52.481388888
 longitude: 13.409444444
 images:

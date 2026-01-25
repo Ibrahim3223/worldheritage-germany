@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Von der Heydt Museum"
 latitude: 51.2573
 longitude: 7.14658
 

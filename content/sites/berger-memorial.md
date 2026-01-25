@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Berger memorial"
 latitude: 51.425833333
 longitude: 7.351666666
 images:

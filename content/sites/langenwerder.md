@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Langenwerder"
 latitude: 54.027561111
 longitude: 11.4936
 images:

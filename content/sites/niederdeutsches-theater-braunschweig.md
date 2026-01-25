@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Niederdeutsches Theater Braunschweig"
 latitude: 52.2842
 longitude: 10.5923
 images:

@@ -10,6 +10,7 @@ categories:
 - Pilgrimage Church
 regions:
 - Germany
+site_name: "Bamberg Cathedral"
 latitude: 49.890703
 longitude: 10.882533
 images:

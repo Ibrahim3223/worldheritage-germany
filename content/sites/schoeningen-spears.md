@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schöningen Spears"
 latitude: 52.1335
 longitude: 10.9893
 

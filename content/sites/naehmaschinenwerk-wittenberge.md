@@ -10,6 +10,7 @@ categories:
   - "Factory"
 regions:
   - "Germany"
+site_name: "Nähmaschinenwerk Wittenberge"
 latitude: 52.9911
 longitude: 11.7684
 images:

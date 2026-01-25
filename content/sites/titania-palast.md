@@ -10,6 +10,7 @@ categories:
   - "Cinema"
 regions:
   - "Germany"
+site_name: "Titania-Palast"
 latitude: 52.4639
 longitude: 13.3267
 images:

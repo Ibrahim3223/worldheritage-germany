@@ -11,6 +11,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Dreyse-Denkmal Sömmerda"
 latitude: 51.1618
 longitude: 11.1174
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Thorsberg moor"
 latitude: 54.6423
 longitude: 9.77189
 

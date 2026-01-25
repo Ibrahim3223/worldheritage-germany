@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Historical Cemetery, Weimar"
 latitude: 50.9725
 longitude: 11.3256
 images:

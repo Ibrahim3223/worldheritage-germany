@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Winterfeldtplatz"
 latitude: 52.495
 longitude: 13.3547
 images:

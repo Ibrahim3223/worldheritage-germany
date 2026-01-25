@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Wassertorplatz"
 latitude: 52.498761111
 longitude: 13.413286111
 images:

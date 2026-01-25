@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Carl-Schultze-Theater"
 latitude: 53.54969
 longitude: 9.9592
 images:

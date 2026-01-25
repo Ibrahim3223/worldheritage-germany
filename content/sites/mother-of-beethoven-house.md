@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Mother of Beethoven House"
 latitude: 50.359825
 longitude: 7.6109
 images:

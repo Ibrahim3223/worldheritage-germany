@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Freusburg"
 latitude: 50.8267
 longitude: 7.88111
 images:

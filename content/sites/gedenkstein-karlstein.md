@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Gedenkstein Karlstein"
 latitude: 48.7903
 longitude: 9.37583
 images:

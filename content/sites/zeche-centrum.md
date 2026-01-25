@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Zeche Centrum"
 latitude: 51.4808
 longitude: 7.16111
 images:

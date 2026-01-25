@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Hamburger Kunsthalle"
 latitude: 53.555
 longitude: 10.003055555
 images:

@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Ernst-Thälmann-Park"
 latitude: 52.538056
 longitude: 13.433889
 images:

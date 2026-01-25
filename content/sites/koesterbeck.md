@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Kösterbeck"
 latitude: 54.0545
 longitude: 12.2316
 images:

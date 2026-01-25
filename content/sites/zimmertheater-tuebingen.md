@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Zimmertheater Tübingen"
 latitude: 48.519575
 longitude: 9.056487
 images:

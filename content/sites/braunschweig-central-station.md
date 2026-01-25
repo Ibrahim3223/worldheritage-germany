@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Braunschweig Central Station"
 latitude: 52.2522
 longitude: 10.5397
 images:

@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Hohen Neuendorf station"
 latitude: 52.6684
 longitude: 13.287
 images:

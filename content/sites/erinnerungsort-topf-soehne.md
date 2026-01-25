@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Erinnerungsort Topf & Söhne"
 latitude: 50.9723
 longitude: 11.0487
 images:

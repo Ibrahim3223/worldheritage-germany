@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Ingolstadt Nord station"
 latitude: 48.773086
 longitude: 11.433187
 images:

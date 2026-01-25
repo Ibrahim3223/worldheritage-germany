@@ -10,6 +10,7 @@ categories:
 - Biosphere Reserve
 regions:
 - Germany
+site_name: "Black Forest Biosphere Reserve"
 latitude: 47.789166666
 longitude: 7.9575
 images:

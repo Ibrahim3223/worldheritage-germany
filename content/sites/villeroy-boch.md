@@ -10,6 +10,7 @@ categories:
   - "Factory"
 regions:
   - "Germany"
+site_name: "Villeroy & Boch"
 latitude: 49.49659
 longitude: 6.60019
 images:

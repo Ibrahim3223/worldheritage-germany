@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Maaßener Gaipel"
 latitude: 51.86388889
 longitude: 10.28972222
 images:

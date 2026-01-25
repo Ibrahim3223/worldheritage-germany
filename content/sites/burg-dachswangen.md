@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Burg Dachswangen"
 latitude: 48.0365
 longitude: 7.73681
 images:

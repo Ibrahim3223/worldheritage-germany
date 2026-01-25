@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Schwarzhölzl"
 latitude: 48.2414
 longitude: 11.4944
 images:

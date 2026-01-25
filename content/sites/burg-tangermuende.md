@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Tangermünde"
 latitude: 52.5428
 longitude: 11.9775
 images:

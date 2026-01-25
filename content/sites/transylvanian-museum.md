@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Transylvanian Museum"
 latitude: 49.2867
 longitude: 9.15645
 images:

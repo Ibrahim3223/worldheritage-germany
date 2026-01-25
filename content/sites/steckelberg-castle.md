@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Steckelberg Castle"
 latitude: 50.336944444
 longitude: 9.620277777
 

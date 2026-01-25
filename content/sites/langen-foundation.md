@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Langen Foundation"
 latitude: 51.152383333
 longitude: 6.644611111
 

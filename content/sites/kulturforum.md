@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Kulturforum"
 latitude: 52.5083
 longitude: 13.3678
 images:

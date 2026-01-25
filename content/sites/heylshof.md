@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Heylshof"
 latitude: 49.6313
 longitude: 8.359749
 images:

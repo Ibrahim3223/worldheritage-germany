@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Liebenstein Castle"
 latitude: 50.7697
 longitude: 10.8527
 

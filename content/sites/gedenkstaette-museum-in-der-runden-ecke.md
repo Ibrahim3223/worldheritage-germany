@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Gedenkstätte Museum in der \"Runden Ecke\""
 latitude: 51.34152
 longitude: 12.37
 images:

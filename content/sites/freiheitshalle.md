@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "Freiheitshalle"
 latitude: 50.3202
 longitude: 11.9031
 images:

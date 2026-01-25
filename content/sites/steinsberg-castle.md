@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Steinsberg Castle"
 latitude: 49.2144
 longitude: 8.87722
 

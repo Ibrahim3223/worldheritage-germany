@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Grasburg"
 latitude: 51.5183
 longitude: 10.9349
 images:

@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Dechen Cave"
 latitude: 51.365555555
 longitude: 7.644722222
 images:

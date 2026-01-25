@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Sonnenstein Euthanasia Centre"
 latitude: 50.9615
 longitude: 13.9509
 images:

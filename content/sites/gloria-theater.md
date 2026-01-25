@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Gloria-Theater"
 latitude: 50.9375
 longitude: 6.9449
 images:

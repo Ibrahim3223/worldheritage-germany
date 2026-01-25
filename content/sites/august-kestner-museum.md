@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "August Kestner Museum"
 latitude: 52.368099436
 longitude: 9.736264865
 images:

@@ -10,6 +10,7 @@ categories:
   - "Gorge"
 regions:
   - "Germany"
+site_name: "Notschrei"
 latitude: 47.87569889
 longitude: 7.91000611
 images:

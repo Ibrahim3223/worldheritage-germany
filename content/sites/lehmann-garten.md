@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Lehmann-Garten"
 latitude: 53.1251
 longitude: 13.5273
 

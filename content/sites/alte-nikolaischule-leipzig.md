@@ -10,6 +10,7 @@ categories:
 - School Building
 regions:
 - Germany
+site_name: "Alte Nikolaischule (Leipzig)"
 latitude: 51.34080306
 longitude: 12.378625
 images:

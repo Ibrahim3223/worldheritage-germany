@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Lebensalter"
 latitude: 52.5013528
 longitude: 13.3427058
 images:

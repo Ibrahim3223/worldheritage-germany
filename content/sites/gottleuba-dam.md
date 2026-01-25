@@ -10,6 +10,7 @@ categories:
 - Dam
 regions:
 - Germany
+site_name: "Gottleuba Dam"
 latitude: 50.8344
 longitude: 13.9308
 images:

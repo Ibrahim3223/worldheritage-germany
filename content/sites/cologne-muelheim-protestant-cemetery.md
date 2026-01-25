@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Cologne Mülheim Protestant Cemetery"
 latitude: 50.962505555
 longitude: 7.012336111
 images:

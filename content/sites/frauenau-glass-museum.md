@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Frauenau Glass Museum"
 latitude: 48.9881114
 longitude: 13.2983821
 images:

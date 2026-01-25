@@ -10,6 +10,7 @@ categories:
 - Library
 regions:
 - Germany
+site_name: "Hildesheim cathedral library"
 latitude: 52.15
 longitude: 9.9475
 images:

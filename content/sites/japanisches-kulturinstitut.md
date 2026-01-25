@@ -10,6 +10,7 @@ categories:
 - Cultural Center
 regions:
 - Germany
+site_name: "Japanisches Kulturinstitut"
 latitude: 50.9352
 longitude: 6.92554
 images:

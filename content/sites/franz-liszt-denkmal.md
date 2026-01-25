@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Franz-Liszt-Denkmal"
 latitude: 50.9744
 longitude: 11.3323
 images:

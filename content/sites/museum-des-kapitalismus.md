@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum des Kapitalismus"
 latitude: 52.488444444
 longitude: 13.442944444
 images:

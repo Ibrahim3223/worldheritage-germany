@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Bergbau- und Industriemuseum Ostbayern"
 latitude: 49.3865
 longitude: 11.9107
 images:

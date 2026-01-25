@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Großer Arber"
 latitude: 49.1124718
 longitude: 13.13619
 images:

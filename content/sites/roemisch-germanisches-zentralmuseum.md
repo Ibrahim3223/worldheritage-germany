@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Römisch-Germanisches Zentralmuseum"
 latitude: 50.0061
 longitude: 8.26972
 images:

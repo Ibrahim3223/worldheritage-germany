@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Heidefriedhof"
 latitude: 51.1036
 longitude: 13.7085
 images:

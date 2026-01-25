@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Albertinum"
 latitude: 51.0519
 longitude: 13.7444
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Märkisches Museum"
 latitude: 51.4346
 longitude: 7.3385
 

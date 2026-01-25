@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue of Rastatt"
 latitude: 48.8552
 longitude: 8.19806
 images:

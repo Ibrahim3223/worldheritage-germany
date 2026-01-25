@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Zepernick station"
 latitude: 52.6598
 longitude: 13.5342
 images:

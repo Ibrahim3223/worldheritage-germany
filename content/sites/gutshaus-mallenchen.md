@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Gutshaus Mallenchen"
 latitude: 51.7624
 longitude: 13.856
 images:

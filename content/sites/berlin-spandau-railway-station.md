@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Berlin-Spandau railway station"
 latitude: 52.5347
 longitude: 13.1958
 images:

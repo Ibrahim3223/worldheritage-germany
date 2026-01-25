@@ -11,6 +11,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Jardin des Deux Rives"
 latitude: 48.5693
 longitude: 7.8029
 images:

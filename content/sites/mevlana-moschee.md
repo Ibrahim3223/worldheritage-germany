@@ -10,6 +10,7 @@ categories:
   - "Mosque"
 regions:
   - "Germany"
+site_name: "Mevlana Moschee"
 latitude: 51.27473
 longitude: 9.439078
 images:

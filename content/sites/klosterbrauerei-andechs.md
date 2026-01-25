@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Klosterbrauerei Andechs"
 latitude: 47.807777777
 longitude: 11.183055555
 

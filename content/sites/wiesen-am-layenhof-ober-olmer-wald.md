@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Wiesen am Layenhof - Ober-Olmer Wald"
 latitude: 49.9596
 longitude: 8.1726
 images:

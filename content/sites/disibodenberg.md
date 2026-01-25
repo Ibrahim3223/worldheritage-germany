@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Disibodenberg"
 latitude: 49.7766
 longitude: 7.70119
 images:

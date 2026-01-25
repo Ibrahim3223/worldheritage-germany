@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Frankenstein Castle"
 latitude: 49.4397
 longitude: 7.97583
 images:

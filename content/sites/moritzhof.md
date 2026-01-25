@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Moritzhof"
 latitude: 50.981058
 longitude: 11.025452
 images:

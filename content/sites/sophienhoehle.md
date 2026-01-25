@@ -10,6 +10,7 @@ categories:
   - "Cave"
 regions:
   - "Germany"
+site_name: "Sophienhöhle"
 latitude: 49.8269
 longitude: 11.3758
 images:

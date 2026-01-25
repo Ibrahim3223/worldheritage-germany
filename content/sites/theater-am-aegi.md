@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Theater am Aegi"
 latitude: 52.3677
 longitude: 9.74319
 images:

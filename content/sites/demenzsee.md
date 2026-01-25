@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Demenzsee"
 latitude: 53.550555555
 longitude: 13.800555555
 images:

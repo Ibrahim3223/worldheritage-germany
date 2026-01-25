@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Creuzburg"
 latitude: 51.051111111
 longitude: 10.244444444
 images:

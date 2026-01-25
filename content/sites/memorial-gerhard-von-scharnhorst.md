@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Memorial Gerhard von Scharnhorst"
 latitude: 0
 longitude: 0
 images:

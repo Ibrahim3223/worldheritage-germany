@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Natureum Niederelbe"
 latitude: 53.8228
 longitude: 9.03519
 images:

@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Abtsdorfer See"
 latitude: 47.910555555
 longitude: 12.907777777
 images:

@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Teverener Heide"
 latitude: 50.943888888
 longitude: 6.029166666
 images:

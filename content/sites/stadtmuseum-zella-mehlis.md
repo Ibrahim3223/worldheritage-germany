@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Stadtmuseum Zella-Mehlis"
 latitude: 50.65664
 longitude: 10.66071
 images:

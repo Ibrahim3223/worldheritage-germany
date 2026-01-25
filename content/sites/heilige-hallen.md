@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Heilige Hallen"
 latitude: 53.3253
 longitude: 13.37
 images:

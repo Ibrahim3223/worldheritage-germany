@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Reichenschwand Castle"
 latitude: 49.5101
 longitude: 11.3766
 images:

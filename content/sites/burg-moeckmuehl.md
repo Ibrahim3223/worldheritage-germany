@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Möckmühl"
 latitude: 49.3247
 longitude: 9.36056
 images:

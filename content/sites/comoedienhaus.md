@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Comoedienhaus"
 latitude: 50.11433
 longitude: 8.67696
 images:

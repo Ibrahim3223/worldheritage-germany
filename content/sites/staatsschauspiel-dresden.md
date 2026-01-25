@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Staatsschauspiel Dresden"
 latitude: 51.05218
 longitude: 13.731833
 images:

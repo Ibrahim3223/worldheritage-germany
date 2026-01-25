@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Mechower See"
 latitude: 53.715277777
 longitude: 10.8225
 images:

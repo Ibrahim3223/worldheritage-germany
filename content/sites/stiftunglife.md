@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Stiftunglife"
 latitude: 52.62652
 longitude: 10.08038
 

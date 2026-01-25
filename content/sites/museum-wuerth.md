@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum Würth"
 latitude: 49.2586
 longitude: 9.67918
 images:

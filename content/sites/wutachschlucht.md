@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Wutachschlucht"
 latitude: 47.85274
 longitude: 8.43342
 images:

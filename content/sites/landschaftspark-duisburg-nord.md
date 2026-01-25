@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Landschaftspark Duisburg-Nord"
 latitude: 51.480278
 longitude: 6.78
 images:

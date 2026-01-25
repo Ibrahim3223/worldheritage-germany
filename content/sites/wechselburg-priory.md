@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Wechselburg Priory"
 latitude: 51.005
 longitude: 12.771111111
 images:

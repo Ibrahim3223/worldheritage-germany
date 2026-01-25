@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Roruper Holz"
 latitude: 51.916305555
 longitude: 7.231611111
 images:

@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Spitzingsee"
 latitude: 47.664508055
 longitude: 11.885416944
 images:

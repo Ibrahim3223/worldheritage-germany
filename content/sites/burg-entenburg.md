@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Entenburg"
 latitude: 47.9378
 longitude: 8.552
 images:

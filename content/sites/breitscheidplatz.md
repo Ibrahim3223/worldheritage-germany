@@ -10,6 +10,7 @@ categories:
 - Market Square
 regions:
 - Germany
+site_name: "Breitscheidplatz"
 latitude: 52.504833333
 longitude: 13.336166666
 images:

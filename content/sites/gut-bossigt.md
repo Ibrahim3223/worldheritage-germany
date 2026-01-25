@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Gut Bossigt"
 latitude: 51.6852
 longitude: 6.63664
 images:

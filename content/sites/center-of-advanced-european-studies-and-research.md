@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "Center of Advanced European Studies and Research"
 latitude: 50.703888888
 longitude: 7.151111111
 images:

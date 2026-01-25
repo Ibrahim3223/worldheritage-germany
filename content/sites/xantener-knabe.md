@@ -10,6 +10,7 @@ categories:
   - "Statue"
 regions:
   - "Germany"
+site_name: "Xantener Knabe"
 latitude: 51.675
 longitude: 6.45915
 images:

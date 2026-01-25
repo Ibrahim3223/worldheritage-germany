@@ -10,6 +10,7 @@ categories:
 - Fountain
 regions:
 - Germany
+site_name: "Europabrunnen (Dresden)"
 latitude: 51.054009
 longitude: 13.786128
 images:

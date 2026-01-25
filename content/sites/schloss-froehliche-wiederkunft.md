@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Fröhliche Wiederkunft"
 latitude: 50.7878
 longitude: 11.7102
 

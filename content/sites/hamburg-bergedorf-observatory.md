@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Hamburg-Bergedorf Observatory"
 latitude: 53.48043889
 longitude: 10.24101667
 images:

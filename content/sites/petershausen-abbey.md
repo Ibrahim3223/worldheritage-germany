@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Petershausen Abbey"
 latitude: 47.668
 longitude: 9.1785
 images:

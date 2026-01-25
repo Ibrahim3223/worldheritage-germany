@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Lützelhardt Castle"
 latitude: 48.3164
 longitude: 7.95333
 

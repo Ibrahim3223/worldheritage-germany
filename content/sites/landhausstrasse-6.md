@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Landhausstraße 6"
 latitude: 51.0508
 longitude: 13.7417
 images:

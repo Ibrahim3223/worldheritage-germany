@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Castra Novaesium"
 latitude: 51.1839
 longitude: 6.72194
 images:

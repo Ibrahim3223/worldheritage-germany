@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Fürsteneck Castle"
 latitude: 50.7764
 longitude: 9.80806
 images:

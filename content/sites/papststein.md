@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Papststein"
 latitude: 50.903305555
 longitude: 14.121083333
 images:

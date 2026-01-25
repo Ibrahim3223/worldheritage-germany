@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Schwarzer Mann"
 latitude: 50.254722222
 longitude: 6.359166666
 images:

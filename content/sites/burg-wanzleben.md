@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Wanzleben"
 latitude: 52.0648
 longitude: 11.4435
 images:

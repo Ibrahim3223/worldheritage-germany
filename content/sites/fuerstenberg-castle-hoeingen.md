@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Fürstenberg Castle (Höingen)"
 latitude: 51.4725
 longitude: 7.94208
 images:

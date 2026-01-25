@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Bauhaus Museum, Weimar"
 latitude: 50.985
 longitude: 11.32416667
 images:

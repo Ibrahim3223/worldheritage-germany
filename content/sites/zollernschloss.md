@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Zollernschloss"
 latitude: 48.2712
 longitude: 8.85139
 

@@ -11,6 +11,7 @@ categories:
 - Fountain
 regions:
 - Germany
+site_name: "Gänseliesel-Brunnen Göttingen"
 latitude: 51.532709
 longitude: 9.935101
 images:

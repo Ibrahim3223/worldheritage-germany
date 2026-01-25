@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Daun"
 latitude: 50.1972
 longitude: 6.83135
 images:

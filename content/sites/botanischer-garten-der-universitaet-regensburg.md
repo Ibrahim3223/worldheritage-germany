@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten der Universität Regensburg"
 latitude: 48.9932
 longitude: 12.0915
 images:

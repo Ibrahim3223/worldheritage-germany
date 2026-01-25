@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Friedrichshain-Kreuzberg Museum"
 latitude: 52.5006
 longitude: 13.4186
 images:

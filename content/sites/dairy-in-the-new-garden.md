@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Dairy in the New Garden"
 latitude: 52.4219
 longitude: 13.0697
 images:

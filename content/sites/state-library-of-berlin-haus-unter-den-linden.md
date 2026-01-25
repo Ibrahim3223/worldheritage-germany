@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "State Library of Berlin (Haus Unter den Linden)"
 latitude: 52.5178
 longitude: 13.3917
 images:

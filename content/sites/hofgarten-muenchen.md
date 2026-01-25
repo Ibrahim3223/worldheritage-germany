@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Hofgarten (München)"
 latitude: 48.142777777
 longitude: 11.58
 images:

@@ -10,6 +10,7 @@ categories:
 - River
 regions:
 - Germany
+site_name: "Isar"
 latitude: 48.803056
 longitude: 12.976389
 images:

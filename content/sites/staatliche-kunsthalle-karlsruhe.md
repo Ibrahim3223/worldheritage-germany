@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Staatliche Kunsthalle Karlsruhe"
 latitude: 49.0119
 longitude: 8.4
 

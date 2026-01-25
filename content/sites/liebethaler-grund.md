@@ -10,6 +10,7 @@ categories:
   - "Valley"
 regions:
   - "Germany"
+site_name: "Liebethaler Grund"
 latitude: 50.996641
 longitude: 13.962306
 images:

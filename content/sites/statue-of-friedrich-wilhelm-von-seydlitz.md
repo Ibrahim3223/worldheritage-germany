@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Statue of Friedrich Wilhelm von Seydlitz"
 latitude: 52.5117489
 longitude: 13.3846272
 images:

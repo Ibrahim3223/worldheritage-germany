@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Zeche Osterfeld"
 latitude: 51.5031
 longitude: 6.87611
 images:

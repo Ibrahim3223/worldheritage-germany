@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Anne Frank Zentrum"
 latitude: 52.5245
 longitude: 13.4017
 images:

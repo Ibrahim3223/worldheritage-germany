@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kunstmuseum Dieselkraftwerk Cottbus"
 latitude: 51.7596
 longitude: 14.3388
 

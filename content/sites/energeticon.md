@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Energeticon"
 latitude: 50.875044
 longitude: 6.150391
 images:

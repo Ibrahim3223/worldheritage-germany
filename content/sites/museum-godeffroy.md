@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum Godeffroy"
 latitude: 53.546249
 longitude: 10.000906
 images:

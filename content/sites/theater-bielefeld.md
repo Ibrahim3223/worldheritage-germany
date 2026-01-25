@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Theater Bielefeld"
 latitude: 52.0208
 longitude: 8.535
 images:

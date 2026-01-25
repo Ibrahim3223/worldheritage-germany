@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Wallgraben-Theater"
 latitude: 47.9961
 longitude: 7.8486
 images:

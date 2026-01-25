@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Altleiningen Castle"
 latitude: 49.5116
 longitude: 8.08253
 images:

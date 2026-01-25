@@ -10,6 +10,7 @@ categories:
   - "Gorge"
 regions:
   - "Germany"
+site_name: "Ursprung Pass"
 latitude: 47.6119
 longitude: 12.0197
 images:

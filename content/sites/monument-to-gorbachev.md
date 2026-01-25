@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Monument to Gorbachev"
 latitude: 51.834711
 longitude: 12.246371
 images:

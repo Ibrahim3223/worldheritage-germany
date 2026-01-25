@@ -10,6 +10,7 @@ categories:
   - "University"
 regions:
   - "Germany"
+site_name: "University of Fulda"
 latitude: 50.5517
 longitude: 9.67917
 images:

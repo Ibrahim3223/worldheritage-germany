@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Duissern Botanical Garden"
 latitude: 51.4358
 longitude: 6.79725
 images:

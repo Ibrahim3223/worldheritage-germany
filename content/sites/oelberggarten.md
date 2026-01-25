@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Ölberggarten"
 latitude: 51.16087
 longitude: 14.983768
 images:

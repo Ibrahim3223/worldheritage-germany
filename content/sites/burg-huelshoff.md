@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Hülshoff"
 latitude: 51.9711926
 longitude: 7.5034043
 images:

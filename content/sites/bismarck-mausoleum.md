@@ -11,6 +11,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Bismarck Mausoleum"
 latitude: 53.5277
 longitude: 10.3361
 images:

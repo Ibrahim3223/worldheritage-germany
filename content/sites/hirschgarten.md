@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Hirschgarten"
 latitude: 50.9743
 longitude: 11.0295
 images:

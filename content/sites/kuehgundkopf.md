@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Kühgundkopf"
 latitude: 47.5035
 longitude: 10.4315
 images:

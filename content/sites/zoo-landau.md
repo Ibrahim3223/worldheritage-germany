@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Zoo Landau"
 latitude: 49.2028
 longitude: 8.11083
 images:

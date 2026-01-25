@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Tannenbusch Dunes"
 latitude: 50.744222
 longitude: 7.061841
 images:

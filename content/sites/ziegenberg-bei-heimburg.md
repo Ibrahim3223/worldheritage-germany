@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Ziegenberg bei Heimburg"
 latitude: 51.82883333
 longitude: 10.88866667
 images:

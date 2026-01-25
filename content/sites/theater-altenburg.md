@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Theater Altenburg"
 latitude: 50.98717
 longitude: 12.43785
 images:

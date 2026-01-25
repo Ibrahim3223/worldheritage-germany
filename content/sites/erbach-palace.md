@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Erbach Palace"
 latitude: 49.6572
 longitude: 8.9925
 images:

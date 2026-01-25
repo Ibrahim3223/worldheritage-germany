@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Marburger Kunstverein"
 latitude: 50.808738
 longitude: 8.773141
 

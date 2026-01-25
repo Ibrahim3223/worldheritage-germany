@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Kunsthaus Essen"
 latitude: 51.4258
 longitude: 7.05222
 images:

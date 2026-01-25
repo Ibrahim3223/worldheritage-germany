@@ -10,6 +10,7 @@ categories:
 - Library
 regions:
 - Germany
+site_name: "Bauhaus-Archiv"
 latitude: 52.5061
 longitude: 13.3542
 images:

@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Ohlsdorf Cemetery"
 latitude: 53.624722222
 longitude: 10.061666666
 images:

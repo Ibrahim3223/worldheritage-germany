@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Brunswick State Museum"
 latitude: 52.2647
 longitude: 10.5231
 images:

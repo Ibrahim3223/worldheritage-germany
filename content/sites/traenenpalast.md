@@ -10,6 +10,7 @@ categories:
   - "Cinema"
 regions:
   - "Germany"
+site_name: "Tränenpalast"
 latitude: 52.5208
 longitude: 13.3869
 images:

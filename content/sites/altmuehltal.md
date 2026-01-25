@@ -10,6 +10,7 @@ categories:
 - Valley
 regions:
 - Germany
+site_name: "Altmühltal"
 latitude: 48.9008
 longitude: 11.1707
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Kloster Heidenfeld"
 latitude: 49.964983782
 longitude: 10.201509933
 images:

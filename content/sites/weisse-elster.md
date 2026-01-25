@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Weisse Elster"
 latitude: 50.200277777
 longitude: 12.272222222
 images:

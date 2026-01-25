@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Hebbel-Museum"
 latitude: 54.2128
 longitude: 8.9239
 images:

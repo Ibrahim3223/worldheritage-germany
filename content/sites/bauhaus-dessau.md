@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Bauhaus Dessau"
 latitude: 51.8392
 longitude: 12.2267
 images:

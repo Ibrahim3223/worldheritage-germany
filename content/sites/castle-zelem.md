@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Castle Zelem"
 latitude: 51.8183
 longitude: 6.03139
 images:

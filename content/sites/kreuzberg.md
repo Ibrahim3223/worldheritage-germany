@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Kreuzberg"
 latitude: 50.3701
 longitude: 9.9801
 images:

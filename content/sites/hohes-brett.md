@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Hohes Brett"
 latitude: 47.584166666
 longitude: 13.048888888
 images:

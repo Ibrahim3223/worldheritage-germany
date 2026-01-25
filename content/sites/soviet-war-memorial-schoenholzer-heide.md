@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Soviet War Memorial Schönholzer Heide"
 latitude: 52.581666666
 longitude: 13.3725
 images:

@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Teltow Stadt railway station"
 latitude: 52.3969
 longitude: 13.2767
 images:

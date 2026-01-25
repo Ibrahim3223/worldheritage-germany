@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Sugar Museum (Berlin)"
 latitude: 52.5456
 longitude: 13.3453
 images:

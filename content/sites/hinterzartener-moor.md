@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Hinterzartener Moor"
 latitude: 47.908333333
 longitude: 8.108333333
 images:

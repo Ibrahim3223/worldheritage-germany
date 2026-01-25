@@ -10,6 +10,7 @@ categories:
 - Waterfall
 regions:
 - Germany
+site_name: "Hasenbach"
 latitude: 48.2564
 longitude: 9.44841
 images:

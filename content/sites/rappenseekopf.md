@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Rappenseekopf"
 latitude: 47.280965
 longitude: 10.254684
 images:

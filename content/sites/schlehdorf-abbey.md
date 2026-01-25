@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Schlehdorf Abbey"
 latitude: 47.6578
 longitude: 11.3181
 images:

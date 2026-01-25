@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Schauspielhaus Wuppertal"
 latitude: 51.2553
 longitude: 7.15666
 images:

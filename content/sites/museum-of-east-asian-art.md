@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum of East-Asian Art"
 latitude: 50.9352
 longitude: 6.92554
 

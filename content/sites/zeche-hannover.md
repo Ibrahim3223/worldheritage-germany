@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Zeche Hannover"
 latitude: 51.5046
 longitude: 7.16509
 images:

@@ -10,6 +10,7 @@ categories:
   - "Mosque"
 regions:
   - "Germany"
+site_name: "Noor Mosque"
 latitude: 50.0856
 longitude: 8.69639
 images:

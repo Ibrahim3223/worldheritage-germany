@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Icon Museum Recklinghausen"
 latitude: 51.6154
 longitude: 7.1972
 images:

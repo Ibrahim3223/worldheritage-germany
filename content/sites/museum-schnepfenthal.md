@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum Schnepfenthal"
 latitude: 50.8841
 longitude: 10.5738
 images:

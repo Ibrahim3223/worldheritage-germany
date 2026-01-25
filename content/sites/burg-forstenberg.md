@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Forstenberg"
 latitude: 49.151528
 longitude: 12.164167
 images:

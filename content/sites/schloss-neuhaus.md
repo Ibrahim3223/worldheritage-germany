@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Schloss Neuhaus"
 latitude: 51.928
 longitude: 13.8923
 images:

@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Zeche Vereinigte Wiendahlsbank"
 latitude: 51.4564
 longitude: 7.415
 images:

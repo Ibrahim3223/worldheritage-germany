@@ -10,6 +10,7 @@ categories:
 - Mosque
 regions:
 - Germany
+site_name: "Ehsaan Mosque"
 latitude: 49.448911
 longitude: 8.505697
 images:

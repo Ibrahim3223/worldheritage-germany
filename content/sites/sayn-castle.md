@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Sayn Castle"
 latitude: 50.439
 longitude: 7.5793
 

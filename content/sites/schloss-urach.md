@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Urach"
 latitude: 48.4928
 longitude: 9.39778
 

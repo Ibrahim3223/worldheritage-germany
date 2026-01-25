@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Yburg Castle"
 latitude: 48.7306
 longitude: 8.20028
 images:

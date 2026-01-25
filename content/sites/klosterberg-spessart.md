@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Klosterberg (Spessart)"
 latitude: 50.047
 longitude: 9.23297
 images:

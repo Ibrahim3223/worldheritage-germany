@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Dauner Maare"
 latitude: 50.173333333
 longitude: 6.855833333
 images:

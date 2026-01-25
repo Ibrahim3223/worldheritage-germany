@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Mummelsee"
 latitude: 48.598055555
 longitude: 8.200833333
 images:

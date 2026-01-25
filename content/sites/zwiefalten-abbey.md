@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Zwiefalten Abbey"
 latitude: 48.232
 longitude: 9.46135
 images:

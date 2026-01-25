@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Karlstalschlucht"
 latitude: 49.3497
 longitude: 7.75742
 images:

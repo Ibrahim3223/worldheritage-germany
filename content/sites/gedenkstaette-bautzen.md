@@ -10,6 +10,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Gedenkstätte Bautzen"
 latitude: 51.17799377
 longitude: 14.43645191
 images:

@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Herrenalb Abbey"
 latitude: 48.7962
 longitude: 8.4369
 images:

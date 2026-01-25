@@ -11,6 +11,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Friedrich Clemens Gerke Tower"
 latitude: 53.8563
 longitude: 8.67756
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Nietzsche-Denkmal"
 latitude: 51.151914
 longitude: 11.812664
 images:

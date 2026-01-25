@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Roßkopf (Taunus)"
 latitude: 50.2583
 longitude: 8.52917
 images:

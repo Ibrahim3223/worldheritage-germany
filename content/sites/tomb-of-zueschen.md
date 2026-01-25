@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "tomb of Züschen"
 latitude: 51.1739
 longitude: 9.24056
 

@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Alter Botanischer Garten Tübingen"
 latitude: 48.5234
 longitude: 9.0571
 images:

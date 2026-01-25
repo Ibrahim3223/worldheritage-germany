@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Matthiaskapelle Kobern"
 latitude: 50.314039
 longitude: 7.454208
 images:

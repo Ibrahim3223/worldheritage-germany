@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Old Castle"
 latitude: 48.7772
 longitude: 9.17917
 

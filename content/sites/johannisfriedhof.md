@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Johannisfriedhof"
 latitude: 50.93119
 longitude: 11.5824
 images:

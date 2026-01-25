@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Stadtquartier Neuer Kanzlerplatz"
 latitude: 50.718444444
 longitude: 7.115055555
 images:

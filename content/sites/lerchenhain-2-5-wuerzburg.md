@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Lerchenhain 2-5 (Würzburg)"
 latitude: 49.77903
 longitude: 9.95142
 images:

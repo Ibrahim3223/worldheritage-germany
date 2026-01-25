@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Oberfeuer Tinsdal"
 latitude: 53.56611111
 longitude: 9.74
 images:

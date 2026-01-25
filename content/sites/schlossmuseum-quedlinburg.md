@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schlossmuseum, Quedlinburg"
 latitude: 51.7859
 longitude: 11.1352
 images:

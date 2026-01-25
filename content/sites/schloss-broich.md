@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Broich"
 latitude: 51.4271
 longitude: 6.87133
 

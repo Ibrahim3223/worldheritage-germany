@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Nymphenburg Palace"
 latitude: 48.158056
 longitude: 11.503611
 images:

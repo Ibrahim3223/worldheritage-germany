@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Waldburg castle"
 latitude: 47.75888889
 longitude: 9.71194444
 

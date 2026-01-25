@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Niederländisches Palais"
 latitude: 52.516861111
 longitude: 13.392111111
 images:

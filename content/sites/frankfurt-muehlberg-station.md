@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Frankfurt Mühlberg station"
 latitude: 50.1017
 longitude: 8.70028
 images:

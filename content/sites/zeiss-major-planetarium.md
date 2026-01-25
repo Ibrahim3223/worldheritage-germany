@@ -10,6 +10,7 @@ categories:
   - "Cinema"
 regions:
   - "Germany"
+site_name: "Zeiss Major Planetarium"
 latitude: 52.54333333
 longitude: 13.42777778
 images:

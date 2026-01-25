@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Kloster Roda"
 latitude: 50.8611
 longitude: 11.7228
 images:

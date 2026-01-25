@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Westfalenpark"
 latitude: 51.496111111
 longitude: 7.4775
 images:

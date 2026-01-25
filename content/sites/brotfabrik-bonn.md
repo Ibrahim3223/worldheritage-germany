@@ -10,6 +10,7 @@ categories:
 - Cinema
 regions:
 - Germany
+site_name: "Brotfabrik Bonn"
 latitude: 50.740949
 longitude: 7.123494
 images:

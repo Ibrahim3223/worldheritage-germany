@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Oberburg, Kobern"
 latitude: 50.3143
 longitude: 7.45374
 

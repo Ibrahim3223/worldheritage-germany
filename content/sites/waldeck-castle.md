@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Waldeck Castle"
 latitude: 50.1495
 longitude: 7.43321
 

@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Beverner Wald"
 latitude: 53.4408
 longitude: 9.21111
 images:

@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Theater Aachen"
 latitude: 50.7725
 longitude: 6.08722
 images:

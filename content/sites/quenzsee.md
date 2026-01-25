@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Quenzsee"
 latitude: 52.408961111
 longitude: 12.484377777
 images:

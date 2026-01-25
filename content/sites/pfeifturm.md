@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Pfeifturm"
 latitude: 48.763443039
 longitude: 11.424610671
 images:

@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Schloss Stedten"
 latitude: 50.92738342
 longitude: 10.98424721
 images:

@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Rathauspassagen"
 latitude: 52.5197
 longitude: 13.4104
 images:

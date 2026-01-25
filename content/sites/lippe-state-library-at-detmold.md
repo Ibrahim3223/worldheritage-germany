@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "Lippe State Library at Detmold"
 latitude: 51.9302
 longitude: 8.88173
 images:

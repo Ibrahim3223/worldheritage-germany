@@ -10,6 +10,7 @@ categories:
 - Lighthouse
 regions:
 - Germany
+site_name: "Hörnum Lighthouse"
 latitude: 54.754078
 longitude: 8.292197
 images:

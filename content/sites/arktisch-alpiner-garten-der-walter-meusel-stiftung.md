@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Arktisch-Alpiner-Garten der Walter-Meusel-Stiftung"
 latitude: 50.8876
 longitude: 12.9399
 images:

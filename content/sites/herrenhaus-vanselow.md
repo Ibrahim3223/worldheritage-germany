@@ -11,6 +11,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Herrenhaus Vanselow"
 latitude: 53.8786
 longitude: 13.1682
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Kunsthalle Messmer"
 latitude: 48.14852
 longitude: 7.753811
 images:

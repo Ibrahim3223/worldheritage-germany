@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Selenter See"
 latitude: 54.305555555
 longitude: 10.445277777
 images:

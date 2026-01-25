@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Sylvesterkapelle"
 latitude: 47.77333333
 longitude: 9.13388889
 images:

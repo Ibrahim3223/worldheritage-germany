@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum of City History (Freiburg-im-Breisgau)"
 latitude: 47.99493
 longitude: 7.85315
 images:

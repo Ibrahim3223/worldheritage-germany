@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Schlangenberg"
 latitude: 50.737222222
 longitude: 6.243333333
 images:

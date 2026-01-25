@@ -10,6 +10,7 @@ categories:
 - Dam
 regions:
 - Germany
+site_name: "Ecker Dam"
 latitude: 51.83555556
 longitude: 10.5875
 images:

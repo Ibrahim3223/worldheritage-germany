@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Ruine Burgholz"
 latitude: 47.67763
 longitude: 7.875367
 images:

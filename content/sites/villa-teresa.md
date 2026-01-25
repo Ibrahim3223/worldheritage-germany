@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Villa Teresa"
 latitude: 51.1202
 longitude: 13.57375
 images:

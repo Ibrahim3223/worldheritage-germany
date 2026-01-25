@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Monrepos"
 latitude: 50.483333333
 longitude: 7.433333333
 

@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Staatstheater Nürnberg"
 latitude: 49.4464
 longitude: 11.0751
 images:

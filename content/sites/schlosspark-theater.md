@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Schlosspark Theater"
 latitude: 52.4547
 longitude: 13.3181
 images:

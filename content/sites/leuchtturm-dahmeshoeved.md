@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Leuchtturm Dahmeshöved"
 latitude: 54.201777
 longitude: 11.09024
 images:

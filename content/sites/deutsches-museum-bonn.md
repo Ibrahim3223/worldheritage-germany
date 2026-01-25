@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Deutsches Museum Bonn"
 latitude: 50.6997
 longitude: 7.14983
 images:

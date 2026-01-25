@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Sequoiafarm Kaldenkirchen"
 latitude: 51.309
 longitude: 6.17226
 images:

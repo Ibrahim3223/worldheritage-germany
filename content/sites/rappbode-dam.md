@@ -10,6 +10,7 @@ categories:
   - "Dam"
 regions:
   - "Germany"
+site_name: "Rappbode Dam"
 latitude: 51.739987
 longitude: 10.89339
 images:

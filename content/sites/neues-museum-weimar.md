@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Neues Museum Weimar"
 latitude: 50.9861
 longitude: 11.3264
 

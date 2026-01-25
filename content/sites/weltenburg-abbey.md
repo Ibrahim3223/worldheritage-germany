@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Weltenburg Abbey"
 latitude: 48.899222222
 longitude: 11.820388888
 

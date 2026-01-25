@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Technoturm"
 latitude: 48.8124
 longitude: 9.18727
 images:

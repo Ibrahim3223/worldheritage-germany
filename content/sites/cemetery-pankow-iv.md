@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Cemetery Pankow IV"
 latitude: 52.583511111
 longitude: 13.408930555
 images:

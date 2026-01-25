@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Heinrich-von-Kleist-Park"
 latitude: 52.492222222
 longitude: 13.358611111
 images:

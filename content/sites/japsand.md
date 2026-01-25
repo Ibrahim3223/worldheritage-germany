@@ -10,6 +10,7 @@ categories:
 - Island
 regions:
 - Germany
+site_name: "Japsand"
 latitude: 54.566944444
 longitude: 8.468333333
 images:

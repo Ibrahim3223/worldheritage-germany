@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Villa Wessel"
 latitude: 51.3783
 longitude: 7.69972
 images:

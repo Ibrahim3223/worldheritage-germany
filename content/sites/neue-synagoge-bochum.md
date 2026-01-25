@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Neue Synagoge Bochum"
 latitude: 51.4854
 longitude: 7.22671
 images:

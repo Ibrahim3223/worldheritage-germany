@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Bungsberg"
 latitude: 54.21083333
 longitude: 10.72388889
 images:

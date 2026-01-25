@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Wildenberg Castle"
 latitude: 49.596620927
 longitude: 9.195833186
 

@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Zollhausried"
 latitude: 47.8423
 longitude: 8.56745
 images:

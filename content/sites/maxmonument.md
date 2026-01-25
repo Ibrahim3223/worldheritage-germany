@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Maxmonument"
 latitude: 48.1376
 longitude: 11.5881
 images:

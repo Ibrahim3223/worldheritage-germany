@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Dubringer Moor"
 latitude: 51.396661111
 longitude: 14.197597222
 images:

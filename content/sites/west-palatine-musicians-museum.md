@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "West Palatine Musicians Museum"
 latitude: 49.4716
 longitude: 7.5843
 images:

@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Recklinghausen Central Station"
 latitude: 51.616388888
 longitude: 7.203333333
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Leibniz Institute for East and Southeast European Studies"
 latitude: 49.015034
 longitude: 12.102857
 

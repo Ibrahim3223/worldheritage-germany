@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Trier Imperial Baths"
 latitude: 49.7497
 longitude: 6.64222
 

@@ -10,6 +10,7 @@ categories:
   - "Cave"
 regions:
   - "Germany"
+site_name: "Schwedenhöhlen (Reutlingendorf)"
 latitude: 48.1974
 longitude: 9.5708
 images:

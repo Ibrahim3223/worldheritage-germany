@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Fürstenberg Brewery"
 latitude: 47.95174
 longitude: 8.49965
 images:

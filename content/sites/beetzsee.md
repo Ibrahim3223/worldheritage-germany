@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Beetzsee"
 latitude: 52.445833333
 longitude: 12.566666666
 images:

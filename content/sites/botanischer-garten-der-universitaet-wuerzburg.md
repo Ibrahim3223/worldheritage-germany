@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten der Universität Würzburg"
 latitude: 49.7653
 longitude: 9.9313
 images:

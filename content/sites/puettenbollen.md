@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Püttenbollen"
 latitude: 53.1664
 longitude: 7.30944
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Palace Staufeneck"
 latitude: 47.76038
 longitude: 12.89443
 

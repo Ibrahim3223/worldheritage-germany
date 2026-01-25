@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Weissenohe Abbey"
 latitude: 49.6296
 longitude: 11.2533
 

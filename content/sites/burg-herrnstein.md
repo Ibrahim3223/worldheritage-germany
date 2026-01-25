@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Herrnstein"
 latitude: 50.8306
 longitude: 7.38917
 images:

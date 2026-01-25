@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Moyland Castle"
 latitude: 51.7553
 longitude: 6.23681
 images:

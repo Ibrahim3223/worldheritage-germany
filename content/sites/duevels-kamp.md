@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Düvels Kamp"
 latitude: 52.4211
 longitude: 10.155
 images:

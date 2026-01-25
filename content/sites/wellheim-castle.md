@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Wellheim Castle"
 latitude: 48.820525214
 longitude: 11.080103662
 

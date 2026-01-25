@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Wittelsbacherbrunnen (Münchner Residenz)"
 latitude: 48.140806
 longitude: 11.579146
 images:

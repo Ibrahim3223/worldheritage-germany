@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Potzberg tower"
 latitude: 49.5209
 longitude: 7.48033
 images:

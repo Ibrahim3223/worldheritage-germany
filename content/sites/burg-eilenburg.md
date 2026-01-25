@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Eilenburg"
 latitude: 51.4588
 longitude: 12.6232
 images:

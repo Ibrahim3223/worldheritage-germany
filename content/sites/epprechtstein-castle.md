@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Epprechtstein Castle"
 latitude: 50.1459
 longitude: 11.9172
 images:

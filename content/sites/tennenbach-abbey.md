@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Tennenbach abbey"
 latitude: 48.1449
 longitude: 7.8961
 images:

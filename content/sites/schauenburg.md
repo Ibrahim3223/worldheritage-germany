@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schauenburg"
 latitude: 50.8463
 longitude: 10.5556
 

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Alte Burg Penzlin"
 latitude: 53.5069
 longitude: 13.0889
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Burg Stolpen"
 latitude: 51.0482058
 longitude: 14.0841762
 images:

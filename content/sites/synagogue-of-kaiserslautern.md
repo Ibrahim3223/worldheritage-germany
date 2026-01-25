@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue of Kaiserslautern"
 latitude: 49.4444
 longitude: 7.77448
 images:

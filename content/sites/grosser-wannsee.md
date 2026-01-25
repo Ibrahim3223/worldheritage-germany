@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Großer Wannsee"
 latitude: 52.4275
 longitude: 13.173055555
 images:

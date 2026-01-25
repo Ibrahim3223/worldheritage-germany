@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Haus Ludwig"
 latitude: 49.3136
 longitude: 6.74891
 images:

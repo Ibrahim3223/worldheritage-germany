@@ -10,6 +10,7 @@ categories:
 - Fountain
 regions:
 - Germany
+site_name: "Herkulesbrunnen (Heidelberg)"
 latitude: 49.41216
 longitude: 8.71048
 images:

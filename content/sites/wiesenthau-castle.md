@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Wiesenthau Castle"
 latitude: 49.7123
 longitude: 11.1348
 

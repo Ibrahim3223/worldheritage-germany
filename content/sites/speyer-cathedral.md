@@ -10,6 +10,7 @@ categories:
   - "Pilgrimage Church"
 regions:
   - "Germany"
+site_name: "Speyer Cathedral"
 latitude: 49.317222
 longitude: 8.4425
 images:

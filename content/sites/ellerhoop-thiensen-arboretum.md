@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Ellerhoop-Thiensen Arboretum"
 latitude: 53.7173
 longitude: 9.77642
 images:

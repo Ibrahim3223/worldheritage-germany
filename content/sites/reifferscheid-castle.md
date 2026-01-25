@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Reifferscheid Castle"
 latitude: 50.4768
 longitude: 6.46639
 images:

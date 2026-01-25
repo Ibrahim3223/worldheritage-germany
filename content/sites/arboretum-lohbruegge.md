@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Arboretum Lohbrügge"
 latitude: 53.50388889
 longitude: 10.19916667
 images:

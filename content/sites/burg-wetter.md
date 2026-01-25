@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Wetter"
 latitude: 51.3893
 longitude: 7.40028
 images:

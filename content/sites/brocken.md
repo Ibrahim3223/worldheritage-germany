@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Brocken"
 latitude: 51.7991251
 longitude: 10.6156365
 images:

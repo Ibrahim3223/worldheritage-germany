@@ -10,6 +10,7 @@ categories:
 - Windmill
 regions:
 - Germany
+site_name: "Altfunnixsieler Mühle"
 latitude: 53.65232
 longitude: 7.77871
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Istein"
 latitude: 47.66305556
 longitude: 7.53083333
 images:

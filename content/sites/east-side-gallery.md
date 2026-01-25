@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "East Side Gallery"
 latitude: 52.503055555
 longitude: 13.444722222
 images:

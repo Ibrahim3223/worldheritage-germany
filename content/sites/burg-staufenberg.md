@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Staufenberg"
 latitude: 48.501
 longitude: 8.0273
 images:

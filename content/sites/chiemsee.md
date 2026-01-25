@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Chiemsee"
 latitude: 47.89
 longitude: 12.47
 images:

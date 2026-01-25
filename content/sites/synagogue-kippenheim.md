@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Synagogue Kippenheim"
 latitude: 48.2936
 longitude: 7.82515
 images:

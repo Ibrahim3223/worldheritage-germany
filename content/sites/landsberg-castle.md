@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Landsberg Castle"
 latitude: 49.7253
 longitude: 7.7808
 

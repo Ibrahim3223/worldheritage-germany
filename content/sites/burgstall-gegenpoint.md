@@ -11,6 +11,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burgstall Gegenpoint"
 latitude: 48.1712
 longitude: 11.2724
 images:

@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Schloss Ponitz"
 latitude: 50.856784
 longitude: 12.422052
 images:

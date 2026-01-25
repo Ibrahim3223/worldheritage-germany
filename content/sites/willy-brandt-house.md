@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Willy Brandt House"
 latitude: 53.8697
 longitude: 10.6894
 

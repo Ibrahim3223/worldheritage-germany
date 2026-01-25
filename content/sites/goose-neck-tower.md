@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Goose Neck Tower"
 latitude: 50.397308
 longitude: 7.20437
 images:

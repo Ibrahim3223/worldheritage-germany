@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Walchensee"
 latitude: 47.593888888
 longitude: 11.346111111
 images:

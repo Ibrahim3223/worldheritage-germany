@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "Festhalle Frankfurt"
 latitude: 50.111667
 longitude: 8.650833
 images:

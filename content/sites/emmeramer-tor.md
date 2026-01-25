@@ -10,6 +10,7 @@ categories:
 - City Gate
 regions:
 - Germany
+site_name: "Emmeramer Tor"
 latitude: 49.014381135
 longitude: 12.091440739
 images:

@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Müggelsee"
 latitude: 52.433333333
 longitude: 13.65
 images:

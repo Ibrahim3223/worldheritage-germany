@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Tierpark Dessau"
 latitude: 51.849
 longitude: 12.2383
 images:

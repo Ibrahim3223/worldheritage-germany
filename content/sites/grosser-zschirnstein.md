@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Großer Zschirnstein"
 latitude: 50.8548521
 longitude: 14.1766206
 images:

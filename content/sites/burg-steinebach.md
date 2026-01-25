@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Steinebach"
 latitude: 50.612
 longitude: 7.80453
 images:

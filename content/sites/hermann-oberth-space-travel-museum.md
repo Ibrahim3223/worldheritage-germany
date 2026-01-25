@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Hermann Oberth Space Travel Museum"
 latitude: 49.375
 longitude: 11.211666666
 images:

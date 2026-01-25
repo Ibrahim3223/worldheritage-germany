@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Augustusburg and Falkenlust Palaces"
 latitude: 50.8275
 longitude: 6.908055555
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Sterneckerbräu"
 latitude: 48.1354
 longitude: 11.5807
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Heidekrautbahnmuseum"
 latitude: 52.7129
 longitude: 13.43293
 images:

@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Woblitzsee"
 latitude: 53.296944444
 longitude: 12.994166666
 images:

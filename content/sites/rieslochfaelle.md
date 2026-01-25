@@ -10,6 +10,7 @@ categories:
   - "Waterfall"
 regions:
   - "Germany"
+site_name: "Rieslochfälle"
 latitude: 49.0875
 longitude: 13.114166666
 images:

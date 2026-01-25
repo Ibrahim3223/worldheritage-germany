@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Stadtmuseum Hildburghausen"
 latitude: 50.4271236
 longitude: 10.7294922
 images:

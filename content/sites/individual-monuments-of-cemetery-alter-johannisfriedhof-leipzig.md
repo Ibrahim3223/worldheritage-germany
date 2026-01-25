@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Individual monuments of cemetery Alter Johannisfriedhof, Leipzig"
 latitude: 51.337
 longitude: 12.3895
 images:

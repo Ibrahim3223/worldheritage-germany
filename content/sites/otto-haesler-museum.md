@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Otto-Haesler-Museum"
 latitude: 52.61189
 longitude: 10.09449
 images:

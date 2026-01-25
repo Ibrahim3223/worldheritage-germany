@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Lissingen Castle"
 latitude: 50.2166
 longitude: 6.63978
 

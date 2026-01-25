@@ -11,6 +11,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Großer Priepertsee"
 latitude: 53.226283333
 longitude: 13.041630555
 images:

@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Bonifatiuskloster (Hünfeld)"
 latitude: 50.6743
 longitude: 9.7691
 images:

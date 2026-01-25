@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Neue Staatsgalerie"
 latitude: 48.78022778
 longitude: 9.186875
 

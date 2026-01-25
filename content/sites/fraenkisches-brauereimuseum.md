@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Fränkisches Brauereimuseum"
 latitude: 49.8933
 longitude: 10.8758
 images:

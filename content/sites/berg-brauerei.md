@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Berg Brauerei"
 latitude: 48.2625
 longitude: 9.735277777
 images:

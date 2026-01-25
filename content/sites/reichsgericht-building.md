@@ -10,6 +10,7 @@ categories:
   - "Courthouse"
 regions:
   - "Germany"
+site_name: "Reichsgericht building"
 latitude: 51.333027777
 longitude: 12.369777777
 images:

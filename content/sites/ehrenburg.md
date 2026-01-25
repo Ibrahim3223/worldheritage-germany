@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Ehrenburg"
 latitude: 50.7793
 longitude: 10.8957
 images:

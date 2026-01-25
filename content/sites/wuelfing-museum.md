@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Wülfing-Museum"
 latitude: 51.2208
 longitude: 7.31583
 images:

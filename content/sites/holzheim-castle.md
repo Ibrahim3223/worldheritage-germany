@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Holzheim Castle"
 latitude: 50.7983
 longitude: 6.32861
 images:

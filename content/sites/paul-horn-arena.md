@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Paul Horn-Arena"
 latitude: 48.5103
 longitude: 9.04194
 images:

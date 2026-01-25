@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Neuzelle Abbey"
 latitude: 52.0906
 longitude: 14.6522
 images:

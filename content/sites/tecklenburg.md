@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Tecklenburg"
 latitude: 52.2197
 longitude: 7.80972
 

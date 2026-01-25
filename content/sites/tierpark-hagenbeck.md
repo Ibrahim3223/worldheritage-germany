@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Tierpark Hagenbeck"
 latitude: 53.59638889
 longitude: 9.93777778
 images:

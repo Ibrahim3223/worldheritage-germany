@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Drübeck Abbey"
 latitude: 51.855833333
 longitude: 10.714722222
 images:

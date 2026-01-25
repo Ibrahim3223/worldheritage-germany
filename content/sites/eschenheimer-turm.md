@@ -10,6 +10,7 @@ categories:
 - City Gate
 regions:
 - Germany
+site_name: "Eschenheimer Turm"
 latitude: 50.116944444
 longitude: 8.679722222
 images:

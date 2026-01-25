@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Weiler"
 latitude: 48.288
 longitude: 8.11175
 images:

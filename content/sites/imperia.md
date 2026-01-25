@@ -10,6 +10,7 @@ categories:
 - Statue
 regions:
 - Germany
+site_name: "Imperia"
 latitude: 47.660752
 longitude: 9.181108
 images:

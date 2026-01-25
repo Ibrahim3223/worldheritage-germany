@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kunsthaus Tacheles"
 latitude: 52.525555555
 longitude: 13.388611111
 

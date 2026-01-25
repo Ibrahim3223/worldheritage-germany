@@ -10,6 +10,7 @@ categories:
 - Cathedral
 regions:
 - Germany
+site_name: "Güstrow Cathedral"
 latitude: 53.7909
 longitude: 12.1733
 images:

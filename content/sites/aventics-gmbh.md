@@ -10,6 +10,7 @@ categories:
 - Factory
 regions:
 - Germany
+site_name: "Aventics GmbH"
 latitude: 52.323611
 longitude: 9.793611
 images:

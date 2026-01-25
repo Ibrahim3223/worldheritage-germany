@@ -10,6 +10,7 @@ categories:
 - Mine
 regions:
 - Germany
+site_name: "Caroline Pit"
 latitude: 48.1256
 longitude: 7.91911
 images:

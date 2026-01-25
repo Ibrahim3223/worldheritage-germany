@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Burg Bärenfels"
 latitude: 47.6405
 longitude: 7.9253
 images:

@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Schillerpark"
 latitude: 52.5564
 longitude: 13.3525
 images:

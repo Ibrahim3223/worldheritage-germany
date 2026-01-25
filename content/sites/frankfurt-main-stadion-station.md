@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Frankfurt (Main) Stadion station"
 latitude: 50.068074474
 longitude: 8.633021773
 images:

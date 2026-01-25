@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Zeche Auguste Victoria"
 latitude: 51.6851
 longitude: 7.11056
 images:

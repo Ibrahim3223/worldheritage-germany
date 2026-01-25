@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Deutsches Bimsmuseum"
 latitude: 50.40355066
 longitude: 7.54085292
 images:

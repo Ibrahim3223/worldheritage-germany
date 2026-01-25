@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Altonaer Theater"
 latitude: 53.54896389
 longitude: 9.93436667
 images:

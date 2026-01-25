@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Rochlitz Castle"
 latitude: 51.045
 longitude: 12.7914
 

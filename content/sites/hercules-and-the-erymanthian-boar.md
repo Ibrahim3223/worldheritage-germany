@@ -10,6 +10,7 @@ categories:
 - Statue
 regions:
 - Germany
+site_name: "Hercules and the Erymanthian Boar"
 latitude: 52.50446
 longitude: 13.3525
 images:

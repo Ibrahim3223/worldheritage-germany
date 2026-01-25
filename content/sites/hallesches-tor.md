@@ -10,6 +10,7 @@ categories:
 - City Gate
 regions:
 - Germany
+site_name: "Hallesches Tor"
 latitude: 52.497960573
 longitude: 13.391887077
 images:

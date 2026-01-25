@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "St. Erhard"
 latitude: 49.908888888
 longitude: 10.871666666
 

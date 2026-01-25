@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Reinsburg"
 latitude: 50.769
 longitude: 10.9391
 images:

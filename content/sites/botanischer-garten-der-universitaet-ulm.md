@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten der Universität Ulm"
 latitude: 48.4194
 longitude: 9.96667
 images:

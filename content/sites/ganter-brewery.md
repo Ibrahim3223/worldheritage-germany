@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Ganter Brewery"
 latitude: 47.990277777
 longitude: 7.860277777
 images:

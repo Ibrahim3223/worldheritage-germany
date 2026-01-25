@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Robert Schumann House"
 latitude: 50.717361111
 longitude: 12.496111111
 images:

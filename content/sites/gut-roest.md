@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Gut Roest"
 latitude: 54.6589
 longitude: 9.8945
 images:

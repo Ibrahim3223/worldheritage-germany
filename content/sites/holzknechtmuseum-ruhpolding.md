@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Holzknechtmuseum Ruhpolding"
 latitude: 47.7241
 longitude: 12.6585
 images:

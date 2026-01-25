@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Landshut"
 latitude: 49.9112
 longitude: 7.07464
 images:

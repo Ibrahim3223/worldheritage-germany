@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Neues Schloss Rauenstein"
 latitude: 50.419655
 longitude: 11.052953
 images:

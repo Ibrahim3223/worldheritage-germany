@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Waldeck"
 latitude: 51.2038
 longitude: 9.05576
 

@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Jubiläumssäule"
 latitude: 48.77853
 longitude: 9.17993
 images:

@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Multihalle"
 latitude: 49.5044
 longitude: 8.47976
 images:

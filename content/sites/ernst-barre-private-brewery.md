@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Ernst Barre Private Brewery"
 latitude: 52.295
 longitude: 8.618888888
 images:

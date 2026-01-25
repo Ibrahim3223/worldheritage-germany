@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Elten"
 latitude: 51.8643
 longitude: 6.17088
 images:

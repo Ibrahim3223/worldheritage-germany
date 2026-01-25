@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Vogeltor"
 latitude: 48.366193
 longitude: 10.90367
 images:

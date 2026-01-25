@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Motte Aldeberg"
 latitude: 51.1465
 longitude: 6.19595
 

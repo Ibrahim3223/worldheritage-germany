@@ -10,6 +10,7 @@ categories:
 - Palace
 regions:
 - Germany
+site_name: "Donaustauf Palace"
 latitude: 49.03001
 longitude: 12.21187
 images:

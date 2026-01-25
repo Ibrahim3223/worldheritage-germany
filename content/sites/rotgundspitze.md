@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Rotgundspitze"
 latitude: 47.2881
 longitude: 10.26576
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schloss Nöthnitz"
 latitude: 51.0039
 longitude: 13.7304
 images:

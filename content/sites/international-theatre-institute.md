@@ -10,6 +10,7 @@ categories:
 - Cultural Center
 regions:
 - Germany
+site_name: "International Theatre Institute"
 latitude: 52.504025094
 longitude: 13.424149699
 images:

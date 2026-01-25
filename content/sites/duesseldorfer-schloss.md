@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Düsseldorfer Schloss"
 latitude: 51.2275
 longitude: 6.77111
 images:

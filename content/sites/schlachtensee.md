@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Schlachtensee"
 latitude: 52.442777777
 longitude: 13.216666666
 images:

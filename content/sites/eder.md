@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Eder"
 latitude: 51.022065
 longitude: 8.420731111
 images:

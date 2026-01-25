@@ -10,6 +10,7 @@ categories:
 - Chapel
 regions:
 - Germany
+site_name: "Heilig-Kreuz-Kapelle (Blieskastel)"
 latitude: 49.2408
 longitude: 7.25877
 images:

@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Sparkassen-Arena, Göttingen"
 latitude: 51.542186
 longitude: 9.921973
 images:

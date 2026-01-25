@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Statue of Hans Karl von Winterfeldt"
 latitude: 52.51189
 longitude: 13.38583
 images:

@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Dönche"
 latitude: 51.2917
 longitude: 9.43056
 images:

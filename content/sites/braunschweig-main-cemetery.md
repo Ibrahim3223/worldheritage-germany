@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Braunschweig Main Cemetery"
 latitude: 52.2556
 longitude: 10.5565
 images:

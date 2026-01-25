@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Heidetrank Oppidum"
 latitude: 50.2208
 longitude: 8.52194
 images:

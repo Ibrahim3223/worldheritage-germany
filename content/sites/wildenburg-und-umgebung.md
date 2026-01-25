@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Wildenburg und Umgebung"
 latitude: 49.7775
 longitude: 7.26083
 images:

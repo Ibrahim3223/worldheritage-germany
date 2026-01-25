@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Anhalt Castle"
 latitude: 51.6692
 longitude: 11.1927
 images:

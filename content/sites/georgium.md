@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Georgium"
 latitude: 51.8444
 longitude: 12.2308
 images:

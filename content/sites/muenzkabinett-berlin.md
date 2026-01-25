@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Münzkabinett Berlin"
 latitude: 52.52203
 longitude: 13.39399
 images:

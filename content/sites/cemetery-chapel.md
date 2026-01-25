@@ -10,6 +10,7 @@ categories:
 - Chapel
 regions:
 - Germany
+site_name: "Cemetery chapel"
 latitude: 48.4538
 longitude: 10.9848
 images:

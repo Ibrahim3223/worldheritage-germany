@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Tectake ARENA"
 latitude: 49.7738
 longitude: 9.94083
 images:

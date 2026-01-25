@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Reeperbahn station"
 latitude: 53.5495
 longitude: 9.9558
 images:

@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Roter Bär Pit"
 latitude: 51.7125843
 longitude: 10.5277516
 images:

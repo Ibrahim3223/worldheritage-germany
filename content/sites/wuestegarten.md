@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Wüstegarten"
 latitude: 51.016388888
 longitude: 9.084166666
 

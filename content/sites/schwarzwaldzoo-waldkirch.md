@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Schwarzwaldzoo Waldkirch"
 latitude: 48.0876
 longitude: 7.95854
 images:

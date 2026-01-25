@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Marienbrunnen (Braunschweig)"
 latitude: 52.2628
 longitude: 10.5178
 images:

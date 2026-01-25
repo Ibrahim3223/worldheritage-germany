@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "TIB – Leibniz Information Centre for Science and Technology and University Library"
 latitude: 52.381262198
 longitude: 9.719847697
 

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schloss Engers"
 latitude: 50.4225
 longitude: 7.54361
 images:

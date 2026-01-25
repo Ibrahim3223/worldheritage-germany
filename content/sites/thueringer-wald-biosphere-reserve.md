@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Thüringer Wald Biosphere Reserve"
 latitude: 50.36
 longitude: 10.48
 

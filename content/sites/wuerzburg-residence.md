@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Würzburg Residence"
 latitude: 49.792797617
 longitude: 9.938889043
 images:

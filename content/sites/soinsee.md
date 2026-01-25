@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Soinsee"
 latitude: 47.650555555
 longitude: 11.955
 images:

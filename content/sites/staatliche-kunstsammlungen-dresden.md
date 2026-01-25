@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Staatliche Kunstsammlungen Dresden"
 latitude: 51.0528
 longitude: 13.7369
 

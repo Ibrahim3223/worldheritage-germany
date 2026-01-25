@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Haus Letmathe"
 latitude: 51.3661
 longitude: 7.60833
 images:

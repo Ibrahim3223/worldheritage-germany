@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kriemhildenstuhl"
 latitude: 49.4639
 longitude: 8.15868
 

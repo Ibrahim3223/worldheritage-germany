@@ -10,6 +10,7 @@ categories:
 - Garden
 regions:
 - Germany
+site_name: "Hesperidengärten"
 latitude: 49.4579
 longitude: 11.0636
 images:

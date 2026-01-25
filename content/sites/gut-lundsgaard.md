@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Gut Lundsgaard"
 latitude: 54.7782
 longitude: 9.6531
 images:

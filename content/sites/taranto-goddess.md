@@ -10,6 +10,7 @@ categories:
   - "Statue"
 regions:
   - "Germany"
+site_name: "Taranto goddess"
 latitude: 52.5194
 longitude: 13.3983
 images:

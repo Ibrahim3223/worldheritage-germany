@@ -10,6 +10,7 @@ categories:
 - Cave
 regions:
 - Germany
+site_name: "Jahnhöhle"
 latitude: 51.5074
 longitude: 11.9568
 images:

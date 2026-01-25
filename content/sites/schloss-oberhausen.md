@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Oberhausen"
 latitude: 51.492144444
 longitude: 6.860333333
 

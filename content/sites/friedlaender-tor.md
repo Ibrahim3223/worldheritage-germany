@@ -10,6 +10,7 @@ categories:
 - City Gate
 regions:
 - Germany
+site_name: "Friedländer Tor"
 latitude: 53.5591
 longitude: 13.2655
 images:

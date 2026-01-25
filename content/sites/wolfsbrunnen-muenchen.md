@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Wolfsbrunnen (München)"
 latitude: 48.1384
 longitude: 11.5809
 images:

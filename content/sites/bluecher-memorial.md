@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Blücher memorial"
 latitude: 52.51657
 longitude: 13.39575
 images:

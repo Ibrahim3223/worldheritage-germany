@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Panoptikum Hamburg"
 latitude: 53.54944444
 longitude: 9.9675
 images:

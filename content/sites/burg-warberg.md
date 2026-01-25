@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Warberg"
 latitude: 52.1834
 longitude: 10.9166
 images:

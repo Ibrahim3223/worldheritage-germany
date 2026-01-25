@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "Church of Fürstin-Franziska-Christine-Stiftung"
 latitude: 51.4503
 longitude: 7.07278
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Lindenbrauerei"
 latitude: 51.5347
 longitude: 7.68528
 

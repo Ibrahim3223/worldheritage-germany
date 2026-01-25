@@ -10,6 +10,7 @@ categories:
 - Island
 regions:
 - Germany
+site_name: "Eiswerder"
 latitude: 52.549
 longitude: 13.2185
 images:

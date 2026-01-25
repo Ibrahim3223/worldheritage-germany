@@ -10,6 +10,7 @@ categories:
   - "Dam"
 regions:
   - "Germany"
+site_name: "Rappbode Auxiliary Dam"
 latitude: 51.7056
 longitude: 10.7942
 images:

@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Dobbertiner See"
 latitude: 53.613888888
 longitude: 12.068888888
 images:

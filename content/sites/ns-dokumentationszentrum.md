@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "NS-Dokumentationszentrum"
 latitude: 48.14527778
 longitude: 11.5675
 images:

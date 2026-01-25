@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Friesenmuseum Wyk auf Föhr"
 latitude: 54.6872
 longitude: 8.56194
 images:

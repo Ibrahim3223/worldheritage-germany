@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Stuttgarter Hofbräu"
 latitude: 48.7613
 longitude: 9.154
 

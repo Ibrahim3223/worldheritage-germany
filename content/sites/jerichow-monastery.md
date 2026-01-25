@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Jerichow Monastery"
 latitude: 52.5023
 longitude: 12.0158
 images:

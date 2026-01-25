@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Teatro Solln"
 latitude: 48.070932992
 longitude: 11.514669118
 images:

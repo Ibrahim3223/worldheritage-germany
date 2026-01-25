@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Danevirke"
 latitude: 54.4775
 longitude: 9.486666666
 images:

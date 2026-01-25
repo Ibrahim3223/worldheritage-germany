@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Uthörn"
 latitude: 55.035833333
 longitude: 8.430277777
 images:

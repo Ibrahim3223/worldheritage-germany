@@ -10,6 +10,7 @@ categories:
 - Mine
 regions:
 - Germany
+site_name: "Fell Exhibition Slate Mine"
 latitude: 49.7559
 longitude: 6.79908
 images:

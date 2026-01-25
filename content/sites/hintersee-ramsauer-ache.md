@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Hintersee (Ramsauer Ache)"
 latitude: 47.6067
 longitude: 12.8539
 images:

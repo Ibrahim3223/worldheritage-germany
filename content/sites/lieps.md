@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Lieps"
 latitude: 53.451111111
 longitude: 13.157222222
 images:

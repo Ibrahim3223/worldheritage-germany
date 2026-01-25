@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Aiplspitz"
 latitude: 47.673611111
 longitude: 11.924444444
 images:

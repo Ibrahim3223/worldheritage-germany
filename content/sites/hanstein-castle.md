@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Hanstein Castle"
 latitude: 51.3394
 longitude: 9.94
 images:

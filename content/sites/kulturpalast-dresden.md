@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "Kulturpalast Dresden"
 latitude: 51.051
 longitude: 13.7385
 images:

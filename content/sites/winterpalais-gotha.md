@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Winterpalais (Gotha)"
 latitude: 50.9478
 longitude: 10.7092
 images:

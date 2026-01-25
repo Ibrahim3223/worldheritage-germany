@@ -10,6 +10,7 @@ categories:
   - "Statue"
 regions:
   - "Germany"
+site_name: "Kiepenkerldenkmal"
 latitude: 51.964114
 longitude: 7.626215
 images:

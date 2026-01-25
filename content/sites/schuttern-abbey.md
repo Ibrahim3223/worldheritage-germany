@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Schuttern Abbey"
 latitude: 48.381944
 longitude: 7.8525
 images:

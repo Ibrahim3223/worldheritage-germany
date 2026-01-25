@@ -10,6 +10,7 @@ categories:
   - "Courthouse"
 regions:
   - "Germany"
+site_name: "Kriminalgericht Moabit"
 latitude: 52.52625
 longitude: 13.353777777
 images:

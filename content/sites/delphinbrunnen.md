@@ -10,6 +10,7 @@ categories:
 - Fountain
 regions:
 - Germany
+site_name: "Delphinbrunnen"
 latitude: 48.144639893
 longitude: 11.559847395
 images:

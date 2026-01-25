@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "C/O Berlin"
 latitude: 52.506667
 longitude: 13.330556
 images:

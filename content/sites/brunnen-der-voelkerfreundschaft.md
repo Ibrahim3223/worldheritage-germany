@@ -10,6 +10,7 @@ categories:
 - Fountain
 regions:
 - Germany
+site_name: "Brunnen der Völkerfreundschaft"
 latitude: 52.522
 longitude: 13.4128
 images:

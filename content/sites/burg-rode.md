@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Rode"
 latitude: 50.8669
 longitude: 6.09
 images:

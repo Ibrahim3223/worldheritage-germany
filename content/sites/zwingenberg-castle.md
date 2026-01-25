@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Zwingenberg Castle"
 latitude: 49.4219
 longitude: 9.03333
 

@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Wallanlagen"
 latitude: 50.107475
 longitude: 8.673175
 images:

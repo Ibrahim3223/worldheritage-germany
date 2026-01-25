@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Opel-Zoo"
 latitude: 50.183333333
 longitude: 8.486388888
 images:

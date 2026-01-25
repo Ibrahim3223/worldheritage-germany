@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Herrenhäuser Brewery"
 latitude: 52.393888888
 longitude: 9.680555555
 images:

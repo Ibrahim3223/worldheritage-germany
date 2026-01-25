@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Blücherpark"
 latitude: 50.9632
 longitude: 6.9268
 images:

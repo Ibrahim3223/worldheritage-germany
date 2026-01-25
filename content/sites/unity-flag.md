@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Unity Flag"
 latitude: 52.5184194
 longitude: 13.3747951
 images:

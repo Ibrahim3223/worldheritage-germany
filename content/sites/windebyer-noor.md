@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Windebyer Noor"
 latitude: 54.475
 longitude: 9.806388888
 images:

@@ -11,6 +11,7 @@ categories:
 - City Gate
 regions:
 - Germany
+site_name: "Cross Gate"
 latitude: 48.7642
 longitude: 11.4179
 images:

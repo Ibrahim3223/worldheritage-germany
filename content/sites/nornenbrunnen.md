@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Nornenbrunnen"
 latitude: 48.1427
 longitude: 11.5717
 images:

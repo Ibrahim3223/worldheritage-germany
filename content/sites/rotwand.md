@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Rotwand"
 latitude: 47.6503
 longitude: 11.9344
 images:

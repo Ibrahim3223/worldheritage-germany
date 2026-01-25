@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Grindelhochhäuser"
 latitude: 53.57472222
 longitude: 9.97972222
 images:

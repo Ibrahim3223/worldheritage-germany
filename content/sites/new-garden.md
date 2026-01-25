@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "New Garden"
 latitude: 52.415555555
 longitude: 13.069444444
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Rakotzbrücke"
 latitude: 51.536227
 longitude: 14.640453
 

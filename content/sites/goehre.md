@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Göhre"
 latitude: 50.9285
 longitude: 11.5883
 images:

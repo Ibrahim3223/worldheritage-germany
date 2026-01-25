@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Bollendorf Castle"
 latitude: 49.8494
 longitude: 6.36778
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "House of History Baden-Württemberg"
 latitude: 48.7789
 longitude: 9.18583
 images:

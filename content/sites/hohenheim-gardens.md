@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Hohenheim Gardens"
 latitude: 48.7118
 longitude: 9.2113
 images:

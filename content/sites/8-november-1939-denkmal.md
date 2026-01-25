@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "8. November 1939 (Denkmal)"
 latitude: 48.1509
 longitude: 11.5767
 images:

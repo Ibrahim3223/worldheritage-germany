@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Haus Kemnade"
 latitude: 51.407777777
 longitude: 7.249444444
 images:

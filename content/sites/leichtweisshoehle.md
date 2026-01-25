@@ -10,6 +10,7 @@ categories:
   - "Cave"
 regions:
   - "Germany"
+site_name: "Leichtweißhöhle"
 latitude: 50.1053
 longitude: 8.22166
 images:

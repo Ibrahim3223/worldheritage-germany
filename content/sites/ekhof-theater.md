@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Ekhof-Theater"
 latitude: 50.9450035
 longitude: 10.7042192
 images:

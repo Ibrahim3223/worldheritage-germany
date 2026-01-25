@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Brömserburg"
 latitude: 49.9776607
 longitude: 7.917732538
 images:

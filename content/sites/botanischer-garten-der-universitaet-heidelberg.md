@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten der Universität Heidelberg"
 latitude: 49.4148
 longitude: 8.66778
 images:

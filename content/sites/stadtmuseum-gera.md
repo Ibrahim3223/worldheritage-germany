@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Stadtmuseum Gera"
 latitude: 50.8766
 longitude: 12.0806
 images:

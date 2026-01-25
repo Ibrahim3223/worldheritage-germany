@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burgwall Hollenstedt"
 latitude: 53.3528
 longitude: 9.71829
 images:

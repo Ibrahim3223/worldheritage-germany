@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Potsdam-Babelsberg station"
 latitude: 52.3914
 longitude: 13.0928
 images:

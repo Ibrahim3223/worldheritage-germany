@@ -11,6 +11,7 @@ categories:
 - Library
 regions:
 - Germany
+site_name: "Bibliothek des Konservatismus"
 latitude: 52.50735
 longitude: 13.32781
 images:

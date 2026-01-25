@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Literaturmuseum Theodor Storm"
 latitude: 51.37733
 longitude: 10.13275
 images:

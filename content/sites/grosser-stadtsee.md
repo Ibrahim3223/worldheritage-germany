@@ -11,6 +11,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Großer Stadtsee"
 latitude: 53.495277777
 longitude: 13.090503336
 images:

@@ -10,6 +10,7 @@ categories:
   - "School Building"
 regions:
   - "Germany"
+site_name: "St Catharine's Convent"
 latitude: 48.3647
 longitude: 10.8972
 images:

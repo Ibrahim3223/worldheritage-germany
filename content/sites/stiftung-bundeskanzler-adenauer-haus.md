@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Stiftung Bundeskanzler-Adenauer-Haus"
 latitude: 50.65834
 longitude: 7.216159999
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Hemp Museum"
 latitude: 52.5167
 longitude: 13.4081
 images:

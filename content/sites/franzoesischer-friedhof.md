@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Französischer Friedhof"
 latitude: 52.5283
 longitude: 13.385
 images:

@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "synagogue of Remagen"
 latitude: 50.5784
 longitude: 7.2292
 images:

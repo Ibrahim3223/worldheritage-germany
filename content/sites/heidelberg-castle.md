@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Heidelberg Castle"
 latitude: 49.410555555
 longitude: 8.715833333
 images:

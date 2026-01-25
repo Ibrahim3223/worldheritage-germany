@@ -10,6 +10,7 @@ categories:
 - Factory
 regions:
 - Germany
+site_name: "Industriewerke Ludwigsfelde"
 latitude: 52.31713
 longitude: 13.26499
 images:

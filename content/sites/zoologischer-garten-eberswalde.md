@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Zoologischer Garten Eberswalde"
 latitude: 52.8222
 longitude: 13.7822
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Kloster Rupertsberg"
 latitude: 49.9658
 longitude: 7.8892
 images:

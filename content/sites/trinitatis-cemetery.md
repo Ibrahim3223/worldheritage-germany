@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Trinitatis Cemetery"
 latitude: 51.0547
 longitude: 13.7725
 images:

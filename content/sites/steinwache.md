@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Steinwache"
 latitude: 51.5196
 longitude: 7.46062
 images:

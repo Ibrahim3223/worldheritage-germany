@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Zeche Freie Vogel & Unverhofft"
 latitude: 51.4956
 longitude: 7.52111
 images:

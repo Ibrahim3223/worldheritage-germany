@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Görlitz railway station"
 latitude: 51.1472
 longitude: 14.9792
 images:

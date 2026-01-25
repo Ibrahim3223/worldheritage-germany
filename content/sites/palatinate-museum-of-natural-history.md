@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Palatinate Museum of Natural History"
 latitude: 49.4614
 longitude: 8.14939
 images:

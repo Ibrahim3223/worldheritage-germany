@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "New Bach monument"
 latitude: 51.339108333
 longitude: 12.37265
 images:

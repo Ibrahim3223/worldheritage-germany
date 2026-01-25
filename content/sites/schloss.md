@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss"
 latitude: 49.78824951
 longitude: 11.348550406
 

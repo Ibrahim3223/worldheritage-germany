@@ -10,6 +10,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Gedenkstätte Berliner Mauer"
 latitude: 52.535
 longitude: 13.3897
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Danevirke Museum"
 latitude: 54.48316
 longitude: 9.49827
 images:

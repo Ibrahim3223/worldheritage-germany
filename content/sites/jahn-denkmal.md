@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Jahn-Denkmal"
 latitude: 51.23116
 longitude: 7.069733
 images:

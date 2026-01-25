@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Olympiapark"
 latitude: 48.17
 longitude: 11.551666666
 images:

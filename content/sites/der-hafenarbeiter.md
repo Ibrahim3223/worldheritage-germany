@@ -10,6 +10,7 @@ categories:
 - Statue
 regions:
 - Germany
+site_name: "Der Hafenarbeiter"
 latitude: 50.1002479
 longitude: 8.6679463
 images:

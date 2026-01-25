@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Hamburg-Bergedorf station"
 latitude: 53.48944444
 longitude: 10.20638889
 images:

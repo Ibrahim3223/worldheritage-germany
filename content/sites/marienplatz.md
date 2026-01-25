@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Marienplatz"
 latitude: 48.137222222
 longitude: 11.575277777
 images:

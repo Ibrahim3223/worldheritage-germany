@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Steinsburgmuseum"
 latitude: 50.39945
 longitude: 10.59108
 images:

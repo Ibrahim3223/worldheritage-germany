@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "E.T.A.-Hoffmann-Theater"
 latitude: 49.8906
 longitude: 10.8915
 images:

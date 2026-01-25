@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Gutshaus Rumpshagen"
 latitude: 53.5074
 longitude: 12.957
 images:

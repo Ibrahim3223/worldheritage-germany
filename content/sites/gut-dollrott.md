@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Gut Dollrott"
 latitude: 54.6435
 longitude: 9.83264
 images:

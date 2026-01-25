@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Nordertor"
 latitude: 54.79553
 longitude: 9.43017
 images:

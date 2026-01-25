@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Alvensleben"
 latitude: 52.24076
 longitude: 11.33096
 images:

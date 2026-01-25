@@ -5,6 +5,12 @@ slug: "kirche-zarnekow"
 region: "Mecklenburg-Vorpommern"
 
 # Location
+image_srcset:
+  Kirche%20Zarnekow%20Karlsburg%20Vorpommern%20-%2003.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg/400px-Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg/800px-Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg/1200px-Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg/1920px-Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg
 latitude: 53.9858
 longitude: 13.6011
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1708278"
 description: "Located in the picturesque region of Karlsburg in Mecklenburg-Vorpommern, Germany, Kirche Zarnekow is a striking example of Gothic architecture. This ch..."
 images:
-  - "/images/kirche-zarnekow/01-618805e1-1920w.webp"
-  - "/images/kirche-zarnekow/02-6d999a0a-1920w.webp"
-  - "/images/kirche-zarnekow/03-dd3ed57c-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg/1200px-Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg
 ---
 
 ## Overview

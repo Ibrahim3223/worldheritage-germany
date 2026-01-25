@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Herne station"
 latitude: 51.543611111
 longitude: 7.217777777
 images:

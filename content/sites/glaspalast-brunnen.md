@@ -10,6 +10,7 @@ categories:
 - Fountain
 regions:
 - Germany
+site_name: "Glaspalast-Brunnen"
 latitude: 48.1285
 longitude: 11.5962
 images:

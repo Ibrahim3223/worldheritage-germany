@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Schloss Varchentin"
 latitude: 53.5823
 longitude: 12.8592
 images:

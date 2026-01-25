@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Kunsthalle Harry Graf Kessler"
 latitude: 50.98262
 longitude: 11.326048
 images:

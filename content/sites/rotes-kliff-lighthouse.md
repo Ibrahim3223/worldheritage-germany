@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Rotes Kliff lighthouse"
 latitude: 54.9657
 longitude: 8.33781
 images:

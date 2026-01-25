@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Emmericher Ward"
 latitude: 51.836943888
 longitude: 6.201666944
 images:

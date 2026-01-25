@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogenplatz (Butzbach)"
 latitude: 50.436388888
 longitude: 8.670277777
 images:

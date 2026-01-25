@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "Alfred Wegener Institute for Polar and Marine Research"
 latitude: 53.532722222
 longitude: 8.579555555
 images:

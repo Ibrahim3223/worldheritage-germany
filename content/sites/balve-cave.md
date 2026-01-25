@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Balve Cave"
 latitude: 51.339
 longitude: 7.872
 images:

@@ -10,6 +10,7 @@ categories:
   - "Cinema"
 regions:
   - "Germany"
+site_name: "Martin-Gropius-Bau"
 latitude: 52.5066
 longitude: 13.3818
 images:

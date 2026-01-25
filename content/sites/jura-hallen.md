@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "Jura-Hallen"
 latitude: 49.2791
 longitude: 11.4471
 images:

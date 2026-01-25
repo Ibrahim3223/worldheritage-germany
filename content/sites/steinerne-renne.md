@@ -10,6 +10,7 @@ categories:
   - "Waterfall"
 regions:
   - "Germany"
+site_name: "Steinerne Renne"
 latitude: 51.81251
 longitude: 10.71051
 images:

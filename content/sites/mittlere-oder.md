@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Mittlere Oder"
 latitude: 52.248611111
 longitude: 14.696944444
 images:

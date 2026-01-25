@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Westphalian Horse Museum"
 latitude: 51.9476
 longitude: 7.58725
 images:

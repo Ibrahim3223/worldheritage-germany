@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Heide und Moor bei Haslah"
 latitude: 53.305
 longitude: 8.72778
 images:

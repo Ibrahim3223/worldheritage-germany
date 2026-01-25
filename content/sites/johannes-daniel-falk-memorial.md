@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Johannes Daniel Falk memorial"
 latitude: 50.98221
 longitude: 11.32824
 images:

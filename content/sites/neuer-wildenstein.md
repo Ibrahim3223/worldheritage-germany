@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Neuer Wildenstein"
 latitude: 50.9257
 longitude: 14.2571
 

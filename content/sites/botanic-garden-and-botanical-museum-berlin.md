@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanic Garden and Botanical Museum Berlin"
 latitude: 52.455
 longitude: 13.3036
 images:

@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Deutsche Barockgalerie"
 latitude: 48.365
 longitude: 10.8992
 images:

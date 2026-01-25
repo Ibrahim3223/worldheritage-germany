@@ -10,6 +10,7 @@ categories:
 - Lighthouse
 regions:
 - Germany
+site_name: "Blankenese Low Lighthouse"
 latitude: 53.55769
 longitude: 9.79583
 images:

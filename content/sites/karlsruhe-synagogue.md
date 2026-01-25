@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Karlsruhe Synagogue"
 latitude: 49.0097
 longitude: 8.40849
 images:

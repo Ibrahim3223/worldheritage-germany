@@ -10,6 +10,7 @@ categories:
 - Valley
 regions:
 - Germany
+site_name: "Ilse Valley"
 latitude: 51.850277777
 longitude: 10.666111111
 images:

@@ -10,6 +10,7 @@ categories:
 - Valley
 regions:
 - Germany
+site_name: "Bode Gorge"
 latitude: 51.735555555
 longitude: 11.009722222
 images:

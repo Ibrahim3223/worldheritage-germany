@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Kontorhaus District"
 latitude: 53.54888889
 longitude: 10.00166667
 images:

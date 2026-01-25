@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Uniseum"
 latitude: 47.995345
 longitude: 7.84863
 images:

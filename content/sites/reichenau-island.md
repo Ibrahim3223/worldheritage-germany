@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Reichenau Island"
 latitude: 47.693055555
 longitude: 9.063055555
 images:

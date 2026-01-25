@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Historischer Kunstbunker"
 latitude: 49.4568
 longitude: 11.0754
 images:

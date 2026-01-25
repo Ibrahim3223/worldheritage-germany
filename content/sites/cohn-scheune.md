@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Cohn-Scheune"
 latitude: 53.1097
 longitude: 9.40542
 images:

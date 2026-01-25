@@ -10,6 +10,7 @@ categories:
 - Fountain
 regions:
 - Germany
+site_name: "Hubertusbrunnen"
 latitude: 48.1591
 longitude: 11.5297
 images:

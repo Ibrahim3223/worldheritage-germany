@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Münchhausen"
 latitude: 50.6112
 longitude: 7.04454
 images:

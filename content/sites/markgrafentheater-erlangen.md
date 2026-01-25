@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Markgrafentheater Erlangen"
 latitude: 49.5997
 longitude: 11.0057
 images:

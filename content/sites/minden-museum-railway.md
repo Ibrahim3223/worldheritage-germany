@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Minden Museum Railway"
 latitude: 52.3005
 longitude: 8.913
 images:

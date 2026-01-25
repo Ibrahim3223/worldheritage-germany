@@ -10,6 +10,7 @@ categories:
 - Lighthouse
 regions:
 - Germany
+site_name: "Great Tower Neuwerk"
 latitude: 53.91522222
 longitude: 8.49583333
 images:

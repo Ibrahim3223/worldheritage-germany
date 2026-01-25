@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Wienhausen Abbey"
 latitude: 52.5807
 longitude: 10.185
 images:

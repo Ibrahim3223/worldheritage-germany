@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Steingaden Abbey"
 latitude: 47.701112231
 longitude: 10.862450024
 images:

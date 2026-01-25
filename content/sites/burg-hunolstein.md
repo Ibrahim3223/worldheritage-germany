@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Hunolstein"
 latitude: 49.7987
 longitude: 7.04475
 images:

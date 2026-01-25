@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Wörlitz Synagogue"
 latitude: 51.84552778
 longitude: 12.42416667
 images:

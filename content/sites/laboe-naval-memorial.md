@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Laboe Naval Memorial"
 latitude: 54.4122
 longitude: 10.2306
 images:

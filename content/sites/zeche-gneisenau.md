@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Zeche Gneisenau"
 latitude: 51.56704
 longitude: 7.52535
 images:

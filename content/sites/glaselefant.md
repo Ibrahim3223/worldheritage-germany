@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Glaselefant"
 latitude: 51.6829
 longitude: 7.88174
 images:

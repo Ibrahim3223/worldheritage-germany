@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Kartause Erfurt"
 latitude: 50.9697
 longitude: 11.0269
 images:

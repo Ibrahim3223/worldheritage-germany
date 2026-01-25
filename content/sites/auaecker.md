@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Auäcker"
 latitude: 47.769188888
 longitude: 8.481311111
 images:

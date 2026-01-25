@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Rennenberg"
 latitude: 50.5932
 longitude: 7.31389
 images:

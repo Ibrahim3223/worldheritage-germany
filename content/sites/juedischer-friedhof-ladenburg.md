@@ -11,6 +11,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Jüdischer Friedhof Ladenburg"
 latitude: 49.4774
 longitude: 8.60629
 images:

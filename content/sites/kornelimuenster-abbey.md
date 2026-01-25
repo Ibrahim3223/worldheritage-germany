@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Kornelimünster Abbey"
 latitude: 50.728611
 longitude: 6.178056
 images:

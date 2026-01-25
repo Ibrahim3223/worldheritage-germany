@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Sender Inselsberg"
 latitude: 50.8515
 longitude: 10.4654
 images:

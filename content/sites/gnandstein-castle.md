@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Gnandstein Castle"
 latitude: 51.0183
 longitude: 12.5758
 images:

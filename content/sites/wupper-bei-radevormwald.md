@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Wupper bei Radevormwald"
 latitude: 51.209111111
 longitude: 7.309611111
 images:

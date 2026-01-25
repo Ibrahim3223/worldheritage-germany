@@ -10,6 +10,7 @@ categories:
   - "Cave"
 regions:
   - "Germany"
+site_name: "Marthahöhle"
 latitude: 51.68964
 longitude: 10.26878
 images:

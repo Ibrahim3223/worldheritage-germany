@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Memorial and Education Centre Andreasstrasse"
 latitude: 50.978611111
 longitude: 11.023333333
 images:

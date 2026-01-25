@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Dresden-Neustadt railway station"
 latitude: 51.065555555
 longitude: 13.740833333
 images:

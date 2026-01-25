@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "borders of the Roman Empire"
 latitude: 54.992611111
 longitude: -2.601
 images:

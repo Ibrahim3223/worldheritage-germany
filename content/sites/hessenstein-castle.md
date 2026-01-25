@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Hessenstein Castle"
 latitude: 51.118945998
 longitude: 8.885074393
 images:

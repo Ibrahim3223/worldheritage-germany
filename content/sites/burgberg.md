@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burgberg"
 latitude: 51.2488
 longitude: 9.36
 images:

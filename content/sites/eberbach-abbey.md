@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Eberbach Abbey"
 latitude: 50.0425
 longitude: 8.046666666
 images:

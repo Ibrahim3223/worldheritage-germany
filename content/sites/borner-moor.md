@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Borner Moor"
 latitude: 53.3206
 longitude: 8.615
 images:

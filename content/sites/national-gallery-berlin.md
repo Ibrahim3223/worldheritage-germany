@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "National Gallery Berlin"
 latitude: 52.52138889
 longitude: 13.39555556
 

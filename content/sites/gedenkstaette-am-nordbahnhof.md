@@ -10,6 +10,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Gedenkstätte am Nordbahnhof"
 latitude: 48.7971
 longitude: 9.18936
 images:

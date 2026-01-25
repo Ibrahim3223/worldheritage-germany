@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Moor- und Fehnmuseum Elisabethfehn"
 latitude: 53.15
 longitude: 7.71
 images:

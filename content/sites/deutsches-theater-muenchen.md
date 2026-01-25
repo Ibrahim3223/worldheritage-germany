@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Deutsches Theater München"
 latitude: 48.1368892
 longitude: 11.5620382
 images:

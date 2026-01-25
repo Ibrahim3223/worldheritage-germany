@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Schloss Lüftelberg"
 latitude: 50.647161
 longitude: 7.001167
 images:

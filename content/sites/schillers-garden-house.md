@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schiller's garden house"
 latitude: 50.9258
 longitude: 11.5833
 images:

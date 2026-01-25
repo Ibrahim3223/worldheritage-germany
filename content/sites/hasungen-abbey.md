@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Hasungen Abbey"
 latitude: 51.323888888
 longitude: 9.277222222
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Hiltpoltstein Castle"
 latitude: 49.659802
 longitude: 11.321948
 images:

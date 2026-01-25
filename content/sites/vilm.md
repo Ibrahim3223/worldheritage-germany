@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Vilm"
 latitude: 54.32318
 longitude: 13.53344
 images:

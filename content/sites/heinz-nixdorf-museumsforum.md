@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Heinz Nixdorf MuseumsForum"
 latitude: 51.7314
 longitude: 8.73564
 images:

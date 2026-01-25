@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Kipfenberg"
 latitude: 48.948972222
 longitude: 11.396833333
 images:

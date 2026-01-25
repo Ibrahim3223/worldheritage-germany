@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum im Kleihues-Bau"
 latitude: 48.85852
 longitude: 9.186738
 

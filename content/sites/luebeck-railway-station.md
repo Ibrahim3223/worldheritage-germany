@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Lübeck railway station"
 latitude: 53.8672
 longitude: 10.6692
 images:

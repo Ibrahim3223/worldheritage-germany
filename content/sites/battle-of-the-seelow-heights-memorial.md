@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Battle of the Seelow Heights Memorial"
 latitude: 52.534722222
 longitude: 14.395833333
 images:

@@ -10,6 +10,7 @@ categories:
 - Mosque
 regions:
 - Germany
+site_name: "Fazle Omar Mosque"
 latitude: 53.58361111
 longitude: 9.94333333
 images:

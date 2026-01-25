@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Fastnachtsbrunnen"
 latitude: 49.998
 longitude: 8.26806
 images:

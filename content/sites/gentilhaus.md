@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Gentilhaus"
 latitude: 49.9753
 longitude: 9.15994
 images:

@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Schloss Karlsburg"
 latitude: 53.9703
 longitude: 13.6122
 images:

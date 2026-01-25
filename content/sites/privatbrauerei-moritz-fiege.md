@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Privatbrauerei Moritz Fiege"
 latitude: 51.481472222
 longitude: 7.228388888
 

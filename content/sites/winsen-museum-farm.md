@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Winsen Museum Farm"
 latitude: 52.6803
 longitude: 9.92056
 images:

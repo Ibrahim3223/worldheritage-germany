@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Rosarium Uetersen"
 latitude: 53.6838
 longitude: 9.66981
 

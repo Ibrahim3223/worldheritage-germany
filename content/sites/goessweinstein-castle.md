@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Gößweinstein Castle"
 latitude: 49.770394444
 longitude: 11.334430555
 images:

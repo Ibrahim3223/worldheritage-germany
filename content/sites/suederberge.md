@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Süderberge"
 latitude: 54.8567
 longitude: 8.92167
 images:

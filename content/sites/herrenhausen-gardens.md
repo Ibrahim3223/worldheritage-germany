@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Herrenhausen Gardens"
 latitude: 52.391666666
 longitude: 9.698333333
 images:

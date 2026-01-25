@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Berlin Modernism Housing Estates"
 latitude: 52.448333
 longitude: 13.45
 images:

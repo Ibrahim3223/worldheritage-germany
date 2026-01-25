@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "Marienbibliothek, Halle"
 latitude: 51.4822
 longitude: 11.9683
 images:

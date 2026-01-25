@@ -10,6 +10,7 @@ categories:
 - Mosque
 regions:
 - Germany
+site_name: "Cologne Central Mosque"
 latitude: 50.945555555
 longitude: 6.928333333
 images:

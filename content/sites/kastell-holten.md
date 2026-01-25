@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kastell Holten"
 latitude: 51.5269
 longitude: 6.78417
 

@@ -11,6 +11,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Bockkarkopf"
 latitude: 47.29216
 longitude: 10.28765
 images:

@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Votivkapelle"
 latitude: 47.963863131
 longitude: 11.348185842
 images:

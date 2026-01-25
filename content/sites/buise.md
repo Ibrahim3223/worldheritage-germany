@@ -10,6 +10,7 @@ categories:
 - Island
 regions:
 - Germany
+site_name: "Buise"
 latitude: 53.707222
 longitude: 7.146944
 images:

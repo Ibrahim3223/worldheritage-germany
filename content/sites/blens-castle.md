@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Blens Castle"
 latitude: 50.6594
 longitude: 6.48306
 images:

@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Schloss Brandenstein"
 latitude: 50.6693
 longitude: 11.5562
 images:

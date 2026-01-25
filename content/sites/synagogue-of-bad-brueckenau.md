@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue of Bad Brückenau"
 latitude: 50.309101
 longitude: 9.791462
 images:

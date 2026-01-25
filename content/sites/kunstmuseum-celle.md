@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kunstmuseum Celle"
 latitude: 52.6241
 longitude: 10.0794
 

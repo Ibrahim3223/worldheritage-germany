@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Rathaus Stadtilm"
 latitude: 50.774312
 longitude: 11.078569
 images:

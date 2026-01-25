@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Werth"
 latitude: 51.819
 longitude: 6.51184
 images:

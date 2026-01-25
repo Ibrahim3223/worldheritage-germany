@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Jagdhaus Gabelbach"
 latitude: 50.6586
 longitude: 10.8842
 images:

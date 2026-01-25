@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Sylt"
 latitude: 54.9
 longitude: 8.333333333
 images:

@@ -10,6 +10,7 @@ categories:
   - "Mosque"
 regions:
   - "Germany"
+site_name: "Noor ud Din Mosque"
 latitude: 49.8853
 longitude: 8.62083
 images:

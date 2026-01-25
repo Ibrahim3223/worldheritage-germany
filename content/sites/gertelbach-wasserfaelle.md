@@ -10,6 +10,7 @@ categories:
 - Waterfall
 regions:
 - Germany
+site_name: "Gertelbach-Wasserfälle"
 latitude: 48.66245
 longitude: 8.21474
 images:

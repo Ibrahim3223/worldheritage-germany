@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Theater an der Ruhr"
 latitude: 51.43875
 longitude: 6.823
 images:

@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Orangery Palace"
 latitude: 52.405
 longitude: 13.0296
 images:

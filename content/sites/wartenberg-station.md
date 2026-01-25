@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Wartenberg station"
 latitude: 52.57306
 longitude: 13.50389
 images:

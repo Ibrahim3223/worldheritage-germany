@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Königstuhl"
 latitude: 49.3981
 longitude: 8.72611
 images:

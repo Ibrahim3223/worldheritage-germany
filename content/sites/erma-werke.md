@@ -10,6 +10,7 @@ categories:
 - Factory
 regions:
 - Germany
+site_name: "Erma Werke"
 latitude: 48.25908611
 longitude: 11.44938611
 images:

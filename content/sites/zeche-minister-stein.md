@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Zeche Minister Stein"
 latitude: 51.5467
 longitude: 7.46417
 images:

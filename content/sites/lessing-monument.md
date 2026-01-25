@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Lessing Monument"
 latitude: 52.5119
 longitude: 13.375
 images:

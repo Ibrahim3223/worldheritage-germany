@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Unteruckersee"
 latitude: 53.28
 longitude: 13.864166666
 images:

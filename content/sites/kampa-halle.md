@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Kampa Halle"
 latitude: 52.2972
 longitude: 8.89222
 images:

@@ -10,6 +10,7 @@ categories:
 - Library
 regions:
 - Germany
+site_name: "Brunswick Palace"
 latitude: 52.2631
 longitude: 10.5272
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum der Brotkultur"
 latitude: 48.401
 longitude: 9.99008
 images:

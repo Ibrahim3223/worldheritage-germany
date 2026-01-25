@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Palais Schaumburg"
 latitude: 50.720233
 longitude: 7.117361
 images:

@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Crivitzer See"
 latitude: 53.576944444
 longitude: 11.641666666
 images:

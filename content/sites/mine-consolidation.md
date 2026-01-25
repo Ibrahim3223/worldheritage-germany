@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "mine Consolidation"
 latitude: 51.5306
 longitude: 7.11333
 images:

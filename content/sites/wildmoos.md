@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Wildmoos"
 latitude: 48.110277777
 longitude: 11.220833333
 images:

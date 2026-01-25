@@ -10,6 +10,7 @@ categories:
 - Fountain
 regions:
 - Germany
+site_name: "Fischerbuberl-Brunnen"
 latitude: 48.1345
 longitude: 11.596
 images:

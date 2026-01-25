@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Charlottenhof"
 latitude: 51.352444444
 longitude: 6.948111111
 images:

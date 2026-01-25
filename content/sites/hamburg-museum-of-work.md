@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Hamburg Museum of Work"
 latitude: 53.58583333
 longitude: 10.04565
 images:

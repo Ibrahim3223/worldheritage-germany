@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Feddersen Wierde"
 latitude: 53.6611
 longitude: 8.55
 images:

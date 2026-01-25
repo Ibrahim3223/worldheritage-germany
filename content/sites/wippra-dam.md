@@ -10,6 +10,7 @@ categories:
   - "Dam"
 regions:
   - "Germany"
+site_name: "Wippra Dam"
 latitude: 51.5666
 longitude: 11.2061
 images:

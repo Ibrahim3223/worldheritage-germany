@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "Library of the Monastery Metten"
 latitude: 48.8557
 longitude: 12.9184
 images:

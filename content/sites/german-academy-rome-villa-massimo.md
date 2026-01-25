@@ -10,6 +10,7 @@ categories:
 - Cultural Center
 regions:
 - Germany
+site_name: "German academy Rome Villa Massimo"
 latitude: 41.916713
 longitude: 12.519111
 images:

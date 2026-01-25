@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Erlachsee"
 latitude: 48.98441696
 longitude: 8.42951775
 images:

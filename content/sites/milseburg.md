@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Milseburg"
 latitude: 50.545
 longitude: 9.898055555
 

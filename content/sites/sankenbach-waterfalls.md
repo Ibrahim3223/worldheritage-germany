@@ -10,6 +10,7 @@ categories:
   - "Waterfall"
 regions:
   - "Germany"
+site_name: "Sankenbach Waterfalls"
 latitude: 48.4853
 longitude: 8.33328
 images:

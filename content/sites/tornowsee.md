@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Tornowsee"
 latitude: 53.0253
 longitude: 12.8031
 images:

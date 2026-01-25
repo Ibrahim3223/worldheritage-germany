@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burgstelle Kybfelsen"
 latitude: 47.96073
 longitude: 7.884972
 images:

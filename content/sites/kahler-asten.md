@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Kahler Asten"
 latitude: 51.179444444
 longitude: 8.488888888
 images:

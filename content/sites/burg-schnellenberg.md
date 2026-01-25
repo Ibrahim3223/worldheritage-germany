@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Schnellenberg"
 latitude: 51.12375
 longitude: 7.925694444
 images:

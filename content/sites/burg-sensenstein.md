@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Sensenstein"
 latitude: 51.3111
 longitude: 9.64444
 images:

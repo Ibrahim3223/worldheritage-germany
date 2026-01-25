@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Nolde Museum Seebüll"
 latitude: 54.8837
 longitude: 8.7731
 

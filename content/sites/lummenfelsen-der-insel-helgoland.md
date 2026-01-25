@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Lummenfelsen der Insel Helgoland"
 latitude: 54.186505555
 longitude: 7.873233333
 images:

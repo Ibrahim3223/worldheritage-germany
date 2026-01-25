@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Camburg"
 latitude: 51.0525
 longitude: 11.71138889
 images:

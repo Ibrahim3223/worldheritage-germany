@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "jewellery museum Pforzheim"
 latitude: 48.8861
 longitude: 8.69755
 images:

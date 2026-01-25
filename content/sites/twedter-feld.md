@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Twedter Feld"
 latitude: 54.80542222
 longitude: 9.49062778
 images:

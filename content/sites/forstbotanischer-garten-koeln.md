@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Forstbotanischer Garten Köln"
 latitude: 50.885
 longitude: 6.97944
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Palaeontological Museum, Munich"
 latitude: 48.1476
 longitude: 11.5638
 images:

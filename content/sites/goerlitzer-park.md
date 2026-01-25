@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Görlitzer Park"
 latitude: 52.496419444
 longitude: 13.437797222
 images:

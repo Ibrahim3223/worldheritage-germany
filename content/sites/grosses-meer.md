@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Großes Meer"
 latitude: 53.43083333
 longitude: 7.29444444
 images:

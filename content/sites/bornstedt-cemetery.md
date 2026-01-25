@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Bornstedt Cemetery"
 latitude: 52.4087
 longitude: 13.0288
 images:

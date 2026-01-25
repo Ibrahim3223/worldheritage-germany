@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Mittelrhein-Museum"
 latitude: 50.3588
 longitude: 7.59622
 images:

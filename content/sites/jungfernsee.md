@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Jungfernsee"
 latitude: 52.416666666
 longitude: 13.083333333
 images:

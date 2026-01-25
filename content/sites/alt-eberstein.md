@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Alt Eberstein"
 latitude: 48.7839
 longitude: 8.27056
 images:

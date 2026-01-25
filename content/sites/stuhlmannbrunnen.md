@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Stuhlmannbrunnen"
 latitude: 53.5498496
 longitude: 9.9354829
 images:

@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Friedhof II der Sophiengemeinde Berlin"
 latitude: 52.5339
 longitude: 13.3917
 images:

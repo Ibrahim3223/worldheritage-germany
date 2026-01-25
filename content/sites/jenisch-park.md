@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Jenisch park"
 latitude: 53.5525
 longitude: 9.86555556
 images:

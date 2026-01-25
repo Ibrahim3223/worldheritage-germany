@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Eberbach"
 latitude: 49.4664
 longitude: 8.99972
 images:

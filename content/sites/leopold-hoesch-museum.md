@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Leopold-Hoesch-Museum"
 latitude: 50.8015
 longitude: 6.47933
 

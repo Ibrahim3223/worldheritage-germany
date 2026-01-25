@@ -11,6 +11,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Baumburger Turm"
 latitude: 49.01994
 longitude: 12.09604
 images:

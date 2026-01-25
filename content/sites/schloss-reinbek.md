@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Reinbek"
 latitude: 53.5073
 longitude: 10.2539
 

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Lutherhaus Eisenach"
 latitude: 50.9731
 longitude: 10.3203
 images:

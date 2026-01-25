@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Friedhof der Märzgefallenen"
 latitude: 52.524444444
 longitude: 13.436388888
 images:

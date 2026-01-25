@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Grumsiner Forst/Redernswalde"
 latitude: 53.0
 longitude: 13.8333
 images:

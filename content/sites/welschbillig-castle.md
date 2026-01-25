@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Welschbillig Castle"
 latitude: 49.8533
 longitude: 6.56869
 

@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Holstenstrasse station"
 latitude: 53.56194444
 longitude: 9.95027778
 images:

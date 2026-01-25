@@ -10,6 +10,7 @@ categories:
 - Library
 regions:
 - Germany
+site_name: "Fürstliche Bibliothek Corvey"
 latitude: 51.7791
 longitude: 9.40981
 images:

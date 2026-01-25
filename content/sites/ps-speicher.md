@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "PS Speicher"
 latitude: 51.8195
 longitude: 9.8601
 images:

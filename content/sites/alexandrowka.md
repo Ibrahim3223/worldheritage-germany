@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Alexandrowka"
 latitude: 52.41056
 longitude: 13.05694
 images:

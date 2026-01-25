@@ -10,6 +10,7 @@ categories:
 - City Gate
 regions:
 - Germany
+site_name: "Holstentor"
 latitude: 53.8662
 longitude: 10.6797
 images:

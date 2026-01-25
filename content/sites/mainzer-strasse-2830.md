@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Mainzer Straße 28/30"
 latitude: 50.6361
 longitude: 7.20611
 images:

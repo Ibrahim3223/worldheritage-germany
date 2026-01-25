@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schwarzenberg Castle"
 latitude: 50.5373
 longitude: 12.7874
 images:

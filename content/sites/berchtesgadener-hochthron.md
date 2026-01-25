@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Berchtesgadener Hochthron"
 latitude: 47.694027777
 longitude: 12.986111111
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Boosenburg"
 latitude: 49.9783
 longitude: 7.91806
 images:

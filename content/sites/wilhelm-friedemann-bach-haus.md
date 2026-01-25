@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Wilhelm-Friedemann-Bach-Haus"
 latitude: 51.483
 longitude: 11.965
 images:

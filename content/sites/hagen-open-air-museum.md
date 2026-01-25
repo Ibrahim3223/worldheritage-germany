@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Hagen Open-air Museum"
 latitude: 51.334722222
 longitude: 7.477222222
 images:

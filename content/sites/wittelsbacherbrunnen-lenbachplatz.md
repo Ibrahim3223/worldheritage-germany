@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Wittelsbacherbrunnen (Lenbachplatz)"
 latitude: 48.1411
 longitude: 11.5692
 images:

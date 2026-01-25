@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum für Ur- und Frühgeschichte Thüringens"
 latitude: 50.975494444
 longitude: 11.326041666
 images:

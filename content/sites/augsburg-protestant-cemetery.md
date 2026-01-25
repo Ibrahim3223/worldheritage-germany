@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Augsburg Protestant Cemetery"
 latitude: 48.354
 longitude: 10.9003
 images:

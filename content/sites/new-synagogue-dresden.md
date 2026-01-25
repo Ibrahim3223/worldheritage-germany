@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "New Synagogue (Dresden)"
 latitude: 51.0521
 longitude: 13.7465
 images:

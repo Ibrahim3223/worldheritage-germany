@@ -10,6 +10,7 @@ categories:
 - River
 regions:
 - Germany
+site_name: "Aller"
 latitude: 52.945825
 longitude: 9.18561389
 images:

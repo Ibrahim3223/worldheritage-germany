@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Palais Hardenberg"
 latitude: 52.5113
 longitude: 13.399
 images:

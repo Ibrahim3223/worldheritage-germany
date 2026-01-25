@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Weltkugelbrunnen"
 latitude: 52.5047
 longitude: 13.3365
 images:

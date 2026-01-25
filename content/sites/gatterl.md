@@ -10,6 +10,7 @@ categories:
 - Gorge
 regions:
 - Germany
+site_name: "Gatterl"
 latitude: 47.396344
 longitude: 11.016514
 images:

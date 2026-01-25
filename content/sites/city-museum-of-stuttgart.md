@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "City Museum of Stuttgart"
 latitude: 48.77608
 longitude: 9.18411
 images:

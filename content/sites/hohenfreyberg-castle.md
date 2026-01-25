@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Hohenfreyberg Castle"
 latitude: 47.6138
 longitude: 10.5877
 images:

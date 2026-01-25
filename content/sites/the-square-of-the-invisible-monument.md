@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "The Square Of The Invisible Monument"
 latitude: 49.2305
 longitude: 6.99157
 images:

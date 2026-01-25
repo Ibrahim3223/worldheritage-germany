@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Schlosstheater Ludwigsburg"
 latitude: 48.90022
 longitude: 9.19694
 images:

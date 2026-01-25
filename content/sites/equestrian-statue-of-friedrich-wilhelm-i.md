@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Equestrian statue of Friedrich Wilhelm I"
 latitude: 52.5205351
 longitude: 13.2957624
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Schussenried Abbey"
 latitude: 48.0073
 longitude: 9.65858
 images:

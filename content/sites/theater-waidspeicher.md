@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Theater Waidspeicher"
 latitude: 50.9769
 longitude: 11.0258
 images:

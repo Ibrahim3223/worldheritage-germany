@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Karl-Marx-House museum"
 latitude: 49.753889
 longitude: 6.635556
 images:

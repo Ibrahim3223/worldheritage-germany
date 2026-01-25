@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "treasury of the Cathedral of Trier"
 latitude: 49.755922
 longitude: 6.643994
 images:

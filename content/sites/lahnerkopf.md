@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Lahnerkopf"
 latitude: 47.429166666
 longitude: 10.463333333
 images:

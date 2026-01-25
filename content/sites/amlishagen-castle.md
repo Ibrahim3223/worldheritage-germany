@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Amlishagen Castle"
 latitude: 49.2625
 longitude: 9.96194
 images:

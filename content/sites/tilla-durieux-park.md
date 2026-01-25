@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Tilla-Durieux-Park"
 latitude: 52.506344444
 longitude: 13.375111111
 images:

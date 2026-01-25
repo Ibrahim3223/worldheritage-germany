@@ -10,6 +10,7 @@ categories:
 - Factory
 regions:
 - Germany
+site_name: "AEG’s Turbine factory"
 latitude: 52.530019975
 longitude: 13.322750361
 images:

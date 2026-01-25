@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Max Ernst Museum"
 latitude: 50.8302
 longitude: 6.90992
 images:

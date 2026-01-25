@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Zeche Westende"
 latitude: 51.465
 longitude: 6.73934
 images:

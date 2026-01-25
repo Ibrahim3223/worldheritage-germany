@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Zeche Pluto"
 latitude: 51.5325
 longitude: 7.14261
 images:

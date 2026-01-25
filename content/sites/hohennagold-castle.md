@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Hohennagold Castle"
 latitude: 48.5533
 longitude: 8.71667
 images:

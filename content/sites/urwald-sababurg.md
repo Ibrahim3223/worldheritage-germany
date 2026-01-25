@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Urwald Sababurg"
 latitude: 51.5425
 longitude: 9.50806
 images:

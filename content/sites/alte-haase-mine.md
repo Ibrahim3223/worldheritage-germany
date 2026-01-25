@@ -10,6 +10,7 @@ categories:
 - Mine
 regions:
 - Germany
+site_name: "Alte Haase mine"
 latitude: 51.3722
 longitude: 7.24361
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum of Asian Art"
 latitude: 52.5175
 longitude: 13.402778055
 

@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Ravensberg Watertower"
 latitude: 54.341245
 longitude: 10.128996
 images:

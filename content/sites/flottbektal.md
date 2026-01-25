@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Flottbektal"
 latitude: 53.5494
 longitude: 9.86917
 images:

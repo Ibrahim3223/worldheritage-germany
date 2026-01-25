@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Orgelzentrum Valley"
 latitude: 47.89317
 longitude: 11.77991
 images:

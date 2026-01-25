@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Das Schiff"
 latitude: 53.54595611
 longitude: 9.98790806
 images:

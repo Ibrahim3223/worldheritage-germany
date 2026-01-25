@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Jenisch House"
 latitude: 53.5525
 longitude: 9.86555556
 images:

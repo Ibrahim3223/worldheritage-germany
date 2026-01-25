@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Hochkarspitze"
 latitude: 47.4475
 longitude: 11.35
 images:

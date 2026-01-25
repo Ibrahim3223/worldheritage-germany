@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum der Weltkulturen"
 latitude: 50.1056
 longitude: 8.67889
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Altfriesisches Haus"
 latitude: 54.8956214
 longitude: 8.3727097
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Waddensea of Hamburg Biosphere Reserve"
 latitude: 53.935327777
 longitude: 8.472694444
 

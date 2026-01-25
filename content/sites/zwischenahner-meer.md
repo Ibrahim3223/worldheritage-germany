@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Zwischenahner Meer"
 latitude: 53.197632
 longitude: 8.016015
 images:

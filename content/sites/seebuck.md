@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Seebuck"
 latitude: 47.864444444
 longitude: 8.022222222
 images:

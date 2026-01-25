@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Lahneck Castle"
 latitude: 50.3063
 longitude: 7.61246
 

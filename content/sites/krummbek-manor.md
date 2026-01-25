@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Krummbek Manor"
 latitude: 53.7508
 longitude: 10.3942
 images:

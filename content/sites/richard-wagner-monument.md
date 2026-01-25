@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Richard Wagner Monument"
 latitude: 52.51
 longitude: 13.3622
 images:

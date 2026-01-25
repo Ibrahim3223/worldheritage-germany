@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Grocers' Apartments"
 latitude: 53.548
 longitude: 9.9802
 images:

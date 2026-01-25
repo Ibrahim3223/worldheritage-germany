@@ -10,6 +10,7 @@ categories:
 - Mosque
 regions:
 - Germany
+site_name: "DITIB-Merkez-Moschee"
 latitude: 51.5094
 longitude: 6.75389
 images:

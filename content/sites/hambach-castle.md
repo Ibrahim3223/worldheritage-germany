@@ -11,6 +11,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Hambach Castle"
 latitude: 49.325
 longitude: 8.11861
 images:

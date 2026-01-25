@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Gentzrode"
 latitude: 52.9792
 longitude: 12.7969
 images:

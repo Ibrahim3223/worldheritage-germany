@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Prinzregenten-Theater"
 latitude: 49.4893
 longitude: 8.43818
 images:

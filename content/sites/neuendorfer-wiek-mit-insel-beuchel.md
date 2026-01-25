@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Neuendorfer Wiek mit Insel Beuchel"
 latitude: 54.53582
 longitude: 13.30067
 images:

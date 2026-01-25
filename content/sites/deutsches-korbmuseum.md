@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Deutsches Korbmuseum"
 latitude: 50.162047
 longitude: 11.113764
 images:

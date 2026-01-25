@@ -11,6 +11,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Imperial Palace Ingelheim"
 latitude: 49.9775
 longitude: 8.0715
 images:

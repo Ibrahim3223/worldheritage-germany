@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Schwarzberger Moor"
 latitude: 54.8778
 longitude: 8.9875
 images:

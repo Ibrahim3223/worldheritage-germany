@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Zeppelin Museum Zeppelinheim"
 latitude: 50.035
 longitude: 8.6146
 images:

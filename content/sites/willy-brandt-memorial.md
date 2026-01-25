@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Willy Brandt Memorial"
 latitude: 49.4483
 longitude: 11.0865
 images:

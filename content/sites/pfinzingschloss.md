@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Pfinzingschloss"
 latitude: 49.375174708
 longitude: 11.211690564
 images:

@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Mine Rosenhof"
 latitude: 51.80466
 longitude: 10.32407
 images:

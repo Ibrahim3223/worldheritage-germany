@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Westend-Synagoge"
 latitude: 50.1211
 longitude: 8.66444
 images:

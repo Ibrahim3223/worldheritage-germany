@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Kunststätte Bossard"
 latitude: 53.282
 longitude: 9.941
 images:

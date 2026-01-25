@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Gebhardshagen"
 latitude: 52.1042
 longitude: 10.3587
 images:

@@ -10,6 +10,7 @@ categories:
   - "Cave"
 regions:
   - "Germany"
+site_name: "Prinzenhöhle"
 latitude: 50.63683333
 longitude: 12.67983333
 images:

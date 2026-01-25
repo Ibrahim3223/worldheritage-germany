@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Jagdschloss Lopshorn"
 latitude: 51.9026
 longitude: 8.78784
 images:

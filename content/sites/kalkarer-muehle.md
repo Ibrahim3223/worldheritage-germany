@@ -10,6 +10,7 @@ categories:
   - "Windmill"
 regions:
   - "Germany"
+site_name: "Kalkarer Mühle"
 latitude: 51.7397
 longitude: 6.295667
 images:

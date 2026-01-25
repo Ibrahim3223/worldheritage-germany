@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten Augsburg"
 latitude: 48.349769511
 longitude: 10.912423818
 images:

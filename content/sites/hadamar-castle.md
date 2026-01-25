@@ -10,6 +10,7 @@ categories:
 - Courthouse
 regions:
 - Germany
+site_name: "Hadamar Castle"
 latitude: 50.4473
 longitude: 8.045
 images:

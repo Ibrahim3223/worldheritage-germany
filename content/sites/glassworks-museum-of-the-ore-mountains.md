@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Glassworks Museum of the Ore Mountains"
 latitude: 50.6775
 longitude: 13.4622
 images:

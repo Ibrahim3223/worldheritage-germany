@@ -10,6 +10,7 @@ categories:
   - "Waterfall"
 regions:
   - "Germany"
+site_name: "Trusetaler Wasserfall"
 latitude: 50.7953
 longitude: 10.4175
 images:

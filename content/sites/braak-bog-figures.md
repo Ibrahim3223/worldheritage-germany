@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Braak Bog Figures"
 latitude: 54.1034
 longitude: 10.5931
 images:

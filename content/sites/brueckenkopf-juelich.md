@@ -10,6 +10,7 @@ categories:
 - Fortress
 regions:
 - Germany
+site_name: "Brückenkopf Jülich"
 latitude: 50.9208
 longitude: 6.35019
 images:

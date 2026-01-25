@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Borbeck"
 latitude: 51.468333333
 longitude: 6.942222222
 

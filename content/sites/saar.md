@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Saar"
 latitude: 49.701388888
 longitude: 6.57
 images:

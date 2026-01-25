@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Schnook, Außendeichsflächen bei Geversdorf"
 latitude: 53.79416667
 longitude: 9.10805556
 images:

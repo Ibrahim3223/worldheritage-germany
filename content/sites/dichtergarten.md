@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Dichtergarten"
 latitude: 48.144064294
 longitude: 11.581718516
 images:

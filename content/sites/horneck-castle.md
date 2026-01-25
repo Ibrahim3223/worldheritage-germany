@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Horneck Castle"
 latitude: 49.2867
 longitude: 9.156
 images:

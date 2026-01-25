@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Weimar"
 latitude: 50.980277777
 longitude: 11.332222222
 

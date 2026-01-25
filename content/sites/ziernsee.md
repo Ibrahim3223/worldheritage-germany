@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Ziernsee"
 latitude: 53.208192
 longitude: 13.076992
 images:

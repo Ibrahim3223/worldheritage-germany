@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum for Architectural Drawing"
 latitude: 52.532071
 longitude: 13.410031
 images:

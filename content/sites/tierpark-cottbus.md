@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Tierpark Cottbus"
 latitude: 51.7444
 longitude: 14.3531
 images:

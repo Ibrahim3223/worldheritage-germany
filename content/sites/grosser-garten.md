@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Großer Garten"
 latitude: 51.0375
 longitude: 13.763055555
 images:

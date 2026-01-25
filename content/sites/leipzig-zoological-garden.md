@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Leipzig Zoological Garden"
 latitude: 51.34842
 longitude: 12.3706
 images:

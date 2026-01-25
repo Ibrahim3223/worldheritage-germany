@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Windecken"
 latitude: 50.2237
 longitude: 8.88054
 images:

@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Hornbosteler Hutweide"
 latitude: 52.6864
 longitude: 9.85389
 images:

@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Buddenturm"
 latitude: 51.9663
 longitude: 7.62303
 images:

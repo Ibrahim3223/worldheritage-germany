@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Telemann-Museum"
 latitude: 53.55123889
 longitude: 9.97654722
 images:

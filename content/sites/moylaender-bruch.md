@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Moyländer Bruch"
 latitude: 51.754166944
 longitude: 6.228056111
 images:

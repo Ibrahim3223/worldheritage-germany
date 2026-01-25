@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagoge Stommeln"
 latitude: 51.0198
 longitude: 6.75887
 images:

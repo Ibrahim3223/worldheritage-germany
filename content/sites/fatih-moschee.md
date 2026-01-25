@@ -10,6 +10,7 @@ categories:
 - Mosque
 regions:
 - Germany
+site_name: "Fatih-Moschee"
 latitude: 48.8992
 longitude: 8.72667
 images:

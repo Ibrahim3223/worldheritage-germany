@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "Congress Center Hamburg"
 latitude: 53.56166667
 longitude: 9.98694444
 images:

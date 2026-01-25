@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Theater Regensburg"
 latitude: 49.0192
 longitude: 12.0897
 images:

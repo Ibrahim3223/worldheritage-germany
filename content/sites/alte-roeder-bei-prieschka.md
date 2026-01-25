@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Alte Röder bei Prieschka"
 latitude: 51.4833
 longitude: 13.4333
 images:

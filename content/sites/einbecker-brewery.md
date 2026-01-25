@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Einbecker Brewery"
 latitude: 51.815833333
 longitude: 9.863333333
 images:

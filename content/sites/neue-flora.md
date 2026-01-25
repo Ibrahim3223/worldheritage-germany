@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Neue Flora"
 latitude: 53.5625
 longitude: 9.95027778
 images:

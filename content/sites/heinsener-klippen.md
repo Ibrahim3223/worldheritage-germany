@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Heinsener Klippen"
 latitude: 51.88947
 longitude: 9.45488
 images:

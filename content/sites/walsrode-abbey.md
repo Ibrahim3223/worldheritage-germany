@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Walsrode Abbey"
 latitude: 52.8605
 longitude: 9.59659
 images:

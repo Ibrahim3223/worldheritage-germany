@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Zwillbrocker Venn"
 latitude: 52.0453
 longitude: 6.7
 images:

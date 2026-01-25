@@ -10,6 +10,7 @@ categories:
   - "Cinema"
 regions:
   - "Germany"
+site_name: "Ufa-Kristallpalast, Dresden"
 latitude: 51.0441
 longitude: 13.7375
 images:

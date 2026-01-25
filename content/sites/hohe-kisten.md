@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Hohe Kisten"
 latitude: 47.561944444
 longitude: 11.209166666
 images:

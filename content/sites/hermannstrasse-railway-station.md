@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Hermannstraße railway station"
 latitude: 52.4675
 longitude: 13.431111111
 images:

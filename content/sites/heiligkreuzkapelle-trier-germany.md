@@ -10,6 +10,7 @@ categories:
 - Chapel
 regions:
 - Germany
+site_name: "Heiligkreuzkapelle (Trier, Germany)"
 latitude: 49.741664
 longitude: 6.640969
 images:

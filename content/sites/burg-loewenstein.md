@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Löwenstein"
 latitude: 49.7371
 longitude: 7.79069
 images:

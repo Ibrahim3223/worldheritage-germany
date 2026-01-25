@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Gipsformerei"
 latitude: 52.5192
 longitude: 13.2867
 images:

@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Karlshöhe"
 latitude: 48.76804
 longitude: 9.1642
 images:

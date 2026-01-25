@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Bachtal Saure Epscheid"
 latitude: 51.275
 longitude: 7.505416666
 images:

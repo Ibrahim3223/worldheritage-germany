@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Veynau"
 latitude: 50.639
 longitude: 6.71828
 images:

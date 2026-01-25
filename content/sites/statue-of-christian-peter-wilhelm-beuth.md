@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "statue of Christian Peter Wilhelm Beuth"
 latitude: 52.5166435
 longitude: 13.398722
 images:

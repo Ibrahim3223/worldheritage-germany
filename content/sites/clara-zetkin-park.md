@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Clara-Zetkin-Park"
 latitude: 51.33067
 longitude: 12.35564
 images:

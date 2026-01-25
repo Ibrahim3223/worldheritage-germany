@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "Berthold Leibinger Stiftung"
 latitude: 48.819135
 longitude: 9.069614
 images:

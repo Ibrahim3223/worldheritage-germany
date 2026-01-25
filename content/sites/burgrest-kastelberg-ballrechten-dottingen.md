@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burgrest Kastelberg, Ballrechten-Dottingen"
 latitude: 47.851
 longitude: 7.7049
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Schweinsberg"
 latitude: 50.7676
 longitude: 8.9614
 images:

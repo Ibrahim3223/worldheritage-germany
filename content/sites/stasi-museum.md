@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Stasi Museum"
 latitude: 52.51444444
 longitude: 13.4875
 images:

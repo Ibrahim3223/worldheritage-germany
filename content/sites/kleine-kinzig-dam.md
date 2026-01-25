@@ -10,6 +10,7 @@ categories:
   - "Dam"
 regions:
   - "Germany"
+site_name: "Kleine Kinzig Dam"
 latitude: 48.3989
 longitude: 8.36556
 images:

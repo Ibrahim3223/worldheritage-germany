@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue in Ober-Erlenbach"
 latitude: 50.22608
 longitude: 8.680361
 images:

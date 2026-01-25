@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Rose Garden"
 latitude: 50.2528
 longitude: 10.9656
 images:

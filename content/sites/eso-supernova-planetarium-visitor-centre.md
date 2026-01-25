@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "ESO Supernova Planetarium & Visitor Centre"
 latitude: 48.26025
 longitude: 11.670878
 images:

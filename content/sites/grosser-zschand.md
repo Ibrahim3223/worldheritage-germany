@@ -10,6 +10,7 @@ categories:
 - Valley
 regions:
 - Germany
+site_name: "Großer Zschand"
 latitude: 50.90866
 longitude: 14.29885
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Satzvey"
 latitude: 50.6199
 longitude: 6.70651
 images:

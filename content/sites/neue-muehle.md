@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Neue Mühle"
 latitude: 50.9767
 longitude: 11.03
 images:

@@ -10,6 +10,7 @@ categories:
   - "Cave"
 regions:
   - "Germany"
+site_name: "Unicorn Cave"
 latitude: 51.635
 longitude: 10.4042
 images:

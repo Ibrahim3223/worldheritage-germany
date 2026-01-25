@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "OsnabrückHalle"
 latitude: 52.2715
 longitude: 8.04185
 images:

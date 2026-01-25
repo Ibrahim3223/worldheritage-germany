@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Otzberg Castle"
 latitude: 49.8197
 longitude: 8.91083
 

@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Forstbotanischer Garten Tharandt"
 latitude: 50.984363
 longitude: 13.57819
 images:

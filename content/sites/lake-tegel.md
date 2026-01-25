@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Lake Tegel"
 latitude: 52.583333333
 longitude: 13.266666666
 images:

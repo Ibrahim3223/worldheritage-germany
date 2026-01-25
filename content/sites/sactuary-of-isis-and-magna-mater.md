@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Sactuary of Isis and Magna Mater"
 latitude: 50.00135
 longitude: 8.26797
 

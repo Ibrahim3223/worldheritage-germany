@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Platz des 18. März"
 latitude: 52.516277777
 longitude: 13.377361111
 images:

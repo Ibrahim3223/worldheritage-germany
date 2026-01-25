@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "GFZ Helmholtz Centre for Geosciences"
 latitude: 52.3826
 longitude: 13.0644
 images:

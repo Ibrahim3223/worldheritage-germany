@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Marienburg"
 latitude: 50.0434
 longitude: 7.13676
 images:

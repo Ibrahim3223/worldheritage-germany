@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Wildenstein Castle (Palatinate)"
 latitude: 49.6142
 longitude: 7.9249
 

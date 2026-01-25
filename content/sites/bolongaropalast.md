@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Bolongaropalast"
 latitude: 50.1011
 longitude: 8.55222
 images:

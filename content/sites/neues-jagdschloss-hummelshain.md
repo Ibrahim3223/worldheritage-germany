@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Neues Jagdschloss Hummelshain"
 latitude: 50.7701
 longitude: 11.6278
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Wertheim"
 latitude: 49.75887
 longitude: 9.51991
 images:

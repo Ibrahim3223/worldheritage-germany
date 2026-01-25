@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Weimarhalle"
 latitude: 50.983735
 longitude: 11.325183
 images:

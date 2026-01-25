@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Hessisches Staatstheater Wiesbaden"
 latitude: 50.0836
 longitude: 8.24583
 images:

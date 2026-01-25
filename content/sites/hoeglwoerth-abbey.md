@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Höglwörth Abbey"
 latitude: 47.815
 longitude: 12.8453
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Deutsches Musikautomaten-Museum"
 latitude: 49.1287
 longitude: 8.59796
 images:

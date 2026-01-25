@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Vorderasiatisches Museum Berlin"
 latitude: 52.52069444
 longitude: 13.39680556
 images:

@@ -10,6 +10,7 @@ categories:
   - "Cinema"
 regions:
   - "Germany"
+site_name: "Marmorhaus"
 latitude: 52.5042
 longitude: 13.3344
 images:

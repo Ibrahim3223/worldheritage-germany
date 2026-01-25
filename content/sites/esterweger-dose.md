@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Esterweger Dose"
 latitude: 53.0461
 longitude: 7.63472
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Ziesar"
 latitude: 52.2626
 longitude: 12.2868
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Stickhausen Castle"
 latitude: 53.218
 longitude: 7.64321
 

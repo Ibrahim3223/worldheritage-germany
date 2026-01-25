@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Reisenbach Telecommunication Tower"
 latitude: 49.5067
 longitude: 9.11519
 images:

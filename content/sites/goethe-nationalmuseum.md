@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Goethe-Nationalmuseum"
 latitude: 50.9776
 longitude: 11.3287
 images:

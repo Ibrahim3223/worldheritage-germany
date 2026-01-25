@@ -11,6 +11,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Gedenkstätte Poppenhausen"
 latitude: 50.2553623
 longitude: 10.7240954
 images:

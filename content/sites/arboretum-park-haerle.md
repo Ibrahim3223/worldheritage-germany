@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Arboretum Park Härle"
 latitude: 50.7152
 longitude: 7.16911
 images:

@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Horstsee"
 latitude: 53.594166666
 longitude: 9.461666666
 images:

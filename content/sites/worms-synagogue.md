@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Worms Synagogue"
 latitude: 49.6336
 longitude: 8.36634
 images:

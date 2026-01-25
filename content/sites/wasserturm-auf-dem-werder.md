@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Wasserturm auf dem Werder"
 latitude: 53.0683
 longitude: 8.81028
 images:

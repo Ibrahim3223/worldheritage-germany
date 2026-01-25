@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Nieklitzer Moor"
 latitude: 53.4981
 longitude: 10.8809
 images:

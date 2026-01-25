@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Richard-Strauss-Brunnen"
 latitude: 48.1386
 longitude: 11.5696
 images:

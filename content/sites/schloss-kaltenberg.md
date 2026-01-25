@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Kaltenberg"
 latitude: 48.131876483
 longitude: 10.994139557
 

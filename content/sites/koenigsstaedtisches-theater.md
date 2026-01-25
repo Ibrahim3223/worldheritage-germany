@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Königsstädtisches Theater"
 latitude: 52.5204
 longitude: 13.4154
 images:

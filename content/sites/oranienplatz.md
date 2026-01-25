@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Oranienplatz"
 latitude: 52.5022
 longitude: 13.4158
 images:

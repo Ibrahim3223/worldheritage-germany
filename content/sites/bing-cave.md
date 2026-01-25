@@ -10,6 +10,7 @@ categories:
 - Cave
 regions:
 - Germany
+site_name: "Bing Cave"
 latitude: 49.8122
 longitude: 11.2169
 images:

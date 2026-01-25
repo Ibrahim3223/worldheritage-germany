@@ -10,6 +10,7 @@ categories:
   - "Gorge"
 regions:
   - "Germany"
+site_name: "Steinpass"
 latitude: 47.6708
 longitude: 12.7569
 images:

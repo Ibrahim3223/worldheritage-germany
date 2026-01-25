@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Bursfelde Abbey"
 latitude: 51.541667
 longitude: 9.624722
 images:

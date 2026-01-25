@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Federsee"
 latitude: 48.083333333
 longitude: 9.633333333
 images:

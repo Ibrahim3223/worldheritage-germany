@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Salem Abbey"
 latitude: 47.77611111
 longitude: 9.27722222
 images:

@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Kiehnmoor"
 latitude: 52.9314
 longitude: 10.2458
 images:

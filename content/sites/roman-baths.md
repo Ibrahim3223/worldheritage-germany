@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Roman Baths"
 latitude: 52.397778
 longitude: 13.028333
 images:

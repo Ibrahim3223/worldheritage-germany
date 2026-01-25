@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Grimkesee"
 latitude: 53.621388888
 longitude: 11.393888888
 images:

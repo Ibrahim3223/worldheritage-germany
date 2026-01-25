@@ -10,6 +10,7 @@ categories:
   - "Dam"
 regions:
   - "Germany"
+site_name: "Sosa Dam"
 latitude: 50.4881
 longitude: 12.6497
 images:

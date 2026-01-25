@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "Evangelisches Johannesstift"
 latitude: 52.570123
 longitude: 13.196888
 images:

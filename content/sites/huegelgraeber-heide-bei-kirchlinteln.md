@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Hügelgräber-Heide bei Kirchlinteln"
 latitude: 52.9317
 longitude: 9.31639
 images:

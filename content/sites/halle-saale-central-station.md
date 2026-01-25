@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Halle (Saale) Central Station"
 latitude: 51.4781
 longitude: 11.9867
 images:

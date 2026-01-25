@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Kloster Graefenthal"
 latitude: 51.7058
 longitude: 6.10611
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Tettnang Castle"
 latitude: 47.669988
 longitude: 9.584959
 images:

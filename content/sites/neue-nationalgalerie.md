@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Neue Nationalgalerie"
 latitude: 52.506944444
 longitude: 13.367777777
 

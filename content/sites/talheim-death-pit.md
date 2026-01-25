@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Talheim Death Pit"
 latitude: 49.0826
 longitude: 9.18604
 

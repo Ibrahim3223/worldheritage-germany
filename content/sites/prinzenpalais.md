@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Prinzenpalais"
 latitude: 53.13638889
 longitude: 8.21777778
 images:

@@ -5,6 +5,12 @@ slug: "kirche-zum-heiligen-kreuz"
 region: "Berlin"
 
 # Location
+image_srcset:
+  Kirche%20zum%20Heiligen%20Kreuz%2020161227%205.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kirche_zum_Heiligen_Kreuz_20161227_5.jpg/400px-Kirche_zum_Heiligen_Kreuz_20161227_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kirche_zum_Heiligen_Kreuz_20161227_5.jpg/800px-Kirche_zum_Heiligen_Kreuz_20161227_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kirche_zum_Heiligen_Kreuz_20161227_5.jpg/1200px-Kirche_zum_Heiligen_Kreuz_20161227_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kirche_zum_Heiligen_Kreuz_20161227_5.jpg/1920px-Kirche_zum_Heiligen_Kreuz_20161227_5.jpg
 latitude: 52.4906
 longitude: 13.3264
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1116450"
 description: "In the heart of Berlin-Wilmersdorf, the Kirche Zum Heiligen Kreuz stands as a significant religious and architectural landmark. This church invites visi..."
 images:
-  - "/images/kirche-zum-heiligen-kreuz/01-e1fb7353-1920w.webp"
-  - "/images/kirche-zum-heiligen-kreuz/02-b78a5c8e-1920w.webp"
-  - "/images/kirche-zum-heiligen-kreuz/03-8966dd1d-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kirche_zum_Heiligen_Kreuz_20161227_5.jpg/1200px-Kirche_zum_Heiligen_Kreuz_20161227_5.jpg
 ---
 
 ## Overview

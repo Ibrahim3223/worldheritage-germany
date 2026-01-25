@@ -5,6 +5,12 @@ slug: "kirche-katzow"
 region: "Mecklenburg-Vorpommern"
 
 # Location
+image_srcset:
+  Katzow%20Kirche3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Katzow_Kirche3.jpg/400px-Katzow_Kirche3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Katzow_Kirche3.jpg/800px-Katzow_Kirche3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Katzow_Kirche3.jpg/1200px-Katzow_Kirche3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Katzow_Kirche3.jpg/1920px-Katzow_Kirche3.jpg
 latitude: 54.0486
 longitude: 13.671
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q2319471"
 description: "In the quaint village of Katzow, Germany, lies a remarkable church building that captures the essence of local heritage and architectural beauty: Kirche..."
 images:
-  - "/images/kirche-katzow/01-290ea8e3-1920w.webp"
-  - "/images/kirche-katzow/02-df364123-1920w.webp"
-  - "/images/kirche-katzow/03-20bb92ff-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Katzow_Kirche3.jpg/1200px-Katzow_Kirche3.jpg
 ---
 
 ## Overview

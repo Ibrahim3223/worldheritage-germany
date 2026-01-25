@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Staatstheater am Gärtnerplatz"
 latitude: 48.131111111
 longitude: 11.575555555
 images:

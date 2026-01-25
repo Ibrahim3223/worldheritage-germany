@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Tier- und Pflanzenpark Fasanerie"
 latitude: 50.1025
 longitude: 8.19222
 images:

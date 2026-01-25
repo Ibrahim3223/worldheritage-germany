@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Kühkopf-Knoblochsaue"
 latitude: 49.8239
 longitude: 8.4491
 images:

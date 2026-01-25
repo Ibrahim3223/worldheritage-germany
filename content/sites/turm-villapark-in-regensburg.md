@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Turm Villapark in Regensburg"
 latitude: 49.01948
 longitude: 12.1071
 images:

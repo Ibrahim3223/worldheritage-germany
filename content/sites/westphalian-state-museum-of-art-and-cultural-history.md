@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Westphalian State Museum of Art and Cultural History"
 latitude: 51.9619
 longitude: 7.62444
 

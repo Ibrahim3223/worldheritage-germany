@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Abenberg Castle"
 latitude: 49.24333
 longitude: 10.96324
 images:

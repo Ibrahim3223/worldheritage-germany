@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Lusen"
 latitude: 48.939166666
 longitude: 13.506944444
 images:

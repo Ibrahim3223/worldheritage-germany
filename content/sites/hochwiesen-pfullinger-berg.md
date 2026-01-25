@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Hochwiesen-Pfullinger Berg"
 latitude: 48.433333333
 longitude: 9.1825
 images:

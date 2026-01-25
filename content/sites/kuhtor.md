@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Kuhtor"
 latitude: 54.0867
 longitude: 12.1436
 images:

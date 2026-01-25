@@ -10,6 +10,7 @@ categories:
   - "Roman Villa"
 regions:
   - "Germany"
+site_name: "Rinkenwall"
 latitude: 48.5151
 longitude: 8.3656
 images:

@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Landesfunkhaus Niedersachsen"
 latitude: 52.36069
 longitude: 9.74175
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Monastery Unser Lieben Frauen Magdeburg"
 latitude: 52.1278
 longitude: 11.637
 images:

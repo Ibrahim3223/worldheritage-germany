@@ -10,6 +10,7 @@ categories:
   - "School Building"
 regions:
   - "Germany"
+site_name: "Wilhelm-Dörpfeld-Gymnasium"
 latitude: 51.2542
 longitude: 7.14389
 images:

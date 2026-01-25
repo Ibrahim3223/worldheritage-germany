@@ -10,6 +10,7 @@ categories:
 - School Building
 regions:
 - Germany
+site_name: "Aula Carolina"
 latitude: 50.777
 longitude: 6.08297
 images:

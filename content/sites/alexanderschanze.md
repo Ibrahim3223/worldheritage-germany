@@ -10,6 +10,7 @@ categories:
 - Gorge
 regions:
 - Germany
+site_name: "Alexanderschanze"
 latitude: 48.4797
 longitude: 8.27583
 images:

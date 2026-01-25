@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Alamannenmuseum Ellwangen"
 latitude: 48.9641
 longitude: 10.1278
 images:

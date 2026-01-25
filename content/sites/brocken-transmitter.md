@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Brocken Transmitter"
 latitude: 51.8002
 longitude: 10.6144
 images:

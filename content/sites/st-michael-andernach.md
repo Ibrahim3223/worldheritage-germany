@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "St. Michael (Andernach)"
 latitude: 50.4323
 longitude: 7.40675
 images:

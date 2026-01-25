@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Großer Tiergarten"
 latitude: 52.516666666
 longitude: 13.366666666
 images:

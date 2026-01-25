@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Zeche Bonifacius"
 latitude: 51.4736
 longitude: 7.08444
 images:

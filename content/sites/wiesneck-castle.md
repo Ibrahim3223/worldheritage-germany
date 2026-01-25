@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Wiesneck Castle"
 latitude: 47.96666944
 longitude: 7.99966389
 

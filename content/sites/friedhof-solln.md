@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Friedhof Solln"
 latitude: 48.0787
 longitude: 11.5178
 images:

@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Uber Arena"
 latitude: 52.505556
 longitude: 13.443333
 images:

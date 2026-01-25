@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Humboldt Forum"
 latitude: 52.5175
 longitude: 13.40277778
 images:

@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Waldshut station"
 latitude: 47.621368
 longitude: 8.219526
 images:

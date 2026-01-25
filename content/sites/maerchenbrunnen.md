@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Märchenbrunnen"
 latitude: 52.5281
 longitude: 13.4269
 images:

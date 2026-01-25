@@ -5,6 +5,12 @@ slug: "kirche-am-hohenzollernplatz"
 region: "Berlin"
 
 # Location
+image_srcset:
+  Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg/400px-Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg/800px-Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg/1200px-Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg/1920px-Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg
 latitude: 52.494144444444
 longitude: 13.326994444444
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1742773"
 description: "In the heart of Berlin-Wilmersdorf, an intriguing architectural gem emerges from the urban landscape: the Kirche am Hohenzollernplatz. This church, foun..."
 images:
-  - "/images/kirche-am-hohenzollernplatz/01-f14e9c55-1920w.webp"
-  - "/images/kirche-am-hohenzollernplatz/02-e3904584-1920w.webp"
-  - "/images/kirche-am-hohenzollernplatz/03-92e76614-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg/1200px-Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg
 ---
 
 ## Overview

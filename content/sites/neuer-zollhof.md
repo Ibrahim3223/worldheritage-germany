@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Neuer Zollhof"
 latitude: 51.216197222
 longitude: 6.757708333
 images:

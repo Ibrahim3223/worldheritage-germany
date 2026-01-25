@@ -10,6 +10,7 @@ categories:
 - River
 regions:
 - Germany
+site_name: "Brigach"
 latitude: 47.950833333
 longitude: 8.520277777
 images:

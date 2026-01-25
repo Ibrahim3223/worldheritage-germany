@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Grundloses Moor"
 latitude: 52.9035
 longitude: 9.55013
 images:

@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Jakobsberg Telecommunication Tower"
 latitude: 52.2416
 longitude: 8.93647
 images:

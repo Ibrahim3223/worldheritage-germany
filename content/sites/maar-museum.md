@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Maar Museum"
 latitude: 50.0906
 longitude: 6.80722
 images:

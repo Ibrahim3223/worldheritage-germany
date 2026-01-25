@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Albrecht Dürer's House"
 latitude: 49.4572
 longitude: 11.0739
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Wolfsburg Castle"
 latitude: 52.4392
 longitude: 10.7994
 

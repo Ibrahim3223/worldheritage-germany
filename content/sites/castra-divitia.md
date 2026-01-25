@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Castra Divitia"
 latitude: 50.937238
 longitude: 6.973596
 images:

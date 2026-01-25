@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Schauspiel Köln"
 latitude: 50.9374
 longitude: 6.9505
 images:

@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Nassau Nature Park"
 latitude: 50.33
 longitude: 7.81
 images:

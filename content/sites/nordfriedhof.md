@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Nordfriedhof"
 latitude: 48.175200935
 longitude: 11.602942471
 images:

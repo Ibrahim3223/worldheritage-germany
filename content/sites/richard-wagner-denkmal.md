@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Richard-Wagner-Denkmal"
 latitude: 51.34252
 longitude: 12.37042
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Sorge Border Museum"
 latitude: 51.6949
 longitude: 10.6859
 images:

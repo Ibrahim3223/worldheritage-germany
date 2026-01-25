@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Meistersingerhalle"
 latitude: 49.43732
 longitude: 11.10474
 images:

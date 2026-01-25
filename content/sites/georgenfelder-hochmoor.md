@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Georgenfelder Hochmoor"
 latitude: 50.729744444
 longitude: 13.746277777
 images:

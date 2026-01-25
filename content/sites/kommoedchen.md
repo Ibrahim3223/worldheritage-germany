@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Kom(m)ödchen"
 latitude: 51.2272
 longitude: 6.77556
 images:

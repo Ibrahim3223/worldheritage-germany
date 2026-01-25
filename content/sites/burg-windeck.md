@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Windeck"
 latitude: 50.8137
 longitude: 7.57888
 images:

@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Gunzenhauser Museum"
 latitude: 50.82861111
 longitude: 12.91527778
 images:

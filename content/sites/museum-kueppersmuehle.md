@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum Küppersmühle"
 latitude: 51.4411
 longitude: 6.775
 

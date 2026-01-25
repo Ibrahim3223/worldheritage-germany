@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "New Castle"
 latitude: 48.3537
 longitude: 8.96323
 

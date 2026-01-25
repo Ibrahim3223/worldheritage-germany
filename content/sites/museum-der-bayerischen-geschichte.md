@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum der Bayerischen Geschichte"
 latitude: 49.0199
 longitude: 12.1032
 images:

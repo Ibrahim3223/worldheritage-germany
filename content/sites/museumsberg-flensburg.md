@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museumsberg Flensburg"
 latitude: 54.7857
 longitude: 9.43158
 

@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Neumarkt"
 latitude: 51.0516
 longitude: 13.7403
 images:

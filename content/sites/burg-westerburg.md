@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Westerburg"
 latitude: 52.0142
 longitude: 10.8661
 images:

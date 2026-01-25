@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Augsburg Ice Hockey Museum"
 latitude: 48.375034
 longitude: 10.87913
 images:

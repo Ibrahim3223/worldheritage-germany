@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Cospudener See"
 latitude: 51.269444444
 longitude: 12.335277777
 images:

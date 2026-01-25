@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Hohenbuchau"
 latitude: 50.0904
 longitude: 8.12367
 

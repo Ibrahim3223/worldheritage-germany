@@ -10,6 +10,7 @@ categories:
 - Fountain
 regions:
 - Germany
+site_name: "Gustav-Adolf-Brunnen"
 latitude: 50.97675
 longitude: 11.02891
 images:

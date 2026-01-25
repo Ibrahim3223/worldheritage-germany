@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Villa Schminke"
 latitude: 51.1004
 longitude: 14.6594
 images:

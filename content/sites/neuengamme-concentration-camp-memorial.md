@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Neuengamme Concentration Camp Memorial"
 latitude: 53.43055556
 longitude: 10.23361111
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "St. Lorenz Basilica"
 latitude: 47.7285
 longitude: 10.3116
 

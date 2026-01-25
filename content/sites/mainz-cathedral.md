@@ -10,6 +10,7 @@ categories:
   - "Pilgrimage Church"
 regions:
   - "Germany"
+site_name: "Mainz Cathedral"
 latitude: 49.998889
 longitude: 8.273889
 images:

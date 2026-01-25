@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "E.T.A. Hoffmann-Haus"
 latitude: 49.889911
 longitude: 10.890881
 images:

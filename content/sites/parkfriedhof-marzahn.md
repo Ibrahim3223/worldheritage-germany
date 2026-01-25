@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Parkfriedhof Marzahn"
 latitude: 52.5485
 longitude: 13.5415
 images:

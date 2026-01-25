@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Grietherorter Altrhein"
 latitude: 51.7996
 longitude: 6.3238
 images:

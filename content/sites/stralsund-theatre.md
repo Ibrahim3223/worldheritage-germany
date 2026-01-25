@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Stralsund Theatre"
 latitude: 54.3175
 longitude: 13.088333333
 images:

@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Fischbeck Abbey"
 latitude: 52.1419
 longitude: 9.29722
 images:

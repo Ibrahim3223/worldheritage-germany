@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Jewish Museum Berlin"
 latitude: 52.502312
 longitude: 13.395447
 images:

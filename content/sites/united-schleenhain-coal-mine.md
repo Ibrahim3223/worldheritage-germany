@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "United Schleenhain coal mine"
 latitude: 51.1167
 longitude: 12.3833
 images:

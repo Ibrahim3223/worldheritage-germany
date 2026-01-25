@@ -10,6 +10,7 @@ categories:
 - Market Square
 regions:
 - Germany
+site_name: "Alter Markt"
 latitude: 52.3958
 longitude: 13.0611
 images:

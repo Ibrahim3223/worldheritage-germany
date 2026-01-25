@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Ernst Barlach House"
 latitude: 53.55361111
 longitude: 9.8675
 images:

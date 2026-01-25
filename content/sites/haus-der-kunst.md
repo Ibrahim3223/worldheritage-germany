@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Haus der Kunst"
 latitude: 48.144114618
 longitude: 11.585938562
 images:

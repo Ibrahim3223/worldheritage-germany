@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "Brose Arena"
 latitude: 49.879167
 longitude: 10.920556
 images:

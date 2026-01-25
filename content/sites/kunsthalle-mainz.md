@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Kunsthalle Mainz"
 latitude: 50.0122
 longitude: 8.2626
 images:

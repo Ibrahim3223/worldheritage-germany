@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Friedrichsbau"
 latitude: 48.7806
 longitude: 9.17619
 images:

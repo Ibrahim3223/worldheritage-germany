@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Trischen"
 latitude: 54.059444444
 longitude: 8.683333333
 images:

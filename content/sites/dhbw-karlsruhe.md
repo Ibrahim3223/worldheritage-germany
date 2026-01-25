@@ -10,6 +10,7 @@ categories:
 - University
 regions:
 - Germany
+site_name: "DHBW Karlsruhe"
 latitude: 49.0261
 longitude: 8.38552
 images:

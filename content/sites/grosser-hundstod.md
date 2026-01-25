@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Großer Hundstod"
 latitude: 47.5125
 longitude: 12.8861
 images:

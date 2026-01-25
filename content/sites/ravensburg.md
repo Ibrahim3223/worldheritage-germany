@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Ravensburg"
 latitude: 49.1
 longitude: 8.87417
 images:

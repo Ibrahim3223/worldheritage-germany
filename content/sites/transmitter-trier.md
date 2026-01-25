@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Transmitter Trier"
 latitude: 49.770208333
 longitude: 6.657744444
 images:

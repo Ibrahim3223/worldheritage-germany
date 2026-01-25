@@ -10,6 +10,7 @@ categories:
 - Waterfall
 regions:
 - Germany
+site_name: "Dreimühlen waterfall"
 latitude: 50.325
 longitude: 6.769
 images:

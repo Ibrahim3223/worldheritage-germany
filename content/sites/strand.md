@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Strand"
 latitude: 54.53333333
 longitude: 8.78333333
 images:

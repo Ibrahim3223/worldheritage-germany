@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Bilzingsleben"
 latitude: 51.272611111
 longitude: 11.059333333
 images:

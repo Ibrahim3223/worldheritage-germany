@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Berlin-Tegel railway station"
 latitude: 52.5886
 longitude: 13.2894
 images:

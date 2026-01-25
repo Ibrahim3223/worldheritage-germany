@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Ringelstein"
 latitude: 51.5023
 longitude: 8.57347
 images:

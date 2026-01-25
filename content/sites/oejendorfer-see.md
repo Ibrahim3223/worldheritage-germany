@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Öjendorfer See"
 latitude: 53.558333333
 longitude: 10.138888888
 images:

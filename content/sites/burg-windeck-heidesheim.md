@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Windeck (Heidesheim)"
 latitude: 49.996
 longitude: 8.11264
 images:

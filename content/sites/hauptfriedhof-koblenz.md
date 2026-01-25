@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Hauptfriedhof Koblenz"
 latitude: 50.351444444
 longitude: 7.575697222
 images:

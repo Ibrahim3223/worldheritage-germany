@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Golzheimer Friedhof"
 latitude: 51.2398
 longitude: 6.77363
 images:

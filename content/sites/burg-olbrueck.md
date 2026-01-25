@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Olbrück"
 latitude: 50.4507
 longitude: 7.16994
 images:

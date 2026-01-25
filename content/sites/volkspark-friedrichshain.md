@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Volkspark Friedrichshain"
 latitude: 52.526666666
 longitude: 13.433888888
 images:

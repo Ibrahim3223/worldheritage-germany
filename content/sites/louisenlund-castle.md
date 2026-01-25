@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Louisenlund Castle"
 latitude: 54.49318
 longitude: 9.68499
 images:

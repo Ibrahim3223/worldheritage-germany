@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Kleiner Plöner See"
 latitude: 54.160277777
 longitude: 10.391111111
 images:

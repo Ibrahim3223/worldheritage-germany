@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Residence Museum"
 latitude: 48.1403
 longitude: 11.5783
 images:

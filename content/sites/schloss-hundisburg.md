@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Hundisburg"
 latitude: 52.249344
 longitude: 11.400247
 

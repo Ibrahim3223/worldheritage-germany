@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Samson Pit"
 latitude: 51.7131
 longitude: 10.5161
 images:

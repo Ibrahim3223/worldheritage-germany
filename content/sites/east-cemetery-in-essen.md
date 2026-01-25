@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "East cemetery in Essen"
 latitude: 51.4469
 longitude: 7.03111
 images:

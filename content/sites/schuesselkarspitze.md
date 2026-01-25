@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Schüsselkarspitze"
 latitude: 47.3972
 longitude: 11.1197
 images:

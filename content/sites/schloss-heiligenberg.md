@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Heiligenberg"
 latitude: 47.81666667
 longitude: 9.31
 

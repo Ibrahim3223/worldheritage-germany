@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Deutsch-Französischer Garten"
 latitude: 49.2251
 longitude: 6.96314
 images:

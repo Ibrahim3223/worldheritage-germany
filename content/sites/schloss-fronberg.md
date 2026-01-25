@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Fronberg"
 latitude: 49.34412806
 longitude: 12.123276393
 

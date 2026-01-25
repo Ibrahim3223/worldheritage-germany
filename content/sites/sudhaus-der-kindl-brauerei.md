@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Sudhaus der Kindl-Brauerei"
 latitude: 52.4794
 longitude: 13.4308
 images:

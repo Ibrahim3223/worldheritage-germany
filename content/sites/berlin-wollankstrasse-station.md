@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Berlin Wollankstraße station"
 latitude: 52.5651525
 longitude: 13.3923627
 images:

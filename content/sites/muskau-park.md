@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Muskau Park"
 latitude: 51.547559
 longitude: 14.723229
 images:

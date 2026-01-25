@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Speicher XI"
 latitude: 53.0973
 longitude: 8.76983
 images:

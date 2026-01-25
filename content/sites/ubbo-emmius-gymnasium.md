@@ -10,6 +10,7 @@ categories:
   - "School Building"
 regions:
   - "Germany"
+site_name: "Ubbo-Emmius-Gymnasium"
 latitude: 53.2323
 longitude: 7.45058
 images:

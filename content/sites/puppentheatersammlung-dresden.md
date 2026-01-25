@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Puppentheatersammlung Dresden"
 latitude: 51.0578
 longitude: 13.7439
 images:

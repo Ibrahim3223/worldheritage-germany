@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Norderburg"
 latitude: 53.648888888
 longitude: 7.429722222
 images:

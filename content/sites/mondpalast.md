@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Mondpalast"
 latitude: 51.5325
 longitude: 7.15416667
 images:

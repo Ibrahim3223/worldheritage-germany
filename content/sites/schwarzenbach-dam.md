@@ -10,6 +10,7 @@ categories:
   - "Dam"
 regions:
   - "Germany"
+site_name: "Schwarzenbach Dam"
 latitude: 48.6547
 longitude: 8.32944
 images:

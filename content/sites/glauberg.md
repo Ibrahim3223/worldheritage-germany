@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Glauberg"
 latitude: 50.305556
 longitude: 9.008611
 images:

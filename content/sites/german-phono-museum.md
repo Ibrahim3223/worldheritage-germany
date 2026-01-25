@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "German Phono Museum"
 latitude: 48.1255
 longitude: 8.332
 images:

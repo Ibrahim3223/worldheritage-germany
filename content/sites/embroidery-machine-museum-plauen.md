@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Embroidery Machine Museum, Plauen"
 latitude: 50.492221
 longitude: 12.15834
 images:

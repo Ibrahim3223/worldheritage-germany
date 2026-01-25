@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "ufaFabrik"
 latitude: 52.45416667
 longitude: 13.38194444
 images:

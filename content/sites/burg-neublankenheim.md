@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Neublankenheim"
 latitude: 50.35739832
 longitude: 6.7740646
 images:

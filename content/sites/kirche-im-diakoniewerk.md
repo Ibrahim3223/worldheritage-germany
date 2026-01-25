@@ -5,6 +5,12 @@ slug: "kirche-im-diakoniewerk"
 region: "Brandenburg"
 
 # Location
+image_srcset:
+  Anstaltskirche%20Halle%2001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Anstaltskirche_Halle_01.jpg/400px-Anstaltskirche_Halle_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Anstaltskirche_Halle_01.jpg/800px-Anstaltskirche_Halle_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Anstaltskirche_Halle_01.jpg/1200px-Anstaltskirche_Halle_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Anstaltskirche_Halle_01.jpg/1920px-Anstaltskirche_Halle_01.jpg
 latitude: 51.4943
 longitude: 11.96
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q570223"
 description: "In the heart of Halle (Saale), Germany, the Kirche im Diakoniewerk stands as a remarkable example of Gothic Revival architecture. This church building, ..."
 images:
-  - "/images/kirche-im-diakoniewerk/01-48fa8cae-1920w.webp"
-  - "/images/kirche-im-diakoniewerk/02-a735ca4a-1920w.webp"
-  - "/images/kirche-im-diakoniewerk/03-1fabcae2-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Anstaltskirche_Halle_01.jpg/1200px-Anstaltskirche_Halle_01.jpg
 ---
 
 ## Overview

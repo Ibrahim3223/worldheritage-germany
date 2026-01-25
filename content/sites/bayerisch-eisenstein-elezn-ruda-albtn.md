@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Bayerisch Eisenstein / Železná Ruda-Alžbětín"
 latitude: 49.121548
 longitude: 13.209295
 images:

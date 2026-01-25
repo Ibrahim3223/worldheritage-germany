@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagoge Goethestraße"
 latitude: 54.327
 longitude: 10.1258
 images:

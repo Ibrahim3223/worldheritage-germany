@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Querfurt"
 latitude: 51.3769
 longitude: 11.5939
 images:

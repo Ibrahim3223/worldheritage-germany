@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Wittichenstein"
 latitude: 48.3335
 longitude: 8.3539
 images:

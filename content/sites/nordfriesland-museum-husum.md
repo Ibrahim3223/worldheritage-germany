@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Nordfriesland Museum Husum"
 latitude: 54.47521
 longitude: 9.05606
 images:

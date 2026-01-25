@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Rodenberg"
 latitude: 51.4345
 longitude: 7.80731
 images:

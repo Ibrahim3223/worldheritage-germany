@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Beeskow"
 latitude: 52.1704
 longitude: 14.2522
 images:

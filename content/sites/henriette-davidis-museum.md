@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Henriette-Davidis-Museum"
 latitude: 51.40125
 longitude: 7.342944444
 images:

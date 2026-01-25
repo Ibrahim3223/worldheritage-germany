@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Castle of Wolkenburg"
 latitude: 50.9023
 longitude: 12.6738
 images:

@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Erinnerungsstätte für die Freiheitsbewegungen in der deutschen Geschichte"
 latitude: 48.8586
 longitude: 8.20444
 images:

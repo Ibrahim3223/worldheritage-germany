@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "Munich Digitization Center"
 latitude: 48.14766
 longitude: 11.58076
 images:

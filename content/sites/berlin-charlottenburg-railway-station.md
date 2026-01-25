@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Berlin-Charlottenburg railway station"
 latitude: 52.504722222
 longitude: 13.303333333
 images:

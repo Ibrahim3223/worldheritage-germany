@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Zinna Abbey"
 latitude: 52.0225
 longitude: 13.1039
 images:

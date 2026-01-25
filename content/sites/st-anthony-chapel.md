@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "St. Anthony-Chapel"
 latitude: 50.728
 longitude: 6.18827
 images:

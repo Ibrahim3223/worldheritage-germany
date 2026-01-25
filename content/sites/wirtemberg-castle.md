@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Wirtemberg Castle"
 latitude: 48.7821
 longitude: 9.26867
 

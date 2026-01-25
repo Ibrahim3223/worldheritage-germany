@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Fulda monastery"
 latitude: 50.554027777
 longitude: 9.67175
 images:

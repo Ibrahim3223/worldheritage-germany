@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Nuremberg Castle"
 latitude: 49.4579
 longitude: 11.0759
 

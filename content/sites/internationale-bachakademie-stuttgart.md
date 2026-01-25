@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "Internationale Bachakademie Stuttgart"
 latitude: 48.76898
 longitude: 9.16247
 images:

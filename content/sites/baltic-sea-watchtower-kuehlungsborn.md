@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Baltic Sea watchtower, Kühlungsborn"
 latitude: 54.1541
 longitude: 11.7591
 images:

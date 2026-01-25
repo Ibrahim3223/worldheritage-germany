@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Söflingen Abbey"
 latitude: 48.3977
 longitude: 9.95339
 images:

@@ -10,6 +10,7 @@ categories:
 - City Gate
 regions:
 - Germany
+site_name: "Erfurter Tor"
 latitude: 51.15852
 longitude: 11.11782
 images:

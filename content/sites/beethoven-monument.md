@@ -10,6 +10,7 @@ categories:
 - Statue
 regions:
 - Germany
+site_name: "Beethoven Monument"
 latitude: 50.7345
 longitude: 7.09913
 images:

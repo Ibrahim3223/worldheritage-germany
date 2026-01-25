@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kevernburg"
 latitude: 50.8189
 longitude: 10.9795
 

@@ -10,6 +10,7 @@ categories:
   - "Waterfall"
 regions:
   - "Germany"
+site_name: "Lichtenhain Waterfall"
 latitude: 50.929166666
 longitude: 14.243333333
 images:

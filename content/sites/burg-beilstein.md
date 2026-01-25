@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Beilstein"
 latitude: 50.608056
 longitude: 8.241111
 images:

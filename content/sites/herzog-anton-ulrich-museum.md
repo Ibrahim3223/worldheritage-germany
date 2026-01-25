@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Herzog Anton Ulrich Museum"
 latitude: 52.26352
 longitude: 10.533116
 images:

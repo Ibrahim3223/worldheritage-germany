@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Alter Katholischer Friedhof"
 latitude: 51.0603
 longitude: 13.7193
 images:

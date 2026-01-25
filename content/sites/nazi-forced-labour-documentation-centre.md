@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Nazi Forced Labour Documentation Centre"
 latitude: 52.4529
 longitude: 13.5197
 images:

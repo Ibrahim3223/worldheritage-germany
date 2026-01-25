@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Rheinisches Landesmuseum Bonn"
 latitude: 50.7319
 longitude: 7.0925
 images:

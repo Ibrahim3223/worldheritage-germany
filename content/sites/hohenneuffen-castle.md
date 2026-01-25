@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Hohenneuffen Castle"
 latitude: 48.5556
 longitude: 9.3925
 images:

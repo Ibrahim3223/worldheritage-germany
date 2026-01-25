@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Grunewald Tower"
 latitude: 52.478333333
 longitude: 13.196666666
 images:

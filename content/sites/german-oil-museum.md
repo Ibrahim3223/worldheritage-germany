@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "German Oil Museum"
 latitude: 52.6603
 longitude: 9.83417
 images:

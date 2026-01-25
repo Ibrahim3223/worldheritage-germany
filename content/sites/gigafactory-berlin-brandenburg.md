@@ -10,6 +10,7 @@ categories:
 - Factory
 regions:
 - Germany
+site_name: "Gigafactory Berlin-Brandenburg"
 latitude: 52.395
 longitude: 13.79
 images:

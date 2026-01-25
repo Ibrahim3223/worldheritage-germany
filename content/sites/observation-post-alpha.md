@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Observation Post Alpha"
 latitude: 50.72393056
 longitude: 9.93185556
 images:

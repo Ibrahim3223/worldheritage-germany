@@ -10,6 +10,7 @@ categories:
   - "Cinema"
 regions:
   - "Germany"
+site_name: "Lagerhalle Osnabrück"
 latitude: 52.276191
 longitude: 8.039429
 images:

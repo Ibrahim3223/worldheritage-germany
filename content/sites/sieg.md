@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Sieg"
 latitude: 50.917777777
 longitude: 8.246666666
 images:

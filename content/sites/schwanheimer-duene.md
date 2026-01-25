@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Schwanheimer Düne"
 latitude: 50.0861
 longitude: 8.55889
 images:

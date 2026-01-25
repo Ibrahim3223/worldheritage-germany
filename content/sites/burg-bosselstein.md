@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Bosselstein"
 latitude: 49.7061
 longitude: 7.328
 images:

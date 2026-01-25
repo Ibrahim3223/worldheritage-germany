@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Rosenheim-Museum"
 latitude: 50.1018
 longitude: 8.74744
 images:

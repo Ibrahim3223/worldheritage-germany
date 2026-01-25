@@ -10,6 +10,7 @@ categories:
 - Fountain
 regions:
 - Germany
+site_name: "Fortunabrunnen"
 latitude: 48.13478
 longitude: 11.58332
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Georgenstraße 43-47, Eisenach"
 latitude: 50.976
 longitude: 10.3146
 images:

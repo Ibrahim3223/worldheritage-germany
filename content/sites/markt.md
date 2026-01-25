@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Markt"
 latitude: 51.3404
 longitude: 12.3747
 images:

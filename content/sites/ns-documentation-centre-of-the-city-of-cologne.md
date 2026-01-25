@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "NS Documentation Centre of the City of Cologne"
 latitude: 50.940615548
 longitude: 6.950177092
 images:

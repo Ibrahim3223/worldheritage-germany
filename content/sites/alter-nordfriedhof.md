@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Alter Nordfriedhof"
 latitude: 48.1537
 longitude: 11.5702
 images:

@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Prinz-Albrecht-Palais"
 latitude: 52.5061
 longitude: 13.3856
 images:

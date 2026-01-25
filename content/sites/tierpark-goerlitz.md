@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Tierpark Görlitz"
 latitude: 51.1421
 longitude: 14.9801
 images:

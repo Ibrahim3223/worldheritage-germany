@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Kaffeemuseum Burg"
 latitude: 53.544726
 longitude: 9.996757
 images:

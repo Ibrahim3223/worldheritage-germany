@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Duisburg-Ruhrort Hafen"
 latitude: 51.4525
 longitude: 6.76
 images:

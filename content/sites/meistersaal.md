@@ -10,6 +10,7 @@ categories:
   - "Cinema"
 regions:
   - "Germany"
+site_name: "Meistersaal"
 latitude: 52.5062
 longitude: 13.377
 images:

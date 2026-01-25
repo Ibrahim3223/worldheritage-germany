@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Gemen"
 latitude: 51.8631
 longitude: 6.86656
 images:

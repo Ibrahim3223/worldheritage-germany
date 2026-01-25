@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Tharandt Castle"
 latitude: 50.9821
 longitude: 13.5806
 

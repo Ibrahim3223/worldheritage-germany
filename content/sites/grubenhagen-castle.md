@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Grubenhagen Castle"
 latitude: 51.7647
 longitude: 9.81722
 images:

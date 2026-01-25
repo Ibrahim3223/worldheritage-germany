@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Dankwarderode Castle"
 latitude: 52.2647
 longitude: 10.5242
 images:

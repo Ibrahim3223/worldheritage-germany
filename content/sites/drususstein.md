@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Drususstein"
 latitude: 49.9921
 longitude: 8.27421
 images:

@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Eilvese transmitter"
 latitude: 52.527778
 longitude: 9.406667
 images:

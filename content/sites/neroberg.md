@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Neroberg"
 latitude: 50.098611111
 longitude: 8.230555555
 images:

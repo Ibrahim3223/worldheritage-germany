@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Brücke Museum"
 latitude: 52.4669
 longitude: 13.2736
 images:

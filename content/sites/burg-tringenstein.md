@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Tringenstein"
 latitude: 50.7586
 longitude: 8.4123
 images:

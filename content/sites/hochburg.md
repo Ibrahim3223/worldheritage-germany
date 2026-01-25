@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Hochburg"
 latitude: 48.1167
 longitude: 7.90056
 images:

@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Igel Column"
 latitude: 49.7092
 longitude: 6.54944
 images:

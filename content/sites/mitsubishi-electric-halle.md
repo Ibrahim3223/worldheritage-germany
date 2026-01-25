@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Mitsubishi Electric Halle"
 latitude: 51.20638889
 longitude: 6.80861111
 images:

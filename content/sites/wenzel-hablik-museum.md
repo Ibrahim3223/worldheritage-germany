@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Wenzel-Hablik-Museum"
 latitude: 53.9196
 longitude: 9.51599
 images:

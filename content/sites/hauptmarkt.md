@@ -10,6 +10,7 @@ categories:
 - Market Square
 regions:
 - Germany
+site_name: "Hauptmarkt"
 latitude: 49.7567
 longitude: 6.64111
 images:

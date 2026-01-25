@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schloss Bad Berleburg"
 latitude: 51.051444444
 longitude: 8.388472222
 images:

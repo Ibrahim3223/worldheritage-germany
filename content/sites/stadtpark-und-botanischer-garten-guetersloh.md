@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Stadtpark und Botanischer Garten Gütersloh"
 latitude: 51.8979
 longitude: 8.391
 

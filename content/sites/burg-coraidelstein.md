@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Coraidelstein"
 latitude: 50.1672
 longitude: 7.20064
 images:

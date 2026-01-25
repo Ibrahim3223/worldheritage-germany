@@ -10,6 +10,7 @@ categories:
   - "Factory"
 regions:
   - "Germany"
+site_name: "Kulturfabrik Moabit"
 latitude: 52.5333
 longitude: 13.36
 images:

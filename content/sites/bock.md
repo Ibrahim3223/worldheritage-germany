@@ -10,6 +10,7 @@ categories:
 - Island
 regions:
 - Germany
+site_name: "Bock"
 latitude: 54.451
 longitude: 13.0487
 images:

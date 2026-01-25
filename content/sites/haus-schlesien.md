@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Haus Schlesien"
 latitude: 50.6964
 longitude: 7.23083
 images:

@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Blauen"
 latitude: 47.7775
 longitude: 7.70111111
 images:

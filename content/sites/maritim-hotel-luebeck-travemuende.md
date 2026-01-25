@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Maritim Hotel Lübeck-Travemünde"
 latitude: 53.961666666
 longitude: 10.881944444
 images:

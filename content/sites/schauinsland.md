@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Schauinsland"
 latitude: 47.911111111
 longitude: 7.899444444
 images:

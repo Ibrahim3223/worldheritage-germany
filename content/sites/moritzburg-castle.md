@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Moritzburg Castle"
 latitude: 51.167572222
 longitude: 13.679611111
 

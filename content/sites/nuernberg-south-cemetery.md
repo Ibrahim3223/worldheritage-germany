@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Nürnberg South Cemetery"
 latitude: 49.409930212
 longitude: 11.088760972
 images:

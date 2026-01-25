@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Marstall"
 latitude: 48.1403
 longitude: 11.5818
 images:

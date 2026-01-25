@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Kochelsee"
 latitude: 47.646111111
 longitude: 11.337222222
 images:

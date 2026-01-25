@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "French Garden"
 latitude: 52.6208
 longitude: 10.0829
 images:

@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue of Ludwigsburg"
 latitude: 48.893
 longitude: 9.18823
 images:

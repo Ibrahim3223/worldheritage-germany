@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Hülser Berg"
 latitude: 51.386666666
 longitude: 6.538611111
 images:

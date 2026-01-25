@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Anton Tschechow Denkmal"
 latitude: 47.801928
 longitude: 7.673132
 images:

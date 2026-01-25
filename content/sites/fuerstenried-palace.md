@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Fürstenried Palace"
 latitude: 48.094361111
 longitude: 11.485666666
 images:

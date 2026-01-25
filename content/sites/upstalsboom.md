@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Upstalsboom"
 latitude: 53.454444444
 longitude: 7.425738888
 

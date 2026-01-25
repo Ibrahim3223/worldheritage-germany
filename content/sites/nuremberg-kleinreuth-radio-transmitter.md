@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Nuremberg-Kleinreuth radio transmitter"
 latitude: 49.4438
 longitude: 11.0085
 images:

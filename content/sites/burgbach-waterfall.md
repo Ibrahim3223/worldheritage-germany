@@ -10,6 +10,7 @@ categories:
 - Waterfall
 regions:
 - Germany
+site_name: "Burgbach Waterfall"
 latitude: 48.4097
 longitude: 8.33549
 images:

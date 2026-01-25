@@ -10,6 +10,7 @@ categories:
   - "Valley"
 regions:
   - "Germany"
+site_name: "Neandertal"
 latitude: 51.226666666
 longitude: 6.951111111
 images:

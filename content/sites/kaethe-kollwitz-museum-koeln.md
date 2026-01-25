@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Käthe Kollwitz Museum Köln"
 latitude: 50.93665
 longitude: 6.94671944
 images:

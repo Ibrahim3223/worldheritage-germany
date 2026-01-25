@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Martin city gate"
 latitude: 50.1426
 longitude: 7.16817
 images:

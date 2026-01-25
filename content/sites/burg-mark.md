@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Mark"
 latitude: 51.6822
 longitude: 7.84667
 images:

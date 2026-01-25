@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Berzdorfer See"
 latitude: 51.083333333
 longitude: 14.95
 images:

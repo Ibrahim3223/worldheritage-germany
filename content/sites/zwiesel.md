@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Zwiesel"
 latitude: 47.7558
 longitude: 12.8119
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Egloffstein Castle"
 latitude: 49.7026
 longitude: 11.2574
 images:

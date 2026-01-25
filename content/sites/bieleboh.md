@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Bieleboh"
 latitude: 51.080833333
 longitude: 14.521388888
 images:

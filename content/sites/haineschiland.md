@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Hainesch/Iland"
 latitude: 53.666666666
 longitude: 10.116666666
 images:

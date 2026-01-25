@@ -10,6 +10,7 @@ categories:
 - Cinema
 regions:
 - Germany
+site_name: "Allee-Theater"
 latitude: 53.55472222
 longitude: 9.94194444
 images:

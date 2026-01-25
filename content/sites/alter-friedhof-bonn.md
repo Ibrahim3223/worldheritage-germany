@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Alter Friedhof Bonn"
 latitude: 50.735691666
 longitude: 7.090694444
 images:

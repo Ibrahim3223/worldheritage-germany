@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Deutsches Zollmuseum"
 latitude: 53.54611111
 longitude: 9.99916667
 images:

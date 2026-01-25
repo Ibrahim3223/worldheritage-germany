@@ -5,6 +5,12 @@ slug: "kirche-herzkamp"
 region: "North Rhine-Westphalia"
 
 # Location
+image_srcset:
+  Gennebreck,%20evangelische%20Kirche%20Herzkamp%20Dm9%20foto4%202015-04-19%2011.10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg/400px-Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg/800px-Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg/1200px-Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg/1920px-Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg
 latitude: 51.3111
 longitude: 7.20321
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1380717"
 description: "In the heart of Sprockhövel, North Rhine-Westphalia, Germany, you’ll find Kirche Herzkamp, a striking example of Gothic Revival architecture. This churc..."
 images:
-  - "/images/kirche-herzkamp/01-af66829c-1920w.webp"
-  - "/images/kirche-herzkamp/02-2cb512ad-1920w.webp"
-  - "/images/kirche-herzkamp/03-343331df-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg/1200px-Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg
 ---
 
 ## Overview

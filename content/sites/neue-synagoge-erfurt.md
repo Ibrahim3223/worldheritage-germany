@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Neue Synagoge (Erfurt)"
 latitude: 50.9709
 longitude: 11.0276
 images:

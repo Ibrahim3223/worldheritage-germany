@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "University Library Freiburg"
 latitude: 47.99388889
 longitude: 7.84527778
 images:

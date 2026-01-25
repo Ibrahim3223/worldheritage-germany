@@ -11,6 +11,7 @@ categories:
 - Cinema
 regions:
 - Germany
+site_name: "Grips-Theater"
 latitude: 52.5188564
 longitude: 13.3417348
 images:

@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Bell Tower of Berlin Olympic Stadium"
 latitude: 52.5139
 longitude: 13.2317
 images:

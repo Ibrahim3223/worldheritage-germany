@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Residence Ensemble Schwerin"
 latitude: 53.62417
 longitude: 11.41889
 images:

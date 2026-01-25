@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Volkmarskeller"
 latitude: 51.795888888
 longitude: 10.885552777
 

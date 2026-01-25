@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Stadelhorn"
 latitude: 47.592845
 longitude: 12.795074
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "St. Mang's Abbey"
 latitude: 47.5666
 longitude: 10.6995
 images:

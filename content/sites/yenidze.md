@@ -10,6 +10,7 @@ categories:
   - "Factory"
 regions:
   - "Germany"
+site_name: "Yenidze"
 latitude: 51.059019
 longitude: 13.726853
 images:

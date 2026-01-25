@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Wilhelm Busch Museum"
 latitude: 52.38425
 longitude: 9.70778
 

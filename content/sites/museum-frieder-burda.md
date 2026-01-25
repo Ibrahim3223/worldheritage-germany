@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum Frieder Burda"
 latitude: 48.7579
 longitude: 8.23803
 

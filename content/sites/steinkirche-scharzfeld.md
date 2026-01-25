@@ -10,6 +10,7 @@ categories:
   - "Cave"
 regions:
   - "Germany"
+site_name: "Steinkirche Scharzfeld"
 latitude: 51.6333
 longitude: 10.3774
 images:

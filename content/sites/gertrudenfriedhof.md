@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Gertrudenfriedhof"
 latitude: 53.1484
 longitude: 8.21483
 images:

@@ -10,6 +10,7 @@ categories:
   - "Windmill"
 regions:
   - "Germany"
+site_name: "Klützer Holländermühle"
 latitude: 53.970856
 longitude: 11.162078
 images:

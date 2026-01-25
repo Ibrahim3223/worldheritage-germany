@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Verdener Moor"
 latitude: 52.9183
 longitude: 9.42444
 images:

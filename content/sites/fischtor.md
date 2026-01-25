@@ -11,6 +11,7 @@ categories:
 - City Gate
 regions:
 - Germany
+site_name: "Fischtor"
 latitude: 50.83489
 longitude: 10.95402
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Restant aquaduct van Mogontiacum"
 latitude: 49.9894
 longitude: 8.25361
 

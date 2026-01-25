@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Oberuckersee"
 latitude: 53.19056
 longitude: 13.86056
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum Ludwig"
 latitude: 50.94083333
 longitude: 6.96027778
 

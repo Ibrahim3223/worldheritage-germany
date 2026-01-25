@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Ilmenau Cemetery"
 latitude: 50.6892
 longitude: 10.9114
 images:

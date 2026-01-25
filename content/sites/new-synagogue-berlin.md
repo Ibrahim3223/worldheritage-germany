@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "New Synagogue Berlin"
 latitude: 52.524722
 longitude: 13.394444
 images:

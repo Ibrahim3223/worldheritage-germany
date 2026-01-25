@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Hirschhorn Castle"
 latitude: 49.4494
 longitude: 8.89833
 images:

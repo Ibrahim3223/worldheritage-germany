@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Autostadt"
 latitude: 52.4311
 longitude: 10.7919
 images:

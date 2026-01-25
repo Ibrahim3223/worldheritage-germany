@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Lörrach central station"
 latitude: 47.614053
 longitude: 7.66542
 images:

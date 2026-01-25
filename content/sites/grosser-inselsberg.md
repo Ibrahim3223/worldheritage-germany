@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Großer Inselsberg"
 latitude: 50.8512
 longitude: 10.4665
 images:

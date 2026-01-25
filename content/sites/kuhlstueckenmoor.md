@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Kuhlstückenmoor"
 latitude: 53.5819
 longitude: 9.35722
 images:

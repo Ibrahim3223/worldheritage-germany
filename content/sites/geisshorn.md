@@ -11,6 +11,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Geißhorn"
 latitude: 47.287777777
 longitude: 10.175277777
 images:

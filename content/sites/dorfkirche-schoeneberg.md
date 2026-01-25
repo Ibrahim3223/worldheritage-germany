@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Dorfkirche Schöneberg"
 latitude: 52.482916666
 longitude: 13.349444444
 images:

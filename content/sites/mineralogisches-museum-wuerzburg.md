@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Mineralogisches Museum Würzburg"
 latitude: 49.7824
 longitude: 9.9702
 images:

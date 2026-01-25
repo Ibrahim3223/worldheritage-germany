@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "All Saints' Abbey"
 latitude: 48.5373
 longitude: 8.19413
 images:

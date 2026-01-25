@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "Alte Kongresshalle"
 latitude: 48.1321
 longitude: 11.5444
 images:

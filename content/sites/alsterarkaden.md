@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Alsterarkaden"
 latitude: 53.55194444
 longitude: 9.99222222
 images:

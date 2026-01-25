@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue of Nastätten"
 latitude: 50.198575
 longitude: 7.855877
 images:

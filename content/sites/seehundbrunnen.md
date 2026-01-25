@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Seehundbrunnen"
 latitude: 48.1656
 longitude: 11.579
 images:

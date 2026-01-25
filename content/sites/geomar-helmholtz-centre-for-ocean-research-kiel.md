@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "GEOMAR Helmholtz Centre for Ocean Research Kiel"
 latitude: 54.32723
 longitude: 10.18185
 images:

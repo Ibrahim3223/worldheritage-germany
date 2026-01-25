@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Leuchtfeuer Cuxhaven"
 latitude: 53.87277778
 longitude: 8.70944444
 images:

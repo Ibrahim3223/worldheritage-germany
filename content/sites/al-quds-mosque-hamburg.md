@@ -10,6 +10,7 @@ categories:
 - Mosque
 regions:
 - Germany
+site_name: "Al-Quds Mosque Hamburg"
 latitude: 53.55694444
 longitude: 10.01944444
 images:

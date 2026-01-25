@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Europäisches Hansemuseum"
 latitude: 53.87411111
 longitude: 10.68961111
 images:

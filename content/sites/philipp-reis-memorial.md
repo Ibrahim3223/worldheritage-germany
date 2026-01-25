@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Philipp Reis Memorial"
 latitude: 50.117997041
 longitude: 8.680244236
 images:

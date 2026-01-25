@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagoge Friedberger Anlage"
 latitude: 50.11478043
 longitude: 8.69550991
 images:

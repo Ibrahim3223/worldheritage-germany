@@ -10,6 +10,7 @@ categories:
 - Mosque
 regions:
 - Germany
+site_name: "Ibn Rushd-Goethe mosque"
 latitude: 52.525
 longitude: 13.34944444
 images:

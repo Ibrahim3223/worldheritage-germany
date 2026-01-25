@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Faber Park"
 latitude: 49.413769618
 longitude: 11.025893268
 images:

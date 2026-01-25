@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "German Maritime Museum"
 latitude: 53.5401
 longitude: 8.577
 images:

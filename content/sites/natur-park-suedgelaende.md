@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Natur-Park Südgelände"
 latitude: 52.459736111
 longitude: 13.358002777
 images:

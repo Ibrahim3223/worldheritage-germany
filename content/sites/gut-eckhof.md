@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Gut Eckhof"
 latitude: 54.4354
 longitude: 10.1529
 images:

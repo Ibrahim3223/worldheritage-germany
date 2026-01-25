@@ -10,6 +10,7 @@ categories:
   - "Cave"
 regions:
   - "Germany"
+site_name: "Sesselfelsgrotte"
 latitude: 48.93598
 longitude: 11.79086
 images:

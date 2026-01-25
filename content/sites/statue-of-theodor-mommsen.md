@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Statue of Theodor Mommsen"
 latitude: 52.5178141
 longitude: 13.3932623
 images:

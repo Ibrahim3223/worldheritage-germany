@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Scharnitz Abbey"
 latitude: 47.48187222
 longitude: 11.23874444
 images:

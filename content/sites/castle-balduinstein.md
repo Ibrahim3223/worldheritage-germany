@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Castle Balduinstein"
 latitude: 50.3442
 longitude: 7.97361
 images:

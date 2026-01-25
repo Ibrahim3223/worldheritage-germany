@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Füssen station"
 latitude: 47.5703
 longitude: 10.6978
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Altenwied"
 latitude: 50.6125
 longitude: 7.40207
 images:

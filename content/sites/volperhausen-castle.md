@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Volperhausen Castle"
 latitude: 50.832
 longitude: 7.70267
 images:

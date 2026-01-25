@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Stesser Burg"
 latitude: 51.3462
 longitude: 8.21515
 images:

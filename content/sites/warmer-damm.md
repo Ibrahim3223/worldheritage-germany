@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Warmer Damm"
 latitude: 50.0819
 longitude: 8.24639
 images:

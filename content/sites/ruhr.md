@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Ruhr"
 latitude: 51.213611111
 longitude: 8.558333333
 images:

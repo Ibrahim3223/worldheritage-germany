@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schiefermuseum Steinach/Thüringen"
 latitude: 50.434468
 longitude: 11.15557
 images:

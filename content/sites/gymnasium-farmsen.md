@@ -10,6 +10,7 @@ categories:
 - School Building
 regions:
 - Germany
+site_name: "Gymnasium Farmsen"
 latitude: 53.6125
 longitude: 10.10969
 images:

@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Old Synagogue (Erfurt)"
 latitude: 50.9786
 longitude: 11.0293
 images:

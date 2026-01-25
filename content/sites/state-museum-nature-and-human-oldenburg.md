@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "State Museum Nature and Human Oldenburg"
 latitude: 53.1337
 longitude: 8.21949
 images:

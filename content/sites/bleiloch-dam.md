@@ -10,6 +10,7 @@ categories:
 - Dam
 regions:
 - Germany
+site_name: "Bleiloch Dam"
 latitude: 50.524557
 longitude: 11.714297
 images:

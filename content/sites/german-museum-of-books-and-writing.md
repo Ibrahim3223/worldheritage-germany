@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "German Museum of Books and Writing"
 latitude: 51.32215556
 longitude: 12.39658056
 images:

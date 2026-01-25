@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Hunnesrück Castle"
 latitude: 51.8211
 longitude: 9.6825
 images:

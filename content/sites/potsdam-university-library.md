@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "Potsdam University Library"
 latitude: 52.4085
 longitude: 12.973
 images:

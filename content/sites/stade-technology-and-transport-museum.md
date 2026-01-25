@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Stade Technology and Transport Museum"
 latitude: 53.6103
 longitude: 9.47806
 images:

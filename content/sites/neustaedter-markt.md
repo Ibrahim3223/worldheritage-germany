@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Neustädter Markt"
 latitude: 51.0582
 longitude: 13.7414
 images:

@@ -10,6 +10,7 @@ categories:
 - Mine
 regions:
 - Germany
+site_name: "Hansa Pit"
 latitude: 51.904444
 longitude: 10.513333
 images:

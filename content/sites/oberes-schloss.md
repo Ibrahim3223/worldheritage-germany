@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Oberes Schloss"
 latitude: 50.8757
 longitude: 8.03
 images:

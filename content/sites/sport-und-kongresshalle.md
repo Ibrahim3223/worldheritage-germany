@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Sport- und Kongresshalle"
 latitude: 53.6274
 longitude: 11.3928
 images:

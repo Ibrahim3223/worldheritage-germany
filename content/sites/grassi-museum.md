@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Grassi Museum"
 latitude: 51.3374
 longitude: 12.3883
 images:

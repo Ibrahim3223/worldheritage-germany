@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Dobbertin Abbey"
 latitude: 53.615
 longitude: 12.0775
 images:

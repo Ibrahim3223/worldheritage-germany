@@ -10,6 +10,7 @@ categories:
 - Chapel
 regions:
 - Germany
+site_name: "Feldkapelle"
 latitude: 50.592980832
 longitude: 6.727386645
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Dreieichenhain"
 latitude: 50.0014
 longitude: 8.71639
 images:

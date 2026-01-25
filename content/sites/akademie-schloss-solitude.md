@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "Akademie Schloss Solitude"
 latitude: 48.7868861
 longitude: 9.0792596
 images:

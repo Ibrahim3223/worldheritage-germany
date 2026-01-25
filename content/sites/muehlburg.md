@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Mühlburg"
 latitude: 50.8689
 longitude: 10.8322
 images:

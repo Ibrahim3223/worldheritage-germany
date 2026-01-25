@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Gudelacksee"
 latitude: 52.983333333
 longitude: 12.95
 images:

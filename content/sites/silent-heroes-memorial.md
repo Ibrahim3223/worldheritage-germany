@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Silent Heroes Memorial"
 latitude: 52.5245
 longitude: 13.4017
 images:

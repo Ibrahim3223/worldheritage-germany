@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Fuchsturm"
 latitude: 50.92365
 longitude: 11.62152
 images:

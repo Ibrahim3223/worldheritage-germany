@@ -10,6 +10,7 @@ categories:
   - "Windmill"
 regions:
   - "Germany"
+site_name: "Werdumer Mühle"
 latitude: 53.6604
 longitude: 7.71936
 images:

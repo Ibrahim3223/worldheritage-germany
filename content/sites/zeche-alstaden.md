@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Zeche Alstaden"
 latitude: 51.4569
 longitude: 6.82583
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Martin von Wagner Museum"
 latitude: 49.7927
 longitude: 9.93926
 images:

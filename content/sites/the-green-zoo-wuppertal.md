@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "The Green Zoo Wuppertal"
 latitude: 51.2397
 longitude: 7.11222
 images:

@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Berlin-Tegel Russian Orthodox Cemetery"
 latitude: 52.577666666
 longitude: 13.300666666
 images:

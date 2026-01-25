@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Cuxhavener Küstenheiden"
 latitude: 53.8194
 longitude: 8.63056
 images:

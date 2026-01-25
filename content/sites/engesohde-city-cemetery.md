@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Engesohde city cemetery"
 latitude: 52.349166666
 longitude: 9.754722222
 images:

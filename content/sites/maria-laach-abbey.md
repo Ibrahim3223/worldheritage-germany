@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Maria Laach Abbey"
 latitude: 50.402261
 longitude: 7.252098
 images:

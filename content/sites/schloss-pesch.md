@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Schloß Pesch"
 latitude: 51.296666666
 longitude: 6.645
 images:

@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "Joynext Arena"
 latitude: 51.0625
 longitude: 13.722194
 images:

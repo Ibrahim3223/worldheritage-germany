@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Groß Kedingshagen Manor"
 latitude: 54.3386
 longitude: 13.0353
 images:

@@ -10,6 +10,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "book burning memorial at Bebelplatz"
 latitude: 52.5165158
 longitude: 13.3939369
 images:

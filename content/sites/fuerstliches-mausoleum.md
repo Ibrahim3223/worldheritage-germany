@@ -10,6 +10,7 @@ categories:
 - Mausoleum
 regions:
 - Germany
+site_name: "Fürstliches Mausoleum"
 latitude: 49.252202
 longitude: 9.859162
 images:

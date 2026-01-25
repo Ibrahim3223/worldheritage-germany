@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Salvatorberg"
 latitude: 50.7842
 longitude: 6.08556
 images:

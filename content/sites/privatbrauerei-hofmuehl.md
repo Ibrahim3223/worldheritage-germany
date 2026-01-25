@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Privatbrauerei Hofmühl"
 latitude: 48.893611111
 longitude: 11.168055555
 

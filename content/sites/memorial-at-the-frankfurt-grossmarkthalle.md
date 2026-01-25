@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Memorial at the Frankfurt Grossmarkthalle"
 latitude: 50.1095
 longitude: 8.7056
 images:

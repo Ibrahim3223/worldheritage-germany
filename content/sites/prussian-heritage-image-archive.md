@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "Prussian Heritage Image Archive"
 latitude: 52.5128
 longitude: 13.40998
 images:

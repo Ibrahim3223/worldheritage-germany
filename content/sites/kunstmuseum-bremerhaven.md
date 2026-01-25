@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kunstmuseum Bremerhaven"
 latitude: 53.54048
 longitude: 8.58173
 

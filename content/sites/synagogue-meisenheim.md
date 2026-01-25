@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue Meisenheim"
 latitude: 49.7084
 longitude: 7.66958
 images:

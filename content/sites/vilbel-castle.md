@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Vilbel Castle"
 latitude: 50.185
 longitude: 8.7448
 

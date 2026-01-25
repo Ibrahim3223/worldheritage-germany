@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Wildpark Daun"
 latitude: 50.1812
 longitude: 6.80607
 images:

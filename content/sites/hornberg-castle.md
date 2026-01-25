@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Hornberg Castle"
 latitude: 49.3139
 longitude: 9.14583
 images:

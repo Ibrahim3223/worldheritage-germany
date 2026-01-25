@@ -10,6 +10,7 @@ categories:
   - "Windmill"
 regions:
   - "Germany"
+site_name: "Mühle Eiklenborg"
 latitude: 53.24755
 longitude: 7.515635
 images:

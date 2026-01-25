@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Göppingen station"
 latitude: 48.700288888
 longitude: 9.652280555
 images:

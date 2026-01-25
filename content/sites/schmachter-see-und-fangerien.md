@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Schmachter See und Fangerien"
 latitude: 54.3945
 longitude: 13.5911
 images:

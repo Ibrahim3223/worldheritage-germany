@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Ranis"
 latitude: 50.6625
 longitude: 11.5639
 

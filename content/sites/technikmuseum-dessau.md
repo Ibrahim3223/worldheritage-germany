@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Technikmuseum Dessau"
 latitude: 51.8364
 longitude: 12.2089
 images:

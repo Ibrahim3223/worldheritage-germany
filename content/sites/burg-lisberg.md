@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Lisberg"
 latitude: 49.883611111
 longitude: 10.728333333
 images:

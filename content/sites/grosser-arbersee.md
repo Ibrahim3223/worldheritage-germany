@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Großer Arbersee"
 latitude: 49.098611111
 longitude: 13.155
 images:

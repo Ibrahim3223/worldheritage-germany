@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Pulvermaar"
 latitude: 50.1311
 longitude: 6.92611
 images:

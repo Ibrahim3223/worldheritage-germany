@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Teerhof"
 latitude: 53.0756
 longitude: 8.8
 

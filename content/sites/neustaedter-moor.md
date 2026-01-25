@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Neustädter Moor"
 latitude: 52.565555555
 longitude: 8.656388888
 images:

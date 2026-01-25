@@ -10,6 +10,7 @@ categories:
 - River
 regions:
 - Germany
+site_name: "Amper"
 latitude: 48.5004
 longitude: 11.9566
 images:

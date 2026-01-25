@@ -10,6 +10,7 @@ categories:
 - Gorge
 regions:
 - Germany
+site_name: "Hüttenhohl"
 latitude: 49.31803439
 longitude: 8.06549907
 images:

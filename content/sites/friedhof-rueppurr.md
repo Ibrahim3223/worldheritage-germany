@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Friedhof Rüppurr"
 latitude: 48.97075
 longitude: 8.4005
 images:

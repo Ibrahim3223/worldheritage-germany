@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Argenschwang"
 latitude: 49.8808
 longitude: 7.70056
 images:

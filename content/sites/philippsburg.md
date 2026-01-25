@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Philippsburg"
 latitude: 53.2376
 longitude: 7.49683
 images:

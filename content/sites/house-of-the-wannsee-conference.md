@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "House of the Wannsee Conference"
 latitude: 52.433056
 longitude: 13.165556
 images:

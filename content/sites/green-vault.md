@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Green Vault"
 latitude: 51.0528
 longitude: 13.7364
 images:

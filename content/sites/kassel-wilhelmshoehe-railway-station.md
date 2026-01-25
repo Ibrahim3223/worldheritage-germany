@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Kassel-Wilhelmshöhe railway station"
 latitude: 51.312222222
 longitude: 9.447222222
 images:

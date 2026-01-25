@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Böblingen station"
 latitude: 48.6875
 longitude: 9.00472
 images:

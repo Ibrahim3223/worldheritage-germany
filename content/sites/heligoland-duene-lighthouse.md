@@ -10,6 +10,7 @@ categories:
 - Lighthouse
 regions:
 - Germany
+site_name: "Heligoland Düne Lighthouse"
 latitude: 54.182289
 longitude: 7.914062
 images:

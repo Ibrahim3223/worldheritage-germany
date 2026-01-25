@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Deutschlandmuseum"
 latitude: 52.508788
 longitude: 13.378434
 images:

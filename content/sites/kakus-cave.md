@@ -10,6 +10,7 @@ categories:
 - Cave
 regions:
 - Germany
+site_name: "Kakus cave"
 latitude: 50.545
 longitude: 6.66
 images:

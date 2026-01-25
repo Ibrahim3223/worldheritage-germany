@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Zehlendorf Forest Cemetery"
 latitude: 52.424166666
 longitude: 13.211111111
 images:

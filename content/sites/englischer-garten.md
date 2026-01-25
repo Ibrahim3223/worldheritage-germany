@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Englischer Garten"
 latitude: 48.152777777
 longitude: 11.591944444
 images:

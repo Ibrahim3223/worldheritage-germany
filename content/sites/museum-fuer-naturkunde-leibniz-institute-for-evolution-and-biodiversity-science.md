@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum für Naturkunde - Leibniz Institute for Evolution and Biodiversity Science"
 latitude: 52.5302
 longitude: 13.3792
 images:

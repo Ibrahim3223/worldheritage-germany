@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Horst Palace"
 latitude: 51.536405555
 longitude: 7.025997222
 images:

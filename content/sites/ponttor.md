@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Ponttor"
 latitude: 50.7815162
 longitude: 6.0783228
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Edenserloog"
 latitude: 53.6603
 longitude: 7.7246
 images:

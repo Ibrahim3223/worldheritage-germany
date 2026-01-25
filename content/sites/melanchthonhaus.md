@@ -10,6 +10,7 @@ categories:
   - "Cultural Center"
 regions:
   - "Germany"
+site_name: "Melanchthonhaus"
 latitude: 49.0368
 longitude: 8.7069
 images:

@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Gartow-Höhbeck transmitter"
 latitude: 53.0655
 longitude: 11.4428
 images:

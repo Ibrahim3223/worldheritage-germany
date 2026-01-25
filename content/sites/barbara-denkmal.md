@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Barbara-Denkmal"
 latitude: 50.3541
 longitude: 7.59806
 images:

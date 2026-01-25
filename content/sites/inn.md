@@ -10,6 +10,7 @@ categories:
 - River
 regions:
 - Germany
+site_name: "Inn"
 latitude: 48.573611111
 longitude: 13.478055555
 images:

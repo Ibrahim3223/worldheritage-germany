@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Moritzburg (Zeitz)"
 latitude: 51.050861111
 longitude: 12.126805555
 

@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Richtfunkstelle Berlin-Frohnau"
 latitude: 52.653055555
 longitude: 13.295555555
 images:

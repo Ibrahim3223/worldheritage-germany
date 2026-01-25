@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Lene-Voigt-Park"
 latitude: 51.33432
 longitude: 12.39878
 images:

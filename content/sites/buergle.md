@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Bürgle"
 latitude: 47.68244
 longitude: 7.81567
 images:

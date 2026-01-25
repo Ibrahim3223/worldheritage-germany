@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Höhingen Castle"
 latitude: 48.0708
 longitude: 7.62083
 images:

@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Lappan"
 latitude: 53.1431
 longitude: 8.21333
 images:

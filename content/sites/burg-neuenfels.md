@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Neuenfels"
 latitude: 47.8183
 longitude: 7.6881
 images:

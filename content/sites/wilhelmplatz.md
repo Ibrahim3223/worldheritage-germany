@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Wilhelmplatz"
 latitude: 52.5117
 longitude: 13.384
 images:

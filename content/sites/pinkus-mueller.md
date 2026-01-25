@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Pinkus Müller"
 latitude: 51.965555555
 longitude: 7.621666666
 

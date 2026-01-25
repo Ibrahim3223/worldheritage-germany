@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Elmstein Castle"
 latitude: 49.3522
 longitude: 7.93272
 images:

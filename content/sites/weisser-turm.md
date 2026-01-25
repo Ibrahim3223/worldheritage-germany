@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Weißer Turm"
 latitude: 49.4504
 longitude: 11.0707
 images:

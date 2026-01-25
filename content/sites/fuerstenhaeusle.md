@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Fürstenhäusle"
 latitude: 47.69453611
 longitude: 9.27540278
 images:

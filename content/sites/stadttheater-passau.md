@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Stadttheater Passau"
 latitude: 48.5736
 longitude: 13.4649
 images:

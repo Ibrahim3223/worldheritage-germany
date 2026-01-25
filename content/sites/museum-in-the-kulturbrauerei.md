@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum in the Kulturbrauerei"
 latitude: 52.540368
 longitude: 13.413992
 images:

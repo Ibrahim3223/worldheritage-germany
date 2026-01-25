@@ -10,6 +10,7 @@ categories:
 - River
 regions:
 - Germany
+site_name: "Fulda"
 latitude: 50.4919
 longitude: 9.9536
 images:

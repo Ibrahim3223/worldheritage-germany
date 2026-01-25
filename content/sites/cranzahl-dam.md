@@ -10,6 +10,7 @@ categories:
 - Dam
 regions:
 - Germany
+site_name: "Cranzahl Dam"
 latitude: 50.5039
 longitude: 13.0036
 images:

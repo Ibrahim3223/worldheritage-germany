@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Zoo Dortmund"
 latitude: 51.4744
 longitude: 7.47083
 images:

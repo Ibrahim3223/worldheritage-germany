@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Staatsgalerie Stuttgart"
 latitude: 48.780227777
 longitude: 9.186875
 

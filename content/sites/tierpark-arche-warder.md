@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Tierpark Arche Warder"
 latitude: 54.21527778
 longitude: 9.90777778
 images:

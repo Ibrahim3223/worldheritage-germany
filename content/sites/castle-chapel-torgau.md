@@ -10,6 +10,7 @@ categories:
 - Chapel
 regions:
 - Germany
+site_name: "Castle chapel Torgau"
 latitude: 51.559178
 longitude: 13.008966
 images:

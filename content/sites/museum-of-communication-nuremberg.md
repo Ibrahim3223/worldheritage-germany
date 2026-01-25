@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum of Communication Nuremberg"
 latitude: 49.44555556
 longitude: 11.07444444
 images:

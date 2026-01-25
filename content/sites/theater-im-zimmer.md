@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Theater im Zimmer"
 latitude: 53.57339
 longitude: 9.997
 images:

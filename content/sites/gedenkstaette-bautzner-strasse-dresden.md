@@ -10,6 +10,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Gedenkstätte Bautzner Straße Dresden"
 latitude: 51.0667
 longitude: 13.7833
 images:

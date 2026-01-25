@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Willibaldsburg"
 latitude: 48.894575
 longitude: 11.169511111
 

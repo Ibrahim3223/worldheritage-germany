@@ -10,6 +10,7 @@ categories:
 - Fountain
 regions:
 - Germany
+site_name: "Albert Mooren fountain"
 latitude: 51.1995
 longitude: 6.79013
 images:

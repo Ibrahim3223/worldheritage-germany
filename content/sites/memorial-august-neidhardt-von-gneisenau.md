@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Memorial August Neidhardt von Gneisenau"
 latitude: 52.516586513
 longitude: 13.395583557
 images:

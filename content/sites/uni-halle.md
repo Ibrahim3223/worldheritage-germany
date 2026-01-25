@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Uni-Halle"
 latitude: 51.2411
 longitude: 7.14778
 images:

@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Kurpark Bad Homburg"
 latitude: 50.226778589
 longitude: 8.625949306
 images:

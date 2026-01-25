@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Studiobühne Siegburg"
 latitude: 50.8003
 longitude: 7.20547
 images:

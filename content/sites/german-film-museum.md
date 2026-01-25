@@ -10,6 +10,7 @@ categories:
 - Cinema
 regions:
 - Germany
+site_name: "German Film Museum"
 latitude: 50.105
 longitude: 8.677777777
 images:

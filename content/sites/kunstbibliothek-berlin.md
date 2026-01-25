@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Kunstbibliothek Berlin"
 latitude: 52.50861
 longitude: 13.36666
 images:

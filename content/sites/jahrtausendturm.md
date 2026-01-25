@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Jahrtausendturm"
 latitude: 52.138777777
 longitude: 11.666416666
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Städtische Galerie im Park Viersen"
 latitude: 51.2583
 longitude: 6.39142
 

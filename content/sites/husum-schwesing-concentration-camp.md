@@ -11,6 +11,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Husum-Schwesing concentration camp"
 latitude: 54.51003
 longitude: 9.11779
 images:

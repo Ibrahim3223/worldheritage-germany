@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Villa Zanders"
 latitude: 50.9908
 longitude: 7.13056
 

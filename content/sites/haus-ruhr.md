@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Haus Ruhr"
 latitude: 51.4206
 longitude: 7.54667
 images:

@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Rehdener Geestmoor"
 latitude: 52.5722
 longitude: 8.50278
 images:

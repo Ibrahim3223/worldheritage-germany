@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Steinegg (Neuhausen)"
 latitude: 48.8152
 longitude: 8.7874
 images:

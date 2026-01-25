@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Glocken-StadtMuseum (Apolda, Germany)"
 latitude: 51.0269
 longitude: 11.5192
 images:

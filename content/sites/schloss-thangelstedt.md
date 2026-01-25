@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Schloss Thangelstedt"
 latitude: 50.844203
 longitude: 11.278995
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Nideggen"
 latitude: 50.688511
 longitude: 6.476642
 images:

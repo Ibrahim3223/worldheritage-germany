@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "Fondation Ernst Barlach"
 latitude: 53.77471
 longitude: 12.21059
 images:

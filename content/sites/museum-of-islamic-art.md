@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum of Islamic Art"
 latitude: 52.5208
 longitude: 13.3964
 

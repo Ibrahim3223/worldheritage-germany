@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Harliburg"
 latitude: 51.96
 longitude: 10.5719
 images:

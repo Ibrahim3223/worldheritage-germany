@@ -10,6 +10,7 @@ categories:
 - School Building
 regions:
 - Germany
+site_name: "Geisenheim Grape Breeding Institute"
 latitude: 49.984166666
 longitude: 7.961388888
 images:

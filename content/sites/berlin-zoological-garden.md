@@ -10,6 +10,7 @@ categories:
 - Zoo
 regions:
 - Germany
+site_name: "Berlin Zoological Garden"
 latitude: 52.508333333
 longitude: 13.3375
 images:

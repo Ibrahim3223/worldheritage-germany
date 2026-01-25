@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Arenfels Castle"
 latitude: 50.5219
 longitude: 7.30722
 images:

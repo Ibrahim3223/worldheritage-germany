@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Oldenburgisches Staatstheater"
 latitude: 53.1392
 longitude: 8.21
 images:

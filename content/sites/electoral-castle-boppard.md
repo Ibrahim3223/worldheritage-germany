@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Electoral castle Boppard"
 latitude: 50.2327
 longitude: 7.59365
 images:

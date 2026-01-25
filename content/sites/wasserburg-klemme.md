@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Wasserburg Klemme"
 latitude: 50.9773
 longitude: 10.3225
 images:

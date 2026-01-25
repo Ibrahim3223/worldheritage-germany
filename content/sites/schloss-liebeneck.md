@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Liebeneck"
 latitude: 50.2412
 longitude: 7.619
 

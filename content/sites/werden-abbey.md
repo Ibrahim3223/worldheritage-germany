@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Werden Abbey"
 latitude: 51.38806
 longitude: 7.00472
 images:

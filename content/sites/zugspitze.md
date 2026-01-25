@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Zugspitze"
 latitude: 47.421217
 longitude: 10.986314
 images:

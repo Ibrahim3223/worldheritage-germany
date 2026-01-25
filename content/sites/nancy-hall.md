@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Nancy hall"
 latitude: 49.001916666
 longitude: 8.399888888
 images:

@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Koos"
 latitude: 54.166666666
 longitude: 13.416666666
 images:

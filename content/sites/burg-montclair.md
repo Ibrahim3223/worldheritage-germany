@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Montclair"
 latitude: 49.4956
 longitude: 6.55778
 images:

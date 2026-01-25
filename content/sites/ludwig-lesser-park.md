@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Ludwig Lesser Park"
 latitude: 52.64009
 longitude: 13.28985
 images:

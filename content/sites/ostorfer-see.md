@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Ostorfer See"
 latitude: 53.613333333
 longitude: 11.394166666
 images:

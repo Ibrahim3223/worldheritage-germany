@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Textilfabrik Cromford"
 latitude: 51.30617
 longitude: 6.85344
 images:

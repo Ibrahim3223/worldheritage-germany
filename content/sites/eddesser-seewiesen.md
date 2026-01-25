@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Eddesser Seewiesen"
 latitude: 52.4219
 longitude: 10.2236
 images:

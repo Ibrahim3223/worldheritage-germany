@@ -10,6 +10,7 @@ categories:
 - Library
 regions:
 - Germany
+site_name: "Cusanusstift"
 latitude: 49.91600278
 longitude: 7.07121389
 images:

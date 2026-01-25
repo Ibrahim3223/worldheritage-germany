@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum Tabakspeicher"
 latitude: 51.502368
 longitude: 10.791502
 images:

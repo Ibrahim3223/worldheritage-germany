@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Roonstrasse Synagogue"
 latitude: 50.932125
 longitude: 6.936681
 images:

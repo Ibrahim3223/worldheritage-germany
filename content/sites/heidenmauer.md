@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Heidenmauer"
 latitude: 49.4644
 longitude: 8.15444
 images:

@@ -10,6 +10,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Dachau concentration camp memorial"
 latitude: 48.2703
 longitude: 11.4681
 images:

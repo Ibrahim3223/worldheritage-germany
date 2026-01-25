@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Geowissenschaftliches Museum der Universität Göttingen"
 latitude: 51.55631
 longitude: 9.94732
 images:

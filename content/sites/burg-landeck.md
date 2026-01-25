@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Landeck"
 latitude: 48.149305555
 longitude: 7.840388888
 images:

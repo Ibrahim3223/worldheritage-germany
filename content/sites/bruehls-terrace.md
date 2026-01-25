@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Brühl's Terrace"
 latitude: 51.053427
 longitude: 13.740206
 images:

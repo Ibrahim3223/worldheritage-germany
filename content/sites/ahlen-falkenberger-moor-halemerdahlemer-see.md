@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Ahlen-Falkenberger Moor, Halemer/Dahlemer See"
 latitude: 53.6833
 longitude: 8.79167
 images:

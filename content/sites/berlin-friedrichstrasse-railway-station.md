@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Berlin-Friedrichstraße railway station"
 latitude: 52.520277777
 longitude: 13.386944444
 images:

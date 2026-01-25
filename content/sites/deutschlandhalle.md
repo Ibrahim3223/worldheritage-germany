@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "Deutschlandhalle"
 latitude: 52.500277777
 longitude: 13.269722222
 images:

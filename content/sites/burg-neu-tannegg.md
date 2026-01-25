@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Neu-Tannegg"
 latitude: 47.840416666
 longitude: 8.356388888
 images:

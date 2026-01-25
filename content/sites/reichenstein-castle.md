@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Reichenstein Castle"
 latitude: 50.005192
 longitude: 7.853544
 

@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Vater Rhein und seine Töchter"
 latitude: 51.2169
 longitude: 6.77403
 images:

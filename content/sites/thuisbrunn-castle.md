@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Thuisbrunn Castle"
 latitude: 49.6884
 longitude: 11.2475
 

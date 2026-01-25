@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Stratmanns Theater Europahaus"
 latitude: 51.4561
 longitude: 7.01083
 images:

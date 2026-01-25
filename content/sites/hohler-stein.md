@@ -10,6 +10,7 @@ categories:
 - Cave
 regions:
 - Germany
+site_name: "Hohler Stein"
 latitude: 51.4364
 longitude: 8.40278
 images:

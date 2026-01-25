@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Goethes Gartenhaus"
 latitude: 50.9761
 longitude: 11.3369
 images:

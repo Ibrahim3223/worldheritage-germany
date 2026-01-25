@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Staffelsee"
 latitude: 47.6908
 longitude: 11.1608
 images:

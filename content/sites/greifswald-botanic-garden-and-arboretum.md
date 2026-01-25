@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Greifswald Botanic Garden and Arboretum"
 latitude: 54.091669444
 longitude: 13.406980555
 images:

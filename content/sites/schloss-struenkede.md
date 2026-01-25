@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schloss Strünkede"
 latitude: 51.5514
 longitude: 7.21111
 images:

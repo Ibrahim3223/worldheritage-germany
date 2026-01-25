@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Lake Schwielowsee"
 latitude: 52.337752
 longitude: 12.954941
 images:

@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Altes Museum"
 latitude: 52.519444444
 longitude: 13.398888888
 images:

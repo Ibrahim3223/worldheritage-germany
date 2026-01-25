@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Rachelsee"
 latitude: 48.975277777
 longitude: 13.401944444
 images:

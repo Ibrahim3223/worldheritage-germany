@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Städtische Kunsthalle Recklinghausen"
 latitude: 51.6171
 longitude: 7.20275
 images:

@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "The Socialists' Memorial"
 latitude: 52.5149213
 longitude: 13.5112267
 images:

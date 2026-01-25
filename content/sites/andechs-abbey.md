@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Andechs Abbey"
 latitude: 47.974659939
 longitude: 11.182454806
 images:

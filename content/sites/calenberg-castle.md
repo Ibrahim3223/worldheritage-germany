@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Calenberg Castle"
 latitude: 52.1964
 longitude: 9.79639
 images:

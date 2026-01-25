@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Neue Synagoge"
 latitude: 52.372
 longitude: 9.7281
 images:

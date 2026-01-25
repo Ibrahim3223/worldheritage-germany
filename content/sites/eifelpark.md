@@ -10,6 +10,7 @@ categories:
 - Zoo
 regions:
 - Germany
+site_name: "Eifelpark"
 latitude: 49.9628
 longitude: 6.6175
 images:

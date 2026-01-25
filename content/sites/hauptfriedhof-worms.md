@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Hauptfriedhof Worms"
 latitude: 49.6437
 longitude: 8.33453
 images:

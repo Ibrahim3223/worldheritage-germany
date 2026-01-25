@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "agra"
 latitude: 51.2838
 longitude: 12.39
 images:

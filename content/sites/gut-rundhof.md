@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Gut Rundhof"
 latitude: 54.7267
 longitude: 9.84478
 images:

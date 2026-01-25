@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "Landesbibliothek Coburg"
 latitude: 50.2581
 longitude: 10.9672
 images:

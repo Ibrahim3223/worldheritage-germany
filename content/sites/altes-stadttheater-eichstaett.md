@@ -11,6 +11,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Altes Stadttheater Eichstätt"
 latitude: 48.891016
 longitude: 11.184002
 images:

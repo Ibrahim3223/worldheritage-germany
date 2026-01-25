@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Dünsberg"
 latitude: 50.650605555
 longitude: 8.580569444
 images:

@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "Berlin Central and Regional Library"
 latitude: 52.496486
 longitude: 13.392397
 images:

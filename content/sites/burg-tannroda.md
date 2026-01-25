@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Tannroda"
 latitude: 50.8587
 longitude: 11.2439
 images:

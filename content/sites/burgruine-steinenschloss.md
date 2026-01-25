@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burgruine Steinenschloss"
 latitude: 49.265608333
 longitude: 7.605416666
 images:

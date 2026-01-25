@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Sowjetischer Friedhof in Belvedere"
 latitude: 50.9501
 longitude: 11.3481
 images:

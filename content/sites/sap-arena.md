@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "SAP Arena"
 latitude: 49.464115
 longitude: 8.517956
 images:

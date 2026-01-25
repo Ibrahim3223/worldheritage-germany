@@ -10,6 +10,7 @@ categories:
   - "Cave"
 regions:
   - "Germany"
+site_name: "Kluterthöhle"
 latitude: 51.299166666
 longitude: 7.354722222
 images:

@@ -10,6 +10,7 @@ categories:
 - Market Square
 regions:
 - Germany
+site_name: "Alexanderplatz"
 latitude: 52.521666666
 longitude: 13.413611111
 images:

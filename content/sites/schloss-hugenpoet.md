@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Hugenpoet"
 latitude: 51.361805555
 longitude: 6.917222222
 

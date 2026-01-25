@@ -10,6 +10,7 @@ categories:
 - Chapel
 regions:
 - Germany
+site_name: "Herzenbergkapelle"
 latitude: 50.4518
 longitude: 8.04926
 images:

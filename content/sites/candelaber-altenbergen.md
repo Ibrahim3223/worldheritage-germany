@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Candelaber Altenbergen"
 latitude: 50.8326976
 longitude: 10.6232479
 images:

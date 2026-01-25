@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "museum over Franz Liszt"
 latitude: 50.9748
 longitude: 11.33
 images:

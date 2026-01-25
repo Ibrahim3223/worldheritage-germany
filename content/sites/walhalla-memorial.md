@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Walhalla memorial"
 latitude: 49.031486111
 longitude: 12.224088888
 images:

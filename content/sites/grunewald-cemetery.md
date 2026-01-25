@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Grunewald Cemetery"
 latitude: 52.498888888
 longitude: 13.285
 images:

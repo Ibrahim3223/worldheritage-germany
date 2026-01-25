@@ -10,6 +10,7 @@ categories:
   - "Cathedral"
 regions:
   - "Germany"
+site_name: "St. Stephan's Cathedral, Passau"
 latitude: 48.574179507
 longitude: 13.465499831
 images:

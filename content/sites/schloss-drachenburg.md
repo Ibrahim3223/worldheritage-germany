@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schloss Drachenburg"
 latitude: 50.6686729
 longitude: 7.2063442
 images:

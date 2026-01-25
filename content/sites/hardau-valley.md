@@ -10,6 +10,7 @@ categories:
 - Valley
 regions:
 - Germany
+site_name: "Hardau Valley"
 latitude: 52.901270277
 longitude: 10.465869444
 images:

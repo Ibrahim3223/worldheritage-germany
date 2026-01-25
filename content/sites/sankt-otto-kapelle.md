@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Sankt-Otto-Kapelle"
 latitude: 47.604
 longitude: 12.18
 images:

@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Eichwald und Buschmühle"
 latitude: 52.305833333
 longitude: 14.574444444
 images:

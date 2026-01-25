@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagoge Heidelberg (1878-1938)"
 latitude: 49.41305556
 longitude: 8.70611111
 images:

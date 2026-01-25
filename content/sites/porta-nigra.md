@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Porta Nigra"
 latitude: 49.759722222
 longitude: 6.643888888
 images:

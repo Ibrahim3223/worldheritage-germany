@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Kyffhäuser Monument"
 latitude: 51.41305556
 longitude: 11.10972222
 images:

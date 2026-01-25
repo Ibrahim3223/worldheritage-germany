@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Castra of Zugmantel"
 latitude: 50.18977
 longitude: 8.20364
 images:

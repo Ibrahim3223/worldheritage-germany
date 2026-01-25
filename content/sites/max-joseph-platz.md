@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Max-Joseph-Platz"
 latitude: 48.13984894
 longitude: 11.57806098
 images:

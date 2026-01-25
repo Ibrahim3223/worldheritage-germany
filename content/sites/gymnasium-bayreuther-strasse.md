@@ -10,6 +10,7 @@ categories:
 - School Building
 regions:
 - Germany
+site_name: "Gymnasium Bayreuther Straße"
 latitude: 51.2617
 longitude: 7.12939
 images:

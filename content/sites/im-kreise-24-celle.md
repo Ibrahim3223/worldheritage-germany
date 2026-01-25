@@ -10,6 +10,7 @@ categories:
 - Synagogue
 regions:
 - Germany
+site_name: "Im Kreise 24 (Celle)"
 latitude: 52.6228
 longitude: 10.0872
 images:

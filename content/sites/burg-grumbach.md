@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Grumbach"
 latitude: 49.658
 longitude: 7.55597
 images:

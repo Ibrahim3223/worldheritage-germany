@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Perlachturm"
 latitude: 48.3692
 longitude: 10.8983
 images:

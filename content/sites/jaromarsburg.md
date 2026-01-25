@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Jaromarsburg"
 latitude: 54.6766
 longitude: 13.4369
 images:

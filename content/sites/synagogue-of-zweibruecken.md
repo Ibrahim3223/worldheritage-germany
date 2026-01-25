@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue of Zweibrücken"
 latitude: 49.24706
 longitude: 7.36216
 images:

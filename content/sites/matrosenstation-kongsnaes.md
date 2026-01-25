@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Matrosenstation Kongsnaes"
 latitude: 52.4153
 longitude: 13.0842
 images:

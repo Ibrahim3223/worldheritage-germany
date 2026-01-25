@@ -10,6 +10,7 @@ categories:
 - Factory
 regions:
 - Germany
+site_name: "Batschari"
 latitude: 48.769298
 longitude: 8.23266
 images:

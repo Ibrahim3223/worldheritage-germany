@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Richstein"
 latitude: 50.9852
 longitude: 8.45798
 images:

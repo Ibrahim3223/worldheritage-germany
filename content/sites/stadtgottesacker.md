@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Stadtgottesacker"
 latitude: 51.482222222
 longitude: 11.9775
 images:

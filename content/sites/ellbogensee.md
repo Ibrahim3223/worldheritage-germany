@@ -11,6 +11,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Ellbogensee"
 latitude: 53.207222222
 longitude: 13.0375
 images:

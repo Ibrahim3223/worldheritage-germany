@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "German Football Museum"
 latitude: 51.51625
 longitude: 7.45855556
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Robert-Bosch-Haus"
 latitude: 48.7778
 longitude: 9.19889
 images:

@@ -10,6 +10,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Die Trauernde"
 latitude: 50.934818
 longitude: 6.958895
 images:

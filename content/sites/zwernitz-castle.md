@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Zwernitz Castle"
 latitude: 49.9835
 longitude: 11.3155
 

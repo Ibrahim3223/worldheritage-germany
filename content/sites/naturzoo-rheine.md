@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "NaturZoo Rheine"
 latitude: 52.297
 longitude: 7.42239
 images:

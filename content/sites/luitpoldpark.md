@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Luitpoldpark"
 latitude: 48.171493662
 longitude: 11.569673867
 images:

@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Glyptothek"
 latitude: 48.146565531
 longitude: 11.565819516
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Prinz Albrecht von Preußen Memorial"
 latitude: 52.5190508
 longitude: 13.2960218
 images:

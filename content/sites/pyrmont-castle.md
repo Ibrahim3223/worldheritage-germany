@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Pyrmont Castle"
 latitude: 50.2374
 longitude: 7.28765
 

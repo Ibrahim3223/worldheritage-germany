@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Rosenau"
 latitude: 50.2981
 longitude: 11.0225
 

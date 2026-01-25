@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Groß Upahler See"
 latitude: 53.716666666
 longitude: 12.05
 images:

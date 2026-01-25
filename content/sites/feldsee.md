@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Feldsee"
 latitude: 47.87027778
 longitude: 8.0325
 images:

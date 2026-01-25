@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Büraburg"
 latitude: 51.120555555
 longitude: 9.236388888
 images:

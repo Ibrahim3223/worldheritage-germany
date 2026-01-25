@@ -11,6 +11,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Bavarian State Painting Collections"
 latitude: 48.149583
 longitude: 11.571776
 images:

@@ -10,6 +10,7 @@ categories:
 - Library
 regions:
 - Germany
+site_name: "Donaueschingen court library"
 latitude: 47.95211
 longitude: 8.49912
 images:

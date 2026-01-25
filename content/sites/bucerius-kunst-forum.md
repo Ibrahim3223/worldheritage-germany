@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Bucerius Kunst Forum"
 latitude: 53.5507
 longitude: 9.99104
 images:

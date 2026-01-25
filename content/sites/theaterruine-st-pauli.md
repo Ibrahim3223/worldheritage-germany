@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Theaterruine St. Pauli"
 latitude: 51.0752
 longitude: 13.7489
 images:

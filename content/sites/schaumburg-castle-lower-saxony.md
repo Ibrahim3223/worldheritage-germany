@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schaumburg Castle, Lower Saxony"
 latitude: 52.2012
 longitude: 9.20094
 

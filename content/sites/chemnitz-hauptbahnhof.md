@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Chemnitz Hauptbahnhof"
 latitude: 50.840155555
 longitude: 12.930594444
 images:

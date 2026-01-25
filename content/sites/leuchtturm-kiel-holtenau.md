@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Leuchtturm Kiel-Holtenau"
 latitude: 54.369248
 longitude: 10.153896
 images:

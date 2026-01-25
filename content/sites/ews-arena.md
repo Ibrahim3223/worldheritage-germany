@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "EWS Arena"
 latitude: 48.710833
 longitude: 9.648056
 images:

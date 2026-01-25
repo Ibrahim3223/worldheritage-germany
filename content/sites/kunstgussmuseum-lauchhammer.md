@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Kunstgussmuseum Lauchhammer"
 latitude: 51.5035
 longitude: 13.7954
 images:

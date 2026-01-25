@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Berlin-Lichterfelde Ost railway station"
 latitude: 52.43
 longitude: 13.3289
 images:

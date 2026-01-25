@@ -10,6 +10,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Jahn memorial"
 latitude: 52.4860429
 longitude: 13.4196808
 images:

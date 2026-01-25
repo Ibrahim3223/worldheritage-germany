@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Niedensteiner Kopf"
 latitude: 51.2353
 longitude: 9.3211
 

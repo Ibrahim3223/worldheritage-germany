@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Dreifaltigkeitskirchhof II"
 latitude: 52.4875
 longitude: 13.400166666
 images:

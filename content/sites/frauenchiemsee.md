@@ -10,6 +10,7 @@ categories:
 - Island
 regions:
 - Germany
+site_name: "Frauenchiemsee"
 latitude: 47.873122
 longitude: 12.425708
 images:

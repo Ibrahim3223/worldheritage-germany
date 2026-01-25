@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Georg Kolbe Museum"
 latitude: 52.50991
 longitude: 13.25478
 images:

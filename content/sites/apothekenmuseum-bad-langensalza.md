@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Apothekenmuseum (Bad Langensalza)"
 latitude: 51.110058239
 longitude: 10.644448567
 images:

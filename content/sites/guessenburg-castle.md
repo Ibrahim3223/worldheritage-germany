@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Güssenburg Castle"
 latitude: 48.600308333
 longitude: 10.246611111
 images:

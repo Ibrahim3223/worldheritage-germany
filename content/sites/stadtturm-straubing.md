@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Stadtturm Straubing"
 latitude: 48.881666666
 longitude: 12.569444444
 images:

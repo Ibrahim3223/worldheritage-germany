@@ -10,6 +10,7 @@ categories:
   - "Town Hall"
 regions:
   - "Germany"
+site_name: "Town Hall"
 latitude: 49.37722
 longitude: 10.1785
 images:

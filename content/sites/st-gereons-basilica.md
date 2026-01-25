@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "St. Gereon's Basilica"
 latitude: 50.943225
 longitude: 6.945967
 images:

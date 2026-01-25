@@ -10,6 +10,7 @@ categories:
 - Fountain
 regions:
 - Germany
+site_name: "Berlin Peace Column"
 latitude: 52.499
 longitude: 13.3917
 images:

@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Dorotheenstadt Cemetery"
 latitude: 52.528411111
 longitude: 13.383702777
 images:

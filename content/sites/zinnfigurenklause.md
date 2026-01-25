@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Zinnfigurenklause"
 latitude: 47.99277778
 longitude: 7.85416667
 images:

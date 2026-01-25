@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Clemens Sels Museum Neuss"
 latitude: 51.1943
 longitude: 6.69812
 images:

@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Alter Friedhof Segeroth"
 latitude: 51.4669
 longitude: 6.99806
 images:

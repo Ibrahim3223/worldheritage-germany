@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Auritzer Stele"
 latitude: 51.16267
 longitude: 14.46644
 images:

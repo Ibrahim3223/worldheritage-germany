@@ -10,6 +10,7 @@ categories:
   - "Waterfall"
 regions:
   - "Germany"
+site_name: "Plästerlegge"
 latitude: 51.301111111
 longitude: 8.438888888
 images:

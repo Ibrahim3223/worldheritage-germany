@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Bannwaldsee"
 latitude: 47.601111111
 longitude: 10.777222222
 images:

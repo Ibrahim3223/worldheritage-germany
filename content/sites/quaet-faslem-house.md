@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Quaet-Faslem house"
 latitude: 52.63775
 longitude: 9.2085
 images:

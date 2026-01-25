@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Nienburg Abbey"
 latitude: 51.836511111
 longitude: 11.771758333
 images:

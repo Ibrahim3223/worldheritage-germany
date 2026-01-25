@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Michaeliskloster"
 latitude: 54.0871
 longitude: 12.1364
 images:

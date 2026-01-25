@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Cremlingen transmitter"
 latitude: 52.293888888
 longitude: 10.726666666
 images:

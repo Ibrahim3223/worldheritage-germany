@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Lennépark"
 latitude: 52.3462
 longitude: 14.5482
 images:

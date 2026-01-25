@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Suermondt-Ludwig-Museum"
 latitude: 50.7735
 longitude: 6.09569
 images:

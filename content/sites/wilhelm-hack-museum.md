@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Wilhelm-Hack-Museum"
 latitude: 49.4801
 longitude: 8.44407
 images:

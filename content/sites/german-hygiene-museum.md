@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "German Hygiene Museum"
 latitude: 51.0443
 longitude: 13.7466
 images:

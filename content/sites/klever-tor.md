@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Klever Tor"
 latitude: 51.6628
 longitude: 6.44959
 images:

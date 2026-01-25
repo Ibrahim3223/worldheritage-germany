@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagoge"
 latitude: 49.1179
 longitude: 9.18897
 images:

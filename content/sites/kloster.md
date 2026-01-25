@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kloster"
 latitude: 50.276944444
 longitude: 10.2875
 

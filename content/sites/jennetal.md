@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Jennetal"
 latitude: 47.96227778
 longitude: 7.78838889
 images:

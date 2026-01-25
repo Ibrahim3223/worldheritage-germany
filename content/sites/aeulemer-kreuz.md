@@ -10,6 +10,7 @@ categories:
 - Gorge
 regions:
 - Germany
+site_name: "Äulemer Kreuz"
 latitude: 47.827107
 longitude: 8.088163
 images:

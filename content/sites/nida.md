@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Nida"
 latitude: 50.1541
 longitude: 8.63774
 

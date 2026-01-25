@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Tricensimae"
 latitude: 51.6667
 longitude: 6.45
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Ludwig Roselius Museum"
 latitude: 53.075
 longitude: 8.80583
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schloss Detmold"
 latitude: 51.9365
 longitude: 8.87707
 images:

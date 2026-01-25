@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "German Broadcasting Archive"
 latitude: 52.389672
 longitude: 13.119806
 images:

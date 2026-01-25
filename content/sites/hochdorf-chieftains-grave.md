@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Hochdorf Chieftain's Grave"
 latitude: 48.889166666
 longitude: 9.003333333
 images:

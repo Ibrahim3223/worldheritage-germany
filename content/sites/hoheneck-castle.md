@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Hoheneck Castle"
 latitude: 49.5212747
 longitude: 10.5062507
 images:

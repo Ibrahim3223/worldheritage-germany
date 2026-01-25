@@ -10,6 +10,7 @@ categories:
   - "University"
 regions:
   - "Germany"
+site_name: "University of Altdorf"
 latitude: 49.384724382
 longitude: 11.356808604
 images:

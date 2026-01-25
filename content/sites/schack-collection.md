@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schack Collection"
 latitude: 48.1423
 longitude: 11.5934
 

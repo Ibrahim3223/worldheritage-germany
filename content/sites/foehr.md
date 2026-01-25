@@ -10,6 +10,7 @@ categories:
 - Island
 regions:
 - Germany
+site_name: "Föhr"
 latitude: 54.716666666
 longitude: 8.5
 images:

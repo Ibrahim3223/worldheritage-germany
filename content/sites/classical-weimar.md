@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Classical Weimar"
 latitude: 50.98333333
 longitude: 11.31666667
 images:

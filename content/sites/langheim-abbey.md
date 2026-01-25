@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Langheim Abbey"
 latitude: 50.1122
 longitude: 11.1101
 images:

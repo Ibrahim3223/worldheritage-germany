@@ -10,6 +10,7 @@ categories:
 - Gorge
 regions:
 - Germany
+site_name: "Achen Pass"
 latitude: 47.603333
 longitude: 11.635556
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Schellenberg"
 latitude: 51.422066666
 longitude: 7.050238888
 

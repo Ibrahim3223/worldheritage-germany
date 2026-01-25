@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Soviet War Memorial"
 latitude: 52.516603
 longitude: 13.371931
 images:

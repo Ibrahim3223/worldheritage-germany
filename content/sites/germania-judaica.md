@@ -10,6 +10,7 @@ categories:
 - Library
 regions:
 - Germany
+site_name: "Germania Judaica"
 latitude: 50.93401
 longitude: 6.94907
 images:

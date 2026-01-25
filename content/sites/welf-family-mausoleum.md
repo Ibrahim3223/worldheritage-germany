@@ -10,6 +10,7 @@ categories:
   - "Mausoleum"
 regions:
   - "Germany"
+site_name: "Welf family mausoleum"
 latitude: 52.395303
 longitude: 9.699168
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Neuwolfstein"
 latitude: 49.5857
 longitude: 7.60483
 images:

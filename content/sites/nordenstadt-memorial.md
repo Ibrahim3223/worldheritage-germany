@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Nordenstadt Memorial"
 latitude: 50.06378333
 longitude: 8.34441944
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Rosgartenmuseum"
 latitude: 47.6599
 longitude: 9.17479
 images:

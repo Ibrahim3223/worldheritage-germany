@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Brehm-Gedenkstätte"
 latitude: 50.80677
 longitude: 11.84697
 images:

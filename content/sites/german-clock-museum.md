@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "German Clock Museum"
 latitude: 48.0509
 longitude: 8.20785
 images:

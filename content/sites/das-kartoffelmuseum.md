@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Das Kartoffelmuseum"
 latitude: 48.12555556
 longitude: 11.60580556
 images:

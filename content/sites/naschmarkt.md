@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Naschmarkt"
 latitude: 51.3404
 longitude: 12.3757
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Oldenburger Wall"
 latitude: 54.294
 longitude: 10.885
 

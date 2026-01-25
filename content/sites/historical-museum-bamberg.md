@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Historical Museum Bamberg"
 latitude: 49.8909
 longitude: 10.8824
 images:

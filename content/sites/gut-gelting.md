@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Gut Gelting"
 latitude: 54.7502
 longitude: 9.9048
 images:

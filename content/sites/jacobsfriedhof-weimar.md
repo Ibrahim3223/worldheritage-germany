@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Jacobsfriedhof Weimar"
 latitude: 50.983333333
 longitude: 11.327777777
 images:

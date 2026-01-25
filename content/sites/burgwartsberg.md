@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burgwartsberg"
 latitude: 51.0184
 longitude: 13.6538
 images:

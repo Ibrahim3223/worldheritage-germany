@@ -10,6 +10,7 @@ categories:
 - Mine
 regions:
 - Germany
+site_name: "Emilianus-Stollen"
 latitude: 49.3302
 longitude: 6.6798
 images:

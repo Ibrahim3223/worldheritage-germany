@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Alter Friedhof"
 latitude: 54.096
 longitude: 13.3943
 images:

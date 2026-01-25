@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Tetzitzer See mit Halbinsel Liddow und Banzelvitzer Berge"
 latitude: 54.541
 longitude: 13.367961111
 images:

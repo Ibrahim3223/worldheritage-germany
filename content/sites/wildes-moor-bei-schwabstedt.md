@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Wildes Moor bei Schwabstedt"
 latitude: 54.4158
 longitude: 9.25
 images:

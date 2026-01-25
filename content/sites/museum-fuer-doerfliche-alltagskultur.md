@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum für dörfliche Alltagskultur"
 latitude: 49.17377778
 longitude: 7.20719444
 images:

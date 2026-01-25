@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Main"
 latitude: 50.0864
 longitude: 11.3983
 images:

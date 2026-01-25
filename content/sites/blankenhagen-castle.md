@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Blankenhagen Castle"
 latitude: 52.7304
 longitude: 9.58476
 images:

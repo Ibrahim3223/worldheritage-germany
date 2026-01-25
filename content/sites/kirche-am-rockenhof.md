@@ -5,6 +5,12 @@ slug: "kirche-am-rockenhof"
 region: "Hamburg"
 
 # Location
+image_srcset:
+  Rock%20ansicht%20von%20süden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rock_ansicht_von_süden.jpg/400px-Rock_ansicht_von_süden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rock_ansicht_von_süden.jpg/800px-Rock_ansicht_von_süden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rock_ansicht_von_süden.jpg/1200px-Rock_ansicht_von_süden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rock_ansicht_von_süden.jpg/1920px-Rock_ansicht_von_süden.jpg
 latitude: 53.65083333
 longitude: 10.16472222
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1742778"
 description: "Located in the serene district of Wandsbek, the Kirche am Rockenhof stands as a striking example of modern architecture in Volksdorf, Germany. This chur..."
 images:
-  - "/images/kirche-am-rockenhof/01-1d684f6c-1920w.webp"
-  - "/images/kirche-am-rockenhof/02-cb3e8688-1920w.webp"
-  - "/images/kirche-am-rockenhof/03-5b4e238d-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rock_ansicht_von_süden.jpg/1200px-Rock_ansicht_von_süden.jpg
 ---
 
 ## Overview

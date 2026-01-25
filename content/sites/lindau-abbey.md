@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Lindau Abbey"
 latitude: 47.546666666
 longitude: 9.6875
 images:

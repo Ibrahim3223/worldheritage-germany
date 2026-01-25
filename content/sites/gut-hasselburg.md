@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Gut Hasselburg"
 latitude: 54.140279
 longitude: 10.816014
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Ehrenberg"
 latitude: 49.2672
 longitude: 9.14639
 images:

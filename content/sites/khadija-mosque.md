@@ -10,6 +10,7 @@ categories:
   - "Mosque"
 regions:
   - "Germany"
+site_name: "Khadija Mosque"
 latitude: 52.5725
 longitude: 13.43055556
 images:

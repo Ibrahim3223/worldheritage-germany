@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "equestrian statue of Frederick the Great"
 latitude: 52.51722222
 longitude: 13.39277778
 images:

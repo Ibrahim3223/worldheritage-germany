@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Hermannstein"
 latitude: 50.8717
 longitude: 10.5814
 images:

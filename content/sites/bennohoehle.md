@@ -10,6 +10,7 @@ categories:
 - Cave
 regions:
 - Germany
+site_name: "Bennohöhle"
 latitude: 50.83333
 longitude: 14.05
 images:

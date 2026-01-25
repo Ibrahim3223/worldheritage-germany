@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Löffelstelzen radio transmitter"
 latitude: 49.5074
 longitude: 9.78243
 images:

@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Freiburg Botanical Garden"
 latitude: 48.0097
 longitude: 7.85833
 images:

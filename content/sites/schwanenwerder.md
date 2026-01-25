@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Schwanenwerder"
 latitude: 52.448347222
 longitude: 13.169130555
 images:

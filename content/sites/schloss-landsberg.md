@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloß Landsberg"
 latitude: 50.6006
 longitude: 10.3947
 

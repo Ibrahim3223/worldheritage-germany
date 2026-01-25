@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Deutzer Friedhof"
 latitude: 50.925030555
 longitude: 6.988205555
 images:

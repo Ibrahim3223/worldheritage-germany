@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Carillon in Berlin-Tiergarten"
 latitude: 52.517777777
 longitude: 13.367222222
 images:

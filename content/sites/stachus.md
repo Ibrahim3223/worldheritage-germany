@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Stachus"
 latitude: 48.1392
 longitude: 11.5658
 images:

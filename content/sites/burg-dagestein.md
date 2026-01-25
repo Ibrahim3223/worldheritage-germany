@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Dagestein"
 latitude: 49.61343
 longitude: 11.80917
 images:

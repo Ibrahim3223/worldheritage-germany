@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "German Emigration Center"
 latitude: 53.5453
 longitude: 8.57417
 images:

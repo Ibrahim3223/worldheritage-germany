@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Castle Berg"
 latitude: 47.97
 longitude: 11.3514
 images:

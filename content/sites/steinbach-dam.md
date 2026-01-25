@@ -10,6 +10,7 @@ categories:
   - "Dam"
 regions:
   - "Germany"
+site_name: "Steinbach Dam"
 latitude: 50.5908
 longitude: 6.83667
 images:

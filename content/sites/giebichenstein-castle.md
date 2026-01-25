@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Giebichenstein Castle"
 latitude: 51.5033
 longitude: 11.9539
 images:

@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Kleiner Wannsee"
 latitude: 52.415761111
 longitude: 13.159430555
 images:

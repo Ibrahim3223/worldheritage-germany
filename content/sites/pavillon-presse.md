@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Pavillon-Presse"
 latitude: 50.981529
 longitude: 11.326752
 images:

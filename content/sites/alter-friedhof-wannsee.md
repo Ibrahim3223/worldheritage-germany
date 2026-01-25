@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Alter Friedhof Wannsee"
 latitude: 52.414094444
 longitude: 13.141302777
 images:

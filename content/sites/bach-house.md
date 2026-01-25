@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Bach House"
 latitude: 50.971491666
 longitude: 10.322611111
 images:

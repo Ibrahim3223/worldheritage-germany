@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Rottenbuch Radio Tower"
 latitude: 47.7571
 longitude: 10.9319
 images:

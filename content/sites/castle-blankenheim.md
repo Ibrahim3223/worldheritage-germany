@@ -11,6 +11,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Castle Blankenheim"
 latitude: 50.4378
 longitude: 6.65166
 images:

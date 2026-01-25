@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Colonia Ulpia Traiana"
 latitude: 51.6667
 longitude: 6.45
 images:

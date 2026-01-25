@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Hodenhagen Castle"
 latitude: 52.7549
 longitude: 9.61864
 images:

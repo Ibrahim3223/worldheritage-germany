@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Statue of James Francis Edward Keith"
 latitude: 52.5116731
 longitude: 13.3846697
 images:

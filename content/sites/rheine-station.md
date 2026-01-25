@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Rheine station"
 latitude: 52.2765
 longitude: 7.43486
 images:

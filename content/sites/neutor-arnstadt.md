@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Neutor (Arnstadt)"
 latitude: 50.8318644
 longitude: 10.9441147
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "St. Augustine's Monastery"
 latitude: 50.981156
 longitude: 11.03016615
 images:

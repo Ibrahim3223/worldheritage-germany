@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Tucherschloss"
 latitude: 49.4575
 longitude: 11.0842
 images:

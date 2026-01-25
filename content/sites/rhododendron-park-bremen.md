@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Rhododendron-Park Bremen"
 latitude: 53.0917
 longitude: 8.88611
 

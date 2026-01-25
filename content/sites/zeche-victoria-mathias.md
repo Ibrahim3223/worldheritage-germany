@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Zeche Victoria Mathias"
 latitude: 51.4675
 longitude: 7.01306
 images:

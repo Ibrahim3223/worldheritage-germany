@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Cologne Charterhouse"
 latitude: 50.9245
 longitude: 6.95563
 images:

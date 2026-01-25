@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Memorial to the Murdered Members of the Reichstag"
 latitude: 52.5179
 longitude: 13.3746
 images:

@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Osser"
 latitude: 49.2024897
 longitude: 13.1046453
 images:

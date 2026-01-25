@@ -10,6 +10,7 @@ categories:
 - Dam
 regions:
 - Germany
+site_name: "Einsiedel Dam"
 latitude: 50.7747
 longitude: 12.9822
 images:

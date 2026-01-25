@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Kollegiatstift Neumünster, Würzburg"
 latitude: 49.7938
 longitude: 9.93158
 images:

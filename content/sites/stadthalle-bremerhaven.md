@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Stadthalle Bremerhaven"
 latitude: 53.5551
 longitude: 8.59111
 images:

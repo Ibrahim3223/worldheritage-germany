@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Wasserschloss Günthersleben"
 latitude: 50.9028
 longitude: 10.7592
 images:

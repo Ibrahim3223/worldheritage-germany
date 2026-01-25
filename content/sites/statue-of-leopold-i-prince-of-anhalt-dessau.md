@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Statue of Leopold I, Prince of Anhalt-Dessau"
 latitude: 52.5115231
 longitude: 13.3836847
 images:

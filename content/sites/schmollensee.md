@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Schmollensee"
 latitude: 53.964166666
 longitude: 14.0875
 images:

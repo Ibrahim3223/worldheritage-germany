@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten Erlangen"
 latitude: 49.5992
 longitude: 11.0067
 images:

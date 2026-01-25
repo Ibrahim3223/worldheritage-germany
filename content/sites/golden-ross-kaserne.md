@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Golden-Ross-Kaserne"
 latitude: 50.00385
 longitude: 8.26778
 images:

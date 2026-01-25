@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Sulzburg"
 latitude: 47.8433
 longitude: 7.7095
 images:

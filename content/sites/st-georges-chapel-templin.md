@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "St George's chapel (Templin)"
 latitude: 53.118398
 longitude: 13.49909
 images:

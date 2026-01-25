@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagoge (Berkach)"
 latitude: 50.437269
 longitude: 10.39732
 images:

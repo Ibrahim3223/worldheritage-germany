@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Kampenwand"
 latitude: 47.756111111
 longitude: 12.366666666
 images:

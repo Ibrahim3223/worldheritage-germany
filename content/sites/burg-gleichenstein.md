@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Gleichenstein"
 latitude: 51.2924
 longitude: 10.2064
 images:

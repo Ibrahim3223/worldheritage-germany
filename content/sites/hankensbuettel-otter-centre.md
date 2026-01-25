@@ -10,6 +10,7 @@ categories:
 - Zoo
 regions:
 - Germany
+site_name: "Hankensbüttel Otter Centre"
 latitude: 52.7314
 longitude: 10.62
 images:

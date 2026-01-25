@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Oberreintalschrofen"
 latitude: 47.395555555
 longitude: 11.103888888
 images:

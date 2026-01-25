@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Bismarck-Museum Friedrichsruh"
 latitude: 53.529008
 longitude: 10.340001
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Memoria Urbana Berlin"
 latitude: 52.50916667
 longitude: 13.38877778
 images:

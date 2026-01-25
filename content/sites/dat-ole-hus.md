@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Dat ole Hus"
 latitude: 54.071016
 longitude: 9.798034
 images:

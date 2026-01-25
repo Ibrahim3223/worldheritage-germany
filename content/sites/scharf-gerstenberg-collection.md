@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Scharf-Gerstenberg Collection"
 latitude: 52.5191
 longitude: 13.2967
 

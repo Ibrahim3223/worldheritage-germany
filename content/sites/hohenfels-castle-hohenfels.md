@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Hohenfels Castle (Hohenfels)"
 latitude: 47.86416667
 longitude: 9.11111111
 images:

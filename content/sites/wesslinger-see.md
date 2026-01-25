@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Weßlinger See"
 latitude: 48.072777777
 longitude: 11.251111111
 images:

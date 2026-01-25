@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Lemle-Moses-Klaus"
 latitude: 49.4886
 longitude: 8.46667
 images:

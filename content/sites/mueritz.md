@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Müritz"
 latitude: 53.416666666
 longitude: 12.683333333
 images:

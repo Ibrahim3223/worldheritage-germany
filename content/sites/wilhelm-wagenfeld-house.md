@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Wilhelm Wagenfeld House"
 latitude: 53.073
 longitude: 8.81485
 

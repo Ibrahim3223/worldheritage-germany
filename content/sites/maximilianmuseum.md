@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Maximilianmuseum"
 latitude: 48.3678
 longitude: 10.8967
 images:

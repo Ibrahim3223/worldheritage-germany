@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Großer Wummsee"
 latitude: 53.188333333
 longitude: 12.800277777
 images:

@@ -10,6 +10,7 @@ categories:
 - Market Square
 regions:
 - Germany
+site_name: "Bayerischer Platz"
 latitude: 52.489
 longitude: 13.3399
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kunsthalle Mannheim"
 latitude: 49.482796
 longitude: 8.475263
 

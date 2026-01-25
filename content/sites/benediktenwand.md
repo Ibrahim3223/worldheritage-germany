@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Benediktenwand"
 latitude: 47.653055555
 longitude: 11.465555555
 images:

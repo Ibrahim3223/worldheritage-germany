@@ -10,6 +10,7 @@ categories:
 - School Building
 regions:
 - Germany
+site_name: "Albert-Schweitzer-Gymnasium Ruhla"
 latitude: 50.891957
 longitude: 10.364557
 images:

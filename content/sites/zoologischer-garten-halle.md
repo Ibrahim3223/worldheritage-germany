@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Zoologischer Garten Halle"
 latitude: 51.50527778
 longitude: 11.9625
 images:

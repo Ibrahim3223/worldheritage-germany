@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum für Mineralogie und Geologie Dresden"
 latitude: 51.1289
 longitude: 13.79
 images:

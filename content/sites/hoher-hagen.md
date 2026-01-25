@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Hoher Hagen"
 latitude: 51.4752
 longitude: 9.76457
 images:

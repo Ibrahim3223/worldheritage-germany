@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Pielenhofen Abbey"
 latitude: 49.073689994
 longitude: 11.956923189
 

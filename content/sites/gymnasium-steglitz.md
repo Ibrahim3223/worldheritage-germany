@@ -10,6 +10,7 @@ categories:
 - School Building
 regions:
 - Germany
+site_name: "Gymnasium Steglitz"
 latitude: 52.4569
 longitude: 13.3264
 images:

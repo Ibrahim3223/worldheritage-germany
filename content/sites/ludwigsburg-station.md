@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Ludwigsburg station"
 latitude: 48.8922
 longitude: 9.18528
 images:

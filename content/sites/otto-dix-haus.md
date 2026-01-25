@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Otto-Dix-Haus"
 latitude: 50.8822
 longitude: 12.0642
 

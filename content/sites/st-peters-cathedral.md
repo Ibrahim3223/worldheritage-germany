@@ -10,6 +10,7 @@ categories:
   - "Cathedral"
 regions:
   - "Germany"
+site_name: "St. Peter's Cathedral"
 latitude: 52.277569
 longitude: 8.044722
 images:

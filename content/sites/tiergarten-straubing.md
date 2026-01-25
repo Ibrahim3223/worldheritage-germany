@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Tiergarten Straubing"
 latitude: 48.8842
 longitude: 12.5355
 images:

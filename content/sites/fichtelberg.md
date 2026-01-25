@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Fichtelberg"
 latitude: 50.429444444
 longitude: 12.954166666
 images:

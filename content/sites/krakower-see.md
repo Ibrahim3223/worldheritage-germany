@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Krakower See"
 latitude: 53.631111111
 longitude: 12.2975
 images:

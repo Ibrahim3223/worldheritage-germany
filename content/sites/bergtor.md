@@ -10,6 +10,7 @@ categories:
 - City Gate
 regions:
 - Germany
+site_name: "Bergtor"
 latitude: 50.7822
 longitude: 6.08488
 images:

@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten Schellerhau"
 latitude: 50.7678
 longitude: 13.6997
 images:

@@ -10,6 +10,7 @@ categories:
 - Mine
 regions:
 - Germany
+site_name: "Grube Lüderich"
 latitude: 50.9379
 longitude: 7.21691
 images:

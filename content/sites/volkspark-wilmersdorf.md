@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Volkspark Wilmersdorf"
 latitude: 52.483611111
 longitude: 13.324166666
 images:

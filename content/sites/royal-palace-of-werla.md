@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Royal palace of Werla"
 latitude: 52.0377
 longitude: 10.5548
 

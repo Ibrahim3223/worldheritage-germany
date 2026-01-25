@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Rykestrasse Synagogue"
 latitude: 52.535381
 longitude: 13.418598
 images:

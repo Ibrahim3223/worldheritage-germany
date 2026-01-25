@@ -11,6 +11,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Feldberger Haussee"
 latitude: 53.341666666
 longitude: 13.448611111
 images:

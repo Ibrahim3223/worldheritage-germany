@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Gutshaus Tützpatz"
 latitude: 53.7223
 longitude: 13.1417
 images:

@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Lindau Lighthouse"
 latitude: 47.542916666
 longitude: 9.683583333
 images:

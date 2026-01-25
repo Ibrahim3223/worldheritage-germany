@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue in Alsfeld"
 latitude: 50.7514
 longitude: 9.26893
 images:

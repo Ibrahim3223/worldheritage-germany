@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Miele-Museum"
 latitude: 51.911392
 longitude: 8.395486
 images:

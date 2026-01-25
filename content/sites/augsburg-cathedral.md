@@ -10,6 +10,7 @@ categories:
 - Pilgrimage Church
 regions:
 - Germany
+site_name: "Augsburg Cathedral"
 latitude: 48.372743587
 longitude: 10.896565711
 images:

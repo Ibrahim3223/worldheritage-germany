@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Weißhaus"
 latitude: 50.9181
 longitude: 6.93232
 

@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Duisburger Stadtwald"
 latitude: 51.4228
 longitude: 6.81049
 images:

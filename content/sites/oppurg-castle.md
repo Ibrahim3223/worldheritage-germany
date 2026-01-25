@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Oppurg Castle"
 latitude: 50.7142
 longitude: 11.6539
 images:

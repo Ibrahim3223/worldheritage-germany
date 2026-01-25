@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum Wiesbaden"
 latitude: 50.0775
 longitude: 8.245833
 

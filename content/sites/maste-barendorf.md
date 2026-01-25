@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Maste-Barendorf"
 latitude: 51.4086
 longitude: 7.69333
 images:

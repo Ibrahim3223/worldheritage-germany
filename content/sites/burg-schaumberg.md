@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Schaumberg"
 latitude: 50.3939
 longitude: 10.9897
 images:

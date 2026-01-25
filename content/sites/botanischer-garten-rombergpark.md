@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten Rombergpark"
 latitude: 51.4807
 longitude: 7.4684
 images:

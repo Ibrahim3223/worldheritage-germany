@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Eisenacher Burg"
 latitude: 50.9625
 longitude: 10.3084
 images:

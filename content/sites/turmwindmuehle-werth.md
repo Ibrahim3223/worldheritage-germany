@@ -10,6 +10,7 @@ categories:
   - "Windmill"
 regions:
   - "Germany"
+site_name: "Turmwindmühle Werth"
 latitude: 51.818889
 longitude: 6.507778
 images:

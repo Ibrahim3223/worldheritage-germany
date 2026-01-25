@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Marienmünster abbey"
 latitude: 51.8317
 longitude: 9.21248
 images:

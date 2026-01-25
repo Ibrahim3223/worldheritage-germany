@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schiller-Nationalmuseum"
 latitude: 48.9356
 longitude: 9.25485
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Kloster Au am Inn"
 latitude: 48.1666
 longitude: 12.3275
 images:

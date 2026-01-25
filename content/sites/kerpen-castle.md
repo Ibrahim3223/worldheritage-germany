@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kerpen Castle"
 latitude: 50.3111
 longitude: 6.73262
 

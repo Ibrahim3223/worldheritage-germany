@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Kloster Nimbschen"
 latitude: 51.215
 longitude: 12.7428
 images:

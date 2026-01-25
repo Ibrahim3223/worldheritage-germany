@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Salzach"
 latitude: 48.2081
 longitude: 12.9291
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Richard-Wagner-Stätten Graupa"
 latitude: 50.999277465
 longitude: 13.922079296
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Lippspringe"
 latitude: 51.7812
 longitude: 8.82251
 images:

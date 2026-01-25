@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "Deutsche Sporthalle"
 latitude: 52.5183
 longitude: 13.43484
 images:

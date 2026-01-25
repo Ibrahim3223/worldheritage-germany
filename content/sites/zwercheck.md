@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Zwercheck"
 latitude: 49.173888888
 longitude: 13.166388888
 images:

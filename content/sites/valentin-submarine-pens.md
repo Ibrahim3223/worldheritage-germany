@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Valentin submarine pens"
 latitude: 53.216992002
 longitude: 8.506275399
 images:

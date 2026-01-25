@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Pegau Abbey"
 latitude: 51.1657
 longitude: 12.2532
 images:

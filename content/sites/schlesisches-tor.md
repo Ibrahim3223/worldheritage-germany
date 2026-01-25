@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Schlesisches Tor"
 latitude: 52.5012
 longitude: 13.4417
 images:

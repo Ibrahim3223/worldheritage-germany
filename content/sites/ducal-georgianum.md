@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Ducal Georgianum"
 latitude: 48.149976096
 longitude: 11.581743654
 images:

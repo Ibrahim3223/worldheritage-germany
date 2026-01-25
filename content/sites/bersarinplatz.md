@@ -10,6 +10,7 @@ categories:
 - Market Square
 regions:
 - Germany
+site_name: "Bersarinplatz"
 latitude: 52.5186
 longitude: 13.4531
 images:

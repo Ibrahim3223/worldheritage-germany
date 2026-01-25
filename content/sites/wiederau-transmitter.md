@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Wiederau transmitter"
 latitude: 51.185
 longitude: 12.28
 images:

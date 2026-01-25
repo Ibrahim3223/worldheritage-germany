@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Mönchehaus-Museum für Moderne Kunst"
 latitude: 51.9071
 longitude: 10.4243
 

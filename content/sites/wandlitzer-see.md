@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Wandlitzer See"
 latitude: 52.75
 longitude: 13.449722222
 images:

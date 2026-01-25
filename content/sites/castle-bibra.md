@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Castle Bibra"
 latitude: 50.469722
 longitude: 10.44
 images:

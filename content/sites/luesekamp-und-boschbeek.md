@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Lüsekamp und Boschbeek"
 latitude: 51.1775
 longitude: 6.081694444
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kunstmuseum Ravensburg"
 latitude: 47.780107
 longitude: 9.614802
 

@@ -10,6 +10,7 @@ categories:
 - Cinema
 regions:
 - Germany
+site_name: "Gabriel Filmtheater"
 latitude: 48.1433
 longitude: 11.5602
 images:

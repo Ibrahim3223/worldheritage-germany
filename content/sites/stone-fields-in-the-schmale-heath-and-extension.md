@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Stone Fields in the Schmale Heath and Extension"
 latitude: 54.4688
 longitude: 13.5578
 images:

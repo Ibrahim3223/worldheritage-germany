@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Karlsruhe Zoo"
 latitude: 48.9978
 longitude: 8.40167
 images:

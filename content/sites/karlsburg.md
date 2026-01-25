@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Karlsburg"
 latitude: 54.618279
 longitude: 9.95276
 

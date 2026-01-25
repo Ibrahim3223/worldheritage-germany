@@ -304,78 +304,25 @@ def process_file(file_path: Path, wikidata_cache: Dict) -> bool:
             updates['site_name'] = title
             changed = True
 
-        # 2. Fix region if it's just "Germany"
-        if current_region == 'Germany' and wikidata_id:
-            # Try cache first
-            if wikidata_id in wikidata_cache:
-                cached_region = wikidata_cache[wikidata_id].get('region')
-                if cached_region and cached_region != 'Germany':
-                    updates['region'] = cached_region
-                    changed = True
-            else:
-                # Fetch from Wikidata
-                info = get_wikidata_info(wikidata_id)
-                if info and 'region' in info:
-                    updates['region'] = info['region']
-                    changed = True
+        # 2. Fix region if it's just "Germany" (CACHE ONLY - no API calls)
+        if current_region == 'Germany' and wikidata_id and wikidata_id in wikidata_cache:
+            cached_region = wikidata_cache[wikidata_id].get('region')
+            if cached_region and cached_region != 'Germany':
+                updates['region'] = cached_region
+                changed = True
 
-        # 3. Add UNESCO tag if applicable
-        if wikidata_id:
+        # 3. Add UNESCO tag if applicable (CACHE ONLY - no API calls)
+        if wikidata_id and wikidata_id in wikidata_cache:
             # Check if already has UNESCO tag
             has_unesco_tag = 'tags:\n  - unesco' in frontmatter or 'tags:\n- unesco' in frontmatter
 
             if not has_unesco_tag:
-                # Check cache
-                is_unesco = False
-                if wikidata_id in wikidata_cache:
-                    is_unesco = wikidata_cache[wikidata_id].get('unesco', False)
-                else:
-                    info = get_wikidata_info(wikidata_id)
-                    is_unesco = info.get('unesco', False) if info else False
-
+                is_unesco = wikidata_cache[wikidata_id].get('unesco', False)
                 if is_unesco:
                     updates['tags'] = ['unesco']
                     changed = True
 
-        # 4. Update to Wikimedia images if available
-        if wikidata_id and 'images:' in frontmatter:
-            # Check if already using Wikimedia URLs
-            has_wikimedia = 'upload.wikimedia.org' in frontmatter
-
-            if not has_wikimedia:
-                # Get Wikimedia images
-                images = []
-                srcset = {}
-
-                if wikidata_id in wikidata_cache:
-                    wiki_img = wikidata_cache[wikidata_id].get('wikidata_image')
-                    if wiki_img:
-                        images = [wiki_img]
-                else:
-                    info = get_wikidata_info(wikidata_id)
-                    if info and 'images' in info:
-                        images = info['images']
-
-                if images:
-                    # Generate URLs
-                    image_urls = []
-                    for filename in images[:5]:
-                        main_url = get_wikimedia_thumb_url(filename, 1200)
-                        image_urls.append(main_url)
-
-                        # Generate srcset
-                        srcset_key = filename.replace(' ', '%20')
-                        srcset[srcset_key] = {
-                            400: get_wikimedia_thumb_url(filename, 400),
-                            800: get_wikimedia_thumb_url(filename, 800),
-                            1200: get_wikimedia_thumb_url(filename, 1200),
-                            1920: get_wikimedia_thumb_url(filename, 1920),
-                        }
-
-                    if image_urls:
-                        updates['images'] = image_urls
-                        updates['image_srcset'] = srcset
-                        changed = True
+        # 4. Images already updated by previous script - skip
 
         if changed and updates:
             new_frontmatter = update_frontmatter(frontmatter, updates)

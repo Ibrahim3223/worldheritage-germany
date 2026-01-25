@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Karkopf"
 latitude: 47.686388888
 longitude: 12.892222222
 images:

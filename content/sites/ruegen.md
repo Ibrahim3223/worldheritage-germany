@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Rügen"
 latitude: 54.45
 longitude: 13.4
 images:

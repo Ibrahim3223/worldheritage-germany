@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Melaten-Friedhof"
 latitude: 50.939443888
 longitude: 6.919166944
 images:

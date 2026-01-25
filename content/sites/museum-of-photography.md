@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum of Photography"
 latitude: 52.5081395
 longitude: 13.3320739
 

@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Bavariapark (Munich)"
 latitude: 48.130999197
 longitude: 11.543054433
 images:

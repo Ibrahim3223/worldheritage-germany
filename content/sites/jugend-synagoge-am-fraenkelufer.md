@@ -10,6 +10,7 @@ categories:
 - Synagogue
 regions:
 - Germany
+site_name: "Jugend-Synagoge am Fraenkelufer"
 latitude: 52.4958
 longitude: 13.4169
 images:

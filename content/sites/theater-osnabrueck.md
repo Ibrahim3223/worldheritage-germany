@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Theater Osnabrück"
 latitude: 52.2767
 longitude: 8.04444
 images:

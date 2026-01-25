@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Roter Turm (Trier, Konstantinplatz)"
 latitude: 49.754305555
 longitude: 6.643916666
 images:

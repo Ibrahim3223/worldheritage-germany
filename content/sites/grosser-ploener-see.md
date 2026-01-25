@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Großer Plöner See"
 latitude: 54.130277777
 longitude: 10.414166666
 images:

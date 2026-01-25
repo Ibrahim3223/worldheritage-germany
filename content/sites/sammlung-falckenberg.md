@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Sammlung Falckenberg"
 latitude: 53.45522
 longitude: 9.98743
 images:

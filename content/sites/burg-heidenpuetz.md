@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Heidenpütz"
 latitude: 50.2948
 longitude: 7.80152
 images:

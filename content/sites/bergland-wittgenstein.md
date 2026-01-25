@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Bergland Wittgenstein"
 latitude: 51.118415
 longitude: 8.511621111
 images:

@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagoge Oberdorf"
 latitude: 48.8666
 longitude: 10.3471
 images:

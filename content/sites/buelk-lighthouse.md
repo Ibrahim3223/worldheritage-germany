@@ -10,6 +10,7 @@ categories:
 - Lighthouse
 regions:
 - Germany
+site_name: "Bülk Lighthouse"
 latitude: 54.45526111
 longitude: 10.1973
 images:

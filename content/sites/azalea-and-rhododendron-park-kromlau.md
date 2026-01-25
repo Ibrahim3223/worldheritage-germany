@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Azalea and Rhododendron Park Kromlau"
 latitude: 51.5356
 longitude: 14.6361
 images:

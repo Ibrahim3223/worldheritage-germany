@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Tüttensee"
 latitude: 47.846338888
 longitude: 12.568327777
 images:

@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Brückensprengungsdenkmal"
 latitude: 51.342991194
 longitude: 12.365011805
 images:

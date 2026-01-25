@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Reithalle"
 latitude: 50.2582
 longitude: 10.969
 images:

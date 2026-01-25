@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Rindermarktbrunnen"
 latitude: 48.1361
 longitude: 11.5742
 images:

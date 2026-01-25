@@ -10,6 +10,7 @@ categories:
 - Factory
 regions:
 - Germany
+site_name: "Hartwig & Vogel"
 latitude: 51.04786
 longitude: 13.72327
 images:

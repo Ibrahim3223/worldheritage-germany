@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schönburg"
 latitude: 50.1012
 longitude: 7.73222
 

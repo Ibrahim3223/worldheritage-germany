@@ -11,6 +11,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Dambecker See"
 latitude: 53.367777777
 longitude: 12.493888888
 images:

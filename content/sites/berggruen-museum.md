@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Berggruen Museum"
 latitude: 52.5192
 longitude: 13.2953
 images:

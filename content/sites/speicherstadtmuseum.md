@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Speicherstadtmuseum"
 latitude: 53.543111111
 longitude: 9.987555555
 images:

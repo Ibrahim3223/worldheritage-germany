@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Barniner See"
 latitude: 53.608333333
 longitude: 11.705833333
 images:

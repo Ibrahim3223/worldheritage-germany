@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Dill"
 latitude: 49.916
 longitude: 7.34532
 images:

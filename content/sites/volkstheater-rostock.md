@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Volkstheater Rostock"
 latitude: 54.09105
 longitude: 12.1184
 images:

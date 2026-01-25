@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Rotwildpark bei Stuttgart"
 latitude: 48.759823
 longitude: 9.10104
 images:

@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Siegburg/Bonn station"
 latitude: 50.7938
 longitude: 7.2025
 images:

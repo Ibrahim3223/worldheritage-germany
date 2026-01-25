@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Schwalbe-Arena"
 latitude: 51.0248
 longitude: 7.56283
 images:

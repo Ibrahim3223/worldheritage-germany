@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Nordmarkt"
 latitude: 51.5167
 longitude: 7.45
 images:

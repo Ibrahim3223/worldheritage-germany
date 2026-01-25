@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Riessersee"
 latitude: 47.478333333
 longitude: 11.081388888
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Ordensburg Vogelsang"
 latitude: 50.5844
 longitude: 6.44806
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "German Mining Museum"
 latitude: 51.4892
 longitude: 7.21722
 images:

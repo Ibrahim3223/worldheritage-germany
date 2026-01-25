@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Palace of Aachen"
 latitude: 50.775556
 longitude: 6.083889
 images:

@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Theater Gütersloh"
 latitude: 51.9061
 longitude: 8.37069
 images:

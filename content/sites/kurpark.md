@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Kurpark"
 latitude: 50.0844
 longitude: 8.25167
 images:

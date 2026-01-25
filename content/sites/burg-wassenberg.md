@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Wassenberg"
 latitude: 51.1009
 longitude: 6.15769
 images:

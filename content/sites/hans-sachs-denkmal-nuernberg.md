@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Hans-Sachs-Denkmal (Nürnberg)"
 latitude: 49.4537
 longitude: 11.0801
 images:

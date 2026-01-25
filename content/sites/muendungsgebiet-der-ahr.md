@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Mündungsgebiet der Ahr"
 latitude: 50.5578
 longitude: 7.27556
 images:

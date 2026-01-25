@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Lankower See"
 latitude: 53.6411
 longitude: 11.3769
 images:

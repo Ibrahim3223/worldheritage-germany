@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Stones Fan Museum"
 latitude: 52.968016
 longitude: 11.154526
 images:

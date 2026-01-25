@@ -10,6 +10,7 @@ categories:
   - "National Park"
 regions:
   - "Germany"
+site_name: "Saxon Switzerland National Park"
 latitude: 50.9142
 longitude: 14.2784
 images:

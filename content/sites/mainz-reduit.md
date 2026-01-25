@@ -10,6 +10,7 @@ categories:
   - "Fortress"
 regions:
   - "Germany"
+site_name: "Mainz Reduit"
 latitude: 50.0065
 longitude: 8.28133
 images:

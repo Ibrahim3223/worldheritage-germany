@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Angermuseum"
 latitude: 50.9756
 longitude: 11.0342
 images:

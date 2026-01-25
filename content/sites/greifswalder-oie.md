@@ -10,6 +10,7 @@ categories:
 - Island
 regions:
 - Germany
+site_name: "Greifswalder Oie"
 latitude: 54.246944444
 longitude: 13.9175
 images:

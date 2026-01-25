@@ -10,6 +10,7 @@ categories:
 - Island
 regions:
 - Germany
+site_name: "Herreninsel"
 latitude: 47.860555555
 longitude: 12.398055555
 images:

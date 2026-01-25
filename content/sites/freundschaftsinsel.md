@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Freundschaftsinsel"
 latitude: 52.395
 longitude: 13.0647
 images:

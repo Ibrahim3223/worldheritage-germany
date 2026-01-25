@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "The New Collection"
 latitude: 48.146944
 longitude: 11.572222
 images:

@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten Universität Rostock"
 latitude: 54.0907
 longitude: 12.0931
 images:

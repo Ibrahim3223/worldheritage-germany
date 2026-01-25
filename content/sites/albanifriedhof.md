@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Albanifriedhof"
 latitude: 51.531938888
 longitude: 9.94195
 images:

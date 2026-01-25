@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Lützowplatz"
 latitude: 52.5047
 longitude: 13.3524
 images:

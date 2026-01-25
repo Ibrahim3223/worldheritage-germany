@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Gut Seekamp"
 latitude: 54.4097
 longitude: 10.1619
 images:

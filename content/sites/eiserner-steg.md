@@ -10,6 +10,7 @@ categories:
 - Bridge
 regions:
 - Germany
+site_name: "Eiserner Steg"
 latitude: 50.108102863
 longitude: 8.682122202
 images:

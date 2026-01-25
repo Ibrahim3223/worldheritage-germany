@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Preußengrab Ichtershausen"
 latitude: 50.8753
 longitude: 10.9801
 images:

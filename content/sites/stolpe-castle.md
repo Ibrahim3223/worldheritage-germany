@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Stolpe Castle"
 latitude: 53.8679
 longitude: 13.9915
 images:

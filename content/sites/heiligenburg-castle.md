@@ -11,6 +11,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Heiligenburg Castle"
 latitude: 51.1328
 longitude: 9.45833
 images:

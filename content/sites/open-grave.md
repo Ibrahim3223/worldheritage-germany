@@ -10,6 +10,7 @@ categories:
   - "Tomb"
 regions:
   - "Germany"
+site_name: "Open Grave"
 latitude: 52.3695
 longitude: 9.74769
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kunstmuseum Stuttgart"
 latitude: 48.7783
 longitude: 9.1776
 

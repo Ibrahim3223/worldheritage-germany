@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "The Philippi Collection"
 latitude: 49.481972222
 longitude: 7.031027777
 images:

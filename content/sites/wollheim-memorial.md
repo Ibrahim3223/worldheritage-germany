@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Wollheim Memorial"
 latitude: 50.125
 longitude: 8.665
 images:

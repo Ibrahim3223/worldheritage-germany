@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Sender Feldberg"
 latitude: 47.873631
 longitude: 8.004172
 images:

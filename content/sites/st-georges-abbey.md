@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "St. George's Abbey"
 latitude: 47.6939
 longitude: 10.0429
 images:

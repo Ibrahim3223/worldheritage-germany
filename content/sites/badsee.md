@@ -11,6 +11,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Badsee"
 latitude: 47.774778
 longitude: 9.99306
 images:

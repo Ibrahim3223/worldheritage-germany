@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Neues Tor"
 latitude: 53.5561
 longitude: 13.2658
 images:

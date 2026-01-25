@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Münchner Freiheit"
 latitude: 48.1614
 longitude: 11.5864
 images:

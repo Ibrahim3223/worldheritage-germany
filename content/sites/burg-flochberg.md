@@ -11,6 +11,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Flochberg"
 latitude: 48.8519
 longitude: 10.3608
 images:

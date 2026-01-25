@@ -10,6 +10,7 @@ categories:
 - Valley
 regions:
 - Germany
+site_name: "Hammertal"
 latitude: 51.3892
 longitude: 7.26333
 images:

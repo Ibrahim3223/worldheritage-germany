@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Laurenburg Castle"
 latitude: 50.3317
 longitude: 7.90472
 

@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Wörschweiler Abbey"
 latitude: 49.28422
 longitude: 7.30737
 images:

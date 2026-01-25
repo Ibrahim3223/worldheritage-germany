@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Willy-Brandt-Platz"
 latitude: 50.1092
 longitude: 8.67389
 images:

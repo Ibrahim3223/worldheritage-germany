@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Eltz Castle"
 latitude: 50.205
 longitude: 7.336666666
 images:

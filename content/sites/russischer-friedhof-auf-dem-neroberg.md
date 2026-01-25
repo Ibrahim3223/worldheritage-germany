@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Russischer Friedhof auf dem Neroberg"
 latitude: 50.098546
 longitude: 8.236253
 images:

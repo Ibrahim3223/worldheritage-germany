@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Naturkunde-Museum Bielefeld"
 latitude: 52.0165
 longitude: 8.52857
 images:

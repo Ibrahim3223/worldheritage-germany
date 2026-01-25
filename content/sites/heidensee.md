@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Heidensee"
 latitude: 53.6431949
 longitude: 11.4313883
 images:

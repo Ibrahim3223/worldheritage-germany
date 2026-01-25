@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Trettachspitze"
 latitude: 47.30362
 longitude: 10.29545
 images:

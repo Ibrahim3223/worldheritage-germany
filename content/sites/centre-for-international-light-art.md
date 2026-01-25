@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Centre for International Light Art"
 latitude: 51.5347
 longitude: 7.68528
 images:

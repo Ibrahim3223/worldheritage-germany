@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Upper German-Raetian Limes"
 latitude: 49.796388888
 longitude: 9.1575
 

@@ -10,6 +10,7 @@ categories:
 - Synagogue
 regions:
 - Germany
+site_name: "Alte Synagoge (Magdeburg)"
 latitude: 52.1331
 longitude: 11.6367
 images:

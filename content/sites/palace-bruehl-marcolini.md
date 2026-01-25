@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Palace Brühl-Marcolini"
 latitude: 51.059505
 longitude: 13.718198
 images:

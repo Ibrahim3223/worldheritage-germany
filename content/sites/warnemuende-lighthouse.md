@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Warnemünde Lighthouse"
 latitude: 54.1814
 longitude: 12.0858
 images:

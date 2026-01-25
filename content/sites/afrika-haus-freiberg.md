@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Afrika-Haus Freiberg"
 latitude: 48.9378
 longitude: 9.17942
 images:

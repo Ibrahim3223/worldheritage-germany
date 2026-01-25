@@ -10,6 +10,7 @@ categories:
   - "Cinema"
 regions:
   - "Germany"
+site_name: "Neue Welt"
 latitude: 52.486452
 longitude: 13.42147
 images:

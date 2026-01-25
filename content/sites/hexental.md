@@ -10,6 +10,7 @@ categories:
 - Valley
 regions:
 - Germany
+site_name: "Hexental"
 latitude: 47.937736111
 longitude: 7.809905555
 images:

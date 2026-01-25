@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Peat shipyard Schlussdorf"
 latitude: 53.2356
 longitude: 8.97281
 images:

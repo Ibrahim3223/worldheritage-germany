@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue in Bamberg"
 latitude: 49.89
 longitude: 10.8964
 images:

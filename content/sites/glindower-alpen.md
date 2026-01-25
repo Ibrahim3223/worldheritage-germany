@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Glindower Alpen"
 latitude: 52.35
 longitude: 12.916666666
 images:

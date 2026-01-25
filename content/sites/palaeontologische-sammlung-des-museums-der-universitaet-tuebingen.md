@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Paläontologische Sammlung des Museums der Universität Tübingen"
 latitude: 48.5261
 longitude: 9.05988
 images:

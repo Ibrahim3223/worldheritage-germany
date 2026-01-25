@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Tombrugg"
 latitude: 47.74384048
 longitude: 8.19028862
 images:

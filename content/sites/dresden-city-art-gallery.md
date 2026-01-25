@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Dresden City Art Gallery"
 latitude: 51.05
 longitude: 13.74305556
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kemenate"
 latitude: 49.780074005
 longitude: 11.288640385
 

@@ -10,6 +10,7 @@ categories:
   - "Cave"
 regions:
   - "Germany"
+site_name: "Rothesteinhöhle"
 latitude: 51.95
 longitude: 9.666666666
 images:

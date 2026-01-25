@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Bogensee"
 latitude: 52.773
 longitude: 13.5308
 images:

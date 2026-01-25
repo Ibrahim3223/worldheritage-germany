@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Park Glienicke"
 latitude: 52.4167
 longitude: 13.1
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Eutin Castle"
 latitude: 54.137751
 longitude: 10.620402
 images:

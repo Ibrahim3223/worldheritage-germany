@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Schwingetal und Peenewiesen bei Trantow"
 latitude: 53.9803
 longitude: 13.1572
 images:

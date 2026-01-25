@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Japanischer Garten, Kaiserslautern"
 latitude: 49.4478
 longitude: 7.76556
 images:

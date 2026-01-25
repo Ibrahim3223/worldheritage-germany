@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Taucherfriedhof"
 latitude: 51.182859
 longitude: 14.437992
 images:

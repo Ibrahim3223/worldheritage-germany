@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Marienfelde refugee transit camp"
 latitude: 52.4203
 longitude: 13.3667
 images:

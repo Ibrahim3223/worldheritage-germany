@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum für Moderne Kunst"
 latitude: 50.1121
 longitude: 8.685
 

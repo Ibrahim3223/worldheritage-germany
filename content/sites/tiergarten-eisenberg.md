@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Tiergarten Eisenberg"
 latitude: 50.9667
 longitude: 11.9111
 images:

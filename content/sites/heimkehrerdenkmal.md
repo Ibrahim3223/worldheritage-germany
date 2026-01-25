@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Heimkehrerdenkmal"
 latitude: 51.4158
 longitude: 9.90876
 images:

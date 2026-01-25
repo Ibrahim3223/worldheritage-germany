@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Lutwinuskapelle"
 latitude: 49.50277
 longitude: 6.58822
 images:

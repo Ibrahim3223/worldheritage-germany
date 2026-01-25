@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Bischofstein Castle"
 latitude: 50.2136
 longitude: 7.38389
 images:

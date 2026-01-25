@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Sibetsburg"
 latitude: 53.5319
 longitude: 8.10694
 images:

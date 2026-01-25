@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Turm Jerusalem"
 latitude: 49.757
 longitude: 6.64201
 images:

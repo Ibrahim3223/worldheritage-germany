@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Tierpark Bad Pyrmont"
 latitude: 51.97972222
 longitude: 9.25166667
 images:

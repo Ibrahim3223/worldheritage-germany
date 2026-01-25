@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Windeck Castle"
 latitude: 48.67225
 longitude: 8.15788
 

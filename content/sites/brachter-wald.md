@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Brachter Wald"
 latitude: 51.264722222
 longitude: 6.146666666
 images:

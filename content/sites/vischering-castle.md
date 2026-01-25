@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Vischering Castle"
 latitude: 51.7761
 longitude: 7.44306
 

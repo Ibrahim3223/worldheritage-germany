@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Wasserkuppe"
 latitude: 50.498055555
 longitude: 9.937777777
 images:

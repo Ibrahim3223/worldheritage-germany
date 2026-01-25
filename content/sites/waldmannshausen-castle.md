@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Waldmannshausen Castle"
 latitude: 50.5133
 longitude: 8.05381
 

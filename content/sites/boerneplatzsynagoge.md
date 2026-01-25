@@ -10,6 +10,7 @@ categories:
 - Synagogue
 regions:
 - Germany
+site_name: "Börneplatzsynagoge"
 latitude: 50.1117
 longitude: 8.68944
 images:

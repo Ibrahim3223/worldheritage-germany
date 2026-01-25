@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Annasee"
 latitude: 49.0625
 longitude: 9.334013888
 images:

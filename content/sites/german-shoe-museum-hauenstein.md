@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "German Shoe Museum Hauenstein"
 latitude: 49.18984
 longitude: 7.85612
 images:

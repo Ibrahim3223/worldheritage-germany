@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Weimarer Fürstengruft"
 latitude: 50.972586111
 longitude: 11.325644444
 images:

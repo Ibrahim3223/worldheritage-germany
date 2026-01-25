@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Alzey Castle"
 latitude: 49.746
 longitude: 8.11625
 images:

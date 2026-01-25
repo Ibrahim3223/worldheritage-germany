@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum of Urban and Contemporary Art"
 latitude: 48.13669
 longitude: 11.56993
 images:

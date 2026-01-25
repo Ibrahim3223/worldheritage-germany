@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "WM-Brunnen"
 latitude: 48.13967222
 longitude: 11.69854167
 images:

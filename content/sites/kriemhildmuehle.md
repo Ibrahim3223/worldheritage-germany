@@ -10,6 +10,7 @@ categories:
   - "Windmill"
 regions:
   - "Germany"
+site_name: "Kriemhildmühle"
 latitude: 51.663611
 longitude: 6.450556
 images:

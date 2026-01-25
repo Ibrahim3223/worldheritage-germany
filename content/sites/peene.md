@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Peene"
 latitude: 53.855555555
 longitude: 13.808333333
 images:

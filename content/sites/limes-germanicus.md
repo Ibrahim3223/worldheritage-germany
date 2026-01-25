@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Limes Germanicus"
 latitude: 49.5
 longitude: 9.5
 

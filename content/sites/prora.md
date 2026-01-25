@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Prora"
 latitude: 54.4396
 longitude: 13.5667
 images:

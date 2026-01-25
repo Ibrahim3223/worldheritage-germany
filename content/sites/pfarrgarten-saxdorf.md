@@ -10,6 +10,7 @@ categories:
   - "Garden"
 regions:
   - "Germany"
+site_name: "Pfarrgarten Saxdorf"
 latitude: 51.502039
 longitude: 13.284553
 images:

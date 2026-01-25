@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Schloss Sachsenburg"
 latitude: 50.9328
 longitude: 13.0297
 images:

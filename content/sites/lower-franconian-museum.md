@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Lower Franconian Museum"
 latitude: 49.7897
 longitude: 9.92139
 images:

@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Schloss Rohrbach"
 latitude: 51.06787
 longitude: 11.397938
 images:

@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Giebichenstein"
 latitude: 52.633
 longitude: 9.31462
 images:

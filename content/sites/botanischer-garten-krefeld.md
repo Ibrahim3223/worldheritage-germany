@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten Krefeld"
 latitude: 51.3325
 longitude: 6.60306
 images:

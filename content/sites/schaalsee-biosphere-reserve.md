@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schaalsee Biosphere Reserve"
 latitude: 53.6333
 longitude: 10.9667
 

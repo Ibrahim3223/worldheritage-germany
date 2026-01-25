@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Ehrenfriedhof für Gefallene der Roten Armee"
 latitude: 52.6801
 longitude: 13.5849
 images:

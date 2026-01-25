@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kunsthalle Tübingen"
 latitude: 48.5419
 longitude: 9.04778
 

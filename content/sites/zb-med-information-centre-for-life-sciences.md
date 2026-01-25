@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "ZB MED - Information Centre for Life Sciences"
 latitude: 50.924567
 longitude: 6.916296
 images:

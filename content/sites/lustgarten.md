@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Lustgarten"
 latitude: 52.518611111
 longitude: 13.399722222
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Waldeck Ruins"
 latitude: 48.6723
 longitude: 8.7375
 

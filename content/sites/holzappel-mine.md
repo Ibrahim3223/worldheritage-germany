@@ -10,6 +10,7 @@ categories:
 - Mine
 regions:
 - Germany
+site_name: "Holzappel mine"
 latitude: 50.3408
 longitude: 7.89278
 images:

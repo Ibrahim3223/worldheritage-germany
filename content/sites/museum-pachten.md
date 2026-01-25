@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum Pachten"
 latitude: 49.355
 longitude: 6.70853
 images:

@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Günzburg"
 latitude: 48.4602
 longitude: 10.2786
 images:

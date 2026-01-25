@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Jarrestadt"
 latitude: 53.58472222
 longitude: 10.02388889
 images:

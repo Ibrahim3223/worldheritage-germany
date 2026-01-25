@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Krosewicker Grenzwald"
 latitude: 52.073102777
 longitude: 6.718436111
 images:

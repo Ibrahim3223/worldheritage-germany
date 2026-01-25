@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Johannisfriedhof (Nürnberg)"
 latitude: 49.45858605
 longitude: 11.061211563
 images:

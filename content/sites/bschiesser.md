@@ -11,6 +11,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "B'schießer"
 latitude: 47.4879802
 longitude: 10.440407
 images:

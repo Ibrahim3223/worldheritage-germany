@@ -10,6 +10,7 @@ categories:
   - "Factory"
 regions:
   - "Germany"
+site_name: "Spandau Arsenal"
 latitude: 52.540885
 longitude: 13.213372
 images:

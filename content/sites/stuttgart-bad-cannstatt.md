@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Stuttgart-Bad Cannstatt"
 latitude: 48.8017
 longitude: 9.21778
 images:

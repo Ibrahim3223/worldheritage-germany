@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Weißensee"
 latitude: 47.5707931
 longitude: 10.639143
 images:

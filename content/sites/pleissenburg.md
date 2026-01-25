@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Pleissenburg"
 latitude: 51.3362
 longitude: 12.3721
 

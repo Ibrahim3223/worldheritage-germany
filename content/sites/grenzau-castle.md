@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Grenzau Castle"
 latitude: 50.4503
 longitude: 7.65523
 images:

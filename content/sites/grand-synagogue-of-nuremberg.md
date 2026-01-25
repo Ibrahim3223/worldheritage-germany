@@ -10,6 +10,7 @@ categories:
 - Synagogue
 regions:
 - Germany
+site_name: "Grand Synagogue of Nuremberg"
 latitude: 49.453333333
 longitude: 11.079722222
 images:

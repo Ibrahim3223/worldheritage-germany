@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Leuchtturm Norddorf"
 latitude: 54.6692
 longitude: 8.30861
 images:

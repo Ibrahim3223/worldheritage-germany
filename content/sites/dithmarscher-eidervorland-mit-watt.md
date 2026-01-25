@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Dithmarscher Eidervorland mit Watt"
 latitude: 54.275
 longitude: 8.92222222
 images:

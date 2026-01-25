@@ -10,6 +10,7 @@ categories:
   - "Statue"
 regions:
   - "Germany"
+site_name: "Statue of Peace"
 latitude: 52.53273
 longitude: 13.33942
 images:

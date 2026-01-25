@@ -11,6 +11,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Heisterbach Abbey"
 latitude: 50.6953
 longitude: 7.21389
 images:

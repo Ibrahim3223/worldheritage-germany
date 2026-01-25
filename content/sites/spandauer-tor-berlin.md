@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Spandauer Tor (Berlin)"
 latitude: 52.523056
 longitude: 13.403611
 images:

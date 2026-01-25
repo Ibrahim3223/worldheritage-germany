@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Am Rank (Röhmsee)"
 latitude: 48.6657
 longitude: 9.35747
 images:

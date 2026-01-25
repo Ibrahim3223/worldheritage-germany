@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Dessau Central Station"
 latitude: 51.839994
 longitude: 12.234972
 images:

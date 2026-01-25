@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Lousberg"
 latitude: 50.7869
 longitude: 6.07917
 

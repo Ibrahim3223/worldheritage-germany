@@ -10,6 +10,7 @@ categories:
 - Lighthouse
 regions:
 - Germany
+site_name: "Amrum Lighthouse"
 latitude: 54.6312
 longitude: 8.35458
 images:

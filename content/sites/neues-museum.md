@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Neues Museum"
 latitude: 52.5202
 longitude: 13.3976
 images:

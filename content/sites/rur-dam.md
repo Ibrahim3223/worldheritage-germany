@@ -10,6 +10,7 @@ categories:
   - "Dam"
 regions:
   - "Germany"
+site_name: "Rur Dam"
 latitude: 50.637194444
 longitude: 6.441888888
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Weserburg"
 latitude: 53.07667
 longitude: 8.79862
 

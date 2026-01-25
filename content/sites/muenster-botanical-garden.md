@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Münster Botanical Garden"
 latitude: 51.9637
 longitude: 7.61056
 

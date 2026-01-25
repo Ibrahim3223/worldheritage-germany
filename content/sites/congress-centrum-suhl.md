@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "Congress Centrum Suhl"
 latitude: 50.61027778
 longitude: 10.68777778
 images:

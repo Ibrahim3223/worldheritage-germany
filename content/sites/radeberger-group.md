@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Radeberger Group"
 latitude: 50.0942
 longitude: 8.6912
 

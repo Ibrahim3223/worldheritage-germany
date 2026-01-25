@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Goldberger See"
 latitude: 53.611111111
 longitude: 12.125
 images:

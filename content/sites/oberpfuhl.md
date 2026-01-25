@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Oberpfuhl"
 latitude: 53.215277777
 longitude: 13.320833333
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Schönfels"
 latitude: 50.6756
 longitude: 12.4008
 images:

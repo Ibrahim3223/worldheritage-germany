@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Ahlberg"
 latitude: 51.452
 longitude: 9.50892
 images:

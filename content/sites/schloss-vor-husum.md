@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schloss vor Husum"
 latitude: 54.4799
 longitude: 9.04982
 images:

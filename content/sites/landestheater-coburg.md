@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Landestheater Coburg"
 latitude: 50.259790143
 longitude: 10.967147311
 images:

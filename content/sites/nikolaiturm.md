@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Nikolaiturm"
 latitude: 51.15827778
 longitude: 14.98980556
 images:

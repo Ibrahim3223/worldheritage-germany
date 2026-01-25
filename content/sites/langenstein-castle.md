@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Langenstein Castle"
 latitude: 47.84277778
 longitude: 8.90277778
 

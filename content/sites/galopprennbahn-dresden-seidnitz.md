@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Galopprennbahn Dresden-Seidnitz"
 latitude: 51.02222222
 longitude: 13.79722222
 images:

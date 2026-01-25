@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Neuenstein"
 latitude: 49.204
 longitude: 9.57875
 

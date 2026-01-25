@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Urkevitz"
 latitude: 54.465555555
 longitude: 13.219722222
 images:

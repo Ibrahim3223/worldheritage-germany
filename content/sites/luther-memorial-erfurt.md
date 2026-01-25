@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Luther memorial Erfurt"
 latitude: 50.9776
 longitude: 11.0352
 images:

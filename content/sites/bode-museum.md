@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Bode Museum"
 latitude: 52.521944444
 longitude: 13.394722222
 images:

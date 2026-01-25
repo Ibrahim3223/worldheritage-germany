@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Schänzlespitz"
 latitude: 47.423333333
 longitude: 10.456388888
 images:

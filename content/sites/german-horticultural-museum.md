@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "German horticultural museum"
 latitude: 50.9675
 longitude: 11.0075
 images:

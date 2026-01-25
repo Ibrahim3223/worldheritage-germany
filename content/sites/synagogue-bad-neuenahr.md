@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue (Bad Neuenahr)"
 latitude: 50.5448
 longitude: 7.13925
 images:

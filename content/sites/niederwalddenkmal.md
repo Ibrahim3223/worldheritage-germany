@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Niederwalddenkmal"
 latitude: 49.981028
 longitude: 7.899833
 images:

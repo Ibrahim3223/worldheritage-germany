@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Bethanien"
 latitude: 52.5039
 longitude: 13.4244
 images:

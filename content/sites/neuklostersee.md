@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Neuklostersee"
 latitude: 53.849444444
 longitude: 11.702777777
 images:

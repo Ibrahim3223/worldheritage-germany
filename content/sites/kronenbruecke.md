@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kronenbrücke"
 latitude: 47.990381
 longitude: 7.844775
 

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Blankenhorn"
 latitude: 49.0414
 longitude: 8.99139
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Weingarten Abbey"
 latitude: 47.80885
 longitude: 9.64448
 images:

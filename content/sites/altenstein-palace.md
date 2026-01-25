@@ -11,6 +11,7 @@ categories:
 - Palace
 regions:
 - Germany
+site_name: "Altenstein Palace"
 latitude: 50.835277777
 longitude: 10.351944444
 images:

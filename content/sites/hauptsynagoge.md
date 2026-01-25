@@ -10,6 +10,7 @@ categories:
 - Synagogue
 regions:
 - Germany
+site_name: "Hauptsynagoge"
 latitude: 50.1136
 longitude: 8.68778
 images:

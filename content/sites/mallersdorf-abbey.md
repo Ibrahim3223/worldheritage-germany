@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Mallersdorf Abbey"
 latitude: 48.778222222
 longitude: 12.254036111
 

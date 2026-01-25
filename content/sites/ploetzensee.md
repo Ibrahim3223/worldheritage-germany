@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Plötzensee"
 latitude: 52.543888888
 longitude: 13.330277777
 images:

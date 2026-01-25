@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Stapelburg Castle"
 latitude: 51.9039
 longitude: 10.6692
 

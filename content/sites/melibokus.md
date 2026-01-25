@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Melibokus"
 latitude: 49.725208333
 longitude: 8.636816666
 images:

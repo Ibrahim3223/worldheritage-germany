@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Wilhelma"
 latitude: 48.805
 longitude: 9.205
 

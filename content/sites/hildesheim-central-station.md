@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Hildesheim Central Station"
 latitude: 52.1606
 longitude: 9.95389
 images:

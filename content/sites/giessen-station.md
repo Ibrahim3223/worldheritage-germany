@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Gießen station"
 latitude: 50.5792
 longitude: 8.66194
 images:

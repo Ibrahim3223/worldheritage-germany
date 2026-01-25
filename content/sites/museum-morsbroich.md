@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum Morsbroich"
 latitude: 51.036482111
 longitude: 7.0339445
 

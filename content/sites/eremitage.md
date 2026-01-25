@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Eremitage"
 latitude: 49.948946898
 longitude: 11.624869274
 images:

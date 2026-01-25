@@ -10,6 +10,7 @@ categories:
 - Valley
 regions:
 - Germany
+site_name: "Bärental in Oberfranken"
 latitude: 50.05157
 longitude: 11.26557
 images:

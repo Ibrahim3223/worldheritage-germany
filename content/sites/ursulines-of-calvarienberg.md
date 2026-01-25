@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Ursulines of Calvarienberg"
 latitude: 50.5352
 longitude: 7.0921
 images:

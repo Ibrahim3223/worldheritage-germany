@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Städtische Galerie im Schlosspark Strünkede"
 latitude: 51.551252
 longitude: 7.212683
 

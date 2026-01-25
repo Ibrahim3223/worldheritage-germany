@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Rostock Zoo"
 latitude: 54.0781
 longitude: 12.0904
 images:

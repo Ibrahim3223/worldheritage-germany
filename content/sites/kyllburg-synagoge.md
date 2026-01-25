@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Kyllburg Synagoge"
 latitude: 50.042766666
 longitude: 6.591377777
 images:

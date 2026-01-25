@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "Württembergische Landesbibliothek"
 latitude: 48.7772
 longitude: 9.18506
 images:

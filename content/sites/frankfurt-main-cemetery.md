@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Frankfurt Main Cemetery"
 latitude: 50.1361
 longitude: 8.68486
 images:

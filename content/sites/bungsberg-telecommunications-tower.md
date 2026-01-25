@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Bungsberg telecommunications tower"
 latitude: 54.2095
 longitude: 10.7242
 images:

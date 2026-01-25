@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Ochsenhausen Abbey"
 latitude: 48.0642
 longitude: 9.95139
 images:

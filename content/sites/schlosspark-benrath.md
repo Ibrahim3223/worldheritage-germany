@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Schlosspark Benrath"
 latitude: 51.1575293
 longitude: 6.8654225
 images:

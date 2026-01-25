@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "Bavarian Elite-Academy"
 latitude: 48.1423
 longitude: 11.5929
 images:

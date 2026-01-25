@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Riddagshausen Abbey"
 latitude: 52.2674
 longitude: 10.5773
 images:

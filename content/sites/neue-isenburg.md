@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Neue Isenburg"
 latitude: 51.410277777
 longitude: 7.031111111
 

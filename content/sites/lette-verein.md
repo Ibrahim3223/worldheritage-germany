@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Lette-Verein"
 latitude: 52.4961143
 longitude: 13.3412049
 

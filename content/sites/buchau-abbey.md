@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Buchau Abbey"
 latitude: 48.0675
 longitude: 9.6116
 images:

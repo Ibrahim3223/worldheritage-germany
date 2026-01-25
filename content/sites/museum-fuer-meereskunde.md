@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum für Meereskunde"
 latitude: 52.5198
 longitude: 13.3912
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Hetjens-Museum"
 latitude: 51.2239
 longitude: 6.77111
 images:

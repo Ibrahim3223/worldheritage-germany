@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Spetzgarter Tobel"
 latitude: 47.780333
 longitude: 9.14099
 images:

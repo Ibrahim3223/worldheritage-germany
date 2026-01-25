@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kunstmuseum Pablo Picasso Münster"
 latitude: 51.9602
 longitude: 7.62635
 

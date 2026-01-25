@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Ilsenhöhle"
 latitude: 50.6626
 longitude: 11.5649
 images:

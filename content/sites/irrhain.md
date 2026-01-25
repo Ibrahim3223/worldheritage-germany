@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Irrhain"
 latitude: 49.514658545
 longitude: 11.060357539
 images:

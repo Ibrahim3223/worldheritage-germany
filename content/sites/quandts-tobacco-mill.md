@@ -10,6 +10,7 @@ categories:
   - "Windmill"
 regions:
   - "Germany"
+site_name: "Quandt's Tobacco Mill"
 latitude: 51.3136
 longitude: 12.4072
 images:

@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Gustav Adolf Memorial"
 latitude: 51.26777778
 longitude: 12.15666667
 images:

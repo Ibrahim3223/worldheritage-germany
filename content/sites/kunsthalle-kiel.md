@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kunsthalle Kiel"
 latitude: 54.32861111
 longitude: 10.14611111
 

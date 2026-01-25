@@ -10,6 +10,7 @@ categories:
 - Biosphere Reserve
 regions:
 - Germany
+site_name: "Biosphärenreservat Elbe-Brandenburg"
 latitude: 52.99497
 longitude: 11.79419
 images:

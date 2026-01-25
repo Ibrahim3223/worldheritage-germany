@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue of Emden"
 latitude: 53.3692
 longitude: 7.21167
 images:

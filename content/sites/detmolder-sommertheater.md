@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Detmolder Sommertheater"
 latitude: 51.9289
 longitude: 8.87331
 images:

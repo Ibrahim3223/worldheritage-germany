@@ -10,6 +10,7 @@ categories:
   - "Cinema"
 regions:
   - "Germany"
+site_name: "Schaubühne am Lehniner Platz"
 latitude: 52.498611111
 longitude: 13.302222222
 images:

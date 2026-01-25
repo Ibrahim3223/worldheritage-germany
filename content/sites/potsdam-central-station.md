@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Potsdam central station"
 latitude: 52.3917
 longitude: 13.0667
 images:

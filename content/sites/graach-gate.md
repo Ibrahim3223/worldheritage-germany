@@ -10,6 +10,7 @@ categories:
 - City Gate
 regions:
 - Germany
+site_name: "Graach Gate"
 latitude: 49.916972222
 longitude: 7.075861111
 images:

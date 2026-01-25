@@ -10,6 +10,7 @@ categories:
 - Zoo
 regions:
 - Germany
+site_name: "Betzenberg Wildlife Park"
 latitude: 49.4334
 longitude: 7.79162
 images:

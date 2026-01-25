@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Werdenfels Castle"
 latitude: 47.5165
 longitude: 11.0919
 

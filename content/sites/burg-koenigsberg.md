@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Königsberg"
 latitude: 50.6447
 longitude: 8.53554
 images:

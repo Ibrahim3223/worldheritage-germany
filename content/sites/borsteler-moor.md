@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Borsteler Moor"
 latitude: 52.6514
 longitude: 8.95278
 images:

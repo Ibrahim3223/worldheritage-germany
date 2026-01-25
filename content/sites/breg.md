@@ -10,6 +10,7 @@ categories:
 - River
 regions:
 - Germany
+site_name: "Breg"
 latitude: 48.095452777
 longitude: 8.155108333
 images:

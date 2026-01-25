@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Sophia-Jacoba"
 latitude: 51.05778
 longitude: 6.21472
 images:

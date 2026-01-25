@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "Liberei"
 latitude: 52.268
 longitude: 10.5209
 images:

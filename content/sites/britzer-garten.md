@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Britzer Garten"
 latitude: 52.433333333
 longitude: 13.416666666
 images:

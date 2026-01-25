@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Otto Pankok Museum"
 latitude: 51.71
 longitude: 6.69972
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Statue of Karl Friedrich Schinkel"
 latitude: 52.5165571
 longitude: 13.3986389
 images:

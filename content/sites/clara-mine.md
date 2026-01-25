@@ -10,6 +10,7 @@ categories:
 - Mine
 regions:
 - Germany
+site_name: "Clara mine"
 latitude: 48.3797
 longitude: 8.22859
 images:

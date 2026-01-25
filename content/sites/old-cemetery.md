@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Old Cemetery"
 latitude: 49.323
 longitude: 8.43027
 images:

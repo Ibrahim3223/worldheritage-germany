@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Dümmer See"
 latitude: 53.581388888
 longitude: 11.202777777
 images:

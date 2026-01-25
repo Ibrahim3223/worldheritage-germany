@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Marienstatt Abbey"
 latitude: 50.685
 longitude: 7.803055555
 images:

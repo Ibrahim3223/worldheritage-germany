@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Conventer See"
 latitude: 54.141111111
 longitude: 11.8875
 images:

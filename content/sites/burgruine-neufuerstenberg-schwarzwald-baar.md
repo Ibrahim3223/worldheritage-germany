@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burgruine Neufürstenberg, Schwarzwald-Baar"
 latitude: 47.9981
 longitude: 8.3261
 images:

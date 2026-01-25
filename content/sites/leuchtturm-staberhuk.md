@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Leuchtturm Staberhuk"
 latitude: 54.4025
 longitude: 11.31083333
 images:

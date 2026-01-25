@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Gutenfels Castle"
 latitude: 50.0878
 longitude: 7.76561
 images:

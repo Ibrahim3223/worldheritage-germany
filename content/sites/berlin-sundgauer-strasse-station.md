@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Berlin Sundgauer Straße station"
 latitude: 52.436291
 longitude: 13.273772
 images:

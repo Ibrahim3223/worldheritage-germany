@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Schloss Könitz"
 latitude: 50.6516
 longitude: 11.4897
 images:

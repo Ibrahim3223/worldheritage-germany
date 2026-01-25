@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Leuchtturm Kiel"
 latitude: 54.49972222
 longitude: 10.27361111
 images:

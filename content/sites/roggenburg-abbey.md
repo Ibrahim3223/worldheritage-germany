@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Roggenburg Abbey"
 latitude: 48.274835672
 longitude: 10.228273436
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Schwaneck"
 latitude: 48.0593
 longitude: 11.5301
 images:

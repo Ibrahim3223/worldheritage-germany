@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Beatles-Museum Halle"
 latitude: 51.4802
 longitude: 11.9683
 images:

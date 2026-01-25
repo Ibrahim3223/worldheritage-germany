@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Munich Heimeranplatz station"
 latitude: 48.132961
 longitude: 11.5315
 images:

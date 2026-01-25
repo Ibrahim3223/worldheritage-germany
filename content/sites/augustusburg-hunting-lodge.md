@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Augustusburg Hunting Lodge"
 latitude: 50.8132
 longitude: 13.0992
 images:

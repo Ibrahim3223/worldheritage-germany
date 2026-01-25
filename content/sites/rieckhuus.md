@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Rieckhuus"
 latitude: 53.459305
 longitude: 10.214595
 images:

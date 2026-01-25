@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Castra Vetera"
 latitude: 51.64639
 longitude: 6.47
 images:

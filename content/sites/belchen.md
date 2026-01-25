@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Belchen"
 latitude: 47.8225
 longitude: 7.83361111
 images:

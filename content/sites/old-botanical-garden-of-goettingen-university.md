@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Old Botanical Garden of Göttingen University"
 latitude: 51.5382
 longitude: 9.9367
 

@@ -10,6 +10,7 @@ categories:
 - City Gate
 regions:
 - Germany
+site_name: "Brandenburg Gate"
 latitude: 52.516272222
 longitude: 13.377722222
 images:

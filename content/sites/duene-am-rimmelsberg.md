@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Düne am Rimmelsberg"
 latitude: 54.6223
 longitude: 9.2734
 images:

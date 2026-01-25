@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Memmert"
 latitude: 53.638055555
 longitude: 6.884166666
 images:

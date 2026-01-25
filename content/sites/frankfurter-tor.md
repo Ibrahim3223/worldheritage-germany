@@ -10,6 +10,7 @@ categories:
 - Market Square
 regions:
 - Germany
+site_name: "Frankfurter Tor"
 latitude: 52.515805555
 longitude: 13.454027777
 images:

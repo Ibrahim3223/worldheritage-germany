@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Donauwörth station"
 latitude: 48.714444444
 longitude: 10.771666666
 images:

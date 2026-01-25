@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Großer Beerberg"
 latitude: 50.659444444
 longitude: 10.746111111
 images:

@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "Haus der Kultur und Bildung"
 latitude: 53.5581
 longitude: 13.2603
 images:

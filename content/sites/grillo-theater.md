@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Grillo-Theater"
 latitude: 51.4546
 longitude: 7.01167
 images:

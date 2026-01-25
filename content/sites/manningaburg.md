@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Manningaburg"
 latitude: 53.43559
 longitude: 7.09495
 images:

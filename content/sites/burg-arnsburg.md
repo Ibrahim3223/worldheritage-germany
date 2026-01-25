@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Arnsburg"
 latitude: 50.49
 longitude: 8.78905
 images:

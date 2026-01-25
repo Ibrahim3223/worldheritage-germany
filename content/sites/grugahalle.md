@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "Grugahalle"
 latitude: 51.431
 longitude: 6.99767
 images:

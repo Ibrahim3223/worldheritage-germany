@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Drachenfels"
 latitude: 50.665277777
 longitude: 7.209722222
 images:

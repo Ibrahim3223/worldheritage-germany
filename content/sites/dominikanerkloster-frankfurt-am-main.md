@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Dominikanerkloster Frankfurt am Main"
 latitude: 50.1117
 longitude: 8.68778
 images:

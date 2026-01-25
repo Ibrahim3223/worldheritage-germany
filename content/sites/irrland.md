@@ -10,6 +10,7 @@ categories:
 - Zoo
 regions:
 - Germany
+site_name: "Irrland"
 latitude: 51.55555556
 longitude: 6.20472222
 images:

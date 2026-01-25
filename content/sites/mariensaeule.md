@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Mariensäule"
 latitude: 49.76
 longitude: 6.62028
 images:

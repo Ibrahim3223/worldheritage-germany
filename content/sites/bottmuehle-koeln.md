@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Bottmühle (Köln)"
 latitude: 50.922765
 longitude: 6.963189
 images:

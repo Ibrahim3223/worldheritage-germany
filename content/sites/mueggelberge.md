@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Müggelberge"
 latitude: 52.416111111
 longitude: 13.633333333
 images:

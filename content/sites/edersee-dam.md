@@ -10,6 +10,7 @@ categories:
 - Dam
 regions:
 - Germany
+site_name: "Edersee Dam"
 latitude: 51.183333333
 longitude: 9.058888888
 images:

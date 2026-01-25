@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Kummerower See"
 latitude: 53.8
 longitude: 12.866666666
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Konradsburg"
 latitude: 51.714333333
 longitude: 11.347305555
 images:

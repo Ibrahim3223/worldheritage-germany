@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Knechtsteden Abbey"
 latitude: 51.077
 longitude: 6.7525
 images:

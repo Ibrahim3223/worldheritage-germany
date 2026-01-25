@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Hohlenstein-Stadel"
 latitude: 48.5493
 longitude: 10.1724
 images:

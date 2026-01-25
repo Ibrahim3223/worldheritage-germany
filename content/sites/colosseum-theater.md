@@ -10,6 +10,7 @@ categories:
 - Factory
 regions:
 - Germany
+site_name: "Colosseum Theater"
 latitude: 51.4589
 longitude: 7.0025
 images:

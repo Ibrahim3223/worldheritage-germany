@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum of City History Leipzig"
 latitude: 51.34072
 longitude: 12.375331
 images:

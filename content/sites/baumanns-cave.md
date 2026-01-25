@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Baumann's Cave"
 latitude: 51.755
 longitude: 10.843333333
 images:

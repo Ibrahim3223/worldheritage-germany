@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Schnaakenmoor"
 latitude: 53.600833333
 longitude: 9.760555555
 images:

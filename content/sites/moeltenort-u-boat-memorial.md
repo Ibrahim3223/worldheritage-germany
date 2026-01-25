@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Möltenort U-Boat Memorial"
 latitude: 54.37944444
 longitude: 10.19472222
 images:

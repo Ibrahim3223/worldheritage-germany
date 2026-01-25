@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Heidelsburg"
 latitude: 49.2675
 longitude: 7.691944444
 images:

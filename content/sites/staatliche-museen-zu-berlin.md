@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Staatliche Museen zu Berlin"
 latitude: 52.5092869
 longitude: 13.3644977
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Rolandseck"
 latitude: 50.64061111
 longitude: 7.20221944
 images:

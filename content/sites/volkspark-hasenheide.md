@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Volkspark Hasenheide"
 latitude: 52.484
 longitude: 13.416
 images:

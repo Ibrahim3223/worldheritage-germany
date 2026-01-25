@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Wiblingen Abbey"
 latitude: 48.3617
 longitude: 9.992
 images:

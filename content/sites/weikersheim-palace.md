@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Weikersheim Palace"
 latitude: 49.4806
 longitude: 9.89583
 images:

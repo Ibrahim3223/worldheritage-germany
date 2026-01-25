@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Cuvilliés Theatre"
 latitude: 48.1409
 longitude: 11.58002
 images:

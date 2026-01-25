@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Frankfurt Rödelheim station"
 latitude: 50.1244
 longitude: 8.60726
 images:

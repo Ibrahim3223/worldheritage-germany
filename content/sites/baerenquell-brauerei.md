@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Bärenquell-Brauerei"
 latitude: 52.46
 longitude: 13.5065
 images:

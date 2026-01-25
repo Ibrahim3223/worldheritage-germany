@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Sender Wannenberg"
 latitude: 47.602564
 longitude: 8.407228
 images:

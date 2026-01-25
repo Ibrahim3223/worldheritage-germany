@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Ostholstein-Museum Eutin"
 latitude: 54.1376
 longitude: 10.6185
 

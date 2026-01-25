@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Grüner Heiner"
 latitude: 48.830833333
 longitude: 9.097222222
 images:

@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Kölpinsee"
 latitude: 53.500833333
 longitude: 12.580555555
 images:

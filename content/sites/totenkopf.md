@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Totenkopf"
 latitude: 48.0808
 longitude: 7.67056
 images:

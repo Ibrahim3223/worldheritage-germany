@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Arboretum Freiburg-Günterstal"
 latitude: 47.972801
 longitude: 7.842693
 images:

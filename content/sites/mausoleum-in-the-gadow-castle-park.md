@@ -10,6 +10,7 @@ categories:
   - "Mausoleum"
 regions:
   - "Germany"
+site_name: "Mausoleum in the Gadow Castle Park"
 latitude: 53.076249
 longitude: 11.61431
 images:

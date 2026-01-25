@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Rheinisches Landestheater Neuss"
 latitude: 51.1968
 longitude: 6.69544
 images:

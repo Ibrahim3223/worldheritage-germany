@@ -10,6 +10,7 @@ categories:
 - River
 regions:
 - Germany
+site_name: "Altmühl"
 latitude: 49.430833333
 longitude: 10.305833333
 images:

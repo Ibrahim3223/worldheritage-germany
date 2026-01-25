@@ -10,6 +10,7 @@ categories:
   - "Dam"
 regions:
   - "Germany"
+site_name: "Wendefurth Dam"
 latitude: 51.742218
 longitude: 10.918857
 images:

@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Os bei Süderbrarup"
 latitude: 54.6467
 longitude: 9.75861
 images:

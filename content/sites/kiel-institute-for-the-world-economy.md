@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kiel Institute for the World Economy"
 latitude: 54.338872222
 longitude: 10.156222222
 

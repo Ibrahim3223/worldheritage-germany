@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Katzenelnbogen"
 latitude: 50.2681
 longitude: 7.9765
 images:

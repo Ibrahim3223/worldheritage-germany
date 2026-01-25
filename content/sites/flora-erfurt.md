@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Flora Erfurt"
 latitude: 50.962444444
 longitude: 11.017777777
 images:

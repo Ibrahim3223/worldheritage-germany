@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Langsee"
 latitude: 53.6321
 longitude: 12.2343
 images:

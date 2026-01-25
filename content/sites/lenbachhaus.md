@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Lenbachhaus"
 latitude: 48.146944444
 longitude: 11.563611111
 

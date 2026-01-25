@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Levy’sche Synagoge Worms"
 latitude: 49.6341194
 longitude: 8.3664503
 images:

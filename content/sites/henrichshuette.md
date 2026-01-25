@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Henrichshütte"
 latitude: 51.4075
 longitude: 7.188333333
 images:

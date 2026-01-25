@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Luisenfriedhof III"
 latitude: 52.524741666
 longitude: 13.277119444
 images:

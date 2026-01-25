@@ -10,6 +10,7 @@ categories:
 - Dam
 regions:
 - Germany
+site_name: "Eibenstock Dam"
 latitude: 50.5233
 longitude: 12.5892
 images:

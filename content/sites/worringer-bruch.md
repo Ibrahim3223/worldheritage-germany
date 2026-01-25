@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Worringer Bruch"
 latitude: 51.047
 longitude: 6.858833333
 images:

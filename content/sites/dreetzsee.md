@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Dreetzsee"
 latitude: 53.287
 longitude: 13.4328
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Lohra"
 latitude: 51.4139
 longitude: 10.6303
 images:

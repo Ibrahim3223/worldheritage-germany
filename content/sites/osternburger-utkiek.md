@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Osternburger Utkiek"
 latitude: 53.1192
 longitude: 8.22833
 images:

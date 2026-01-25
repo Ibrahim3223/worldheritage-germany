@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Memorium Nürnberger Prozesse"
 latitude: 49.4544391
 longitude: 11.0480624
 images:

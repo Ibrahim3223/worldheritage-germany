@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Flohburg"
 latitude: 51.50466156
 longitude: 10.79213905
 images:

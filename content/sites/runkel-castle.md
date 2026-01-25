@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Runkel Castle"
 latitude: 50.4053
 longitude: 8.15589
 

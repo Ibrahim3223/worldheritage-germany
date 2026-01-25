@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Isenburg"
 latitude: 51.3875
 longitude: 7.15222
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Neuhaus"
 latitude: 49.7993
 longitude: 12.1631
 images:

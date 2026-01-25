@@ -11,6 +11,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Hoher Ifen"
 latitude: 47.3545272
 longitude: 10.1004539
 images:

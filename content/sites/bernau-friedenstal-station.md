@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Bernau-Friedenstal station"
 latitude: 52.6685
 longitude: 13.5648
 images:

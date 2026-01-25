@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Aldersbach Abbey"
 latitude: 48.588162543
 longitude: 13.086090904
 images:

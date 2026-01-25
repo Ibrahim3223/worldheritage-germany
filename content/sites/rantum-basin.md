@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Rantum Basin"
 latitude: 54.867122222
 longitude: 8.322144444
 images:

@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Fernsehturm Heidelberg"
 latitude: 49.4038
 longitude: 8.72841
 images:

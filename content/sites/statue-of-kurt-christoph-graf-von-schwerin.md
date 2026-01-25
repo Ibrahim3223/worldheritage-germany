@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Statue of Kurt Christoph Graf von Schwerin"
 latitude: 52.51197
 longitude: 13.38579
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Sonnenberg"
 latitude: 50.1029
 longitude: 8.26573
 images:

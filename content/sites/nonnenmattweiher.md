@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Nonnenmattweiher"
 latitude: 47.79472222
 longitude: 7.79916667
 images:

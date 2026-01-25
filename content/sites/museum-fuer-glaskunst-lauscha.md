@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum für Glaskunst Lauscha"
 latitude: 50.477
 longitude: 11.1595
 images:

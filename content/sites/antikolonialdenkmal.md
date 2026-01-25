@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Antikolonialdenkmal"
 latitude: 53.0841
 longitude: 8.81751
 images:

@@ -10,6 +10,7 @@ categories:
 - Fountain
 regions:
 - Germany
+site_name: "Bärenbrunnen (Berlin)"
 latitude: 52.515605
 longitude: 13.398068
 images:

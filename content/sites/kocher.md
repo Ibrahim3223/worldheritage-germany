@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Kocher"
 latitude: 49.222888888
 longitude: 9.201861111
 images:

@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Gartenschau Kaiserslautern"
 latitude: 49.4493
 longitude: 7.74847
 images:

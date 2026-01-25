@@ -10,6 +10,7 @@ categories:
 - Synagogue
 regions:
 - Germany
+site_name: "former synagogue"
 latitude: 51.42924
 longitude: 6.88237
 images:

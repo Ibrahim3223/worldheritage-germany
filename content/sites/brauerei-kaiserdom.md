@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Brauerei Kaiserdom"
 latitude: 49.904166666
 longitude: 10.852222222
 images:

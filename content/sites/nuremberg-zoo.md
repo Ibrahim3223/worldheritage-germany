@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Nuremberg Zoo"
 latitude: 49.447367421
 longitude: 11.144819921
 images:

@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Kronach"
 latitude: 50.239663
 longitude: 11.320195
 images:

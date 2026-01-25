@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum Haus Dix"
 latitude: 47.672777777
 longitude: 8.961388888
 images:

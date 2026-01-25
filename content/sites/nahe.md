@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Nahe"
 latitude: 49.97
 longitude: 7.8886
 images:

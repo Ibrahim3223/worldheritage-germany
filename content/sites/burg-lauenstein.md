@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Lauenstein"
 latitude: 50.513287381
 longitude: 11.369996131
 images:

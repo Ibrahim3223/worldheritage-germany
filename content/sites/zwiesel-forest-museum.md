@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Zwiesel Forest Museum"
 latitude: 49.0141
 longitude: 13.2312
 images:

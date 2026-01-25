@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Ducal Museum Gotha"
 latitude: 50.94354
 longitude: 10.70572
 images:

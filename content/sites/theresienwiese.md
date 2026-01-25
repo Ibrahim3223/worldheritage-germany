@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Theresienwiese"
 latitude: 48.1333
 longitude: 11.55
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Pappenheim"
 latitude: 48.9328
 longitude: 10.9716
 images:

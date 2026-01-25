@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum of Art and Crafts Hamburg"
 latitude: 53.551111
 longitude: 10.009444
 

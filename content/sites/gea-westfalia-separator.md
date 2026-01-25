@@ -10,6 +10,7 @@ categories:
 - Factory
 regions:
 - Germany
+site_name: "GEA Westfalia Separator"
 latitude: 51.829722222
 longitude: 8.132777777
 images:

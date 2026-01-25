@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Rendsburg station"
 latitude: 54.3025
 longitude: 9.67083
 images:

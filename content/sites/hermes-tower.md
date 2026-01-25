@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Hermes tower"
 latitude: 52.321111
 longitude: 9.802778
 images:

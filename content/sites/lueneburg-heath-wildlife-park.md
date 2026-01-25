@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Lüneburg Heath Wildlife Park"
 latitude: 53.2367
 longitude: 10.0443
 images:

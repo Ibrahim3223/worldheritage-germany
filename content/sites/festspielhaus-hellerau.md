@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "Festspielhaus Hellerau"
 latitude: 51.1137
 longitude: 13.7531
 images:

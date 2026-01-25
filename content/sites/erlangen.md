@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Erlangen"
 latitude: 49.595968
 longitude: 11.001572
 images:

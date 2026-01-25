@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Vehmsmoor"
 latitude: 52.8626
 longitude: 9.49476
 images:

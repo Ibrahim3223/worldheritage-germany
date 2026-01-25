@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Staatliche Kunsthalle Baden-Baden"
 latitude: 48.7585
 longitude: 8.23806
 

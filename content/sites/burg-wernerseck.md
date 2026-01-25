@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Wernerseck"
 latitude: 50.3724
 longitude: 7.37808
 images:

@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Aalto Theatre"
 latitude: 51.446944444
 longitude: 7.012777777
 images:

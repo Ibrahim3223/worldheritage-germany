@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Wachsenburg Castle"
 latitude: 50.8583
 longitude: 10.8764
 

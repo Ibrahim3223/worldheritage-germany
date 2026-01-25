@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Alte Metallgiesserei"
 latitude: 54.3306
 longitude: 10.1775
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Ramones Museum"
 latitude: 52.510847222
 longitude: 13.467033333
 images:

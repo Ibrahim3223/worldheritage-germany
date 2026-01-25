@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Forum baths"
 latitude: 49.7527
 longitude: 6.63766
 images:

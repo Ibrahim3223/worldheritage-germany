@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Leine"
 latitude: 52.722777777
 longitude: 9.594166666
 images:

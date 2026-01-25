@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "James Simon Gallery"
 latitude: 52.52
 longitude: 13.39701
 images:

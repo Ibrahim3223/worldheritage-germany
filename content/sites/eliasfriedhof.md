@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Eliasfriedhof"
 latitude: 51.0533
 longitude: 13.757
 images:

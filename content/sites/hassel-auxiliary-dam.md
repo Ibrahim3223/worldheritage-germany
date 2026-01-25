@@ -10,6 +10,7 @@ categories:
 - Dam
 regions:
 - Germany
+site_name: "Hassel Auxiliary Dam"
 latitude: 51.7061
 longitude: 10.8303
 images:

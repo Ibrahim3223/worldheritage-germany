@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Egapark"
 latitude: 50.9675
 longitude: 11.0078
 images:

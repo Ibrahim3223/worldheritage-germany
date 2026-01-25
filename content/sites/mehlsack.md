@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Mehlsack"
 latitude: 47.77943056
 longitude: 9.61550556
 images:

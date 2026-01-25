@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "Rathaus Hildburghausen"
 latitude: 50.425961
 longitude: 10.729943
 images:

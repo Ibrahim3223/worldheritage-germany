@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "ShUM Sites of Speyer, Worms and Mainz"
 latitude: 49.316211
 longitude: 8.439539
 images:

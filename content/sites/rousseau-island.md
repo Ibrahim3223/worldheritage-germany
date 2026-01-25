@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Rousseau Island"
 latitude: 52.51227
 longitude: 13.35798
 images:

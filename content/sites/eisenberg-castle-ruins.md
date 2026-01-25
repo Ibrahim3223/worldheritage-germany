@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Eisenberg castle ruins"
 latitude: 51.251111
 longitude: 8.826667
 images:

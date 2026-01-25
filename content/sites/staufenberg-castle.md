@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Staufenberg Castle"
 latitude: 50.665
 longitude: 8.72833
 

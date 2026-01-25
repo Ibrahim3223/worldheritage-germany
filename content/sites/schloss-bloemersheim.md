@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Schloß Bloemersheim"
 latitude: 51.4425
 longitude: 6.515277777
 images:

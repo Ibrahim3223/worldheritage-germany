@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Revolutionsdenkmal (Zentralfriedhof Friedrichsfelde)"
 latitude: 52.5225
 longitude: 13.51611111
 images:

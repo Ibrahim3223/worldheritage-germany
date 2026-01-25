@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Mariä Heimsuchung"
 latitude: 47.8824501
 longitude: 11.52593994
 images:

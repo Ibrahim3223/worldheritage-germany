@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Alsdorf"
 latitude: 50.8789
 longitude: 6.16167
 images:

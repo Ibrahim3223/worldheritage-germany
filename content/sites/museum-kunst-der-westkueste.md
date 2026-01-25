@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum Kunst der Westküste"
 latitude: 54.7082
 longitude: 8.51
 

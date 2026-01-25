@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "Festhalle Viersen"
 latitude: 51.253
 longitude: 6.39131
 images:

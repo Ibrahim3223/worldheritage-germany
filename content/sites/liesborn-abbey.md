@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Liesborn Abbey"
 latitude: 51.7125
 longitude: 8.25963
 images:

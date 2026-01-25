@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Scharfenstein"
 latitude: 51.3633
 longitude: 10.2689
 images:

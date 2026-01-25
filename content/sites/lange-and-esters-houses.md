@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Lange and Esters houses"
 latitude: 51.34694444
 longitude: 6.5825
 images:

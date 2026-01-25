@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Stahleck"
 latitude: 48.4421
 longitude: 9.29705
 images:

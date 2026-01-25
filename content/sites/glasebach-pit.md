@@ -10,6 +10,7 @@ categories:
 - Mine
 regions:
 - Germany
+site_name: "Glasebach Pit"
 latitude: 51.6125
 longitude: 11.0608
 images:

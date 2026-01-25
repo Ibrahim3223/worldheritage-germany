@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Wäscherschloss"
 latitude: 48.7671
 longitude: 9.70583
 images:

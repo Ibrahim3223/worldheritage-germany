@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Landesmuseum Hannover"
 latitude: 52.36549544
 longitude: 9.740111115
 images:

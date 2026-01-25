@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "SWT-Arena"
 latitude: 49.7717
 longitude: 6.66389
 images:

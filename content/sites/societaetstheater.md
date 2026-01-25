@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Societaetstheater"
 latitude: 51.0605
 longitude: 13.7427
 images:

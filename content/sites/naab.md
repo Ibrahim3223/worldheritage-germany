@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Naab"
 latitude: 49.602972222
 longitude: 12.1325
 images:

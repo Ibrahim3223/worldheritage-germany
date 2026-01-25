@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Burg Denzlingen"
 latitude: 48.0767
 longitude: 7.9003
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Reichenbach Priory"
 latitude: 48.5256
 longitude: 8.40139
 images:

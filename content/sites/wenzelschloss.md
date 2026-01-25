@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Wenzelschloss"
 latitude: 49.51
 longitude: 11.2821
 

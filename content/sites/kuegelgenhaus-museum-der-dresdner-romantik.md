@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Kügelgenhaus – Museum der Dresdner Romantik"
 latitude: 51.06
 longitude: 13.7428
 images:

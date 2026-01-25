@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Plochingen station"
 latitude: 48.7131
 longitude: 9.41167
 images:

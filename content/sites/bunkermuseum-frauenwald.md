@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Bunkermuseum Frauenwald"
 latitude: 50.6063
 longitude: 10.8464
 images:

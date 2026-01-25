@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Heiliger See"
 latitude: 52.411944444
 longitude: 13.071111111
 images:

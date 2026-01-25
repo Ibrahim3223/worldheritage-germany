@@ -10,6 +10,7 @@ categories:
 - Chapel
 regions:
 - Germany
+site_name: "Heiliges Grab Görlitz"
 latitude: 51.15924
 longitude: 14.98269
 images:

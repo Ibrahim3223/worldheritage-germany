@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Volmarstein"
 latitude: 51.3743
 longitude: 7.38264
 images:

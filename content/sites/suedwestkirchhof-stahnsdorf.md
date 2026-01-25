@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Südwestkirchhof Stahnsdorf"
 latitude: 52.3889
 longitude: 13.1806
 images:

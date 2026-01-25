@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Státní divadlo Chotěbuz"
 latitude: 51.7572
 longitude: 14.3256
 images:

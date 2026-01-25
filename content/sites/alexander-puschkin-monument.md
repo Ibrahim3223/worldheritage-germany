@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Alexander Puschkin Monument"
 latitude: 50.978111111
 longitude: 11.332166666
 images:

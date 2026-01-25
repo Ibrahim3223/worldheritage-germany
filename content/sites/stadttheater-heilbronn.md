@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Stadttheater Heilbronn"
 latitude: 49.1457
 longitude: 9.22319
 images:

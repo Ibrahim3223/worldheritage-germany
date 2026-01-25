@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Bischöfliches Schloss"
 latitude: 49.5637
 longitude: 8.24693
 images:

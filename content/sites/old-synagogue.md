@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Old Synagogue"
 latitude: 51.4564
 longitude: 7.01667
 images:

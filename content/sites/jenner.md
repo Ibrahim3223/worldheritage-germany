@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Jenner"
 latitude: 47.5761
 longitude: 13.0244
 images:

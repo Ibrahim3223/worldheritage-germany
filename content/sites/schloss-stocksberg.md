@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Stocksberg"
 latitude: 49.0883
 longitude: 9.00942
 

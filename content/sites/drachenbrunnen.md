@@ -10,6 +10,7 @@ categories:
 - Fountain
 regions:
 - Germany
+site_name: "Drachenbrunnen"
 latitude: 52.502863888
 longitude: 13.416155555
 images:

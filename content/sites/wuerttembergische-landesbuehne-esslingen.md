@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Württembergische Landesbühne Esslingen"
 latitude: 48.7407
 longitude: 9.30906
 images:

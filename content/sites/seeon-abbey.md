@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Seeon Abbey"
 latitude: 47.974722222
 longitude: 12.448055555
 images:

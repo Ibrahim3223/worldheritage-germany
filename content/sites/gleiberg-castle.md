@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Gleiberg Castle"
 latitude: 50.615
 longitude: 8.63472
 images:

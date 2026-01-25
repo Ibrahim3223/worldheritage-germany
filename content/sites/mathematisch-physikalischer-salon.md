@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Mathematisch-Physikalischer Salon"
 latitude: 51.0532
 longitude: 13.7328
 images:

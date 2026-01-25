@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Baldenau"
 latitude: 49.8353
 longitude: 7.165
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Middle Elbe Biosphere Reserve"
 latitude: 52.3818
 longitude: 11.9262
 

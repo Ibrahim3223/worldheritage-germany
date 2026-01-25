@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten Kiel"
 latitude: 54.3481
 longitude: 10.1167
 images:

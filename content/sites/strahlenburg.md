@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Strahlenburg"
 latitude: 49.475
 longitude: 8.66917
 

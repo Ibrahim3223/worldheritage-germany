@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "Hertie Foundation"
 latitude: 50.12344
 longitude: 8.663628
 images:

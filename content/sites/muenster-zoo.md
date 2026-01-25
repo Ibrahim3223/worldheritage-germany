@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Münster Zoo"
 latitude: 51.9464
 longitude: 7.59167
 images:

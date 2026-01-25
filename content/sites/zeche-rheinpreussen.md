@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Zeche Rheinpreußen"
 latitude: 51.4474
 longitude: 6.70377
 images:

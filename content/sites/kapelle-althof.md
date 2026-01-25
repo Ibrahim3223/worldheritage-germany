@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Kapelle Althof"
 latitude: 54.0868
 longitude: 11.9317
 images:

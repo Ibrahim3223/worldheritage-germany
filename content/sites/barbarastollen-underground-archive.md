@@ -10,6 +10,7 @@ categories:
 - Mine
 regions:
 - Germany
+site_name: "Barbarastollen underground archive"
 latitude: 47.92296667
 longitude: 7.93591667
 images:

@@ -10,6 +10,7 @@ categories:
   - "Mausoleum"
 regions:
   - "Germany"
+site_name: "mausoleum of Charlottenburg Park"
 latitude: 52.5242
 longitude: 13.2918
 images:

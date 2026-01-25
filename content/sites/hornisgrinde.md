@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Hornisgrinde"
 latitude: 48.606944444
 longitude: 8.2025
 images:

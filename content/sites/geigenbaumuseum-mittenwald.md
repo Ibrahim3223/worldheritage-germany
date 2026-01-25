@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Geigenbaumuseum Mittenwald"
 latitude: 47.442651201
 longitude: 11.260372854
 images:

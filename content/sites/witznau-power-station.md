@@ -10,6 +10,7 @@ categories:
   - "Dam"
 regions:
   - "Germany"
+site_name: "Witznau power station"
 latitude: 47.687805555
 longitude: 8.251388888
 images:

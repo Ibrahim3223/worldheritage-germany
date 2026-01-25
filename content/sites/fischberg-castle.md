@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Fischberg Castle"
 latitude: 50.6556
 longitude: 10.1189
 images:

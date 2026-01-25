@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Riemer Park"
 latitude: 48.1242
 longitude: 11.7053
 images:

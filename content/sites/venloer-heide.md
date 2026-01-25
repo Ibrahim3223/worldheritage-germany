@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Venloer Heide"
 latitude: 51.351944444
 longitude: 6.221111111
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Montfort"
 latitude: 49.7654
 longitude: 7.76736
 images:

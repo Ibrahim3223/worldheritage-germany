@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Altonaer Museum"
 latitude: 53.54902
 longitude: 9.9347
 images:

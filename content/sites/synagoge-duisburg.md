@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagoge Duisburg"
 latitude: 51.4383
 longitude: 6.76583
 images:

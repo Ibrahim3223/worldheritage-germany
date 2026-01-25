@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Darmstadt Central Station"
 latitude: 49.8725
 longitude: 8.62889
 images:

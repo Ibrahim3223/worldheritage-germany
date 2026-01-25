@@ -10,6 +10,7 @@ categories:
   - "Cave"
 regions:
   - "Germany"
+site_name: "Salzgrabenhöhle"
 latitude: 47.516666666
 longitude: 12.95
 images:

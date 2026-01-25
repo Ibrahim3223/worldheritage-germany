@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Samurai Museum Berlin"
 latitude: 52.526832
 longitude: 13.395283
 

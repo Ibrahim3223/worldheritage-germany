@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Kamp Abbey"
 latitude: 51.5023
 longitude: 6.51623
 images:

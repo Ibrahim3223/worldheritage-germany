@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Kaiserpfalzen in Paderborn"
 latitude: 51.7194
 longitude: 8.75528
 images:

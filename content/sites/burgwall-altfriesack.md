@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burgwall Altfriesack"
 latitude: 52.844722222
 longitude: 12.891944444
 images:

@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Plankenstein"
 latitude: 47.6381
 longitude: 11.8
 images:

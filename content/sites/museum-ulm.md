@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum Ulm"
 latitude: 48.397
 longitude: 9.99481
 images:

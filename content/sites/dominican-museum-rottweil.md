@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Dominican Museum Rottweil"
 latitude: 48.16927
 longitude: 8.62637
 images:

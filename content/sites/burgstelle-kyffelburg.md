@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burgstelle Kyffelburg"
 latitude: 48.0909
 longitude: 7.96473
 images:

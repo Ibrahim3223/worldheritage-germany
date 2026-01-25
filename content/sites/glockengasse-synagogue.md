@@ -10,6 +10,7 @@ categories:
 - Synagogue
 regions:
 - Germany
+site_name: "Glockengasse Synagogue"
 latitude: 50.9382
 longitude: 6.9528
 images:

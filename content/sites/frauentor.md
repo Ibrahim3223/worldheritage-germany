@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Frauentor"
 latitude: 49.4472
 longitude: 11.0811
 images:

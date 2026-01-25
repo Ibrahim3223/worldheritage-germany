@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Schleimündung"
 latitude: 54.68
 longitude: 10.033611111
 images:

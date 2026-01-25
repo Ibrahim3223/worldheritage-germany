@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Benediktbeuern Abbey"
 latitude: 47.707774256
 longitude: 11.399005363
 images:

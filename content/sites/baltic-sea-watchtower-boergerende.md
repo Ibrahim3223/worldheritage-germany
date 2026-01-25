@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Baltic Sea watchtower, Börgerende"
 latitude: 54.1501
 longitude: 11.8854
 images:

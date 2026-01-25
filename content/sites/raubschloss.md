@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Raubschloss"
 latitude: 50.7197
 longitude: 10.797
 images:

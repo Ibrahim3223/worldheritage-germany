@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum Art.Plus"
 latitude: 47.95052778
 longitude: 8.50202778
 

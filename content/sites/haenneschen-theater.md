@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Hänneschen-Theater"
 latitude: 50.9369
 longitude: 6.96167
 images:

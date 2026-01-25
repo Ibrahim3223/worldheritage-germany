@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Siegesdenkmal"
 latitude: 47.9979445
 longitude: 7.8530652
 images:

@@ -10,6 +10,7 @@ categories:
   - "Cinema"
 regions:
   - "Germany"
+site_name: "Metropol"
 latitude: 52.4989
 longitude: 13.3527
 images:

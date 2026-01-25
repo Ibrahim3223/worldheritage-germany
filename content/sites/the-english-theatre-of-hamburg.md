@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "The English Theatre of Hamburg"
 latitude: 53.56930556
 longitude: 10.02863889
 images:

@@ -11,6 +11,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Drewitzer See"
 latitude: 53.541944444
 longitude: 12.363333333
 images:

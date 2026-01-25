@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Römerberg"
 latitude: 50.110278
 longitude: 8.682222
 images:

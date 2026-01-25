@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Little France"
 latitude: 49.105
 longitude: 7.86278
 

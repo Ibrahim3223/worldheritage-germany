@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Ochsenkopf Transmitter"
 latitude: 50.03
 longitude: 11.8085
 images:

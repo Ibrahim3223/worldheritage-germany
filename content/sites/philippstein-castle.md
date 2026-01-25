@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Philippstein Castle"
 latitude: 50.4896
 longitude: 8.3803
 images:

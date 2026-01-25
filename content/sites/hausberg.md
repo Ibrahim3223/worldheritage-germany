@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Hausberg"
 latitude: 50.4114
 longitude: 8.61537
 images:

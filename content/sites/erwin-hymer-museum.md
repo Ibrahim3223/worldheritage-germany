@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Erwin Hymer Museum"
 latitude: 47.937316
 longitude: 9.760461
 images:

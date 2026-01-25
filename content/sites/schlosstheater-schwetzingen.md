@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Schlosstheater Schwetzingen"
 latitude: 49.385277777
 longitude: 8.568611111
 images:

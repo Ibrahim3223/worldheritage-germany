@@ -10,6 +10,7 @@ categories:
 - Cultural Center
 regions:
 - Germany
+site_name: "Goethe House"
 latitude: 50.111194444
 longitude: 8.677666666
 images:

@@ -10,6 +10,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Goldener Löwe Eisenach, SPD-Gedenkstätte"
 latitude: 50.9688
 longitude: 10.3225
 images:

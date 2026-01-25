@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Steigerwald Nature Park"
 latitude: 49.76667
 longitude: 10.56667
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Wahnfried"
 latitude: 49.940945102
 longitude: 11.582061647
 images:

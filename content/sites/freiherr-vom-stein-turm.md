@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Freiherr-vom-Stein-Turm"
 latitude: 51.3906
 longitude: 7.42556
 images:

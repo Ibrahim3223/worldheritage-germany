@@ -10,6 +10,7 @@ categories:
 - Zoo
 regions:
 - Germany
+site_name: "Hanover Zoo"
 latitude: 52.380537
 longitude: 9.771062
 images:

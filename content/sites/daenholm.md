@@ -10,6 +10,7 @@ categories:
 - Island
 regions:
 - Germany
+site_name: "Dänholm"
 latitude: 54.316666666
 longitude: 13.116666666
 images:

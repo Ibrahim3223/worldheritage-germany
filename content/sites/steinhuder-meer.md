@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Steinhuder Meer"
 latitude: 52.466666666
 longitude: 9.333333333
 images:

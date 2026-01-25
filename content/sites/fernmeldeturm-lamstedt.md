@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Fernmeldeturm Lamstedt"
 latitude: 53.6651
 longitude: 9.11073
 images:

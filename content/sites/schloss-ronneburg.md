@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schloss Ronneburg"
 latitude: 50.861438
 longitude: 12.177797
 images:

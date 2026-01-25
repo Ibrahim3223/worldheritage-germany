@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Friedehorst Park"
 latitude: 53.1769
 longitude: 8.67308
 images:

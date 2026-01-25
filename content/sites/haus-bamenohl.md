@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Haus Bamenohl"
 latitude: 51.161666666
 longitude: 7.987222222
 images:

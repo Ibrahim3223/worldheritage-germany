@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Münzenberg Castle"
 latitude: 50.4517
 longitude: 8.77583
 

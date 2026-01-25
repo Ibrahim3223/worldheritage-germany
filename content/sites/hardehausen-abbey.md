@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Hardehausen Abbey"
 latitude: 51.549733333
 longitude: 8.998963888
 images:

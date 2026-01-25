@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Olympiahalle"
 latitude: 48.175
 longitude: 11.55
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kunsthalle Würth"
 latitude: 49.1107
 longitude: 9.73243
 

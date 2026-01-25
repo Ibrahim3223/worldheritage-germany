@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Krumme Lanke"
 latitude: 52.45
 longitude: 13.2311
 images:

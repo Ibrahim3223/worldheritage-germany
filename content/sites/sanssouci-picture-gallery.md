@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Sanssouci Picture Gallery"
 latitude: 52.4038
 longitude: 13.041
 

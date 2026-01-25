@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Wismar Theatre"
 latitude: 53.8892
 longitude: 11.4453
 images:

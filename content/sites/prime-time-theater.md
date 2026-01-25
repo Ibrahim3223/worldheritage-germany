@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Prime Time Theater"
 latitude: 52.5432
 longitude: 13.3642
 images:

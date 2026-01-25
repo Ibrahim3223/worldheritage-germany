@@ -10,6 +10,7 @@ categories:
   - "Pilgrimage Church"
 regions:
   - "Germany"
+site_name: "Worms Cathedral"
 latitude: 49.630277777
 longitude: 8.359722222
 images:

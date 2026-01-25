@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Grimmenstein"
 latitude: 50.9458
 longitude: 10.7044
 images:

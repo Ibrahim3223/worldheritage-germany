@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Elchingen Abbey"
 latitude: 48.4524
 longitude: 10.0881
 images:

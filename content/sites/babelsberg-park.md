@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Babelsberg Park"
 latitude: 52.405386
 longitude: 13.092721
 images:

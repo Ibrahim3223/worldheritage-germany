@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Nietzsche Archive"
 latitude: 50.9716
 longitude: 11.3181
 images:

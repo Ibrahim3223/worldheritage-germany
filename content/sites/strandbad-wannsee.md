@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Strandbad Wannsee"
 latitude: 52.4386
 longitude: 13.1789
 

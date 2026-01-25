@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Reinhard Ernst Museum"
 latitude: 50.07849
 longitude: 8.24593
 

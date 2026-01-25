@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Leuchtturm Arngast"
 latitude: 53.481342
 longitude: 8.181597
 images:

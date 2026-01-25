@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Baumwollspinnerei Ermen & Engels"
 latitude: 50.9835
 longitude: 7.40986
 images:

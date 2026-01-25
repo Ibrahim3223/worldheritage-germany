@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Sibyllentürmchen"
 latitude: 50.9704
 longitude: 11.01
 images:

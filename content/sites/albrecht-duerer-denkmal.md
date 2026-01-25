@@ -10,6 +10,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Albrecht-Dürer-Denkmal"
 latitude: 49.4563
 longitude: 11.0759
 images:

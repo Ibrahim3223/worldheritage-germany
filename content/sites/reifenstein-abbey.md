@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Reifenstein Abbey"
 latitude: 51.34666667
 longitude: 10.36333333
 images:

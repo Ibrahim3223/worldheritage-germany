@@ -10,6 +10,7 @@ categories:
   - "Courthouse"
 regions:
   - "Germany"
+site_name: "Maxburg"
 latitude: 48.1402
 longitude: 11.5698
 images:

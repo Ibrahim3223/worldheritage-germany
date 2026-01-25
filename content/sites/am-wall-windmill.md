@@ -10,6 +10,7 @@ categories:
 - Windmill
 regions:
 - Germany
+site_name: "Am Wall Windmill"
 latitude: 53.0801
 longitude: 8.80682
 images:

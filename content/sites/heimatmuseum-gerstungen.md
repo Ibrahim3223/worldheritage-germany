@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Heimatmuseum Gerstungen"
 latitude: 50.968
 longitude: 10.0783
 images:

@@ -10,6 +10,7 @@ categories:
   - "Gorge"
 regions:
   - "Germany"
+site_name: "Oberjoch Pass"
 latitude: 47.5268369
 longitude: 10.4329279
 images:

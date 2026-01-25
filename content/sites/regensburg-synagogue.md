@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Regensburg Synagogue"
 latitude: 49.018333333
 longitude: 12.095833333
 images:

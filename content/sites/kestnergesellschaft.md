@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kestnergesellschaft"
 latitude: 52.3775
 longitude: 9.73167
 

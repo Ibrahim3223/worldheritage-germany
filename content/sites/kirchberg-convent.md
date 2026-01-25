@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Kirchberg convent"
 latitude: 48.3581
 longitude: 8.73278
 images:

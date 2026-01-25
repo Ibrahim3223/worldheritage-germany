@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Süwag Energie Arena"
 latitude: 50.101223
 longitude: 8.527231
 images:

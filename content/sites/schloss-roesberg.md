@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Schloss Rösberg"
 latitude: 50.769016
 longitude: 6.914741
 images:

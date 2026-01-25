@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Klostersee"
 latitude: 52.333869444
 longitude: 12.740538888
 images:

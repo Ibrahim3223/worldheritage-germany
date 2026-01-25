@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Marx-Engels Forum"
 latitude: 52.5183
 longitude: 13.4042
 images:

@@ -10,6 +10,7 @@ categories:
 - Synagogue
 regions:
 - Germany
+site_name: "Alte Synagoge"
 latitude: 49.14
 longitude: 9.22181
 images:

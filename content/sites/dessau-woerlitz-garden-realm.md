@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Dessau-Wörlitz Garden Realm"
 latitude: 51.8636
 longitude: 12.2814
 images:

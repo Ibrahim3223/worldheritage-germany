@@ -10,6 +10,7 @@ categories:
 - River
 regions:
 - Germany
+site_name: "Alster"
 latitude: 53.7636
 longitude: 10.0048
 images:

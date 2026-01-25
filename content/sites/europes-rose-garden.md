@@ -10,6 +10,7 @@ categories:
 - Garden
 regions:
 - Germany
+site_name: "Europe's Rose Garden"
 latitude: 49.25161
 longitude: 7.37195
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Pestalozzi-Fröbel Haus"
 latitude: 52.490895
 longitude: 13.351444
 

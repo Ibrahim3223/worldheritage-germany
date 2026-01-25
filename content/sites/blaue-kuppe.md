@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Blaue Kuppe"
 latitude: 51.155
 longitude: 10.035088888
 images:

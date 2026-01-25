@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Schleipfuhl"
 latitude: 52.5283
 longitude: 13.6103
 images:

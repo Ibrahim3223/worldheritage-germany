@@ -10,6 +10,7 @@ categories:
   - "Cave"
 regions:
   - "Germany"
+site_name: "Rosenmüller Cave"
 latitude: 49.80794564
 longitude: 11.259277486
 images:

@@ -10,6 +10,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Beethoven–Haydn–Mozart Memorial"
 latitude: 52.5137
 longitude: 13.3703
 images:

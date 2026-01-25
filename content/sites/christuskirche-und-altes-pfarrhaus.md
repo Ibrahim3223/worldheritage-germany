@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Christuskirche und Altes Pfarrhaus"
 latitude: 53.535
 longitude: 8.59335
 images:

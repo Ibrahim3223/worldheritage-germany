@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Wachenheim"
 latitude: 49.6372
 longitude: 8.16778
 images:

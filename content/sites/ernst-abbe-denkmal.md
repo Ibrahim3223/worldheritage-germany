@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Ernst-Abbe-Denkmal"
 latitude: 50.9279
 longitude: 11.5801
 images:

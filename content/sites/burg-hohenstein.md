@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Hohenstein"
 latitude: 50.194
 longitude: 8.0571
 images:

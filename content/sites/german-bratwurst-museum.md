@@ -11,6 +11,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "German Bratwurst Museum"
 latitude: 50.8506
 longitude: 10.8808
 images:

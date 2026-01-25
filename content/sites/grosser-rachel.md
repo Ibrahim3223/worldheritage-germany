@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Großer Rachel"
 latitude: 48.978333333
 longitude: 13.389444444
 images:

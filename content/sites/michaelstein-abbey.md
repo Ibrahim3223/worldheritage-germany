@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Michaelstein Abbey"
 latitude: 51.8061
 longitude: 10.9142
 images:

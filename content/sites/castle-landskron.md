@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Castle Landskron"
 latitude: 49.8551
 longitude: 8.35292
 images:

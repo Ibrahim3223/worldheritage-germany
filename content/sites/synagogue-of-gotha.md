@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue of Gotha"
 latitude: 50.9514
 longitude: 10.7016
 images:

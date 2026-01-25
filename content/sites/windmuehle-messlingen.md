@@ -10,6 +10,7 @@ categories:
   - "Windmill"
 regions:
   - "Germany"
+site_name: "Windmühle Messlingen"
 latitude: 52.3834
 longitude: 8.88837
 images:

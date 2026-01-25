@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Burg Beyenburg"
 latitude: 51.2494
 longitude: 7.29806
 images:

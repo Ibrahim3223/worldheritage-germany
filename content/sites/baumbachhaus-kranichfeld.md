@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Baumbachhaus Kranichfeld"
 latitude: 50.853521
 longitude: 11.20024368
 images:

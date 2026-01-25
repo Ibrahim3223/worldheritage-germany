@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Runder Berg"
 latitude: 48.489722222
 longitude: 9.365
 

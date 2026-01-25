@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Mulde"
 latitude: 51.868888888
 longitude: 12.231111111
 images:

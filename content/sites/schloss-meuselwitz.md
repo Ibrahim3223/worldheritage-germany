@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Schloss Meuselwitz"
 latitude: 51.045989
 longitude: 12.296193
 images:

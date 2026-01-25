@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Saarlandhalle"
 latitude: 49.24917
 longitude: 6.98603
 images:

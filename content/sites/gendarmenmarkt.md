@@ -10,6 +10,7 @@ categories:
 - Market Square
 regions:
 - Germany
+site_name: "Gendarmenmarkt"
 latitude: 52.513611111
 longitude: 13.392777777
 images:

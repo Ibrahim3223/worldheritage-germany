@@ -10,6 +10,7 @@ categories:
   - "Mausoleum"
 regions:
   - "Germany"
+site_name: "Mausoleum Bückeburg"
 latitude: 52.2579
 longitude: 9.03477
 images:

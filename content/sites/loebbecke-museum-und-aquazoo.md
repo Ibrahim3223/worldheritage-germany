@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Löbbecke Museum und Aquazoo"
 latitude: 51.2564
 longitude: 6.74972
 images:

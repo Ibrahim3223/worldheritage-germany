@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Deutsches Zweirad- und NSU-Museum"
 latitude: 49.1916
 longitude: 9.2224
 images:

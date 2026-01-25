@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Wasserturm Westend"
 latitude: 52.519722222
 longitude: 13.268055555
 images:

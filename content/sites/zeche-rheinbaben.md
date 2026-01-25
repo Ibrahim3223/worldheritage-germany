@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Zeche Rheinbaben"
 latitude: 51.5475
 longitude: 6.95452
 images:

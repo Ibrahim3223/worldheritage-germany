@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Barnim Panorama"
 latitude: 52.7524
 longitude: 13.4538
 images:

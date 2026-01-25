@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Hemmerich"
 latitude: 50.762
 longitude: 6.92997
 images:

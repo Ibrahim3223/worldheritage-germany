@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Kollwitzplatz"
 latitude: 52.5362
 longitude: 13.4172
 images:

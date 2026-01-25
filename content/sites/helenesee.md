@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Helenesee"
 latitude: 52.271111111
 longitude: 14.4875
 images:

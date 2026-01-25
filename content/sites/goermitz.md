@@ -10,6 +10,7 @@ categories:
 - Island
 regions:
 - Germany
+site_name: "Görmitz"
 latitude: 54.024722222
 longitude: 13.923888888
 images:

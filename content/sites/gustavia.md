@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Gustavia"
 latitude: 54.28867733
 longitude: 13.68965149
 images:

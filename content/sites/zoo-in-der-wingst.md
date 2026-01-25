@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Zoo in der Wingst"
 latitude: 53.742944444
 longitude: 9.081444444
 images:

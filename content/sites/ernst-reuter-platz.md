@@ -10,6 +10,7 @@ categories:
 - Market Square
 regions:
 - Germany
+site_name: "Ernst-Reuter-Platz"
 latitude: 52.512638888
 longitude: 13.321888888
 images:

@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Synagogue Dornum"
 latitude: 53.6477
 longitude: 7.42872
 images:

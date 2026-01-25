@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "BMW Park"
 latitude: 48.12605
 longitude: 11.52535
 images:

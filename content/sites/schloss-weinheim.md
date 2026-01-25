@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Schloss Weinheim"
 latitude: 49.5458
 longitude: 8.67028
 images:

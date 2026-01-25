@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Backelstein"
 latitude: 49.184
 longitude: 7.8514
 images:

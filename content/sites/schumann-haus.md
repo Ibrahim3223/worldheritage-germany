@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schumann-Haus"
 latitude: 51.3405
 longitude: 12.3911
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Papiermuseum Düren"
 latitude: 50.8008
 longitude: 6.47944
 images:

@@ -10,6 +10,7 @@ categories:
 - Mine
 regions:
 - Germany
+site_name: "Finstergrund"
 latitude: 47.832897222
 longitude: 7.9032
 images:

@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Boissower See und Südteil des Neuenkirchener Sees"
 latitude: 53.567
 longitude: 10.9765
 images:

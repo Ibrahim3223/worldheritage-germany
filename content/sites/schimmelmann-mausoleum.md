@@ -10,6 +10,7 @@ categories:
   - "Mausoleum"
 regions:
   - "Germany"
+site_name: "Schimmelmann-Mausoleum"
 latitude: 53.573193
 longitude: 10.07203
 images:

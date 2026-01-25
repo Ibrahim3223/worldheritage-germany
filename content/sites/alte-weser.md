@@ -10,6 +10,7 @@ categories:
 - Lighthouse
 regions:
 - Germany
+site_name: "Alte Weser"
 latitude: 53.863461
 longitude: 8.127451
 images:

@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Ehrenmal der Luftwaffe"
 latitude: 48.1917
 longitude: 11.2605
 images:

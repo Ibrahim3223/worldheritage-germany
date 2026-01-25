@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Teufelsmoor"
 latitude: 53.282777777
 longitude: 8.869444444
 images:

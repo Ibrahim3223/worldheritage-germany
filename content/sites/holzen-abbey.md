@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Holzen Abbey"
 latitude: 48.6042
 longitude: 10.8145
 images:

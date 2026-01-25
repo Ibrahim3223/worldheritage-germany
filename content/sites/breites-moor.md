@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Breites Moor"
 latitude: 52.6964
 longitude: 10.1772
 images:

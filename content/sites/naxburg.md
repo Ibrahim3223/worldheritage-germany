@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Naxburg"
 latitude: 50.45
 longitude: 9.39194
 

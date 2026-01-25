@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Afghan Museum"
 latitude: 53.54333333
 longitude: 9.98944444
 images:

@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Aalen Central station"
 latitude: 48.840833333
 longitude: 10.096111111
 images:

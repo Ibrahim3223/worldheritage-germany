@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Stephansplatz"
 latitude: 53.55768333
 longitude: 9.98865278
 images:

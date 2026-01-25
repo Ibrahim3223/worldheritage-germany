@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Bremen TV tower"
 latitude: 53.0957
 longitude: 8.79187
 images:

@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Titisee"
 latitude: 47.893333333
 longitude: 8.146111111
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Stiftsmuseum der Stadt Aschaffenburg"
 latitude: 49.973862789
 longitude: 9.146452027
 images:

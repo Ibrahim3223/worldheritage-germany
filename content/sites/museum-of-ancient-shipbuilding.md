@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum of Ancient Shipbuilding"
 latitude: 49.9941
 longitude: 8.28042
 images:

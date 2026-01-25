@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Städtische Galerie Karlsruhe"
 latitude: 49.0002
 longitude: 8.3837
 images:

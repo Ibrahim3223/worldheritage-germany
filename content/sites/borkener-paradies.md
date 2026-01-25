@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Borkener Paradies"
 latitude: 52.7214
 longitude: 7.24028
 images:

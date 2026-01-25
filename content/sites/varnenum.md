@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Varnenum"
 latitude: 50.7297
 longitude: 6.19361
 

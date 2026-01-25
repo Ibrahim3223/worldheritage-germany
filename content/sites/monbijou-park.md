@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Monbijou Park"
 latitude: 52.5231
 longitude: 13.3969
 images:

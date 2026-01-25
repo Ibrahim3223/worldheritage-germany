@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "University and State Library RheinMain"
 latitude: 50.077777777
 longitude: 8.2375
 images:

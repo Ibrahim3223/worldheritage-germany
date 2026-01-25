@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Aerodynamic Park"
 latitude: 52.4319
 longitude: 13.5289
 images:

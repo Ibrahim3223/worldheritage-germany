@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Westliche Karwendelspitze"
 latitude: 47.43
 longitude: 11.298888888
 images:

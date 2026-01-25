@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Eldena Abbey"
 latitude: 54.0892
 longitude: 13.452219444
 images:

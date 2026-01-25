@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Kommende Ramersdorf"
 latitude: 50.7256
 longitude: 7.16037
 images:

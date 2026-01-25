@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Gotha railway station"
 latitude: 50.9392
 longitude: 10.7139
 images:

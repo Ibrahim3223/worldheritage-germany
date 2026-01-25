@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Krautinsel"
 latitude: 47.8683
 longitude: 12.4164
 images:

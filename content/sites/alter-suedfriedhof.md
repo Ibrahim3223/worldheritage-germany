@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Alter Südfriedhof"
 latitude: 48.127265054
 longitude: 11.564875282
 images:

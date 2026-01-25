@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Sieben Steinhäuser"
 latitude: 52.800555555
 longitude: 9.7975
 

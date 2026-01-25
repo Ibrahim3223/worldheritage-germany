@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Theater am Kurfürstendamm"
 latitude: 52.5019
 longitude: 13.3239
 images:

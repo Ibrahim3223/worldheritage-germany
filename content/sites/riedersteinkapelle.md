@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Riedersteinkapelle"
 latitude: 47.704161
 longitude: 11.792268
 images:

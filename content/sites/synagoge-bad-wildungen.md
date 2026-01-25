@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagoge (Bad Wildungen)"
 latitude: 51.1183
 longitude: 9.1227
 images:

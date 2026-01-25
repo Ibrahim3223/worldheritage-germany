@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Kunsthalle Düsseldorf"
 latitude: 51.2276
 longitude: 6.77594
 images:

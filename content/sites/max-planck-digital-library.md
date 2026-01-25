@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "Max Planck Digital Library"
 latitude: 48.14795
 longitude: 11.57654
 images:

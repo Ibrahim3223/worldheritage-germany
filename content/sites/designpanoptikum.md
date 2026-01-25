@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Designpanoptikum"
 latitude: 52.5282
 longitude: 13.3909
 images:

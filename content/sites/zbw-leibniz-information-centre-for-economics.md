@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "ZBW - Leibniz Information Centre for Economics"
 latitude: 54.338333
 longitude: 10.156111
 

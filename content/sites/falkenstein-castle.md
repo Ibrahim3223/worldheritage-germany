@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Falkenstein Castle"
 latitude: 48.6011
 longitude: 10.1625
 images:

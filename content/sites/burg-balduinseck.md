@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Balduinseck"
 latitude: 50.0764
 longitude: 7.36339
 images:

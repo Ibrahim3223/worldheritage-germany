@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Schwabsburg"
 latitude: 49.8639
 longitude: 8.31167
 images:

@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Tüdderner Fenn"
 latitude: 51.003061111
 longitude: 5.921203055
 images:

@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Munich Forest Cemetery"
 latitude: 48.102777777
 longitude: 11.493611111
 images:

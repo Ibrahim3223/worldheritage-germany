@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Walpurgis Hall"
 latitude: 51.7327
 longitude: 11.0261
 images:

@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Hermannsdenkmal"
 latitude: 51.911666666
 longitude: 8.839444444
 images:

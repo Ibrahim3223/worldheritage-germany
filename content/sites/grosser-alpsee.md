@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Großer Alpsee"
 latitude: 47.572222222
 longitude: 10.175
 images:

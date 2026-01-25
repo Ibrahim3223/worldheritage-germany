@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Dillenburg station"
 latitude: 50.735
 longitude: 8.29444
 images:

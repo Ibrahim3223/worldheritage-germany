@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Marksburg"
 latitude: 50.271917
 longitude: 7.649444
 

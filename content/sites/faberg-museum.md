@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Fabergé Museum"
 latitude: 48.7621
 longitude: 8.2434
 images:

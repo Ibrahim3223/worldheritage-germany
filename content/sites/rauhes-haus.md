@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Rauhes Haus"
 latitude: 53.55388889
 longitude: 10.07222222
 

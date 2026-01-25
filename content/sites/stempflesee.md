@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Stempflesee"
 latitude: 48.339227777
 longitude: 10.917747222
 images:

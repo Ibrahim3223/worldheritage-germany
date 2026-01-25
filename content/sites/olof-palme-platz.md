@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Olof-Palme-Platz"
 latitude: 52.5056
 longitude: 13.3406
 images:

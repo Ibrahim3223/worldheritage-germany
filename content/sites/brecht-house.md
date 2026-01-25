@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Brecht House"
 latitude: 52.528856
 longitude: 13.384602
 images:

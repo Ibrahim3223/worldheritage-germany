@@ -10,6 +10,7 @@ categories:
   - "School Building"
 regions:
   - "Germany"
+site_name: "Kurfürst-Friedrich-Gymnasium (Heidelberg)"
 latitude: 49.4113
 longitude: 8.69389
 images:

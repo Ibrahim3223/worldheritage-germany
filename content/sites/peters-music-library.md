@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "Peters Music Library"
 latitude: 51.3356
 longitude: 12.38626
 images:

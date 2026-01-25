@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "ZOOM Erlebniswelt"
 latitude: 51.5441
 longitude: 7.11094
 images:

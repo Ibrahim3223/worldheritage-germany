@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Gut Ludwigsburg"
 latitude: 54.5132
 longitude: 9.93158
 images:

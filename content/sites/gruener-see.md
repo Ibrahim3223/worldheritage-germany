@@ -10,6 +10,7 @@ categories:
 - Waterfall
 regions:
 - Germany
+site_name: "Grüner See"
 latitude: 52.2633
 longitude: 8.45444
 images:

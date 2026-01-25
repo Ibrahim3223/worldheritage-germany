@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Seeburger See"
 latitude: 51.565
 longitude: 10.164444444
 images:

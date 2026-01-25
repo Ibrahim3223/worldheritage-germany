@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "Artland-Arena"
 latitude: 52.6775
 longitude: 7.965
 images:

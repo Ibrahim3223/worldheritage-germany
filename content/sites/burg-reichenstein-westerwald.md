@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Reichenstein (Westerwald)"
 latitude: 50.6062
 longitude: 7.59608
 images:

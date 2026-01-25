@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Hersbruck"
 latitude: 49.506722996
 longitude: 11.430904143
 

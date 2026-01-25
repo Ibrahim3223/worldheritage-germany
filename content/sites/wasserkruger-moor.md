@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Wasserkruger Moor"
 latitude: 53.6644
 longitude: 9.35361
 images:

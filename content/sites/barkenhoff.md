@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Barkenhoff"
 latitude: 53.215666
 longitude: 8.931745
 images:

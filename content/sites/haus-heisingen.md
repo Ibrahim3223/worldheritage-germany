@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Haus Heisingen"
 latitude: 51.400472222
 longitude: 7.074166666
 images:

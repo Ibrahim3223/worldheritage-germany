@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Erdöl-Erdgas-Museum Twist"
 latitude: 52.6473
 longitude: 7.09511
 images:

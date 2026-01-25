@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Weisenauer Synagogue Mainz"
 latitude: 49.9856
 longitude: 8.29866
 images:

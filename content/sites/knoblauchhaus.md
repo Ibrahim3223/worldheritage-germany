@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Knoblauchhaus"
 latitude: 52.516434
 longitude: 13.406988
 images:

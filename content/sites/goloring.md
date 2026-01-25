@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Goloring"
 latitude: 50.3392
 longitude: 7.43972
 images:

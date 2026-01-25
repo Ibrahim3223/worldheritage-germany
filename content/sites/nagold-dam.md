@@ -10,6 +10,7 @@ categories:
   - "Dam"
 regions:
   - "Germany"
+site_name: "Nagold Dam"
 latitude: 48.5531
 longitude: 8.49361
 images:

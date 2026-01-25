@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Rathaus"
 latitude: 52.358527
 longitude: 14.063436
 

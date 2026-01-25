@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Bomann-Museum"
 latitude: 52.6242
 longitude: 10.0796
 images:

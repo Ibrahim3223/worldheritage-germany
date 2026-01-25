@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Wendelinuskapellen von Budenheim"
 latitude: 50.0113
 longitude: 8.19025
 images:

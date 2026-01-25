@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Martin Luthers Sterbehaus"
 latitude: 51.5281
 longitude: 11.5443
 images:

@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Peenetal von Salem bis Jarmen"
 latitude: 53.9221
 longitude: 13.0645
 images:

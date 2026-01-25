@@ -11,6 +11,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Duke's Chest Castle"
 latitude: 48.7636
 longitude: 11.4275
 images:

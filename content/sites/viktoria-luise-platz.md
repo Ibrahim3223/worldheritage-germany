@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Viktoria-Luise-Platz"
 latitude: 52.495833333
 longitude: 13.341944444
 images:

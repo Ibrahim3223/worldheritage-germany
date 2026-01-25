@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Wettin Castle"
 latitude: 51.5831
 longitude: 11.8106
 

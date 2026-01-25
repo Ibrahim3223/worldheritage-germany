@@ -10,6 +10,7 @@ categories:
   - "Factory"
 regions:
   - "Germany"
+site_name: "Karl-Liebknecht-Haus"
 latitude: 52.5261
 longitude: 13.4131
 images:

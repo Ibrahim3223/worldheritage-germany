@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Altenberg"
 latitude: 50.1942
 longitude: 10.07
 images:

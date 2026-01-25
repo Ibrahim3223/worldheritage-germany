@@ -10,6 +10,7 @@ categories:
   - "Statue"
 regions:
   - "Germany"
+site_name: "Lambert Steinwich memorial"
 latitude: 54.307222222
 longitude: 13.092055555
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schillerhaus"
 latitude: 51.3588
 longitude: 12.3628
 images:

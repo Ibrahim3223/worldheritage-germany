@@ -10,6 +10,7 @@ categories:
 - Cinema
 regions:
 - Germany
+site_name: "Berlin Sportpalast"
 latitude: 52.494722222
 longitude: 13.359166666
 images:

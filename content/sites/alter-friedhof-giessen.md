@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Alter Friedhof Gießen"
 latitude: 50.5831
 longitude: 8.68538
 images:

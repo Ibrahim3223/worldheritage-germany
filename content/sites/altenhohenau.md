@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Altenhohenau"
 latitude: 48.008164211
 longitude: 12.177451777
 images:

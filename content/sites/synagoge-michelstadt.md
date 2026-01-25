@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagoge Michelstadt"
 latitude: 49.6792
 longitude: 9.00519
 images:

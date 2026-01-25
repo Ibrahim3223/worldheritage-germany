@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Roter Turm"
 latitude: 50.8342
 longitude: 12.9216
 images:

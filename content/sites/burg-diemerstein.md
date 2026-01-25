@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Diemerstein"
 latitude: 49.444311111
 longitude: 7.961858333
 images:

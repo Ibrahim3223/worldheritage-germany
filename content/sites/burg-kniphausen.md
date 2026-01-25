@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Kniphausen"
 latitude: 53.5508
 longitude: 8.05269
 images:

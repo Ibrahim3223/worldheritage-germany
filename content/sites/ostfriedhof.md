@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Ostfriedhof"
 latitude: 48.119644958
 longitude: 11.590886403
 images:

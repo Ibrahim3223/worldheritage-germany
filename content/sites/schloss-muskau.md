@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Muskau"
 latitude: 51.54754722
 longitude: 14.72320278
 

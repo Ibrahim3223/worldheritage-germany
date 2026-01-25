@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Waginger See"
 latitude: 47.938611111
 longitude: 12.7775
 images:

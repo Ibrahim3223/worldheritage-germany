@@ -10,6 +10,7 @@ categories:
 - Factory
 regions:
 - Germany
+site_name: "Cologne Body & Assembly"
 latitude: 51.0025228
 longitude: 6.9514133
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Rhön Biosphere Reserve"
 latitude: 50.35
 longitude: 10.05
 

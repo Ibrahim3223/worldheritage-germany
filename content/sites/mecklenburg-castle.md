@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Mecklenburg Castle"
 latitude: 53.8372
 longitude: 11.4711
 

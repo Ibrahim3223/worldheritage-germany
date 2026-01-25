@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Alpirsbach Abbey"
 latitude: 48.3461
 longitude: 8.40417
 images:

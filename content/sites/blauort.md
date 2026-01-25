@@ -10,6 +10,7 @@ categories:
 - Island
 regions:
 - Germany
+site_name: "Blauort"
 latitude: 54.16702
 longitude: 8.73077
 images:

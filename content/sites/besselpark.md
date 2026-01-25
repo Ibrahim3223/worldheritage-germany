@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Besselpark"
 latitude: 52.503827777
 longitude: 13.391777777
 images:

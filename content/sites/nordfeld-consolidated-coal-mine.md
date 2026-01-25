@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Nordfeld Consolidated Coal Mine"
 latitude: 49.40277778
 longitude: 7.28611111
 images:

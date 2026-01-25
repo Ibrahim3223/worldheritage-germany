@@ -10,6 +10,7 @@ categories:
   - "School Building"
 regions:
   - "Germany"
+site_name: "Grundschule \"Johannes Falk\""
 latitude: 50.986838
 longitude: 11.326041
 images:

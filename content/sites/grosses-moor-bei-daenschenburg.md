@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Großes Moor bei Dänschenburg"
 latitude: 54.1294
 longitude: 12.4424
 images:

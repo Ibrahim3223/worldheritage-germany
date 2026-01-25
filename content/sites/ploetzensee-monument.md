@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Plötzensee monument"
 latitude: 52.5408
 longitude: 13.3225
 images:

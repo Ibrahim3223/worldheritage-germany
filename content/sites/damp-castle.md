@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Damp Castle"
 latitude: 54.576316
 longitude: 9.984566
 images:

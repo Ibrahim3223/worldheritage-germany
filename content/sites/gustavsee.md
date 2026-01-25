@@ -10,6 +10,7 @@ categories:
 - Mine
 regions:
 - Germany
+site_name: "Gustavsee"
 latitude: 50.054621944
 longitude: 8.990841944
 images:

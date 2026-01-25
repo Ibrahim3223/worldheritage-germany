@@ -10,6 +10,7 @@ categories:
   - "Cinema"
 regions:
   - "Germany"
+site_name: "Museum Lichtspiele"
 latitude: 48.131
 longitude: 11.5875
 images:

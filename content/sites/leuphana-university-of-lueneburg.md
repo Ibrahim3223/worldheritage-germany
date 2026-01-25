@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Leuphana University of Lüneburg"
 latitude: 53.2289
 longitude: 10.4011
 

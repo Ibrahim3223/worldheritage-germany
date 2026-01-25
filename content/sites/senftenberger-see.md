@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Senftenberger See"
 latitude: 51.5
 longitude: 14.016666666
 images:

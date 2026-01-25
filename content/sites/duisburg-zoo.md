@@ -10,6 +10,7 @@ categories:
 - Zoo
 regions:
 - Germany
+site_name: "Duisburg Zoo"
 latitude: 51.4353
 longitude: 6.80528
 images:

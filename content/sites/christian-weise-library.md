@@ -10,6 +10,7 @@ categories:
 - Library
 regions:
 - Germany
+site_name: "Christian Weise Library"
 latitude: 50.8957
 longitude: 14.8104
 images:

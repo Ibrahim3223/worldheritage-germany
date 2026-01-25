@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Wasserschloss Dobitschen"
 latitude: 50.955757
 longitude: 12.280858
 images:

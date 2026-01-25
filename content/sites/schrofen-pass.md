@@ -10,6 +10,7 @@ categories:
   - "Gorge"
 regions:
   - "Germany"
+site_name: "Schrofen Pass"
 latitude: 47.2762288
 longitude: 10.2019419
 images:

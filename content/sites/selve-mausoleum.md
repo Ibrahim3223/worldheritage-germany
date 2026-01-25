@@ -10,6 +10,7 @@ categories:
   - "Mausoleum"
 regions:
   - "Germany"
+site_name: "Selve-Mausoleum"
 latitude: 51.2239
 longitude: 7.6273
 images:

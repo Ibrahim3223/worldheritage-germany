@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Rosental"
 latitude: 51.35
 longitude: 12.3636
 images:

@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Eisenach Central Station"
 latitude: 50.97678
 longitude: 10.332013
 images:

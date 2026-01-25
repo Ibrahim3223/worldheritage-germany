@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Grafschaft Abbey"
 latitude: 51.1444
 longitude: 8.3241
 images:

@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Bühne der Kulturen"
 latitude: 50.9537
 longitude: 6.91504
 images:

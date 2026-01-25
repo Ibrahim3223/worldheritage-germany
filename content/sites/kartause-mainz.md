@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Kartause Mainz"
 latitude: 49.98866
 longitude: 8.28648
 images:

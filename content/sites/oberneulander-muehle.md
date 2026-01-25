@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Oberneulander Mühle"
 latitude: 53.086369
 longitude: 8.936181
 images:

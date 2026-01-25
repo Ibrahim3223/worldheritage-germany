@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Lehnin Abbey"
 latitude: 52.320277777
 longitude: 12.743333333
 images:

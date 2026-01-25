@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Gossler Park"
 latitude: 53.56477778
 longitude: 9.80875
 images:

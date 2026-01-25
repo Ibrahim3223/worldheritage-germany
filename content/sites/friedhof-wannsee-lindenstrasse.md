@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Friedhof Wannsee, Lindenstraße"
 latitude: 52.425227777
 longitude: 13.153872222
 images:

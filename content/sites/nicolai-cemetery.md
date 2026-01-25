@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Nicolai cemetery"
 latitude: 51.183944
 longitude: 14.422235
 images:

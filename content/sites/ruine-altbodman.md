@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Ruine Altbodman"
 latitude: 47.79451389
 longitude: 9.03216667
 

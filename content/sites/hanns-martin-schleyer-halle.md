@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "Hanns-Martin-Schleyer-Halle"
 latitude: 48.793889
 longitude: 9.226944
 images:

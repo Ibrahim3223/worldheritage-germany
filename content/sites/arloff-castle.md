@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Arloff Castle"
 latitude: 50.5925
 longitude: 6.78714
 images:

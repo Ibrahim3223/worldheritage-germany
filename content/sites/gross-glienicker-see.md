@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Groß Glienicker See"
 latitude: 52.465277777
 longitude: 13.111111111
 images:

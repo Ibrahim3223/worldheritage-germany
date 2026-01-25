@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Ahrensburg Castle"
 latitude: 53.680131
 longitude: 10.240341
 images:

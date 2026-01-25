@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Hochzeitsturm"
 latitude: 49.8771
 longitude: 8.66723
 images:

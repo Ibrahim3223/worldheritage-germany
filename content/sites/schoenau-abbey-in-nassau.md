@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Schönau Abbey in Nassau"
 latitude: 50.140556
 longitude: 7.894167
 images:

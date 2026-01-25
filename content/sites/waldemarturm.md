@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Waldemarturm"
 latitude: 53.0994
 longitude: 11.0979
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Bach-Museum Leipzig"
 latitude: 51.33865
 longitude: 12.37226
 images:

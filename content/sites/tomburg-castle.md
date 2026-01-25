@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Tomburg Castle"
 latitude: 50.59545
 longitude: 6.97373
 

@@ -11,6 +11,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "Fruchthalle"
 latitude: 49.44567
 longitude: 7.77036
 images:

@@ -10,6 +10,7 @@ categories:
   - "Roman Villa"
 regions:
   - "Germany"
+site_name: "Kograben"
 latitude: 54.4671
 longitude: 9.50903
 images:

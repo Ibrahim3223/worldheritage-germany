@@ -10,6 +10,7 @@ categories:
   - "Dam"
 regions:
   - "Germany"
+site_name: "Saidenbach Dam"
 latitude: 50.732940316
 longitude: 13.21971168
 images:

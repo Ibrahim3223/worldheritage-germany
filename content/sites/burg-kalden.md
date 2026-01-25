@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Kalden"
 latitude: 47.8238
 longitude: 10.2001
 images:

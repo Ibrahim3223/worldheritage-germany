@@ -11,6 +11,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Fleesensee"
 latitude: 53.502222222
 longitude: 12.475277777
 images:

@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Konstablerwache"
 latitude: 50.114444444
 longitude: 8.686944444
 images:

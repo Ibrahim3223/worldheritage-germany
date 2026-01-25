@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Dorf- und Uhrenmuseum Gütenbach"
 latitude: 48.047097703
 longitude: 8.139697286
 images:

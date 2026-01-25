@@ -11,6 +11,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Freiburg Charterhouse"
 latitude: 47.994477
 longitude: 7.882749
 images:

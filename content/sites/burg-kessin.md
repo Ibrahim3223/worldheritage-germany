@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Burg Kessin"
 latitude: 54.0628
 longitude: 12.1778
 

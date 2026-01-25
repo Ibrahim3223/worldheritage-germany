@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Tierpark Nordhorn"
 latitude: 52.4283
 longitude: 7.09194
 images:

@@ -10,6 +10,7 @@ categories:
 - Waterfall
 regions:
 - Germany
+site_name: "All Saints Waterfalls"
 latitude: 48.5303
 longitude: 8.18896
 images:

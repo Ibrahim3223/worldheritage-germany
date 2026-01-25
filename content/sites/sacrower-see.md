@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Sacrower See"
 latitude: 52.441666666
 longitude: 13.097777777
 images:

@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Friedrichsplatz"
 latitude: 49.4839
 longitude: 8.47603
 images:

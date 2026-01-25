@@ -11,6 +11,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Angel of Peace (Mannheim)"
 latitude: 49.489972222
 longitude: 8.462138888
 images:

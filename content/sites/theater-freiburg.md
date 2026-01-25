@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Theater Freiburg"
 latitude: 47.99512
 longitude: 7.84524
 images:

@@ -10,6 +10,7 @@ categories:
 - Science Museum
 regions:
 - Germany
+site_name: "Arithmeum"
 latitude: 50.7306
 longitude: 7.10492
 images:

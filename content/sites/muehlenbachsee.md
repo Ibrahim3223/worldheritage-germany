@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Mühlenbachsee"
 latitude: 53.1361
 longitude: 9.41333
 images:

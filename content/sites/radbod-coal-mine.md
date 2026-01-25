@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Radbod Coal Mine"
 latitude: 51.68728
 longitude: 7.76384
 images:

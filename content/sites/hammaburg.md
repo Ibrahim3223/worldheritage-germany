@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Hammaburg"
 latitude: 53.549866
 longitude: 9.997729
 images:

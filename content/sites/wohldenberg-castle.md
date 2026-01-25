@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Wohldenberg Castle"
 latitude: 52.05872
 longitude: 10.15311
 

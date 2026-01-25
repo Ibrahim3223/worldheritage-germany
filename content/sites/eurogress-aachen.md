@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "Eurogress Aachen"
 latitude: 50.782080555
 longitude: 6.0919
 images:

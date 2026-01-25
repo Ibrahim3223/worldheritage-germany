@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "ZEIT-Stiftung Bucerius"
 latitude: 53.56788
 longitude: 9.991161
 

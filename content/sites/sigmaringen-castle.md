@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Sigmaringen Castle"
 latitude: 48.087777777
 longitude: 9.216944444
 

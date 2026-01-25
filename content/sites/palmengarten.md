@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Palmengarten"
 latitude: 50.123611111
 longitude: 8.655555555
 

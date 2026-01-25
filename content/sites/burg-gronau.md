@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Gronau"
 latitude: 49.4335
 longitude: 8.2756
 images:

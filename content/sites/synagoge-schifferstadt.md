@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagoge Schifferstadt"
 latitude: 49.38858
 longitude: 8.37386
 images:

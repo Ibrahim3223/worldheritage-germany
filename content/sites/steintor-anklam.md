@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Steintor (Anklam)"
 latitude: 53.8554113
 longitude: 13.6917945
 images:

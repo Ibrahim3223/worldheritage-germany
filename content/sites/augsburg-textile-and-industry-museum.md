@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Augsburg textile and industry museum"
 latitude: 48.3638
 longitude: 10.9135
 images:

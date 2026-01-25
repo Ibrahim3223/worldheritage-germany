@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "St.-Pauli-Theater"
 latitude: 53.54906
 longitude: 9.96297
 images:

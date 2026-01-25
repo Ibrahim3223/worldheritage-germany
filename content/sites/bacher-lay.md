@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Bacher Lay"
 latitude: 50.6538
 longitude: 7.97653
 images:

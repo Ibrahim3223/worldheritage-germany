@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Kottbusser Tor"
 latitude: 52.4992
 longitude: 13.4181
 images:

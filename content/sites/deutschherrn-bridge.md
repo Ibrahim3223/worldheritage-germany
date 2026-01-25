@@ -10,6 +10,7 @@ categories:
 - Bridge
 regions:
 - Germany
+site_name: "Deutschherrn bridge"
 latitude: 50.109291644
 longitude: 8.70578779
 images:

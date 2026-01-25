@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Strausberg Nord station"
 latitude: 52.5902
 longitude: 13.9084
 images:

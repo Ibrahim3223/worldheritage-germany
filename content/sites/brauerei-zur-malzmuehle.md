@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Brauerei zur Malzmühle"
 latitude: 50.9347
 longitude: 6.96068
 images:

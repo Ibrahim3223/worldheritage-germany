@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Rathausmarkt"
 latitude: 53.55083333
 longitude: 9.99305556
 images:

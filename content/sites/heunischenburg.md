@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Heunischenburg"
 latitude: 50.2426
 longitude: 11.2654
 images:

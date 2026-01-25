@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Königstor"
 latitude: 49.4479
 longitude: 11.0815
 images:

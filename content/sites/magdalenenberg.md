@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Magdalenenberg"
 latitude: 48.0443
 longitude: 8.4437
 

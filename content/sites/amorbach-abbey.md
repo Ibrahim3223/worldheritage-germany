@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Amorbach Abbey"
 latitude: 49.643387806
 longitude: 9.219725939
 images:

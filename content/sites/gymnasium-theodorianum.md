@@ -10,6 +10,7 @@ categories:
 - School Building
 regions:
 - Germany
+site_name: "Gymnasium Theodorianum"
 latitude: 51.7162
 longitude: 8.75444
 images:

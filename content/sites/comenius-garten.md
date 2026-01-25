@@ -10,6 +10,7 @@ categories:
 - Garden
 regions:
 - Germany
+site_name: "Comenius-Garten"
 latitude: 52.475063888
 longitude: 13.442877777
 images:

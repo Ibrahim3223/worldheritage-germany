@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Studnitz Pyramid"
 latitude: 50.9453
 longitude: 10.7008
 images:

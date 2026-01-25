@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Säuling"
 latitude: 47.534722222
 longitude: 10.755
 images:

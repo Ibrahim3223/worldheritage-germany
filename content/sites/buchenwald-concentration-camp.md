@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Buchenwald concentration camp"
 latitude: 51.021198
 longitude: 11.248999
 images:

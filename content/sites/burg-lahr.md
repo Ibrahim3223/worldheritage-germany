@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Lahr"
 latitude: 50.6199
 longitude: 7.4959
 images:

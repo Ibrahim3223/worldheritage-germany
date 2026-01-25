@@ -10,6 +10,7 @@ categories:
   - "Valley"
 regions:
   - "Germany"
+site_name: "Moselle Valley"
 latitude: 50.4
 longitude: 7.6
 images:

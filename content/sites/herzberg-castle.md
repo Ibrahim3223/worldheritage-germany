@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Herzberg Castle"
 latitude: 51.6558
 longitude: 10.3311
 images:

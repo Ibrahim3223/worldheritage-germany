@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Meißendorfer Teiche/ Bannetzer Moor"
 latitude: 52.711111111
 longitude: 9.816666666
 images:

@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Henkerturm"
 latitude: 49.45323907
 longitude: 11.073289792
 images:

@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Freyenter Wald"
 latitude: 50.708055555
 longitude: 6.126388888
 images:

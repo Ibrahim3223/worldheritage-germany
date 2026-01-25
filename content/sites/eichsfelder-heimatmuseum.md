@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Eichsfelder Heimatmuseum"
 latitude: 51.3778566
 longitude: 10.1363024
 images:

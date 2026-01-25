@@ -10,6 +10,7 @@ categories:
   - "Dam"
 regions:
   - "Germany"
+site_name: "Oker Dam"
 latitude: 51.851163
 longitude: 10.4579072
 images:

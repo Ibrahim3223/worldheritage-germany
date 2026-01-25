@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Neumünster station"
 latitude: 54.076
 longitude: 9.97988
 images:

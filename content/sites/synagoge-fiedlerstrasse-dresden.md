@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagoge Fiedlerstraße, Dresden"
 latitude: 51.0541
 longitude: 13.7768
 images:

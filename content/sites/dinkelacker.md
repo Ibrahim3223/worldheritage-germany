@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Dinkelacker"
 latitude: 48.768055555
 longitude: 9.170555555
 images:

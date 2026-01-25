@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Boddinstraße"
 latitude: 52.48
 longitude: 13.425277777
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Hünstollen"
 latitude: 51.5792
 longitude: 10.0513
 images:

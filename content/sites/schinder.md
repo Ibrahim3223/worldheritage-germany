@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Schinder"
 latitude: 47.601
 longitude: 11.8611
 images:

@@ -10,6 +10,7 @@ categories:
   - "Cinema"
 regions:
   - "Germany"
+site_name: "Munich Film Museum"
 latitude: 48.134833333
 longitude: 11.572833333
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Zeppelin Museum Friedrichshafen"
 latitude: 47.65056
 longitude: 9.48303
 images:

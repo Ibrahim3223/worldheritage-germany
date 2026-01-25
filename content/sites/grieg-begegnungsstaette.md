@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Grieg-Begegnungsstätte"
 latitude: 51.335134
 longitude: 12.386167
 images:

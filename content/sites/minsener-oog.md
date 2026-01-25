@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Minsener Oog"
 latitude: 53.75
 longitude: 8.016666666
 images:

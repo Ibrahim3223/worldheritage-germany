@@ -10,6 +10,7 @@ categories:
 - Bridge
 regions:
 - Germany
+site_name: "Faller-Klamm-Brücke"
 latitude: 47.5763
 longitude: 11.5373
 images:

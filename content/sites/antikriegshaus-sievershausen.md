@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Antikriegshaus Sievershausen"
 latitude: 52.374284
 longitude: 10.129696
 images:

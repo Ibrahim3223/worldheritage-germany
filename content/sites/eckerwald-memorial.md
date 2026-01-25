@@ -10,6 +10,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Eckerwald Memorial"
 latitude: 48.1798
 longitude: 8.72057
 images:

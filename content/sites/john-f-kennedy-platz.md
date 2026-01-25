@@ -10,6 +10,7 @@ categories:
 - Market Square
 regions:
 - Germany
+site_name: "John-F.-Kennedy-Platz"
 latitude: 52.485
 longitude: 13.344444444
 images:

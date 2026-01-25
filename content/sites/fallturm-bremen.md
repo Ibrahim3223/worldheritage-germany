@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Fallturm Bremen"
 latitude: 53.11
 longitude: 8.85806
 images:

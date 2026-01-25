@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Grünsee"
 latitude: 47.5019
 longitude: 12.9531
 images:

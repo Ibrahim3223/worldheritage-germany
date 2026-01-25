@@ -10,6 +10,7 @@ categories:
 - Mosque
 regions:
 - Germany
+site_name: "Şehitlik-Moschee"
 latitude: 52.48138889
 longitude: 13.40972222
 images:

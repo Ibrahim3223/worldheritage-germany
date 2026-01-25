@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Walfisch"
 latitude: 53.940277777
 longitude: 11.426944444
 images:

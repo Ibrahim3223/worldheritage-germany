@@ -10,6 +10,7 @@ categories:
 - Mine
 regions:
 - Germany
+site_name: "Grube Düppenweiler"
 latitude: 49.4127
 longitude: 6.78303
 images:

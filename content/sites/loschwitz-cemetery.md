@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Loschwitz Cemetery"
 latitude: 51.0461
 longitude: 13.8219
 images:

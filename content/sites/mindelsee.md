@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Mindelsee"
 latitude: 47.75444444
 longitude: 9.02222222
 images:

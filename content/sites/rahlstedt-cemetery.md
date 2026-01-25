@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Rahlstedt Cemetery"
 latitude: 53.5925
 longitude: 10.155
 images:

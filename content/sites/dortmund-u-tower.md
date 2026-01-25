@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Dortmund U-Tower"
 latitude: 51.515
 longitude: 7.45362
 images:

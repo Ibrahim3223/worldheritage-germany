@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Katzenstein Castle"
 latitude: 48.723611
 longitude: 10.391667
 

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Römische Villa Nennig"
 latitude: 49.528848
 longitude: 6.384713
 images:

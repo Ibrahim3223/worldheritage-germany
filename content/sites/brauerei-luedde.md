@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Brauerei Lüdde"
 latitude: 51.788428
 longitude: 11.138994
 images:

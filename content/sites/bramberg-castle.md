@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Bramberg Castle"
 latitude: 50.108460523
 longitude: 10.634810436
 images:

@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Auewald Laske"
 latitude: 51.3034
 longitude: 14.2304
 images:

@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Tempodrom"
 latitude: 52.5017
 longitude: 13.3811
 images:

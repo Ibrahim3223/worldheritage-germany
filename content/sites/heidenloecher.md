@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Heidenlöcher"
 latitude: 49.4157
 longitude: 8.16779
 images:

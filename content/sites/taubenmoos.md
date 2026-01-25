@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Taubenmoos"
 latitude: 47.774661111
 longitude: 8.030538888
 images:

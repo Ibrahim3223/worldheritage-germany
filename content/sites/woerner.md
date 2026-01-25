@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Wörner"
 latitude: 47.4497
 longitude: 11.3386
 images:

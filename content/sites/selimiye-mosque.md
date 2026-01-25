@@ -10,6 +10,7 @@ categories:
   - "Mosque"
 regions:
   - "Germany"
+site_name: "Selimiye Mosque"
 latitude: 48.818771
 longitude: 12.950861
 images:

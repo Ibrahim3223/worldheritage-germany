@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Königsbrücker Heide Wilderness"
 latitude: 51.3375
 longitude: 13.872222222
 images:

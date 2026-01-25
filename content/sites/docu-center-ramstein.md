@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Docu Center Ramstein"
 latitude: 49.448331
 longitude: 7.566496
 images:

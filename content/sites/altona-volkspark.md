@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Altona Volkspark"
 latitude: 53.58027778
 longitude: 9.90361111
 images:

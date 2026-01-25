@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Old Gate"
 latitude: 49.3175
 longitude: 8.43227
 images:

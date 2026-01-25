@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Maxim Gorki Theatre"
 latitude: 52.5189
 longitude: 13.3951
 images:

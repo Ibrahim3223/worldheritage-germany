@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Odenkirchen"
 latitude: 51.1167
 longitude: 6.45
 images:

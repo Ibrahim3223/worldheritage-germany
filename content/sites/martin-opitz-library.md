@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "Martin-Opitz-Library"
 latitude: 51.537
 longitude: 7.22307
 images:

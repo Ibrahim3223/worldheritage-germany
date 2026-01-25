@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Mildenberg Brick Work Park"
 latitude: 53.0311
 longitude: 13.3103
 images:

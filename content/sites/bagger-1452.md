@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Bagger 1452"
 latitude: 51.06758889
 longitude: 14.9579
 images:

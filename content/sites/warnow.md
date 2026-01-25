@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Warnow"
 latitude: 54.1802
 longitude: 12.093
 images:

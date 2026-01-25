@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Landeck Castle"
 latitude: 49.1411
 longitude: 8.0063
 

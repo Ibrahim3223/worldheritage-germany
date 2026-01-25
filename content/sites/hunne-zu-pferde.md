@@ -10,6 +10,7 @@ categories:
 - Statue
 regions:
 - Germany
+site_name: "Hunne zu Pferde"
 latitude: 52.520287
 longitude: 13.398957
 images:

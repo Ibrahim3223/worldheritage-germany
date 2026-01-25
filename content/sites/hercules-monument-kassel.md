@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Hercules monument, Kassel"
 latitude: 51.3164
 longitude: 9.39278
 images:

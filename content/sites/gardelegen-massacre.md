@@ -11,6 +11,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Gardelegen massacre"
 latitude: 52.5378
 longitude: 11.4219
 images:

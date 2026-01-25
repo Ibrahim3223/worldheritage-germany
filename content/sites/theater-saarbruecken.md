@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Theater Saarbrücken"
 latitude: 49.230833333
 longitude: 6.996111111
 images:

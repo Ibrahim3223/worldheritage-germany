@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Haus Heck"
 latitude: 51.391055555
 longitude: 7.001527777
 images:

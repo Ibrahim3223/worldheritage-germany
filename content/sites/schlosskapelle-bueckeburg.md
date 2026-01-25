@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Schlosskapelle Bückeburg"
 latitude: 52.25879
 longitude: 9.04352
 images:

@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagoge (Mayen)"
 latitude: 50.328364
 longitude: 7.224448
 images:

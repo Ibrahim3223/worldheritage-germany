@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Mendelssohn-Bartholdy-Park"
 latitude: 52.5029
 longitude: 13.3766
 images:

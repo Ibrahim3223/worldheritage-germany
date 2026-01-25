@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Lauenburg Castle"
 latitude: 51.7271
 longitude: 11.0811
 

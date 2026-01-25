@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Sonntagshorn"
 latitude: 47.682222222
 longitude: 12.695833333
 images:

@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Prinzesshof"
 latitude: 53.9237
 longitude: 9.516
 images:

@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Roter Sand"
 latitude: 53.855
 longitude: 8.081667
 images:

@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Tierpark Essehof"
 latitude: 52.3061
 longitude: 10.665
 images:

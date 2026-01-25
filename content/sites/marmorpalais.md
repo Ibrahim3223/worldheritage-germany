@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Marmorpalais"
 latitude: 52.412672222
 longitude: 13.06975
 images:

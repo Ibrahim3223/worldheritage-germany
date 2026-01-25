@@ -10,6 +10,7 @@ categories:
   - "Cinema"
 regions:
   - "Germany"
+site_name: "Ufa-Palast am Zoo"
 latitude: 52.5061
 longitude: 13.3342
 images:

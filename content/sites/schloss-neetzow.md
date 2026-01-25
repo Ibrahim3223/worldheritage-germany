@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Schloss Neetzow"
 latitude: 53.8803
 longitude: 13.4112
 images:

@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Burgsee"
 latitude: 54.5106
 longitude: 9.535
 images:

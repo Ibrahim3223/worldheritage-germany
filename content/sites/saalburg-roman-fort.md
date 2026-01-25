@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Saalburg Roman Fort"
 latitude: 50.2715
 longitude: 8.56666
 

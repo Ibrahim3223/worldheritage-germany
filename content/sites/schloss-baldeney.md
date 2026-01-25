@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Schloss Baldeney"
 latitude: 51.407972222
 longitude: 7.024333333
 images:

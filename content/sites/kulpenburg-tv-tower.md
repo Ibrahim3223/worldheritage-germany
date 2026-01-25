@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Kulpenburg TV tower"
 latitude: 51.411847
 longitude: 11.07615
 images:

@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Schauspielbühnen in Stuttgart"
 latitude: 48.7797
 longitude: 9.17833
 images:

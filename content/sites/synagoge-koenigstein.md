@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagoge Königstein"
 latitude: 50.180941
 longitude: 8.46648
 images:

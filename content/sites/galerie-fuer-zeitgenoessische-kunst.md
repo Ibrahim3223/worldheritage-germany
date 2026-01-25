@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Galerie für Zeitgenössische Kunst"
 latitude: 51.3339
 longitude: 12.3653
 images:

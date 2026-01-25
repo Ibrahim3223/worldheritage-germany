@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Sowjetisches Ehrenmal"
 latitude: 52.25371
 longitude: 10.56814
 images:

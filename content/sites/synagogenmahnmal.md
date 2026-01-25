@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Synagogenmahnmal"
 latitude: 49.4533
 longitude: 11.0807
 images:

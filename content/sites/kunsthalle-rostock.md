@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kunsthalle Rostock"
 latitude: 54.0986
 longitude: 12.0878
 

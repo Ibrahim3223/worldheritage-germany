@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Stadtmuseum Warleberger Hof"
 latitude: 54.3244
 longitude: 10.141
 images:

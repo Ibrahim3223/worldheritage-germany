@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Frankfurt (Oder) TV tower"
 latitude: 52.3199
 longitude: 14.5287
 images:

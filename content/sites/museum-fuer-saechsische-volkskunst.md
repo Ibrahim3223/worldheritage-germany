@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum für Sächsische Volkskunst"
 latitude: 51.0578
 longitude: 13.7439
 images:

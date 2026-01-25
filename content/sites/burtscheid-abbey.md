@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Burtscheid Abbey"
 latitude: 50.7631
 longitude: 6.09333
 images:

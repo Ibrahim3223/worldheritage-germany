@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Trutzeltz Castle"
 latitude: 50.2071
 longitude: 7.33633
 

@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Wisentgehege Springe"
 latitude: 52.1887
 longitude: 9.60442
 images:

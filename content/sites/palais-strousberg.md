@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Palais Strousberg"
 latitude: 52.5158
 longitude: 13.3808
 images:

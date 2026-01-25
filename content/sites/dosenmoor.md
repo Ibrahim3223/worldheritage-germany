@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Dosenmoor"
 latitude: 54.1317
 longitude: 10.0194
 images:

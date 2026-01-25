@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Mauerpark"
 latitude: 52.543611
 longitude: 13.403333
 images:

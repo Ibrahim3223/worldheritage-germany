@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Rheingrafenstein Castle"
 latitude: 49.807806
 longitude: 7.850306
 

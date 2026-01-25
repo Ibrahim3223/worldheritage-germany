@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Rahden"
 latitude: 52.4377
 longitude: 8.59637
 images:

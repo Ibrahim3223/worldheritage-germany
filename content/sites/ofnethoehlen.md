@@ -10,6 +10,7 @@ categories:
   - "Cave"
 regions:
   - "Germany"
+site_name: "Ofnethöhlen"
 latitude: 48.8185
 longitude: 10.4503
 images:

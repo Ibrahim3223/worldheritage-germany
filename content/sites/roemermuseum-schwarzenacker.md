@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Römermuseum Schwarzenacker"
 latitude: 49.2828
 longitude: 7.31663
 images:

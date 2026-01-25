@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Bärwalder See"
 latitude: 51.366666666
 longitude: 14.533333333
 images:

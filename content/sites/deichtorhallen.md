@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Deichtorhallen"
 latitude: 53.54638889
 longitude: 10.00638889
 images:

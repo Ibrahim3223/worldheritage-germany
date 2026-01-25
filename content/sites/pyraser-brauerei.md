@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Pyraser Brauerei"
 latitude: 49.14918124
 longitude: 11.21728337
 

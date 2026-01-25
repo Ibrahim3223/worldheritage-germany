@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Käbelicksee"
 latitude: 53.417308333
 longitude: 12.942580555
 images:

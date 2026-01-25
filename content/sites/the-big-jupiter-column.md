@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "The Big Jupiter column"
 latitude: 50.005361111
 longitude: 8.270527777
 images:

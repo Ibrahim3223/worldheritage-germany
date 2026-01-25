@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Altenburg Castle (Thüringen)"
 latitude: 50.9885
 longitude: 12.4395
 images:

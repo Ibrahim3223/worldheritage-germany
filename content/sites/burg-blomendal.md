@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Blomendal"
 latitude: 53.1847
 longitude: 8.58114
 images:

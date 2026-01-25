@@ -10,6 +10,7 @@ categories:
 - School Building
 regions:
 - Germany
+site_name: "Goethe Gymnasium"
 latitude: 52.4873
 longitude: 13.3216
 images:

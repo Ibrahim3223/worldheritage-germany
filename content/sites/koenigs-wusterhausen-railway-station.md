@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Königs Wusterhausen railway station"
 latitude: 52.2966
 longitude: 13.6311
 images:

@@ -10,6 +10,7 @@ categories:
   - "Windmill"
 regions:
   - "Germany"
+site_name: "Post mill Oppenwehe"
 latitude: 52.469555
 longitude: 8.532913
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum for Communication Berlin"
 latitude: 52.5097
 longitude: 13.3869
 images:

@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Goldener Turm"
 latitude: 49.019244227
 longitude: 12.095259704
 images:

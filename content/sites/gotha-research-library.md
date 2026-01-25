@@ -10,6 +10,7 @@ categories:
 - Library
 regions:
 - Germany
+site_name: "Gotha Research Library"
 latitude: 50.94605
 longitude: 10.70485
 images:

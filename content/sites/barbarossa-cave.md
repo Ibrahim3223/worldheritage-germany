@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Barbarossa Cave"
 latitude: 51.375555555
 longitude: 11.036388888
 images:

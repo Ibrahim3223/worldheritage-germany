@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Kleiner Tiergarten"
 latitude: 52.525555555
 longitude: 13.346111111
 images:

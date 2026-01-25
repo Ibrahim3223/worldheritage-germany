@@ -10,6 +10,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Gedenkstätte für Revolutionäre Rote Matrosen"
 latitude: 54.094114
 longitude: 12.112734
 images:

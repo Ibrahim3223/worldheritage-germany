@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Vogelkarspitze"
 latitude: 47.446388888
 longitude: 11.411388888
 images:

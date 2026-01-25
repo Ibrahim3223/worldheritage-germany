@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Stiftung Louisenlund"
 latitude: 54.493
 longitude: 9.68501111
 images:

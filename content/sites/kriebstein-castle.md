@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kriebstein Castle"
 latitude: 51.0424
 longitude: 13.0176
 

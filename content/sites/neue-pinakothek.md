@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Neue Pinakothek"
 latitude: 48.149887
 longitude: 11.571114
 

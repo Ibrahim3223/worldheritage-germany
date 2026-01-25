@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Friedhof am Perlacher Forst"
 latitude: 48.098623154
 longitude: 11.596560336
 images:

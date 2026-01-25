@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Pfünz Roman Fort"
 latitude: 48.88381
 longitude: 11.26394
 

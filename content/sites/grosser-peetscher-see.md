@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Großer Peetscher See"
 latitude: 53.806388888
 longitude: 11.970833333
 images:

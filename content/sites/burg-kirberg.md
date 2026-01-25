@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Kirberg"
 latitude: 50.3106
 longitude: 8.15583
 images:

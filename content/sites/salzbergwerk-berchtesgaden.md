@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Salzbergwerk Berchtesgaden"
 latitude: 47.638119733
 longitude: 13.017754043
 images:

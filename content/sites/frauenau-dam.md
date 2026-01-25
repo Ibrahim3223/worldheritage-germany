@@ -10,6 +10,7 @@ categories:
 - Dam
 regions:
 - Germany
+site_name: "Frauenau Dam"
 latitude: 49.0139
 longitude: 13.3333
 images:

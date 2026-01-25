@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Kunstmuseen Krefeld"
 latitude: 51.330278
 longitude: 6.559444
 images:

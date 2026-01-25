@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Maulbronn Monastery"
 latitude: 49.0011
 longitude: 8.8129
 images:

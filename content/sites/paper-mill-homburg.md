@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Paper Mill Homburg"
 latitude: 49.793823
 longitude: 9.626223
 images:

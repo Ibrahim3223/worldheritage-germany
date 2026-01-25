@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Lichtenberg Castle"
 latitude: 49.5557
 longitude: 7.35581
 

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Kunsthalle Osnabrück"
 latitude: 52.2789
 longitude: 8.03956
 images:

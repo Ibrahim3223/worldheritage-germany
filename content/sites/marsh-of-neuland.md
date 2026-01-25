@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Marsh of Neuland"
 latitude: 53.45
 longitude: 10.033333333
 images:

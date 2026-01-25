@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Bauhaus Dessau Foundation"
 latitude: 51.839504
 longitude: 12.2250714
 images:

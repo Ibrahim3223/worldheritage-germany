@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Zeche Carl"
 latitude: 51.4953
 longitude: 7.01194
 images:

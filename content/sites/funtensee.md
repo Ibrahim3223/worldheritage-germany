@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Funtensee"
 latitude: 47.493611111
 longitude: 12.939166666
 images:

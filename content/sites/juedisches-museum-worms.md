@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Jüdisches Museum Worms"
 latitude: 49.63336944
 longitude: 8.36628333
 images:

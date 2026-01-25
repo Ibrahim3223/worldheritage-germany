@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Gröningen Priory"
 latitude: 51.9372
 longitude: 11.1969
 images:

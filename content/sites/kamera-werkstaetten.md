@@ -10,6 +10,7 @@ categories:
   - "Factory"
 regions:
   - "Germany"
+site_name: "Kamera-Werkstätten"
 latitude: 51.0043
 longitude: 13.8196
 images:

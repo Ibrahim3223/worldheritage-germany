@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Feldberg"
 latitude: 47.8738905
 longitude: 8.0039064
 images:

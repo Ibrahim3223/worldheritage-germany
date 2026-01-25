@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Ebstorf Abbey"
 latitude: 53.0306
 longitude: 10.4122
 images:

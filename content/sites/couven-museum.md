@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Couven-Museum"
 latitude: 50.7757
 longitude: 6.08487
 images:

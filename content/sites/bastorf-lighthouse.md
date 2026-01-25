@@ -10,6 +10,7 @@ categories:
 - Lighthouse
 regions:
 - Germany
+site_name: "Bastorf Lighthouse"
 latitude: 54.1319
 longitude: 11.6936
 images:

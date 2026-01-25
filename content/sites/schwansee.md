@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Schwansee"
 latitude: 47.5575
 longitude: 10.719722222
 images:

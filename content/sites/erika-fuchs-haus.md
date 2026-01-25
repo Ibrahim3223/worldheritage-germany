@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Erika-Fuchs-Haus"
 latitude: 50.2224
 longitude: 11.93521
 images:

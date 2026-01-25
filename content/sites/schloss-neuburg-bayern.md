@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Neuburg (Bayern)"
 latitude: 48.737038888
 longitude: 11.180861111
 

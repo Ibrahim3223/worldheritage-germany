@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Wernau Quarry Ponds"
 latitude: 48.6894
 longitude: 9.39636
 images:

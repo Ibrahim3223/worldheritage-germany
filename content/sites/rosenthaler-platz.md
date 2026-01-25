@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Rosenthaler Platz"
 latitude: 52.5296
 longitude: 13.4012
 images:

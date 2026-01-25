@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Vater Unser Kapelle"
 latitude: 47.97177
 longitude: 7.99273
 images:

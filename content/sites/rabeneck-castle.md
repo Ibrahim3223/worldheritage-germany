@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Rabeneck Castle"
 latitude: 49.822416525
 longitude: 11.327086105
 images:

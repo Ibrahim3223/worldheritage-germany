@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Rittergut Kürbitz"
 latitude: 50.4617
 longitude: 12.0735
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Arras"
 latitude: 50.0526
 longitude: 7.10583
 images:

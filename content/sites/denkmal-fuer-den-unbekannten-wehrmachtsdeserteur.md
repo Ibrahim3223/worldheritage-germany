@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Denkmal für den unbekannten Wehrmachtsdeserteur"
 latitude: 50.9783
 longitude: 11.0206
 images:

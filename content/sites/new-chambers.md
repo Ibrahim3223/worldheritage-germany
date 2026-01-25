@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "New Chambers"
 latitude: 52.4036
 longitude: 13.0356
 images:

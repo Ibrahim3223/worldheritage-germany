@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Volkenroda Abbey"
 latitude: 51.25
 longitude: 10.566666666
 images:

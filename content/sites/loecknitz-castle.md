@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Löcknitz Castle"
 latitude: 53.4532
 longitude: 14.2044
 

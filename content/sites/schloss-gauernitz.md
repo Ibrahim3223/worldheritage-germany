@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Schloss Gauernitz"
 latitude: 51.1155
 longitude: 13.55709
 images:

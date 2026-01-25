@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Steinbeck"
 latitude: 53.55166667
 longitude: 9.43194444
 images:

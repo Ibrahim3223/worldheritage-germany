@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Mickeln House"
 latitude: 51.1661
 longitude: 6.80708
 images:

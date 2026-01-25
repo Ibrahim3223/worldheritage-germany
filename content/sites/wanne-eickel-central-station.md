@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Wanne-Eickel Central Station"
 latitude: 51.531389
 longitude: 7.165833
 images:

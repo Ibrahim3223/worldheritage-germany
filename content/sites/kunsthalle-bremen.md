@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kunsthalle Bremen"
 latitude: 53.072778
 longitude: 8.813611
 

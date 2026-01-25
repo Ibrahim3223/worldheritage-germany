@@ -10,6 +10,7 @@ categories:
 - Island
 regions:
 - Germany
+site_name: "Düne"
 latitude: 54.185104
 longitude: 7.912045
 images:

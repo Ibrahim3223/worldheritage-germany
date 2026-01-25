@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Hohentwiel"
 latitude: 47.764722222
 longitude: 8.818888888
 images:

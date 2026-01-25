@@ -11,6 +11,7 @@ categories:
 - Windmill
 regions:
 - Germany
+site_name: "Hüvener Mühle"
 latitude: 52.7718
 longitude: 7.56428
 images:

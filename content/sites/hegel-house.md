@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Hegel House"
 latitude: 48.7731
 longitude: 9.17694
 images:

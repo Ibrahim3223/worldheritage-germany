@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Dehnberger Hoftheater"
 latitude: 49.537482108
 longitude: 11.285726509
 images:

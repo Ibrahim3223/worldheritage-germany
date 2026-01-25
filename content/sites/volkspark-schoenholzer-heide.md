@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Volkspark Schönholzer Heide"
 latitude: 52.576388888
 longitude: 13.383333333
 images:

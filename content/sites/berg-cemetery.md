@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Berg cemetery"
 latitude: 48.505
 longitude: 9.0707
 images:

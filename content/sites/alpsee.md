@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Alpsee"
 latitude: 47.551111111
 longitude: 10.723611111
 images:

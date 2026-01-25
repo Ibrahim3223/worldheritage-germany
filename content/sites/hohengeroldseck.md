@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Hohengeroldseck"
 latitude: 48.3325
 longitude: 7.98028
 images:

@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Hamburg State Opera"
 latitude: 53.556666666
 longitude: 9.988888888
 images:

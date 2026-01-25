@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Luther monument Worms"
 latitude: 49.6323
 longitude: 8.3601
 images:

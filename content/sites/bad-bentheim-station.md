@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Bad Bentheim station"
 latitude: 52.30972222
 longitude: 7.15722222
 images:

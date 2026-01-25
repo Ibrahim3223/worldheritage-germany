@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Residenzschloss Oettingen in Bayern"
 latitude: 48.9546
 longitude: 10.6046
 images:

@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Lauenstein Castle"
 latitude: 52.0764
 longitude: 9.54881
 images:

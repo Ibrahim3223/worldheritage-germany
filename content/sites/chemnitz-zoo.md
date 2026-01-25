@@ -10,6 +10,7 @@ categories:
 - Zoo
 regions:
 - Germany
+site_name: "Chemnitz Zoo"
 latitude: 50.8183
 longitude: 12.835
 images:

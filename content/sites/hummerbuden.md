@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Hummerbuden"
 latitude: 54.177711
 longitude: 7.88835
 images:

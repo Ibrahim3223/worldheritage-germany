@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum für Angewandte Kunst"
 latitude: 50.9397634
 longitude: 6.9548423
 

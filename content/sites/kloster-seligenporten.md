@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Kloster Seligenporten"
 latitude: 49.265323178
 longitude: 11.308313288
 images:

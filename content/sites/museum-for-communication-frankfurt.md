@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum for Communication Frankfurt"
 latitude: 50.104377
 longitude: 8.675871
 

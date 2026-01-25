@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Sculpture of Gottfried Semper"
 latitude: 51.05270556
 longitude: 13.74396944
 images:

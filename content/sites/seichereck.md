@@ -10,6 +10,7 @@ categories:
   - "Gorge"
 regions:
   - "Germany"
+site_name: "Seichereck"
 latitude: 47.3518385
 longitude: 10.3611496
 images:

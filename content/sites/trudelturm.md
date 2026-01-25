@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Trudelturm"
 latitude: 52.431725
 longitude: 13.529469444
 images:

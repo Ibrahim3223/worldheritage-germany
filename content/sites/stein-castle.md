@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Stein Castle"
 latitude: 50.6517
 longitude: 12.6617
 

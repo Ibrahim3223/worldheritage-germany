@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Kasteel Ruhrort"
 latitude: 51.4504
 longitude: 6.7331
 images:

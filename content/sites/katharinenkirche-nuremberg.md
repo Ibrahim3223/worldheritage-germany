@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Katharinenkirche, Nuremberg"
 latitude: 49.451990592
 longitude: 11.082130337
 images:

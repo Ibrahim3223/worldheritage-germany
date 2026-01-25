@@ -10,6 +10,7 @@ categories:
   - "Windmill"
 regions:
   - "Germany"
+site_name: "Wehbers Mühle"
 latitude: 53.61536
 longitude: 9.30167
 images:

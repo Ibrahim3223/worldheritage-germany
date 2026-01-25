@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Keltenmuseum Manching"
 latitude: 48.713
 longitude: 11.4933
 images:

@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Ludwigshafen Central Station"
 latitude: 49.4778
 longitude: 8.43417
 images:

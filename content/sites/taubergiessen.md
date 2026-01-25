@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Taubergießen"
 latitude: 48.2553
 longitude: 7.69083
 images:

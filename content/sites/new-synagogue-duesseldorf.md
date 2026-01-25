@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "New Synagogue, Düsseldorf"
 latitude: 51.24305556
 longitude: 6.77861111
 images:

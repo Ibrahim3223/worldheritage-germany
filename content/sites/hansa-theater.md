@@ -10,6 +10,7 @@ categories:
 - Cinema
 regions:
 - Germany
+site_name: "Hansa-Theater"
 latitude: 53.553411
 longitude: 10.011746
 images:

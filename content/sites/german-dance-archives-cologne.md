@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "German Dance Archives Cologne"
 latitude: 50.94869
 longitude: 6.94339
 images:

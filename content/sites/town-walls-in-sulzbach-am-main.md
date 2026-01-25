@@ -10,6 +10,7 @@ categories:
   - "Fortress"
 regions:
   - "Germany"
+site_name: "Town walls in Sulzbach am Main"
 latitude: 49.909444444
 longitude: 9.153166666
 images:

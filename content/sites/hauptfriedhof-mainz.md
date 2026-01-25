@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Hauptfriedhof Mainz"
 latitude: 49.995
 longitude: 8.25
 images:

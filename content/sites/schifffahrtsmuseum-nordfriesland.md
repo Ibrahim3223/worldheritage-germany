@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schifffahrtsmuseum Nordfriesland"
 latitude: 54.4754
 longitude: 9.05106
 images:

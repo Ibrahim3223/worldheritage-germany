@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Schwarzwald"
 latitude: 50.7686
 longitude: 10.7315
 images:

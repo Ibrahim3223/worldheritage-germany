@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Anselburg"
 latitude: 49.5156
 longitude: 7.90386
 images:

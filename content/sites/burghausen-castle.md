@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burghausen Castle"
 latitude: 48.156111111
 longitude: 12.828888888
 images:

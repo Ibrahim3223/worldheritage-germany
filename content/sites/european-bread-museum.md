@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "European Bread Museum"
 latitude: 51.5689
 longitude: 10.0997
 images:

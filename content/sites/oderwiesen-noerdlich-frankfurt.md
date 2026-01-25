@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Oderwiesen nördlich Frankfurt"
 latitude: 52.378888888
 longitude: 14.540833333
 images:

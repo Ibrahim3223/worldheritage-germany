@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Krampfer Palace"
 latitude: 53.060386
 longitude: 12.016703
 images:

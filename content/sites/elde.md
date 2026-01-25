@@ -10,6 +10,7 @@ categories:
 - River
 regions:
 - Germany
+site_name: "Elde"
 latitude: 53.35896
 longitude: 12.37477
 images:

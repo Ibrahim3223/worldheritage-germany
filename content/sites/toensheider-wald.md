@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Tönsheider Wald"
 latitude: 54.0567
 longitude: 9.77333
 images:

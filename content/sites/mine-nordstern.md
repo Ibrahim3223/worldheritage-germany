@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "mine Nordstern"
 latitude: 51.5278
 longitude: 7.03111
 images:

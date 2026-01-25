@@ -11,6 +11,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Bischofsturm"
 latitude: 53.55
 longitude: 9.9975
 images:

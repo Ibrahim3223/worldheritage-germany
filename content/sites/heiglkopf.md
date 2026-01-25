@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Heiglkopf"
 latitude: 47.733611111
 longitude: 11.506666666
 images:

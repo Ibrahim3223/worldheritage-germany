@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Alte Nationalgalerie"
 latitude: 52.52081
 longitude: 13.398353
 images:

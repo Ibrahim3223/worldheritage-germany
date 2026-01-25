@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Are Castle"
 latitude: 50.517589
 longitude: 6.995256
 images:

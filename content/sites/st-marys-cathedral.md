@@ -10,6 +10,7 @@ categories:
   - "Pilgrimage Church"
 regions:
   - "Germany"
+site_name: "St. Mary's Cathedral"
 latitude: 53.549255
 longitude: 9.997706
 images:

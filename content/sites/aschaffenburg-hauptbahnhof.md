@@ -11,6 +11,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Aschaffenburg Hauptbahnhof"
 latitude: 49.980527777
 longitude: 9.143861111
 images:

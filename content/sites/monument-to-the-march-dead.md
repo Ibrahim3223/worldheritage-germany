@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Monument to the March Dead"
 latitude: 50.973089
 longitude: 11.325432
 images:

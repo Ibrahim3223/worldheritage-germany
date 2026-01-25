@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schönecken Castle"
 latitude: 50.1602
 longitude: 6.46207
 

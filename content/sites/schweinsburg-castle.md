@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schweinsburg Castle"
 latitude: 50.7875
 longitude: 12.3782
 

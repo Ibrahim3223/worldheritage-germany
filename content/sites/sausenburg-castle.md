@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Sausenburg Castle"
 latitude: 47.73795833
 longitude: 7.68880556
 

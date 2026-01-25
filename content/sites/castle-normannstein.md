@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Castle Normannstein"
 latitude: 51.1406
 longitude: 10.2375
 images:

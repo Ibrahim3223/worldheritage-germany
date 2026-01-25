@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Parkhöhle Weimar"
 latitude: 50.975
 longitude: 11.3311
 images:

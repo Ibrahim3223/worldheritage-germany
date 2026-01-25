@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Leuchtturm Schausende"
 latitude: 54.8617
 longitude: 9.57341
 images:

@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Bartholomäusturm"
 latitude: 50.975
 longitude: 11.0326
 images:

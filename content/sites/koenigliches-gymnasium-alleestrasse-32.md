@@ -10,6 +10,7 @@ categories:
   - "School Building"
 regions:
   - "Germany"
+site_name: "Königliches Gymnasium, Alleestraße 32"
 latitude: 51.226
 longitude: 6.77794
 images:

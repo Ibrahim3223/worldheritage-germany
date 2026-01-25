@@ -10,6 +10,7 @@ categories:
 - Market Square
 regions:
 - Germany
+site_name: "Domsheide"
 latitude: 53.0746
 longitude: 8.80917
 images:

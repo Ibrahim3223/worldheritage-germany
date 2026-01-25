@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Reichsburg Cochem"
 latitude: 50.1422
 longitude: 7.16694
 images:

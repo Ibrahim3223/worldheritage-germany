@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Heidecksburg"
 latitude: 50.723
 longitude: 11.339
 images:

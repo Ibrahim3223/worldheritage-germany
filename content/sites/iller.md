@@ -10,6 +10,7 @@ categories:
 - River
 regions:
 - Germany
+site_name: "Iller"
 latitude: 48.3814
 longitude: 9.973
 images:

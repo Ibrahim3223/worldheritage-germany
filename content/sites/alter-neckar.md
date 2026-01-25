@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Alter Neckar"
 latitude: 48.7229
 longitude: 9.36647
 images:

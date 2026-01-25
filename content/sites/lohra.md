@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Lohra"
 latitude: 50.7436
 longitude: 8.62361
 

@@ -10,6 +10,7 @@ categories:
 - Chapel
 regions:
 - Germany
+site_name: "Friesenkapelle Wenningstedt"
 latitude: 54.93975
 longitude: 8.328722
 images:

@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Flensburger Brauerei"
 latitude: 54.779055555
 longitude: 9.435722222
 images:

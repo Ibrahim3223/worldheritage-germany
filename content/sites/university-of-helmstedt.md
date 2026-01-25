@@ -10,6 +10,7 @@ categories:
   - "University"
 regions:
   - "Germany"
+site_name: "University of Helmstedt"
 latitude: 52.2293
 longitude: 11.0087
 images:

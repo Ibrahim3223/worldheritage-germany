@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue of Heppenheim"
 latitude: 49.643943
 longitude: 8.643668
 images:

@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Tierpark Gera"
 latitude: 50.8664
 longitude: 12.0644
 images:

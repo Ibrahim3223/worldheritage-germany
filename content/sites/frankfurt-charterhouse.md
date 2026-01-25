@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Frankfurt Charterhouse"
 latitude: 52.333333
 longitude: 14.553139
 images:

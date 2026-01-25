@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "St. Anne's Museum"
 latitude: 53.862777777
 longitude: 10.689166666
 

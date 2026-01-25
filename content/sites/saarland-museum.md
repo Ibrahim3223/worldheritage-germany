@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Saarland Museum"
 latitude: 49.2308
 longitude: 6.99992
 images:

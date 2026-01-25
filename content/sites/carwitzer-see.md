@@ -11,6 +11,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Carwitzer See"
 latitude: 53.304444444
 longitude: 13.464722222
 images:

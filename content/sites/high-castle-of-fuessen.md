@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "High Castle of Füssen"
 latitude: 47.567103821
 longitude: 10.698051145
 images:

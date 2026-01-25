@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Niedermünster"
 latitude: 49.019812031
 longitude: 12.10132453
 images:

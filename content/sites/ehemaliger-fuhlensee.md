@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Ehemaliger Fuhlensee"
 latitude: 54.1192
 longitude: 9.13417
 images:

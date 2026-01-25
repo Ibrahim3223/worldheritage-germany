@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Technoseum"
 latitude: 49.4764
 longitude: 8.49755
 images:

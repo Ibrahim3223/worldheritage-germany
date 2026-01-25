@@ -10,6 +10,7 @@ categories:
 - Library
 regions:
 - Germany
+site_name: "Amerika-Gedenkbibliothek"
 latitude: 52.4965968
 longitude: 13.3925104
 images:

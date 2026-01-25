@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Schloss Belvedere"
 latitude: 50.9486
 longitude: 11.3486
 images:

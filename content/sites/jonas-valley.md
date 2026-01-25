@@ -10,6 +10,7 @@ categories:
 - Valley
 regions:
 - Germany
+site_name: "Jonas Valley"
 latitude: 50.823611111
 longitude: 10.925277777
 images:

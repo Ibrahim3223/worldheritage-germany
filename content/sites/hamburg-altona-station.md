@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Hamburg-Altona station"
 latitude: 53.55194444
 longitude: 9.935
 images:

@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Hechtmoor"
 latitude: 54.66305556
 longitude: 9.58944444
 images:

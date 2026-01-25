@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Calvörde Castle"
 latitude: 52.3961
 longitude: 11.3067
 images:

@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Johannisfriedhof, Dresden"
 latitude: 51.0366
 longitude: 13.8133
 images:

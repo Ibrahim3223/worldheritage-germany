@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Hitzacker Archaeological Centre"
 latitude: 53.1469
 longitude: 11.0472
 images:

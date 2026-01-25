@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Königsstuhl"
 latitude: 50.2823
 longitude: 7.61372
 images:

@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Befreiungshalle"
 latitude: 48.918333333
 longitude: 11.860555555
 images:

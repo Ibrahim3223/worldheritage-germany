@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Ahrensbök Charterhouse"
 latitude: 54.0122
 longitude: 10.5717
 images:

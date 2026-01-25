@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Wartburg"
 latitude: 50.966111111
 longitude: 10.306388888
 

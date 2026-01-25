@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Kloster Sankt Zeno Reichenhall"
 latitude: 47.7315
 longitude: 12.8885
 images:

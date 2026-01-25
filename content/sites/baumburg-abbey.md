@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Baumburg Abbey"
 latitude: 47.9981
 longitude: 12.5308
 images:

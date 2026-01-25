@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Westpark"
 latitude: 48.1225
 longitude: 11.5225
 images:

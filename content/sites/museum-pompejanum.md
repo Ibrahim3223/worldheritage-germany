@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "museum Pompejanum"
 latitude: 49.9775
 longitude: 9.13639
 images:

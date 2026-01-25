@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Keramik-Museum Berlin"
 latitude: 52.5172
 longitude: 13.304
 

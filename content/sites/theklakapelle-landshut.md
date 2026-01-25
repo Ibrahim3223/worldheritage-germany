@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Theklakapelle (Landshut)"
 latitude: 48.5312
 longitude: 12.1502
 images:

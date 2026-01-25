@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Munich massacre memorial in Munich"
 latitude: 48.1767
 longitude: 11.5478
 images:

@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Schänzlekopf"
 latitude: 47.417777777
 longitude: 10.4525
 images:

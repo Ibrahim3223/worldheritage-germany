@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Lessing Theater"
 latitude: 52.5225
 longitude: 13.3764
 images:

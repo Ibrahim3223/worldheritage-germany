@@ -10,6 +10,7 @@ categories:
   - "Statue"
 regions:
   - "Germany"
+site_name: "Martin-Behaim-Denkmal (Nuremberg)"
 latitude: 49.4557
 longitude: 11.0804
 images:

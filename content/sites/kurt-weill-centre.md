@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Kurt Weill Centre"
 latitude: 51.843
 longitude: 12.2217
 images:

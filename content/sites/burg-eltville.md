@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Eltville"
 latitude: 50.02486111
 longitude: 8.12277778
 images:

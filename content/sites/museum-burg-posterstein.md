@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum Burg Posterstein"
 latitude: 50.8631
 longitude: 12.2528
 images:

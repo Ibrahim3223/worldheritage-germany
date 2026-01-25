@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Krefelder Zoo"
 latitude: 51.3411
 longitude: 6.60083
 images:

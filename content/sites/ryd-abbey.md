@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Ryd Abbey"
 latitude: 54.83151
 longitude: 9.54412
 images:

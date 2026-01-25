@@ -10,6 +10,7 @@ categories:
   - "Fortress"
 regions:
   - "Germany"
+site_name: "Neuendorf Flèche"
 latitude: 50.3746
 longitude: 7.59744
 images:

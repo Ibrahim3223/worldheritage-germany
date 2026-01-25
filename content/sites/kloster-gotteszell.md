@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Kloster Gotteszell"
 latitude: 48.9638
 longitude: 12.9655
 images:

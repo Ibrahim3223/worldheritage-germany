@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Markus Wasmeier Bauernhof- und Wintersportmuseum"
 latitude: 47.7075
 longitude: 11.8783
 images:

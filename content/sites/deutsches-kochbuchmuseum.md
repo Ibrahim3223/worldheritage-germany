@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Deutsches Kochbuchmuseum"
 latitude: 51.49222
 longitude: 7.48028
 images:

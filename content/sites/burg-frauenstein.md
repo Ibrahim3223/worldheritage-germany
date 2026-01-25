@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Frauenstein"
 latitude: 50.0651
 longitude: 8.15458
 images:

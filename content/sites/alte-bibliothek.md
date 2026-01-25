@@ -10,6 +10,7 @@ categories:
 - Library
 regions:
 - Germany
+site_name: "Alte Bibliothek"
 latitude: 52.5164
 longitude: 13.3933
 images:

@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Herford Abbey"
 latitude: 52.1131
 longitude: 8.67028
 images:

@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Laacher See Nature Reserve"
 latitude: 50.4125
 longitude: 7.26972
 images:

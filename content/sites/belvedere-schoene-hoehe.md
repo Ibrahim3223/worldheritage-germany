@@ -10,6 +10,7 @@ categories:
 - Palace
 regions:
 - Germany
+site_name: "Belvedere Schöne Höhe"
 latitude: 51.028719
 longitude: 13.982676
 images:

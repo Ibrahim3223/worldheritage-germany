@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Hexenagger"
 latitude: 48.921283442
 longitude: 11.682224562
 

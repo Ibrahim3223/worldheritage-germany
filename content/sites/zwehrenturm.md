@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Zwehrenturm"
 latitude: 51.3137
 longitude: 9.49839
 images:

@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Palace of the Reich President"
 latitude: 52.514
 longitude: 13.3815
 images:

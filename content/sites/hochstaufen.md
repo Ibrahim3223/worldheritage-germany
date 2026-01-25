@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Hochstaufen"
 latitude: 47.75
 longitude: 12.85
 images:

@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Witches' tower"
 latitude: 50.552751
 longitude: 9.672901
 images:

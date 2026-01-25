@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Königs Wusterhausen Central Tower"
 latitude: 52.3041
 longitude: 13.6111
 images:

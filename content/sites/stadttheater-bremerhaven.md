@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Stadttheater Bremerhaven"
 latitude: 53.5407
 longitude: 8.58131
 images:

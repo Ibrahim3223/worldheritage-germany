@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Rieneck"
 latitude: 50.094444444
 longitude: 9.646111111
 images:

@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Schlitz Christmas Candle"
 latitude: 50.673
 longitude: 9.56061
 images:

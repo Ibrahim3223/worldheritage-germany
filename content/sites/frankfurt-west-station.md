@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Frankfurt West station"
 latitude: 50.1192
 longitude: 8.63944
 images:

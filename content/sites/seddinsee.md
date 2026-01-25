@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Seddinsee"
 latitude: 52.3876
 longitude: 13.6793
 images:

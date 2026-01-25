@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Tierpark Neumünster"
 latitude: 54.0917
 longitude: 9.945
 images:

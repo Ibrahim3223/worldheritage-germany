@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Grüneburgpark"
 latitude: 50.1266
 longitude: 8.6604
 images:

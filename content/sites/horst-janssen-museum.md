@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Horst Janssen Museum"
 latitude: 53.1444
 longitude: 8.21472
 images:

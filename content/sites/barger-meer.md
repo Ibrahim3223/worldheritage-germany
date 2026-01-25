@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Barger Meer"
 latitude: 53.1897
 longitude: 7.6675
 images:

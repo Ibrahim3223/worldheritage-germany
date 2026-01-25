@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Zeche Sterkrade"
 latitude: 51.5197
 longitude: 6.83667
 images:

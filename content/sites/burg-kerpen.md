@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Kerpen"
 latitude: 50.871093
 longitude: 6.705104
 images:

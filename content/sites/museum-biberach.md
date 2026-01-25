@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum Biberach"
 latitude: 48.0979
 longitude: 9.79015
 images:

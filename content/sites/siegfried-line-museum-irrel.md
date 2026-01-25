@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Siegfried Line Museum, Irrel"
 latitude: 49.8516
 longitude: 6.45355
 images:

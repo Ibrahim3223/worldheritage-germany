@@ -10,6 +10,7 @@ categories:
   - "Gorge"
 regions:
   - "Germany"
+site_name: "Kesselberg (Bavaria)"
 latitude: 47.6308
 longitude: 11.3542
 images:

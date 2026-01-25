@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burgruine"
 latitude: 50.1087
 longitude: 10.732
 images:

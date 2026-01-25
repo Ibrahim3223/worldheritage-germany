@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Wolkenstein Castle"
 latitude: 49.7553
 longitude: 11.24
 

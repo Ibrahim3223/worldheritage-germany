@@ -10,6 +10,7 @@ categories:
 - Zoo
 regions:
 - Germany
+site_name: "Aachener Tierpark Euregiozoo"
 latitude: 50.76311
 longitude: 6.1153
 images:

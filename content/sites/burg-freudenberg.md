@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Freudenberg"
 latitude: 49.7389
 longitude: 9.3235
 images:

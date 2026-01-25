@@ -10,6 +10,7 @@ categories:
 - Zoo
 regions:
 - Germany
+site_name: "Augsburg Zoo"
 latitude: 48.3478
 longitude: 10.9144
 images:

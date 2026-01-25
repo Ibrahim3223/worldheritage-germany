@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Oybin"
 latitude: 50.844444444
 longitude: 14.74
 images:

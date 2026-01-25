@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Theater Baden-Baden"
 latitude: 48.7597
 longitude: 8.23788
 images:

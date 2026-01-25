@@ -10,6 +10,7 @@ categories:
   - "University"
 regions:
   - "Germany"
+site_name: "Ulm School of Design"
 latitude: 48.3806
 longitude: 9.95278
 images:

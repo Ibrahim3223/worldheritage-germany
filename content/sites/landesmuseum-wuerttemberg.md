@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Landesmuseum Württemberg"
 latitude: 48.777
 longitude: 9.17947
 images:

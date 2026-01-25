@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum für Vor- und Frühgeschichte"
 latitude: 49.2308
 longitude: 6.9914
 images:

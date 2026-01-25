@@ -11,6 +11,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Augusteum"
 latitude: 53.1362
 longitude: 8.21659
 images:

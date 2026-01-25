@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Schafreuter"
 latitude: 47.509166666
 longitude: 11.4875
 images:

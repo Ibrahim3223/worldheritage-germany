@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Rosengarten, Dresden"
 latitude: 51.0598
 longitude: 13.7561
 images:

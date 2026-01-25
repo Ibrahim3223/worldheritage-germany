@@ -11,6 +11,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burganlage"
 latitude: 50.320555555
 longitude: 10.23
 images:

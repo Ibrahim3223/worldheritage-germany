@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Orte des Erinnerns (Berlin-Schöneberg)"
 latitude: 52.4906
 longitude: 13.3417
 images:

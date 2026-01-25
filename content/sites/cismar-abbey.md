@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Cismar Abbey"
 latitude: 54.19
 longitude: 10.985833333
 images:

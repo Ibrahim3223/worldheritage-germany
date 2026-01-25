@@ -11,6 +11,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Below Forest Death March Memorial"
 latitude: 53.25558853
 longitude: 12.46757507
 images:

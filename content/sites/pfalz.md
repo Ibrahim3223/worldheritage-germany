@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Pfalz"
 latitude: 49.720306
 longitude: 11.055565
 images:

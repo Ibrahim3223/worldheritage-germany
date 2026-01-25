@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Wiedesee"
 latitude: 52.8033
 longitude: 9.16639
 images:

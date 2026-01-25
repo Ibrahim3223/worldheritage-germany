@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Barger Heide"
 latitude: 53.5719
 longitude: 9.45333
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Memorial of Friedrich Wilhelm von Bülow"
 latitude: 52.517165
 longitude: 13.395501
 images:

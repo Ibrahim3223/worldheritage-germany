@@ -10,6 +10,7 @@ categories:
   - "Statue"
 regions:
   - "Germany"
+site_name: "Kicker Statue"
 latitude: 49.44909
 longitude: 11.087033
 images:

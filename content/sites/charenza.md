@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Charenza"
 latitude: 54.5017
 longitude: 13.31665
 images:

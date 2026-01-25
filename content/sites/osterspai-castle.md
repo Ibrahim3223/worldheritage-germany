@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Osterspai Castle"
 latitude: 50.2463
 longitude: 7.61592
 images:

@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Alter St.-Nikolai-Friedhof"
 latitude: 52.3786
 longitude: 9.73222
 images:

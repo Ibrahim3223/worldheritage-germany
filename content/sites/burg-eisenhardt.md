@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Eisenhardt"
 latitude: 52.137777777
 longitude: 12.584722222
 images:

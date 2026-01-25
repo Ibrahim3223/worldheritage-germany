@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Dudeldorf Castle"
 latitude: 49.975
 longitude: 6.63653
 images:

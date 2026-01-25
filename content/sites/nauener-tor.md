@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Nauener Tor"
 latitude: 52.4035
 longitude: 13.0578
 images:

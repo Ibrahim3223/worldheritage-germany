@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Friedhof IV der Gemeinde Jerusalems- und Neue Kirche"
 latitude: 52.486388888
 longitude: 13.403888888
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Grodziec Gord"
 latitude: 54.3142
 longitude: 13.3472
 images:

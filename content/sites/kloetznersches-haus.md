@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Klötznersches Haus"
 latitude: 50.968375
 longitude: 11.906189
 images:

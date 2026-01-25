@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Düsseldorfer Marionetten-Theater"
 latitude: 51.2224
 longitude: 6.77263
 images:

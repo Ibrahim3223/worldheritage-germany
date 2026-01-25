@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Urbach Tower"
 latitude: 48.80278
 longitude: 9.56521
 images:

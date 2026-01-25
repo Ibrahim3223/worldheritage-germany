@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Klingspor Museum"
 latitude: 50.1078
 longitude: 8.76111
 images:

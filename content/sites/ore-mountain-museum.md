@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Ore Mountain Museum"
 latitude: 50.5784
 longitude: 13.0043
 images:

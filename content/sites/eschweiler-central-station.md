@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Eschweiler Central Station"
 latitude: 50.8133
 longitude: 6.25222
 images:

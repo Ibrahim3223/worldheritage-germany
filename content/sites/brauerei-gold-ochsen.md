@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Brauerei Gold Ochsen"
 latitude: 48.406944444
 longitude: 9.990833333
 images:

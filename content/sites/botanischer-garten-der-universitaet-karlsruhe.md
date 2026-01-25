@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten der Universität Karlsruhe"
 latitude: 49.0129
 longitude: 8.4191
 images:

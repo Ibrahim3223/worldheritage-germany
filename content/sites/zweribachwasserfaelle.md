@@ -10,6 +10,7 @@ categories:
   - "Waterfall"
 regions:
   - "Germany"
+site_name: "Zweribachwasserfälle"
 latitude: 48.0431
 longitude: 8.09294
 images:

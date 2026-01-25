@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Hohenwart Abbey"
 latitude: 48.597405555
 longitude: 11.375802777
 images:

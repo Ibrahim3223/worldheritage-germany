@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Opernhaus am Zwinger"
 latitude: 51.052
 longitude: 13.734
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Fürsteneck (Butschbach)"
 latitude: 48.5264
 longitude: 8.0602
 images:

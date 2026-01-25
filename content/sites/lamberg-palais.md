@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Lamberg-Palais"
 latitude: 48.5745
 longitude: 13.463
 images:

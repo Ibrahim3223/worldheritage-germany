@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Klimahaus Bremerhaven"
 latitude: 53.5434
 longitude: 8.5744
 images:

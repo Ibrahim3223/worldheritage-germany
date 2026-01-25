@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Beck's"
 latitude: 53.076666666
 longitude: 8.7925
 images:

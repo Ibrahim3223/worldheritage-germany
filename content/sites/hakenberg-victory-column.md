@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Hakenberg Victory Column"
 latitude: 52.771
 longitude: 12.829
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Marienstern Abbey"
 latitude: 51.436
 longitude: 13.2193
 images:

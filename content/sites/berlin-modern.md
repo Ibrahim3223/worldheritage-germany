@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "berlin modern"
 latitude: 52.50808
 longitude: 13.3685
 images:

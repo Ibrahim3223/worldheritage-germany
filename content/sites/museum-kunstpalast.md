@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum Kunstpalast"
 latitude: 51.2343
 longitude: 6.77333
 

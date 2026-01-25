@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Bodenstein"
 latitude: 51.453611111
 longitude: 10.3425
 images:

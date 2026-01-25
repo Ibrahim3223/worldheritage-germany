@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Altes Steinhaus (Mechterstädt)"
 latitude: 50.94234
 longitude: 10.52183
 images:

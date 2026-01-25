@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Stollburg"
 latitude: 49.8752
 longitude: 10.4285
 images:

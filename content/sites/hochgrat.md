@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Hochgrat"
 latitude: 47.4953531
 longitude: 10.078628
 images:

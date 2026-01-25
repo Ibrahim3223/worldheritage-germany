@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Herrenhaus Tellow"
 latitude: 53.84675
 longitude: 12.51358
 images:

@@ -11,6 +11,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Hedemunden"
 latitude: 51.3956
 longitude: 9.74
 images:

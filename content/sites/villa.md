@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Villa"
 latitude: 50.3033
 longitude: 9.74401
 images:

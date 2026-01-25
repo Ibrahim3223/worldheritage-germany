@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Liebig Museum"
 latitude: 50.580839
 longitude: 8.666196
 images:

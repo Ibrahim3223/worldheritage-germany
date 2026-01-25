@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Metternich Castle"
 latitude: 50.1089
 longitude: 7.2392
 

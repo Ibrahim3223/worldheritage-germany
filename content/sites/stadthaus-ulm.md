@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Stadthaus Ulm"
 latitude: 48.3981
 longitude: 9.99084
 images:

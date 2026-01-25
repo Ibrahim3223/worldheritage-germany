@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Bogenhausener Friedhof"
 latitude: 48.147847222
 longitude: 11.601513888
 images:

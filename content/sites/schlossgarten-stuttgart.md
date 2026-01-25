@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Schlossgarten Stuttgart"
 latitude: 48.7844
 longitude: 9.18639
 images:

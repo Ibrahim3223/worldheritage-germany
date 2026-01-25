@@ -10,6 +10,7 @@ categories:
   - "School Building"
 regions:
   - "Germany"
+site_name: "Kunstgewerbeschule Erfurt"
 latitude: 50.9814
 longitude: 11.0275
 images:

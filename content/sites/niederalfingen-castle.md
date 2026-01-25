@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Niederalfingen Castle"
 latitude: 48.8967
 longitude: 10.0767
 images:

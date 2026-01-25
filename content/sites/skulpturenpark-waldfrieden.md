@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Skulpturenpark Waldfrieden"
 latitude: 51.2528
 longitude: 7.16861
 images:

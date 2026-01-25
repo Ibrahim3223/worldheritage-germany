@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Sirgenstein Cave"
 latitude: 48.386944444
 longitude: 9.761111111
 

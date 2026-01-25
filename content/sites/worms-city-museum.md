@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Worms City Museum"
 latitude: 49.6281
 longitude: 8.3572
 images:

@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Aasee"
 latitude: 51.8297
 longitude: 6.63556
 images:

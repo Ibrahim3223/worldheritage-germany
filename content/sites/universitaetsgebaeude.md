@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Universitätsgebäude"
 latitude: 49.79997134
 longitude: 9.930741957
 images:

@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Rochuskapelle"
 latitude: 49.9665
 longitude: 7.9262
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Saalfeld Abbey"
 latitude: 50.6524
 longitude: 11.3585
 images:

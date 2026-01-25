@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "German Museum of damask and terry toweling"
 latitude: 50.899547
 longitude: 14.661028
 images:

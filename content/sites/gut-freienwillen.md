@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Gut Freienwillen"
 latitude: 54.8161
 longitude: 9.63494
 images:

@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Teufelsbäder"
 latitude: 51.7085
 longitude: 10.2787
 images:

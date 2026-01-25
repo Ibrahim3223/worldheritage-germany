@@ -10,6 +10,7 @@ categories:
   - "Dam"
 regions:
   - "Germany"
+site_name: "Steina Dam"
 latitude: 51.6118
 longitude: 10.5064
 images:

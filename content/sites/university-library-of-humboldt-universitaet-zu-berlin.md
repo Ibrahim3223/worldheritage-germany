@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "University Library of Humboldt-Universität zu Berlin"
 latitude: 52.5183
 longitude: 13.3867
 images:

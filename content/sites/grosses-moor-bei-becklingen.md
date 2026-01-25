@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Großes Moor bei Becklingen"
 latitude: 52.86833333
 longitude: 9.95555556
 images:

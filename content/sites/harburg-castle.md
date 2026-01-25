@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Harburg Castle"
 latitude: 48.785
 longitude: 10.687
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "The German Diary Archive"
 latitude: 48.12023
 longitude: 7.84978
 images:

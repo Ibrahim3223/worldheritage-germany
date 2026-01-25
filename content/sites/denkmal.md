@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Denkmal"
 latitude: 48.05294793
 longitude: 11.66907945
 images:

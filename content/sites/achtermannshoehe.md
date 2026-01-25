@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Achtermannshöhe"
 latitude: 51.7608403
 longitude: 10.5691682
 images:

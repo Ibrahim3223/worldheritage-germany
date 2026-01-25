@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "St. Michaelskapelle"
 latitude: 48.0008
 longitude: 7.85698
 images:

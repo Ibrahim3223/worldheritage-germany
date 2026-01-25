@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "Glaspalast Sindelfingen"
 latitude: 48.715955
 longitude: 8.983662
 images:

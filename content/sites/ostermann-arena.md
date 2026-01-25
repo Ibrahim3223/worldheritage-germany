@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Ostermann-Arena"
 latitude: 51.039463
 longitude: 7.004058
 images:

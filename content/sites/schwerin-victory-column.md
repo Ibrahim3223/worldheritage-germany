@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Schwerin Victory Column"
 latitude: 53.6256
 longitude: 11.4161
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Berge"
 latitude: 51.568611111
 longitude: 7.069166666
 

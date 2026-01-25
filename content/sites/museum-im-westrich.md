@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum im Westrich"
 latitude: 49.447508
 longitude: 7.556477
 images:

@@ -10,6 +10,7 @@ categories:
 - Cave
 regions:
 - Germany
+site_name: "Eberstadt Stalactite Cave"
 latitude: 49.4811
 longitude: 9.34833
 images:

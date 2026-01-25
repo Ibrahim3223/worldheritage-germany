@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Porzellanmuseum München"
 latitude: 48.1558
 longitude: 11.5056
 images:

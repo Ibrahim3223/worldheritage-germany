@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Nikolaizwinger"
 latitude: 51.15878116
 longitude: 14.98987913
 images:

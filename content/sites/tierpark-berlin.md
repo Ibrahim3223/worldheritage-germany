@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Tierpark Berlin"
 latitude: 52.500278
 longitude: 13.5325
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Charlottenburg Palace"
 latitude: 52.521111
 longitude: 13.295833
 images:

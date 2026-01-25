@@ -10,6 +10,7 @@ categories:
   - "University"
 regions:
   - "Germany"
+site_name: "University of Ingolstadt"
 latitude: 49.273888888
 longitude: 11.706666666
 images:

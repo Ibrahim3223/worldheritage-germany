@@ -11,6 +11,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Gutshaus Wietzow"
 latitude: 53.8224
 longitude: 13.2768
 images:

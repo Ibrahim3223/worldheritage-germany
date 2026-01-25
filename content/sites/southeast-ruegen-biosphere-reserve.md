@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Southeast Rügen Biosphere Reserve"
 latitude: 54.2
 longitude: 13.39
 

@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "Europa-Kolleg Hamburg"
 latitude: 53.567820072
 longitude: 9.870906068
 images:

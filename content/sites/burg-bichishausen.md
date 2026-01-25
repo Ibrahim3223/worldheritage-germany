@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Bichishausen"
 latitude: 48.333055555
 longitude: 9.499722222
 images:

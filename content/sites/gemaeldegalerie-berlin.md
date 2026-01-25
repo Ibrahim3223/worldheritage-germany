@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Gemäldegalerie Berlin"
 latitude: 52.508611111
 longitude: 13.364722222
 images:

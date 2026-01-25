@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Übersee-Museum Bremen"
 latitude: 53.0833
 longitude: 8.81056
 

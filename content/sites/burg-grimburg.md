@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Grimburg"
 latitude: 49.6056
 longitude: 6.875
 images:

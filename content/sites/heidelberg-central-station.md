@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Heidelberg Central Station"
 latitude: 49.403611111
 longitude: 8.675277777
 images:

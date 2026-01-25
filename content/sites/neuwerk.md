@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Neuwerk"
 latitude: 53.921325
 longitude: 8.498353
 images:

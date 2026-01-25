@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Internationales Keramikmuseum"
 latitude: 49.678194444
 longitude: 12.164
 images:

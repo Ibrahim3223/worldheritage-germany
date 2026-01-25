@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Hardenstein Castle"
 latitude: 51.421
 longitude: 7.301
 images:

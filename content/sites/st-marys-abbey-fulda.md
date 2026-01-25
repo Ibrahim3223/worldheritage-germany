@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "St. Mary's Abbey, Fulda"
 latitude: 50.553
 longitude: 9.6773
 images:

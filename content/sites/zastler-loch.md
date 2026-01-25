@@ -10,6 +10,7 @@ categories:
   - "Valley"
 regions:
   - "Germany"
+site_name: "Zastler Loch"
 latitude: 47.87639999
 longitude: 8.00969982
 images:

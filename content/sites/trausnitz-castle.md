@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Trausnitz Castle"
 latitude: 48.531675138
 longitude: 12.152121628
 

@@ -10,6 +10,7 @@ categories:
 - Courthouse
 regions:
 - Germany
+site_name: "Amtsgericht I und Landgericht I"
 latitude: 52.5188
 longitude: 13.4141
 images:

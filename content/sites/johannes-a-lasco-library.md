@@ -10,6 +10,7 @@ categories:
 - Library
 regions:
 - Germany
+site_name: "Johannes a Lasco Library"
 latitude: 53.3653
 longitude: 7.20236
 images:

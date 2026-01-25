@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Schlossberg"
 latitude: 47.99416667
 longitude: 7.85944444
 images:

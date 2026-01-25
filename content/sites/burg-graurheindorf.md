@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Graurheindorf"
 latitude: 50.760799
 longitude: 7.077343
 images:

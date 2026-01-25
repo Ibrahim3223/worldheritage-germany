@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue of Meiningen"
 latitude: 50.5656
 longitude: 10.4135
 images:

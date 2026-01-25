@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Lüdinghauser Tor"
 latitude: 51.8283
 longitude: 7.28014
 images:

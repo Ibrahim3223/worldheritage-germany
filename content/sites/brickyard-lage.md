@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Brickyard Lage"
 latitude: 52.025
 longitude: 8.77861111
 images:

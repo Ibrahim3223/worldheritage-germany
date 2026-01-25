@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Alamannen-Museum Vörstetten"
 latitude: 48.0664
 longitude: 7.85305
 images:

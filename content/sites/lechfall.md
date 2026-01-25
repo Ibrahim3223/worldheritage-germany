@@ -10,6 +10,7 @@ categories:
   - "Waterfall"
 regions:
   - "Germany"
+site_name: "Lechfall"
 latitude: 47.5614
 longitude: 10.6947
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Aquarius-Wassermuseum"
 latitude: 51.443138888
 longitude: 6.856416666
 images:

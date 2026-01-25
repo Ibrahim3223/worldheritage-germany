@@ -10,6 +10,7 @@ categories:
   - "Dam"
 regions:
   - "Germany"
+site_name: "Sorpe Dam"
 latitude: 51.350277777
 longitude: 7.9675
 images:

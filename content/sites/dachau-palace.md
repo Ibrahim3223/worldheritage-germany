@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Dachau Palace"
 latitude: 48.258388888
 longitude: 11.432972222
 images:

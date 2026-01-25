@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Kronprinz-Rupprecht-Brunnen (Münchner Residenz)"
 latitude: 48.141
 longitude: 11.5806
 images:

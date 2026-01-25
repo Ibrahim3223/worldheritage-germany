@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Czorneboh"
 latitude: 51.1195346
 longitude: 14.5260235
 images:

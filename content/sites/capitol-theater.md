@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Capitol Theater"
 latitude: 51.2236
 longitude: 6.79939
 images:

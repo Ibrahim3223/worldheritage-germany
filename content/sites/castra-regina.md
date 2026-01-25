@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Castra Regina"
 latitude: 49.020141
 longitude: 12.098614
 images:

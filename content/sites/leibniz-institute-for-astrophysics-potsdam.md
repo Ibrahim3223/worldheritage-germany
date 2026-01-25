@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Leibniz Institute for Astrophysics Potsdam"
 latitude: 52.405
 longitude: 13.1042
 

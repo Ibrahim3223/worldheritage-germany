@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Karl May Museum Radebeul"
 latitude: 51.1027
 longitude: 13.6735
 images:

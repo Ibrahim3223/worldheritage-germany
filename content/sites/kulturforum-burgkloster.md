@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Kulturforum Burgkloster"
 latitude: 53.8735
 longitude: 10.6893
 images:

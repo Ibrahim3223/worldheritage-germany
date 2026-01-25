@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagoge Adass Jisroel (Nürnberg)"
 latitude: 49.44597
 longitude: 11.07281
 images:

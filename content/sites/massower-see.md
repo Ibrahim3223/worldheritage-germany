@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Massower See"
 latitude: 53.322777777
 longitude: 12.442222222
 images:

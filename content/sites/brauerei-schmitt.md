@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Brauerei Schmitt"
 latitude: 50.724559
 longitude: 11.058404
 images:

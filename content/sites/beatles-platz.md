@@ -10,6 +10,7 @@ categories:
 - Market Square
 regions:
 - Germany
+site_name: "Beatles-Platz"
 latitude: 53.5497679
 longitude: 9.95726
 images:

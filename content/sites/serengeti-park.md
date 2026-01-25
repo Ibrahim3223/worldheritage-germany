@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Serengeti Park"
 latitude: 52.7456
 longitude: 9.61667
 images:

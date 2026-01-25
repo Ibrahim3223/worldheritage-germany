@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Robbenplate Lighthouse"
 latitude: 53.676666
 longitude: 8.396183
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Hemmersbach"
 latitude: 50.9189
 longitude: 6.70436
 images:

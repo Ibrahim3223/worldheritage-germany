@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Esprehmer Moor"
 latitude: 54.481388888
 longitude: 9.639722222
 images:

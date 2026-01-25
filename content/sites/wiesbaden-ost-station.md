@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Wiesbaden Ost station"
 latitude: 50.0411
 longitude: 8.25659
 images:

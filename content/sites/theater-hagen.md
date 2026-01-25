@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Theater Hagen"
 latitude: 51.358938888
 longitude: 7.466916666
 images:

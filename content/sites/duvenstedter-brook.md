@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Duvenstedter Brook"
 latitude: 53.7217
 longitude: 10.1667
 images:

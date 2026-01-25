@@ -10,6 +10,7 @@ categories:
 - Mausoleum
 regions:
 - Germany
+site_name: "Antique Temple"
 latitude: 52.40222
 longitude: 13.01889
 images:

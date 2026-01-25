@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Mainau"
 latitude: 47.705
 longitude: 9.195278
 images:

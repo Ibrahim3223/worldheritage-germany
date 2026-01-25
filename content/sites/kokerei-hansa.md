@@ -10,6 +10,7 @@ categories:
   - "Factory"
 regions:
   - "Germany"
+site_name: "Kokerei Hansa"
 latitude: 51.5407
 longitude: 7.41221
 images:

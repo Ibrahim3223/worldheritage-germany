@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum FLUXUS+"
 latitude: 52.4034
 longitude: 13.0727
 

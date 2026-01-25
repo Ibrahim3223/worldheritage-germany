@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Michelfeld Abbey"
 latitude: 49.704094783
 longitude: 11.587037406
 

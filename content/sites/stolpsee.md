@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Stolpsee"
 latitude: 53.174888888
 longitude: 13.212305555
 images:

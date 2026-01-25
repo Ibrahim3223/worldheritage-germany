@@ -10,6 +10,7 @@ categories:
 - Mine
 regions:
 - Germany
+site_name: "Hüttenstollen"
 latitude: 51.6185
 longitude: 11.0517
 images:

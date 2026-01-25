@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Ludwig Forum für Internationale Kunst"
 latitude: 50.78111111
 longitude: 6.10194444
 

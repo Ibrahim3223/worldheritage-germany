@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Wendelstein"
 latitude: 47.702778
 longitude: 12.012222
 images:

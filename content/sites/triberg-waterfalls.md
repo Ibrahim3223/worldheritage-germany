@@ -10,6 +10,7 @@ categories:
   - "Waterfall"
 regions:
   - "Germany"
+site_name: "Triberg Waterfalls"
 latitude: 48.126111111
 longitude: 8.2275
 images:

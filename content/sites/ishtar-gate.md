@@ -10,6 +10,7 @@ categories:
 - City Gate
 regions:
 - Germany
+site_name: "Ishtar Gate"
 latitude: 32.543333
 longitude: 44.422222
 images:

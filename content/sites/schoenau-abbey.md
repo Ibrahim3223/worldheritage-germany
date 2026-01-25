@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Schönau Abbey"
 latitude: 49.4359
 longitude: 8.8094
 images:

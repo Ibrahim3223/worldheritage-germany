@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Frankenberg Castle (Aachen)"
 latitude: 50.7678
 longitude: 6.10389
 images:

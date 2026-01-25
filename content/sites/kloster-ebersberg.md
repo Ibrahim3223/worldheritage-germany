@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Kloster Ebersberg"
 latitude: 48.0776
 longitude: 11.9715
 images:

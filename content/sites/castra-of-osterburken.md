@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Castra of Osterburken"
 latitude: 49.42753
 longitude: 9.42364
 images:

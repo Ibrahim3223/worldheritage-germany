@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Kulturhaus Lüdenscheid"
 latitude: 51.2144
 longitude: 7.6317
 images:

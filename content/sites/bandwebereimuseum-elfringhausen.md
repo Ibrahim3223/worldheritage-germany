@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Bandwebereimuseum Elfringhausen"
 latitude: 51.33795
 longitude: 7.176066
 images:

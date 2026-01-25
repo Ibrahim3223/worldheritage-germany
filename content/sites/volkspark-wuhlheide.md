@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Volkspark Wuhlheide"
 latitude: 52.46667
 longitude: 13.52639
 images:

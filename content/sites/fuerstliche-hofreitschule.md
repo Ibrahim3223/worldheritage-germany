@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Fürstliche Hofreitschule"
 latitude: 52.259846
 longitude: 9.046372
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Merten"
 latitude: 50.7657
 longitude: 7.39527
 images:

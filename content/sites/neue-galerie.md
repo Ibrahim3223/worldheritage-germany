@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Neue Galerie"
 latitude: 51.3093
 longitude: 9.49324
 

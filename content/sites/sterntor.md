@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Sterntor"
 latitude: 50.7353
 longitude: 7.09853
 

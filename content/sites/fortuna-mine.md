@@ -10,6 +10,7 @@ categories:
 - Mine
 regions:
 - Germany
+site_name: "Fortuna mine"
 latitude: 50.57465
 longitude: 8.42317
 images:

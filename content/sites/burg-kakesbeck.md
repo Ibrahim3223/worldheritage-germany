@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Kakesbeck"
 latitude: 51.8119
 longitude: 7.45167
 images:

@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Demokratieglocke"
 latitude: 51.339397
 longitude: 12.3802399
 images:

@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Großer Mützelburger See"
 latitude: 53.6513
 longitude: 14.2845
 images:

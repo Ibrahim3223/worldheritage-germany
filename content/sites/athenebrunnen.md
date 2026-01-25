@@ -10,6 +10,7 @@ categories:
 - Fountain
 regions:
 - Germany
+site_name: "Athenebrunnen"
 latitude: 48.7695
 longitude: 9.16409
 images:

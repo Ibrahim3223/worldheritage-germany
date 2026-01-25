@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Saaleck Castle"
 latitude: 51.109722
 longitude: 11.701389
 

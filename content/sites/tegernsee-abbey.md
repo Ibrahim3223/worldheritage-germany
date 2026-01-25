@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Tegernsee Abbey"
 latitude: 47.707440018
 longitude: 11.756854504
 images:

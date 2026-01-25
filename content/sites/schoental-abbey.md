@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Schöntal Abbey"
 latitude: 49.3281
 longitude: 9.5047
 images:

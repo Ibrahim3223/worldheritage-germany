@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Tunnelmuseum Niederwillingen"
 latitude: 50.7719
 longitude: 11.0356
 images:

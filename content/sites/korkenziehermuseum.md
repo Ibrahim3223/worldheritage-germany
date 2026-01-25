@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Korkenziehermuseum-"
 latitude: 48.1008
 longitude: 7.59806
 images:

@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Contra-Kreis-Theater"
 latitude: 50.7334
 longitude: 7.10119
 images:

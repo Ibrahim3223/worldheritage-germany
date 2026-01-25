@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum Giersch"
 latitude: 50.1015
 longitude: 8.6706
 

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Keramikmuseum Bürgel"
 latitude: 50.942463
 longitude: 11.755186
 images:

@@ -10,6 +10,7 @@ categories:
 - Zoo
 regions:
 - Germany
+site_name: "Hirschfeld Wildlife Park"
 latitude: 50.6278
 longitude: 12.4403
 images:

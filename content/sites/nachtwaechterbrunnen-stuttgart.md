@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Nachtwächterbrunnen, Stuttgart"
 latitude: 48.7734
 longitude: 9.18127
 images:

@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Kleiner Arbersee"
 latitude: 49.126388888
 longitude: 13.119444444
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Widukind Museum Enger"
 latitude: 52.1397
 longitude: 8.55936
 images:

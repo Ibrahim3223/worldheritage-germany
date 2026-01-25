@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Wildeck, Abstatt"
 latitude: 49.0694
 longitude: 9.32038
 images:

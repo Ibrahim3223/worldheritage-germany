@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Ellerbruch"
 latitude: 53.711894444
 longitude: 9.056444444
 images:

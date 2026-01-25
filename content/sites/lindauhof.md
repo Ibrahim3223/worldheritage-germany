@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Lindauhof"
 latitude: 54.593115
 longitude: 9.802486944
 images:

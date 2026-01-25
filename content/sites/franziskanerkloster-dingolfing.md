@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Franziskanerkloster Dingolfing"
 latitude: 48.6231
 longitude: 12.4911
 images:

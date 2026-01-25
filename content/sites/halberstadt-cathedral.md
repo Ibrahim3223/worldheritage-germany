@@ -10,6 +10,7 @@ categories:
 - Cathedral
 regions:
 - Germany
+site_name: "Halberstadt Cathedral"
 latitude: 51.8963
 longitude: 11.0487
 images:

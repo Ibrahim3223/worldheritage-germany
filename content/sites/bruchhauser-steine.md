@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Bruchhauser Steine"
 latitude: 51.3225
 longitude: 8.54428
 images:

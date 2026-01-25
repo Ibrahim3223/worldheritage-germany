@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Upper Harz Mining Museum"
 latitude: 51.8171
 longitude: 10.3359
 images:

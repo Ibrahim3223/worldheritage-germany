@@ -10,6 +10,7 @@ categories:
 - Valley
 regions:
 - Germany
+site_name: "Devil's Gorge (Eifel)"
 latitude: 49.8456
 longitude: 6.44083
 images:

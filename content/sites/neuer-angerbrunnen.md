@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Neuer Angerbrunnen"
 latitude: 50.97709
 longitude: 11.03561
 images:

@@ -10,6 +10,7 @@ categories:
 - Library
 regions:
 - Germany
+site_name: "Deutsche Bücherei"
 latitude: 51.3224
 longitude: 12.3967
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Heidenschuh"
 latitude: 49.1557
 longitude: 7.9991
 images:

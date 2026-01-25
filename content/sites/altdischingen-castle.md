@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Altdischingen Castle"
 latitude: 48.830833
 longitude: 9.115
 images:

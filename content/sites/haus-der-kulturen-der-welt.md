@@ -10,6 +10,7 @@ categories:
 - Cinema
 regions:
 - Germany
+site_name: "Haus der Kulturen der Welt"
 latitude: 52.5188
 longitude: 13.3648
 images:

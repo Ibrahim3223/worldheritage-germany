@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Ludwigseck"
 latitude: 50.9856
 longitude: 9.62444
 

@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Lantz'scher Park"
 latitude: 51.27194444
 longitude: 6.735
 images:

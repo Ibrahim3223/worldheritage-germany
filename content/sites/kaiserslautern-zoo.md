@@ -10,6 +10,7 @@ categories:
 - Zoo
 regions:
 - Germany
+site_name: "Kaiserslautern Zoo"
 latitude: 49.4661
 longitude: 7.68056
 images:

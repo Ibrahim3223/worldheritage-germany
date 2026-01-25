@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Statue of Pushkin, Gera"
 latitude: 50.878793
 longitude: 12.08058
 images:

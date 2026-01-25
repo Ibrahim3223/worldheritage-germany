@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Offenburg railway station"
 latitude: 48.476
 longitude: 7.94572
 images:

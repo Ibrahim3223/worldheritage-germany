@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Wildenstein Castle"
 latitude: 48.0556
 longitude: 9.00069
 

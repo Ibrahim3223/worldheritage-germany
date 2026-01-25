@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Wendsee"
 latitude: 52.397027777
 longitude: 12.397002777
 images:

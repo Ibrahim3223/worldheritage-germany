@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Risserkogel"
 latitude: 47.638055555
 longitude: 11.804166666
 images:

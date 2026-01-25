@@ -10,6 +10,7 @@ categories:
 - Dam
 regions:
 - Germany
+site_name: "Eschbach Dam"
 latitude: 51.1606
 longitude: 7.23389
 images:

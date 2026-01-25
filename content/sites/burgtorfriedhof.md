@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Burgtorfriedhof"
 latitude: 53.8847
 longitude: 10.7047
 images:

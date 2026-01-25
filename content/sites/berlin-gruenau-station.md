@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Berlin-Grünau station"
 latitude: 52.4122
 longitude: 13.5746
 images:

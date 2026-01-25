@@ -10,6 +10,7 @@ categories:
   - "Town Hall"
 regions:
   - "Germany"
+site_name: "Town hall Artern"
 latitude: 51.365061553
 longitude: 11.290677316
 images:

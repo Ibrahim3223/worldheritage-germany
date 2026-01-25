@@ -10,6 +10,7 @@ categories:
 - Mosque
 regions:
 - Germany
+site_name: "Freimann Mosque"
 latitude: 48.2103
 longitude: 11.6342
 images:

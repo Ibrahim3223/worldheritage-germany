@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Bussen"
 latitude: 48.161944444
 longitude: 9.555277777
 images:

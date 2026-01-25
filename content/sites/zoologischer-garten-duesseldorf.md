@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Zoologischer Garten Düsseldorf"
 latitude: 51.24194444
 longitude: 6.80527778
 images:

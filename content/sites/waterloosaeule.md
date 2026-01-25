@@ -10,6 +10,7 @@ categories:
   - "Statue"
 regions:
   - "Germany"
+site_name: "Waterloosäule"
 latitude: 52.3665
 longitude: 9.727611111
 images:

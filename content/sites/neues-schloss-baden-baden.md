@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Neues Schloss Baden-Baden"
 latitude: 48.7644
 longitude: 8.24167
 

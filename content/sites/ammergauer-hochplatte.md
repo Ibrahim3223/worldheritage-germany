@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Ammergauer Hochplatte"
 latitude: 47.5531
 longitude: 10.8433
 images:

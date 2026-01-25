@@ -10,6 +10,7 @@ categories:
 - Cave
 regions:
 - Germany
+site_name: "Jungfern Cave"
 latitude: 49.92
 longitude: 11.0881
 images:

@@ -10,6 +10,7 @@ categories:
 - Market Square
 regions:
 - Germany
+site_name: "Hackescher Markt"
 latitude: 52.52333
 longitude: 13.40278
 images:

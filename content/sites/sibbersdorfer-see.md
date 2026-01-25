@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Sibbersdorfer See"
 latitude: 54.156666666
 longitude: 10.645833333
 images:

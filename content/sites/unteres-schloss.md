@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Unteres Schloss"
 latitude: 50.99263
 longitude: 10.25764
 images:

@@ -10,6 +10,7 @@ categories:
 - Statue
 regions:
 - Germany
+site_name: "Berlin Adorant"
 latitude: 52.519
 longitude: 13.398
 images:

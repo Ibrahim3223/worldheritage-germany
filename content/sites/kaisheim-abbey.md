@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Kaisheim Abbey"
 latitude: 48.7673
 longitude: 10.7983
 images:

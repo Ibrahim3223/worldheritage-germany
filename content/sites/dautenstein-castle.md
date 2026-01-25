@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Dautenstein Castle"
 latitude: 48.3067
 longitude: 7.93833
 images:

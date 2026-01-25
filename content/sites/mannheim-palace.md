@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Mannheim Palace"
 latitude: 49.4829
 longitude: 8.46177
 images:

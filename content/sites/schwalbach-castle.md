@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schwalbach Castle"
 latitude: 50.2846
 longitude: 8.08064
 

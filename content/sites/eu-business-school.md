@@ -10,6 +10,7 @@ categories:
 - University
 regions:
 - Germany
+site_name: "EU Business School"
 latitude: 46.205555555
 longitude: 6.136666666
 images:

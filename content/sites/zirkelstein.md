@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Zirkelstein"
 latitude: 50.878333333
 longitude: 14.220555555
 images:

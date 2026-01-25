@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "German Museum of Technology"
 latitude: 52.498611111
 longitude: 13.3775
 images:

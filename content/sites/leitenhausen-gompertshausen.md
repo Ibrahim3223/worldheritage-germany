@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Leitenhausen (Gompertshausen)"
 latitude: 50.3181
 longitude: 10.6094
 images:

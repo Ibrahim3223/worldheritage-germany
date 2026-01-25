@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Pilsum Lighthouse"
 latitude: 53.49799
 longitude: 7.04565
 images:

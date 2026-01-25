@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Altona Main Cemetery"
 latitude: 53.586
 longitude: 9.888
 images:

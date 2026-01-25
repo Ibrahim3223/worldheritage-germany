@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Tuniberg"
 latitude: 48.006944444
 longitude: 7.700833333
 images:

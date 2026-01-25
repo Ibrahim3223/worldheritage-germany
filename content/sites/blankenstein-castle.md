@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Blankenstein Castle"
 latitude: 51.406944444
 longitude: 7.230277777
 images:

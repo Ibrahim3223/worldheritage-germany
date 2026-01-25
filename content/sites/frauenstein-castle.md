@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Frauenstein Castle"
 latitude: 50.804
 longitude: 13.5394
 images:

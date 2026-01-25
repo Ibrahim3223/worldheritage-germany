@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Weißenburg"
 latitude: 50.7312
 longitude: 11.4484
 images:

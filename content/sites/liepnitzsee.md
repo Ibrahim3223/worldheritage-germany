@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Liepnitzsee"
 latitude: 52.75
 longitude: 13.516666666
 images:

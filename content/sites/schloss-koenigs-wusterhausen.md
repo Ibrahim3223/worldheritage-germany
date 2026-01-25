@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Königs Wusterhausen"
 latitude: 52.2983
 longitude: 13.625
 

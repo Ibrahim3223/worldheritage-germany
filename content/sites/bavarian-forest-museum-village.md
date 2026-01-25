@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Bavarian Forest Museum Village"
 latitude: 48.739524053
 longitude: 13.35171792
 images:

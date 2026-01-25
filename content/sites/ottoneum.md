@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Ottoneum"
 latitude: 51.3133
 longitude: 9.49889
 images:

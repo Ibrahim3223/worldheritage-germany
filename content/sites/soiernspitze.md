@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Soiernspitze"
 latitude: 47.481944444
 longitude: 11.3575
 images:

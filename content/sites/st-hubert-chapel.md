@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "St. Hubert Chapel"
 latitude: 51.3481
 longitude: 6.75333
 images:

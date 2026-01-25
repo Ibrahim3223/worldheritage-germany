@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Holtzbrinck"
 latitude: 51.2955
 longitude: 7.67379
 images:

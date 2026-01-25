@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Hohenecken Castle"
 latitude: 49.4147
 longitude: 7.70111
 images:

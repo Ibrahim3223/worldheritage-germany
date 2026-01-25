@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Irsee Abbey"
 latitude: 47.910435022
 longitude: 10.574434776
 images:

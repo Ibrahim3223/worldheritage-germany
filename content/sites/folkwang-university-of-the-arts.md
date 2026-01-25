@@ -10,6 +10,7 @@ categories:
 - University
 regions:
 - Germany
+site_name: "Folkwang University of the Arts"
 latitude: 51.3875
 longitude: 7.00444
 images:

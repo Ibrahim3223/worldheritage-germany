@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Weser"
 latitude: 51.42139
 longitude: 9.64806
 images:

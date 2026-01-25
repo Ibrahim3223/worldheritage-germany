@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Deutsche Raumfahrtausstellung Morgenröthe-Rautenkranz"
 latitude: 50.4629
 longitude: 12.4926
 images:

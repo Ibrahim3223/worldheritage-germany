@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Bebra railway station"
 latitude: 50.9692
 longitude: 9.7979
 images:

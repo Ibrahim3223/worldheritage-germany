@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Herzoglich Bayerisches Brauhaus Tegernsee"
 latitude: 47.708333333
 longitude: 11.756666666
 images:

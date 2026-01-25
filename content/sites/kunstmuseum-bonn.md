@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kunstmuseum Bonn"
 latitude: 50.715056
 longitude: 7.121028
 

@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Zeche Kurl"
 latitude: 51.5586
 longitude: 7.59139
 images:

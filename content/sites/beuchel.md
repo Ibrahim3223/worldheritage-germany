@@ -10,6 +10,7 @@ categories:
 - Island
 regions:
 - Germany
+site_name: "Beuchel"
 latitude: 54.538611111
 longitude: 13.3
 images:

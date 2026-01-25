@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Tucherschloss in Feucht"
 latitude: 49.374187192
 longitude: 11.213705416
 images:

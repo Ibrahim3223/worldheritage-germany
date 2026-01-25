@@ -10,6 +10,7 @@ categories:
 - Island
 regions:
 - Germany
+site_name: "Hiddensee"
 latitude: 54.568008
 longitude: 13.105547
 images:

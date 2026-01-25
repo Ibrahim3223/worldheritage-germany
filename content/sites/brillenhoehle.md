@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Brillenhöhle"
 latitude: 48.40527778
 longitude: 9.77777778
 images:

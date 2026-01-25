@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Kloster Saarn"
 latitude: 51.403
 longitude: 6.88164
 images:

@@ -10,6 +10,7 @@ categories:
 - Chapel
 regions:
 - Germany
+site_name: "Bürgersaalkirche"
 latitude: 48.139023598
 longitude: 11.568256398
 images:

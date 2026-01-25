@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Kreuzeck"
 latitude: 47.4533
 longitude: 11.0806
 images:

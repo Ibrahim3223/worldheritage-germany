@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Gut Grünholz"
 latitude: 54.577
 longitude: 9.95024
 images:

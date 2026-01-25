@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Thüringer Zoopark Erfurt"
 latitude: 51.0233
 longitude: 11.0278
 images:

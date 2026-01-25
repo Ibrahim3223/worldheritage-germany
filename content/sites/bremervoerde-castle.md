@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Bremervörde Castle"
 latitude: 53.4831
 longitude: 9.15139
 images:

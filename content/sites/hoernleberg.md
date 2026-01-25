@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Hörnleberg"
 latitude: 48.127777777
 longitude: 8.045
 images:

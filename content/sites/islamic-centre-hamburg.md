@@ -10,6 +10,7 @@ categories:
 - Mosque
 regions:
 - Germany
+site_name: "Islamic Centre Hamburg"
 latitude: 53.574569444
 longitude: 10.008416666
 images:

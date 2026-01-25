@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Grimnitzsee"
 latitude: 52.978888888
 longitude: 13.785555555
 images:

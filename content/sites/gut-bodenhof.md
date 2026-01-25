@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Gut Bodenhof"
 latitude: 50.758611111
 longitude: 6.083611111
 images:

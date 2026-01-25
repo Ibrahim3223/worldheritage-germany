@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Hamburg Dungeon"
 latitude: 53.543871
 longitude: 9.9894039
 images:

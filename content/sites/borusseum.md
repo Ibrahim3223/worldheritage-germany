@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Borusseum"
 latitude: 51.4937395
 longitude: 7.4529653
 images:

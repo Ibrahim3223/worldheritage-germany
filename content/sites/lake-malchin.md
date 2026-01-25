@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Lake Malchin"
 latitude: 53.694166666
 longitude: 12.634166666
 images:

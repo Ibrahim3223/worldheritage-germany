@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Propylaea"
 latitude: 48.146111111
 longitude: 11.564166666
 images:

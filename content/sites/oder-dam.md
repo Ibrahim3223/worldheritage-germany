@@ -10,6 +10,7 @@ categories:
   - "Dam"
 regions:
   - "Germany"
+site_name: "Oder Dam"
 latitude: 51.64605
 longitude: 10.50544
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Gochsheim Castle"
 latitude: 49.1036
 longitude: 8.74635
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "St. Maximin's Abbey"
 latitude: 49.7597
 longitude: 6.65176
 images:

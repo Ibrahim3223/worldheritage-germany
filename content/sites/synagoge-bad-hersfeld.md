@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagoge (Bad Hersfeld)"
 latitude: 50.869166666
 longitude: 9.713611111
 images:

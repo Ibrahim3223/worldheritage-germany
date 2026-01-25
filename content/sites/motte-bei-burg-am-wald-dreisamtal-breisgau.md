@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Motte bei Burg am Wald, Dreisamtal-Breisgau"
 latitude: 47.9743
 longitude: 7.9838
 

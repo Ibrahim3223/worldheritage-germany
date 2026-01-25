@@ -10,6 +10,7 @@ categories:
   - "Cave"
 regions:
   - "Germany"
+site_name: "Mühlsteinhöhle"
 latitude: 50.1936
 longitude: 6.76007
 images:

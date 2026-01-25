@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Arnstadt central station"
 latitude: 50.8417
 longitude: 10.9483
 images:

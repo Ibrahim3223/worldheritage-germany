@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Frankfurt City Forest"
 latitude: 50.070833333
 longitude: 8.658333333
 images:

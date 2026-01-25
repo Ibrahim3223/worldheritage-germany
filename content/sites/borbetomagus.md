@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Borbetomagus"
 latitude: 49.630359
 longitude: 8.3588465
 images:

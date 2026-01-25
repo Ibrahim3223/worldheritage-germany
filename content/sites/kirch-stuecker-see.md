@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Kirch Stücker See"
 latitude: 53.691944444
 longitude: 11.406666666
 images:

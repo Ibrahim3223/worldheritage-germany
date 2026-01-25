@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Cologne Southern Cemetery"
 latitude: 50.8981
 longitude: 6.93889
 images:

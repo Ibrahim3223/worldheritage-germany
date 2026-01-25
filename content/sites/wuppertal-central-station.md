@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Wuppertal Central Station"
 latitude: 51.254722222
 longitude: 7.15
 images:

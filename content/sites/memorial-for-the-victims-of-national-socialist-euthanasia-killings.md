@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Memorial for the Victims of National Socialist Euthanasia Killings"
 latitude: 52.5105
 longitude: 13.36877778
 images:

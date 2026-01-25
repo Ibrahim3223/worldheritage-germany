@@ -10,6 +10,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Brahms-Denkmal"
 latitude: 50.5721
 longitude: 10.419
 images:

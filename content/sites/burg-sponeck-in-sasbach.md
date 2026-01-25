@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Sponeck in Sasbach"
 latitude: 48.1141
 longitude: 7.5839
 images:

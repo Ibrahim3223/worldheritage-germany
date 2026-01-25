@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Rhine Water Fountain"
 latitude: 48.132287816
 longitude: 11.586504199
 images:

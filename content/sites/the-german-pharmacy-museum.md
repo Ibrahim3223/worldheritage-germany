@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "The German Pharmacy Museum"
 latitude: 49.4109249
 longitude: 8.715819
 images:

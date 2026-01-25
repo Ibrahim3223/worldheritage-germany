@@ -10,6 +10,7 @@ categories:
   - "University"
 regions:
   - "Germany"
+site_name: "SRH Berlin University of Applied Sciences"
 latitude: 52.5139
 longitude: 13.322
 images:

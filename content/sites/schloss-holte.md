@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloß Holte"
 latitude: 51.8987
 longitude: 8.60242
 

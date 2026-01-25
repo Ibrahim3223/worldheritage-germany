@@ -10,6 +10,7 @@ categories:
 - Fountain
 regions:
 - Germany
+site_name: "Delphinbrunnen in Dresden, Germany"
 latitude: 51.05307
 longitude: 13.74434
 images:

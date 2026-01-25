@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "Friedrich-Ebert-Halle"
 latitude: 49.4914
 longitude: 8.41291
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Deutsches Historisches Museum"
 latitude: 52.518055555
 longitude: 13.396944444
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Saar Polygon"
 latitude: 49.318
 longitude: 6.785
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Plassenburg"
 latitude: 50.1081657
 longitude: 11.4638686
 

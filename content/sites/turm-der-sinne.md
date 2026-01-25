@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Turm der Sinne"
 latitude: 49.45221056
 longitude: 11.06951952
 images:

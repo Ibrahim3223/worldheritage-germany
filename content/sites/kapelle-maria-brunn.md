@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Kapelle Maria-Brunn"
 latitude: 52.038
 longitude: 6.83892
 images:

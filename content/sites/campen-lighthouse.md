@@ -10,6 +10,7 @@ categories:
 - Lighthouse
 regions:
 - Germany
+site_name: "Campen Lighthouse"
 latitude: 53.40574
 longitude: 7.01562
 images:

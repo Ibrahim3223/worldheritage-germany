@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Statue of Helmuth von Moltke the Elder"
 latitude: 52.51544
 longitude: 13.35064
 images:

@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Dobberworth"
 latitude: 54.519722222
 longitude: 13.547222222
 images:

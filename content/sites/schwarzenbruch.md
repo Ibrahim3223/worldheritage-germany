@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Schwarzenbruch"
 latitude: 49.7353
 longitude: 7.1329
 images:

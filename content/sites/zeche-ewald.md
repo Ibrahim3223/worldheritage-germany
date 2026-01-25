@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Zeche Ewald"
 latitude: 51.5719
 longitude: 7.14833
 images:

@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Stone Tower"
 latitude: 51.4969
 longitude: 7.4591
 images:

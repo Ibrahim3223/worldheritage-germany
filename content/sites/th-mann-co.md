@@ -10,6 +10,7 @@ categories:
   - "Factory"
 regions:
   - "Germany"
+site_name: "Th. Mann & Co."
 latitude: 52.023225
 longitude: 8.530217
 images:

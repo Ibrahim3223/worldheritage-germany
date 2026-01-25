@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Dithmarscher Landesmuseum"
 latitude: 54.0913
 longitude: 9.07347
 images:

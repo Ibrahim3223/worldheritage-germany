@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Deutsches Bienenmuseum Weimar"
 latitude: 50.9655934
 longitude: 11.3439034
 images:

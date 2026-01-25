@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Gruson-Gewächshäuser"
 latitude: 52.1138
 longitude: 11.6316
 images:

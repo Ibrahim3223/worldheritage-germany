@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Schwedtsee"
 latitude: 53.188611111
 longitude: 13.153611111
 images:

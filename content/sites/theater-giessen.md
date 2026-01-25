@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Theater Giessen"
 latitude: 50.5841
 longitude: 8.6777
 images:

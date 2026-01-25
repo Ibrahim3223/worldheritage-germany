@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue of Eisenach"
 latitude: 50.975478
 longitude: 10.321716
 images:

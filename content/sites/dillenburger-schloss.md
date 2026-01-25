@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Dillenburger Schloss"
 latitude: 50.738333
 longitude: 8.285278
 images:

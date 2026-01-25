@@ -10,6 +10,7 @@ categories:
 - School Building
 regions:
 - Germany
+site_name: "Hohenstaufen-Gymnasium"
 latitude: 48.704544
 longitude: 9.667994
 images:

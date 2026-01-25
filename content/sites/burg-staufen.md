@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Staufen"
 latitude: 47.88616667
 longitude: 7.73163889
 images:

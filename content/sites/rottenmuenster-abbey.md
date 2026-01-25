@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Rottenmünster Abbey"
 latitude: 48.1509
 longitude: 8.63498
 images:

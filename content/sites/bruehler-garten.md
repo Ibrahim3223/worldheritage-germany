@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Brühler Garten"
 latitude: 50.9733
 longitude: 11.0196
 images:

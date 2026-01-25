@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Kramerspitz"
 latitude: 47.507777777
 longitude: 11.047777777
 images:

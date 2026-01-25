@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Goethe Monument"
 latitude: 52.5138
 longitude: 13.3764
 images:

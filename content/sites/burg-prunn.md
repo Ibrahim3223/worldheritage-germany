@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Prunn"
 latitude: 48.950277777
 longitude: 11.739583333
 images:

@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Berlin-Schöneweide railway station"
 latitude: 52.455
 longitude: 13.509444444
 images:

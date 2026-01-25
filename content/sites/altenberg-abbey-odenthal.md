@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Altenberg Abbey, Odenthal"
 latitude: 51.054722222
 longitude: 7.132777777
 images:

@@ -10,6 +10,7 @@ categories:
 - Mosque
 regions:
 - Germany
+site_name: "Berlin Mosque"
 latitude: 52.4875
 longitude: 13.311667
 images:

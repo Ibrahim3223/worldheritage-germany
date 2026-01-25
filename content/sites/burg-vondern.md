@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Vondern"
 latitude: 51.498888888
 longitude: 6.906666666
 images:

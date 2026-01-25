@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Kloster Herrenchiemsee"
 latitude: 47.867767418
 longitude: 12.396452133
 images:

@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Plauer See"
 latitude: 53.465833333
 longitude: 12.3075
 images:

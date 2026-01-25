@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten Frankfurt am Main"
 latitude: 50.1272
 longitude: 8.65833
 images:

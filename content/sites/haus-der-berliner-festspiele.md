@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Haus der Berliner Festspiele"
 latitude: 52.4986
 longitude: 13.3286
 images:

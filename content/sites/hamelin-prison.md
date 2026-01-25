@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Hamelin Prison"
 latitude: 52.1008
 longitude: 9.35415
 images:

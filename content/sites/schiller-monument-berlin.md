@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Schiller Monument (Berlin)"
 latitude: 52.5136
 longitude: 13.3927
 images:

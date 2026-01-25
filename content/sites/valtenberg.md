@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Valtenberg"
 latitude: 51.074075555
 longitude: 14.278962777
 images:

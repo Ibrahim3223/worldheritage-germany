@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Altarm der Schwentine"
 latitude: 54.2967
 longitude: 10.2342
 images:

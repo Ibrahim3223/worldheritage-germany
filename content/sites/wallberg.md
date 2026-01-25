@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Wallberg"
 latitude: 47.666338888
 longitude: 11.795775
 images:

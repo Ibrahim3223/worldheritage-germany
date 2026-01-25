@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "State Library of Berlin (Haus Potsdamer Straße)"
 latitude: 52.5075
 longitude: 13.3707
 images:

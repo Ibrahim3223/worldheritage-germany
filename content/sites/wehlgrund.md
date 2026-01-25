@@ -10,6 +10,7 @@ categories:
   - "Valley"
 regions:
   - "Germany"
+site_name: "Wehlgrund"
 latitude: 50.9628
 longitude: 14.0756
 images:

@@ -10,6 +10,7 @@ categories:
 - Valley
 regions:
 - Germany
+site_name: "Ahr Valley"
 latitude: 50.53333333
 longitude: 7.06666667
 images:

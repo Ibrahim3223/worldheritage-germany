@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Dehrn Castle"
 latitude: 50.4172
 longitude: 8.09167
 images:

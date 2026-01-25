@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Malakoffturm"
 latitude: 50.93267
 longitude: 6.96361
 images:

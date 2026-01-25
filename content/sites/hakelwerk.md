@@ -11,6 +11,7 @@ categories:
 - Fortress
 regions:
 - Germany
+site_name: "Hakelwerk"
 latitude: 53.1219
 longitude: 7.29875
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum of Koblenz"
 latitude: 50.3641
 longitude: 7.61436
 images:

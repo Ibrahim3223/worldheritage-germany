@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Sichtungsgarten Weihenstephan"
 latitude: 48.400755555
 longitude: 11.728991666
 

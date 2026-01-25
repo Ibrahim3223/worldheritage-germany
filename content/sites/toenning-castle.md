@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Tönning Castle"
 latitude: 54.315133333
 longitude: 8.941777777
 

@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Viktoriapark"
 latitude: 52.488888888
 longitude: 13.380555555
 images:

@@ -10,6 +10,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Heinrich Heine monument"
 latitude: 51.21938
 longitude: 6.77334
 images:

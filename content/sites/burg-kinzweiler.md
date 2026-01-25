@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Kinzweiler"
 latitude: 50.8458
 longitude: 6.23083
 images:

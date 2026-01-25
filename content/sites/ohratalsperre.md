@@ -10,6 +10,7 @@ categories:
   - "Dam"
 regions:
   - "Germany"
+site_name: "Ohratalsperre"
 latitude: 50.76153
 longitude: 10.71303
 images:

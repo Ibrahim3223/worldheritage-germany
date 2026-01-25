@@ -11,6 +11,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Ephraim-Palais"
 latitude: 52.515848
 longitude: 13.40714
 images:

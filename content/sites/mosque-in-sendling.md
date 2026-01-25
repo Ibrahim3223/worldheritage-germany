@@ -10,6 +10,7 @@ categories:
   - "Mosque"
 regions:
   - "Germany"
+site_name: "Mosque in Sendling"
 latitude: 48.118055555
 longitude: 11.551388888
 images:

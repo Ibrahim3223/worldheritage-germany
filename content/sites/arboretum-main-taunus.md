@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Arboretum Main-Taunus"
 latitude: 50.1356
 longitude: 8.54972
 images:

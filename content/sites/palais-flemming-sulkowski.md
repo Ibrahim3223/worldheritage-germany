@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Palais Flemming-Sulkowski"
 latitude: 51.0501
 longitude: 13.743
 images:

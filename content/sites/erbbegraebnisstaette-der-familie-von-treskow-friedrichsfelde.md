@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Erbbegräbnisstätte der Familie von Treskow-Friedrichsfelde"
 latitude: 52.49745
 longitude: 13.52676
 images:

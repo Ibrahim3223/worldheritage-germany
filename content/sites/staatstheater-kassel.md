@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Staatstheater Kassel"
 latitude: 51.3125
 longitude: 9.49888
 images:

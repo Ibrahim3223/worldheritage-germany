@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Roman aqueduct Vussem"
 latitude: 50.5648
 longitude: 6.6685
 

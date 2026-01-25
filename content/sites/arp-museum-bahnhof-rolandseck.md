@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Arp Museum Bahnhof Rolandseck"
 latitude: 50.6314
 longitude: 7.20694
 images:

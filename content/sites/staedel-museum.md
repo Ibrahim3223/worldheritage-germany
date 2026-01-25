@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Städel Museum"
 latitude: 50.10322
 longitude: 8.67388
 

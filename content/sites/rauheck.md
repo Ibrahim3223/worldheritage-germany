@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Rauheck"
 latitude: 47.344444444
 longitude: 10.368055555
 images:

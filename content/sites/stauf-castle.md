@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Stauf Castle"
 latitude: 49.55
 longitude: 8.02694
 

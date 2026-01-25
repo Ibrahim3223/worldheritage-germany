@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Friedhof Zehlendorf"
 latitude: 52.439202777
 longitude: 13.25435
 images:

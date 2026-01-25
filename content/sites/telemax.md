@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Telemax"
 latitude: 52.393055555
 longitude: 9.799722222
 images:

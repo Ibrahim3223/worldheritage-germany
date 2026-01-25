@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Kloster Ichtershausen"
 latitude: 50.87419455
 longitude: 10.972101822
 images:

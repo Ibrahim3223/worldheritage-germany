@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Dresden Panometer"
 latitude: 51.0256
 longitude: 13.7883
 images:

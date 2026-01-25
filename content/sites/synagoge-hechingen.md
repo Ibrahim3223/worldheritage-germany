@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagoge Hechingen"
 latitude: 48.3518
 longitude: 8.96546
 images:

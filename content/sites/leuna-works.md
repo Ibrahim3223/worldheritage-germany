@@ -10,6 +10,7 @@ categories:
   - "Factory"
 regions:
   - "Germany"
+site_name: "Leuna works"
 latitude: 51.31861111
 longitude: 12.00833333
 images:

@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Theater Koblenz"
 latitude: 50.3582
 longitude: 7.59944
 images:

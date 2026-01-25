@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Königspesel"
 latitude: 54.565846
 longitude: 8.550553
 images:

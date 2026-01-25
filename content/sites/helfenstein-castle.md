@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Helfenstein Castle"
 latitude: 48.6161
 longitude: 9.84694
 images:

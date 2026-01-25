@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Kütertor"
 latitude: 54.3139
 longitude: 13.0861
 images:

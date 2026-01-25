@@ -10,6 +10,7 @@ categories:
 - Market Square
 regions:
 - Germany
+site_name: "Bebelplatz"
 latitude: 52.5164
 longitude: 13.3939
 images:

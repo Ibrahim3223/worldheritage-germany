@@ -11,6 +11,7 @@ categories:
 - Courthouse
 regions:
 - Germany
+site_name: "Bundesverfassungsgericht, Dienstsitz Schlossbezirk"
 latitude: 49.0125
 longitude: 8.401669444
 images:

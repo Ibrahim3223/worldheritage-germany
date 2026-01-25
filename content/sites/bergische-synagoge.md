@@ -10,6 +10,7 @@ categories:
 - Synagogue
 regions:
 - Germany
+site_name: "Bergische Synagoge"
 latitude: 51.27111111
 longitude: 7.19777778
 images:

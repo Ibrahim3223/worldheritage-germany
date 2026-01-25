@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Statue of Albrecht von Roon"
 latitude: 52.515332396
 longitude: 13.349165571
 images:

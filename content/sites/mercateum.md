@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Mercateum"
 latitude: 48.270708333
 longitude: 10.885544444
 images:

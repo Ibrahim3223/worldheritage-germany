@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Jesuit College of Ingolstadt"
 latitude: 48.7653
 longitude: 11.4208
 images:

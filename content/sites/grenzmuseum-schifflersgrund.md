@@ -11,6 +11,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Grenzmuseum Schifflersgrund"
 latitude: 51.2853
 longitude: 9.99361
 images:

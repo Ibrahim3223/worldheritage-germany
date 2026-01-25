@@ -10,6 +10,7 @@ categories:
   - "Factory"
 regions:
   - "Germany"
+site_name: "Volkswagenwerk Braunschweig"
 latitude: 52.29361111
 longitude: 10.52305556
 images:

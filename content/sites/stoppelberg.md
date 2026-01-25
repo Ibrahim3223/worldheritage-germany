@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Stoppelberg"
 latitude: 50.529497222
 longitude: 8.524961111
 

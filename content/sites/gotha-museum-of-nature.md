@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Gotha Museum of Nature"
 latitude: 50.9433
 longitude: 10.7058
 images:

@@ -10,6 +10,7 @@ categories:
 - Chapel
 regions:
 - Germany
+site_name: "Einsiedelner Kapelle"
 latitude: 48.8565
 longitude: 8.20713
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Steigerkreuz"
 latitude: 50.93954
 longitude: 11.03822
 images:

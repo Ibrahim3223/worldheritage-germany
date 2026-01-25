@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Barbara Baths"
 latitude: 49.75
 longitude: 6.63028
 images:

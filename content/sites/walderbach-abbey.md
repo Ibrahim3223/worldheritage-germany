@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Walderbach Abbey"
 latitude: 49.184152141
 longitude: 12.378276993
 

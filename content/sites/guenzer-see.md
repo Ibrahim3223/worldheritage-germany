@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Günzer See"
 latitude: 54.359980555
 longitude: 12.8999
 images:

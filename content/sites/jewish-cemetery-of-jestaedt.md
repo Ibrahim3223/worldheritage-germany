@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Jewish Cemetery of Jestädt"
 latitude: 51.223888888
 longitude: 10.015
 images:

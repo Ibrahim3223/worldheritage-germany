@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Linz"
 latitude: 50.566006
 longitude: 7.278684
 images:

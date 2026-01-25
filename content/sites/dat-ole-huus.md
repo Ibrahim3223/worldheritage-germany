@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Dat ole Huus"
 latitude: 53.1641
 longitude: 9.96034
 images:

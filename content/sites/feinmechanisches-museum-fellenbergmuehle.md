@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Feinmechanisches Museum Fellenbergmühle"
 latitude: 49.4455
 longitude: 6.64334
 images:

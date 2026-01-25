@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Volkspark Rehberge"
 latitude: 52.550833333
 longitude: 13.330833333
 images:

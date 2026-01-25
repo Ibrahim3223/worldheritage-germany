@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Sorbian Museum"
 latitude: 51.1834
 longitude: 14.4193
 images:

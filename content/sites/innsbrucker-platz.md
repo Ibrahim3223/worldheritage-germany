@@ -10,6 +10,7 @@ categories:
 - Market Square
 regions:
 - Germany
+site_name: "Innsbrucker Platz"
 latitude: 52.4786
 longitude: 13.3439
 images:

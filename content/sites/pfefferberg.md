@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Pfefferberg"
 latitude: 52.5317
 longitude: 13.4115
 images:

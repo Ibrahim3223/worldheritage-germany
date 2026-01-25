@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Albrechtsburg"
 latitude: 51.166596
 longitude: 13.471376
 images:

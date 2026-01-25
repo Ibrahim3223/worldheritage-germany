@@ -10,6 +10,7 @@ categories:
   - "School Building"
 regions:
   - "Germany"
+site_name: "Lise-Meitner-Gymnasium"
 latitude: 53.57366944
 longitude: 9.85578056
 images:

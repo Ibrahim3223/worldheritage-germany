@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Barkhäuser Turm"
 latitude: 51.0525
 longitude: 11.1001
 images:

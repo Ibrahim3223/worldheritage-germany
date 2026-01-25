@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagoge in Marburg/Lahn"
 latitude: 50.8075
 longitude: 8.770277777
 images:

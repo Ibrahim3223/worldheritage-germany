@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Saarbrücker Zoo"
 latitude: 49.2308
 longitude: 7.03958
 images:

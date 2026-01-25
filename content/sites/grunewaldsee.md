@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Grunewaldsee"
 latitude: 52.470277777
 longitude: 13.262777777
 images:

@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Pohnstorfer Moor"
 latitude: 53.922222222
 longitude: 11.091388888
 images:

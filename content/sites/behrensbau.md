@@ -10,6 +10,7 @@ categories:
 - Factory
 regions:
 - Germany
+site_name: "Behrensbau"
 latitude: 52.456246
 longitude: 13.53064
 images:

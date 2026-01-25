@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Karlsburg Castle"
 latitude: 48.998502777
 longitude: 8.473827777
 

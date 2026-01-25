@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Regnitz"
 latitude: 49.9144
 longitude: 10.8303
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Turkish Chamber"
 latitude: 51.05289
 longitude: 13.73635
 images:

@@ -10,6 +10,7 @@ categories:
   - "Factory"
 regions:
   - "Germany"
+site_name: "Waggonfabrik Fuchs"
 latitude: 49.38194444
 longitude: 8.67694444
 images:

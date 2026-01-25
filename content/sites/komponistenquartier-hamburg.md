@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "KomponistenQuartier Hamburg"
 latitude: 53.55124
 longitude: 9.976869
 images:

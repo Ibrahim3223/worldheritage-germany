@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Baindt Abbey"
 latitude: 47.842778
 longitude: 9.665833
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Hohenaschau Castle"
 latitude: 47.765722222
 longitude: 12.322122222
 images:

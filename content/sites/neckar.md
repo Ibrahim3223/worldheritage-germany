@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Neckar"
 latitude: 49.511944
 longitude: 8.437222
 images:

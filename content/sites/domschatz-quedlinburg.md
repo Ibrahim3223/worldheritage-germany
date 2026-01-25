@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Domschatz Quedlinburg"
 latitude: 51.78575
 longitude: 11.137
 images:

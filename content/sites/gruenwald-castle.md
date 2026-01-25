@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Grünwald Castle"
 latitude: 48.0431
 longitude: 11.5193
 images:

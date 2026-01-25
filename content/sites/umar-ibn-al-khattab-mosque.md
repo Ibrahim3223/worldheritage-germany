@@ -10,6 +10,7 @@ categories:
   - "Mosque"
 regions:
   - "Germany"
+site_name: "Umar Ibn Al Khattab Mosque"
 latitude: 52.4989
 longitude: 13.4268
 images:

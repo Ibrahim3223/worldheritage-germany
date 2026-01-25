@@ -10,6 +10,7 @@ categories:
   - "Cinema"
 regions:
   - "Germany"
+site_name: "Russisches Haus"
 latitude: 52.5134
 longitude: 13.3889
 images:

@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Theater & Orchester Heidelberg"
 latitude: 49.4105
 longitude: 8.70357
 images:

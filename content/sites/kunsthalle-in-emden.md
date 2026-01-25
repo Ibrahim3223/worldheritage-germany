@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kunsthalle in Emden"
 latitude: 53.3699
 longitude: 7.20317
 

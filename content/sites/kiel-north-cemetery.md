@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Kiel North Cemetery"
 latitude: 54.345
 longitude: 10.1277
 images:

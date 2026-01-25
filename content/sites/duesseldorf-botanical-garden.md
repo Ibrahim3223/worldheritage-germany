@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Düsseldorf Botanical Garden"
 latitude: 51.1869
 longitude: 6.8025
 images:

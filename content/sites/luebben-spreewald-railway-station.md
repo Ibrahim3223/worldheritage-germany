@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Lübben (Spreewald) railway station"
 latitude: 51.9397
 longitude: 13.8775
 images:

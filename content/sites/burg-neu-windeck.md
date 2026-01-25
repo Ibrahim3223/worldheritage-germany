@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Neu-Windeck"
 latitude: 48.64339
 longitude: 8.13801
 images:

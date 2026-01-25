@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Liebenzell Castle"
 latitude: 48.7768
 longitude: 8.7258
 

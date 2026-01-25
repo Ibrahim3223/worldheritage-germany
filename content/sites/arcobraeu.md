@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Arcobräu"
 latitude: 48.746388888
 longitude: 12.96
 images:

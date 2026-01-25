@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Ronneburg Castle"
 latitude: 50.238594841
 longitude: 9.061194449
 

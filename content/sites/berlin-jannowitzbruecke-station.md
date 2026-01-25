@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Berlin Jannowitzbrücke station"
 latitude: 52.514822222
 longitude: 13.41795
 images:

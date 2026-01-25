@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Peasants' War Panorama Museum"
 latitude: 51.36611111
 longitude: 11.10333333
 

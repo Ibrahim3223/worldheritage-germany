@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Externsteine"
 latitude: 51.868888888
 longitude: 8.9175
 images:

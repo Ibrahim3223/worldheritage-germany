@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Mundenhof"
 latitude: 48.0167
 longitude: 7.77694
 images:

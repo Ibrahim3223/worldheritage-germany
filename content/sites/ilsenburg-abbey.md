@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Ilsenburg Abbey"
 latitude: 51.859722222
 longitude: 10.678611111
 images:

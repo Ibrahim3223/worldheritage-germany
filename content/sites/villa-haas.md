@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Villa Haas"
 latitude: 50.6581
 longitude: 8.3274
 images:

@@ -10,6 +10,7 @@ categories:
 - Chapel
 regions:
 - Germany
+site_name: "Heilig-Geist-Kapelle"
 latitude: 53.0158
 longitude: 14.0002
 images:

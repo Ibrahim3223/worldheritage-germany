@@ -11,6 +11,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Großes Schauspielhaus"
 latitude: 52.52277778
 longitude: 13.38611111
 images:

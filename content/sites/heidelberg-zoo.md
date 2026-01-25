@@ -10,6 +10,7 @@ categories:
 - Zoo
 regions:
 - Germany
+site_name: "Heidelberg Zoo"
 latitude: 49.4153
 longitude: 8.66083
 images:

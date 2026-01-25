@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "mine Oberhausen"
 latitude: 51.4822
 longitude: 6.885
 images:

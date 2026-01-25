@@ -10,6 +10,7 @@ categories:
 - Mosque
 regions:
 - Germany
+site_name: "Hamburg Central Mosque"
 latitude: 53.55416667
 longitude: 10.01666667
 images:

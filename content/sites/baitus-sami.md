@@ -10,6 +10,7 @@ categories:
 - Mosque
 regions:
 - Germany
+site_name: "Baitus Sami"
 latitude: 52.429633966
 longitude: 9.65812469
 images:

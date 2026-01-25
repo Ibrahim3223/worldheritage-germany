@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Pfarrkirche"
 latitude: 50.1671
 longitude: 10.0076
 images:

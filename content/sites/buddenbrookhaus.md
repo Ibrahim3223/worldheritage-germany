@@ -10,6 +10,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Buddenbrookhaus"
 latitude: 53.8683
 longitude: 10.6858
 images:

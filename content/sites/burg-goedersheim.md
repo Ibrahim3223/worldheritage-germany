@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Gödersheim"
 latitude: 50.6727
 longitude: 6.54725
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Odenbach"
 latitude: 49.6831
 longitude: 7.65006
 images:

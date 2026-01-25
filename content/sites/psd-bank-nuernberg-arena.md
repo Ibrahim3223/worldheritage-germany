@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "PSD Bank Nürnberg ARENA"
 latitude: 49.4274
 longitude: 11.1232
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "German Salt Museum"
 latitude: 53.2433
 longitude: 10.4017
 images:

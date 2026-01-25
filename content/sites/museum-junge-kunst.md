@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum Junge Kunst"
 latitude: 52.345
 longitude: 14.5547
 images:

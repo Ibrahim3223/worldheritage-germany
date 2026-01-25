@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Großfurra"
 latitude: 51.393541953
 longitude: 10.798633683
 images:

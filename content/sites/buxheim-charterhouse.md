@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Buxheim Charterhouse"
 latitude: 47.9995
 longitude: 10.1338
 images:

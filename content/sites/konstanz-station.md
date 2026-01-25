@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Konstanz station"
 latitude: 47.658754
 longitude: 9.177312
 images:

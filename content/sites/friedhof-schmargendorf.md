@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Friedhof Schmargendorf"
 latitude: 52.4737
 longitude: 13.2926
 images:

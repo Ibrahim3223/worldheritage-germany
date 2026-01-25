@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Alte Burg (Bad Münstereifel)"
 latitude: 50.5585
 longitude: 6.76948
 images:

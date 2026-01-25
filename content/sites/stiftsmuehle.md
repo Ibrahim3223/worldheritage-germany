@@ -10,6 +10,7 @@ categories:
   - "Windmill"
 regions:
   - "Germany"
+site_name: "Stiftsmühle"
 latitude: 53.46797887
 longitude: 7.47149706
 images:

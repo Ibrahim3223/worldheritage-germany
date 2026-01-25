@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "Francke Foundations"
 latitude: 51.4781
 longitude: 11.9719
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Rinchnach Priory"
 latitude: 48.949444444
 longitude: 13.200277777
 images:

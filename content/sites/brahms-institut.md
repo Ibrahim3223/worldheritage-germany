@@ -10,6 +10,7 @@ categories:
 - Library
 regions:
 - Germany
+site_name: "Brahms-Institut"
 latitude: 53.88
 longitude: 10.696
 images:

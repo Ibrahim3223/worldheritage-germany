@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Quadrat Bottrop"
 latitude: 51.5313
 longitude: 6.91792
 images:

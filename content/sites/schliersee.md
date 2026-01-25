@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Schliersee"
 latitude: 47.722243055
 longitude: 11.862333888
 images:

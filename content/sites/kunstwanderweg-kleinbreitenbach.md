@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Kunstwanderweg Kleinbreitenbach"
 latitude: 50.7670375
 longitude: 10.9136261
 images:

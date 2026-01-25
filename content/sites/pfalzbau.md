@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Pfalzbau"
 latitude: 49.4794
 longitude: 8.44601
 images:

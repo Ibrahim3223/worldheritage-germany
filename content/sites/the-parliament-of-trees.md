@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "The Parliament of Trees"
 latitude: 52.5211
 longitude: 13.3776
 images:

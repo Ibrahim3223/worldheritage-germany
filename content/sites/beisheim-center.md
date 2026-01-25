@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Beisheim Center"
 latitude: 52.5108
 longitude: 13.3752
 images:

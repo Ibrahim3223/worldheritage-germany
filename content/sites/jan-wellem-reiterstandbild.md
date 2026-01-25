@@ -10,6 +10,7 @@ categories:
 - Statue
 regions:
 - Germany
+site_name: "Jan-Wellem-Reiterstandbild"
 latitude: 51.2258
 longitude: 6.77202
 images:

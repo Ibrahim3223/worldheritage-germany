@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Mouse Tower"
 latitude: 49.9719
 longitude: 7.88083
 images:

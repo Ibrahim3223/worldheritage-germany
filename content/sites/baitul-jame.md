@@ -10,6 +10,7 @@ categories:
 - Mosque
 regions:
 - Germany
+site_name: "Baitul-Jame"
 latitude: 50.09888889
 longitude: 8.79083333
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Glücksburg Castle"
 latitude: 54.831666666
 longitude: 9.543611111
 images:

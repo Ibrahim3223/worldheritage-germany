@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Liberale Synagoge"
 latitude: 49.875054
 longitude: 8.647725
 images:

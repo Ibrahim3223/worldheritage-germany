@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Ammersee"
 latitude: 48.0
 longitude: 11.116666666
 images:

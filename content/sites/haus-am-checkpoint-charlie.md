@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Haus am Checkpoint Charlie"
 latitude: 52.5069
 longitude: 13.3907
 images:

@@ -10,6 +10,7 @@ categories:
   - "Mausoleum"
 regions:
   - "Germany"
+site_name: "Mausoleum of Prince Ernst"
 latitude: 52.323333333
 longitude: 9.207222222
 images:

@@ -10,6 +10,7 @@ categories:
 - Library
 regions:
 - Germany
+site_name: "Dansk Centralbibliotek for Sydslesvig"
 latitude: 54.792
 longitude: 9.43108
 images:

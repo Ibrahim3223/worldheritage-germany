@@ -10,6 +10,7 @@ categories:
   - "Dam"
 regions:
   - "Germany"
+site_name: "Königshütte Dam"
 latitude: 51.7386
 longitude: 10.7933
 images:

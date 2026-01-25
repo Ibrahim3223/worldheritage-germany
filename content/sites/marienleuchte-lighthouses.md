@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Marienleuchte lighthouses"
 latitude: 54.495
 longitude: 11.238055555
 images:

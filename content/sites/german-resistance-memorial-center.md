@@ -10,6 +10,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "German Resistance Memorial Center"
 latitude: 52.5078
 longitude: 13.3625
 images:

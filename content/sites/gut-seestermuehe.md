@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Gut Seestermühe"
 latitude: 53.7074
 longitude: 9.56798
 images:

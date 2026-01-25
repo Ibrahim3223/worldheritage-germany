@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Großer Daumen"
 latitude: 47.44155
 longitude: 10.37557
 images:

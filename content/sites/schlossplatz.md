@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Schlossplatz"
 latitude: 50.0819
 longitude: 8.24139
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Ockenfels Castle"
 latitude: 50.57432
 longitude: 7.272576
 

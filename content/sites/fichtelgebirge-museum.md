@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Fichtelgebirge Museum"
 latitude: 50.0389
 longitude: 12.0033
 images:

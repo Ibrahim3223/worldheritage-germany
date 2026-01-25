@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Kloster Fürstenzell"
 latitude: 48.5212
 longitude: 13.3196
 images:

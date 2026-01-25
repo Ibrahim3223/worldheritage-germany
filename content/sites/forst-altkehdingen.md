@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Forst Altkehdingen"
 latitude: 53.7528
 longitude: 9.04167
 images:

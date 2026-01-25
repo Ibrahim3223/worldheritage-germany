@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Katholische Akademie in Bayern"
 latitude: 48.16
 longitude: 11.59138889
 

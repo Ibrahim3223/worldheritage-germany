@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Dömitz Fortress"
 latitude: 53.1424
 longitude: 11.2457
 images:

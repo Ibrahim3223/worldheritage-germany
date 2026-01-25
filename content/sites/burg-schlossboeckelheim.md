@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Schloßböckelheim"
 latitude: 49.8053
 longitude: 7.74208
 images:

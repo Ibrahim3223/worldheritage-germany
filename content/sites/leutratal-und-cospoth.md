@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Leutratal und Cospoth"
 latitude: 50.8701
 longitude: 11.5507
 images:

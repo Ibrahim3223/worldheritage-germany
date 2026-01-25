@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue Selm-Bork"
 latitude: 51.66527778
 longitude: 7.46722222
 images:

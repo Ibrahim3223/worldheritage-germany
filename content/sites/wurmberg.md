@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Wurmberg"
 latitude: 51.7566
 longitude: 10.6183
 images:

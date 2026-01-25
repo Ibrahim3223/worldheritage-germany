@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Icon museum of Frankfurt"
 latitude: 50.106764
 longitude: 8.688015
 images:

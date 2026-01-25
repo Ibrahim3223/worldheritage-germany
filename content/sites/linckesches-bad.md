@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Lincke’sches Bad"
 latitude: 51.0631
 longitude: 13.7639
 images:

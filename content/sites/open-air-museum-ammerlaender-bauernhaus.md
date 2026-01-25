@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Open air museum Ammerländer Bauernhaus"
 latitude: 53.182947
 longitude: 8.017652
 images:

@@ -11,6 +11,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Buchmuseum"
 latitude: 51.0286
 longitude: 13.7369
 images:

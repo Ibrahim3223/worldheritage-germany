@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum of the University of Tübingen"
 latitude: 48.51949
 longitude: 9.05079
 images:

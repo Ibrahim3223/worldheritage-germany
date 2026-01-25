@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Reichenbach Abbey"
 latitude: 49.182777777
 longitude: 12.348333333
 images:

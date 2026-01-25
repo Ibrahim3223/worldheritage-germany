@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Tannenberg"
 latitude: 49.7565
 longitude: 8.65681
 images:

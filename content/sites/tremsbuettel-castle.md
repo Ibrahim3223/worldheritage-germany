@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Tremsbüttel Castle"
 latitude: 53.7437
 longitude: 10.313
 images:

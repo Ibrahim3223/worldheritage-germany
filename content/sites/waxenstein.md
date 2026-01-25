@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Waxenstein"
 latitude: 47.4475
 longitude: 11.022777777
 images:

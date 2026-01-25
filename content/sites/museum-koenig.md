@@ -10,6 +10,7 @@ categories:
   - "Cultural Center"
 regions:
   - "Germany"
+site_name: "Museum Koenig"
 latitude: 50.7221615
 longitude: 7.113381
 images:

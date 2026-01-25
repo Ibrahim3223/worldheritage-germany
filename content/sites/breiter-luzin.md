@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Breiter Luzin"
 latitude: 53.355277777
 longitude: 13.465277777
 images:

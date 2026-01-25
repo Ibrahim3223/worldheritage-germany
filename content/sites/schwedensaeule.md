@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Schwedensäule"
 latitude: 49.8232
 longitude: 8.41472
 images:

@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Teichgebiet Biehla-Weißig"
 latitude: 51.3347
 longitude: 14.1115
 images:

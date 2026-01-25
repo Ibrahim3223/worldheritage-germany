@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Oder"
 latitude: 53.6017
 longitude: 14.5897
 images:

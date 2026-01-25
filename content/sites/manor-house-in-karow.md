@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Manor house in Karow"
 latitude: 53.5356
 longitude: 12.2587
 images:

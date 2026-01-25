@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Khatchkar"
 latitude: 53.2275
 longitude: 7.459444444
 images:

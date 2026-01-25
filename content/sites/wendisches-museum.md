@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Wendisches Museum"
 latitude: 51.7598
 longitude: 14.3345
 images:

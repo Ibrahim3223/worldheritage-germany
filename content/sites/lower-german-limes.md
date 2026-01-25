@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Lower German Limes"
 latitude: 51.662222222
 longitude: 6.453888888
 

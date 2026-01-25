@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Kellersee"
 latitude: 54.172222222
 longitude: 10.594444444
 images:

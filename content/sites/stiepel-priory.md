@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Stiepel Priory"
 latitude: 51.431766666
 longitude: 7.228675
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Hus-Museum Konstanz"
 latitude: 47.658928
 longitude: 9.170857
 images:

@@ -10,6 +10,7 @@ categories:
   - "Windmill"
 regions:
   - "Germany"
+site_name: "Windmühle Bad Bederkesa"
 latitude: 53.62143
 longitude: 8.83888
 images:

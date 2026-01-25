@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Sammlung Prinzhorn"
 latitude: 49.40977
 longitude: 8.688748
 images:

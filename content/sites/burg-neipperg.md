@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Neipperg"
 latitude: 49.1045
 longitude: 9.05143
 images:

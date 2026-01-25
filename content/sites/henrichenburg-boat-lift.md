@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Henrichenburg boat lift"
 latitude: 51.616583333
 longitude: 7.325861111
 images:

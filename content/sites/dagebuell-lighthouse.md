@@ -10,6 +10,7 @@ categories:
 - Lighthouse
 regions:
 - Germany
+site_name: "Dagebüll lighthouse"
 latitude: 54.7252801
 longitude: 8.6998737
 images:

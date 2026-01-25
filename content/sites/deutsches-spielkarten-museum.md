@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Deutsches Spielkarten-Museum"
 latitude: 48.6902
 longitude: 9.13848
 images:

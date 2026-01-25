@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Üsenberg Castle"
 latitude: 48.042743
 longitude: 7.574635
 

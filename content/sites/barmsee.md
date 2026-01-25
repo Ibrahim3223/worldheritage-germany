@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Barmsee"
 latitude: 47.5
 longitude: 11.247222222
 images:

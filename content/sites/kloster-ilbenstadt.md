@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Kloster Ilbenstadt"
 latitude: 50.2803
 longitude: 8.8026
 images:

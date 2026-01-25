@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Hüls"
 latitude: 51.3747
 longitude: 6.51222
 images:

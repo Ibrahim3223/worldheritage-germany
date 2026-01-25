@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Mühlenbach (Koblenz)"
 latitude: 50.3532
 longitude: 7.67103
 images:

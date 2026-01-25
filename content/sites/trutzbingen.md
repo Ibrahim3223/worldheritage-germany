@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Trutzbingen"
 latitude: 49.9539
 longitude: 7.89406
 images:

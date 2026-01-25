@@ -10,6 +10,7 @@ categories:
 - Garden
 regions:
 - Germany
+site_name: "Hortus Palatinus"
 latitude: 49.4107
 longitude: 8.71876
 images:

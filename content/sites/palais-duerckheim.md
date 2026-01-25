@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Palais Dürckheim"
 latitude: 48.1458
 longitude: 11.5733
 images:

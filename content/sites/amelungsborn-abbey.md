@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Amelungsborn Abbey"
 latitude: 51.8972
 longitude: 9.59306
 images:

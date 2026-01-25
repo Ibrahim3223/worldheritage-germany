@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "ZKM Center for Art and Media Karlsruhe"
 latitude: 49.001388888
 longitude: 8.383611111
 images:

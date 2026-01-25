@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Platz der Republik"
 latitude: 52.5186
 longitude: 13.3725
 images:

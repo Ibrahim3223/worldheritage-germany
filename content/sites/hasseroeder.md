@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Hasseröder"
 latitude: 51.844444444
 longitude: 10.754444444
 images:

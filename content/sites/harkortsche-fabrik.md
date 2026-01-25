@@ -10,6 +10,7 @@ categories:
 - Factory
 regions:
 - Germany
+site_name: "Harkort’sche Fabrik"
 latitude: 51.344722222
 longitude: 7.408333333
 images:

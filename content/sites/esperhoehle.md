@@ -10,6 +10,7 @@ categories:
 - Cave
 regions:
 - Germany
+site_name: "Esperhöhle"
 latitude: 49.7708
 longitude: 11.2964
 images:

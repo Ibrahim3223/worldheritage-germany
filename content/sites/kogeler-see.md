@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Kogeler See"
 latitude: 53.411619444
 longitude: 12.409766666
 images:

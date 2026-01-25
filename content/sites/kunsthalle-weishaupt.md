@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kunsthalle Weishaupt"
 latitude: 48.3976
 longitude: 9.99492
 

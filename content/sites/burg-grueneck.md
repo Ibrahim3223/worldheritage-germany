@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Grüneck"
 latitude: 47.770457
 longitude: 7.6717
 images:

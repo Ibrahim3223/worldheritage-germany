@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Prussian National Monument for the Liberation Wars"
 latitude: 52.487661
 longitude: 13.381464
 images:

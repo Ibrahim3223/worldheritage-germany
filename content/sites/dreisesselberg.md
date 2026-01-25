@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Dreisesselberg"
 latitude: 48.78472222
 longitude: 13.8025
 images:

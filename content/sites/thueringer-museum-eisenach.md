@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Thüringer Museum, Eisenach"
 latitude: 50.97503611
 longitude: 10.31991667
 images:

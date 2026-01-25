@@ -11,6 +11,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Hochvogel"
 latitude: 47.3803625
 longitude: 10.4367656
 images:

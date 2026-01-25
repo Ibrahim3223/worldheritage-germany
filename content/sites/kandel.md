@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Kandel"
 latitude: 48.0625477
 longitude: 8.0113188
 images:

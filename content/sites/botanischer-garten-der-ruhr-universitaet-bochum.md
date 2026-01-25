@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten der Ruhr-Universität Bochum"
 latitude: 51.4419
 longitude: 7.2675
 images:

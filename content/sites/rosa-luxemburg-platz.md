@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Rosa-Luxemburg-Platz"
 latitude: 52.5269
 longitude: 13.4111
 images:

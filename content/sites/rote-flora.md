@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Rote Flora"
 latitude: 53.56199
 longitude: 9.9615
 images:

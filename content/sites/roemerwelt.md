@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "RömerWelt"
 latitude: 50.5111
 longitude: 7.32671
 images:

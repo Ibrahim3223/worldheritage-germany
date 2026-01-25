@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Castle Caputh"
 latitude: 52.3491
 longitude: 13.0007
 images:

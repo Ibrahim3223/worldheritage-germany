@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Loki-Schmidt-Garten"
 latitude: 53.56222222
 longitude: 9.86111111
 

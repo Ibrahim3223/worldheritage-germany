@@ -11,6 +11,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Bärenschlössle"
 latitude: 48.76086
 longitude: 9.0914
 images:

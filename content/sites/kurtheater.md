@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Kurtheater"
 latitude: 50.1991
 longitude: 10.0798
 images:

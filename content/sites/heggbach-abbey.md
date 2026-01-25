@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Heggbach Abbey"
 latitude: 48.1497
 longitude: 9.89583
 images:

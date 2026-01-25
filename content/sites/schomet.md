@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Schomet"
 latitude: 50.7239
 longitude: 6.22111
 images:

@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Simssee"
 latitude: 47.872777777
 longitude: 12.239444444
 images:

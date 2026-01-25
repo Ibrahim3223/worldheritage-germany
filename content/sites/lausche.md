@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Lausche"
 latitude: 50.848888888
 longitude: 14.646944444
 images:

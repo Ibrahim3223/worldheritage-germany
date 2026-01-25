@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Augustiner Museum"
 latitude: 47.99388889
 longitude: 7.8525
 images:

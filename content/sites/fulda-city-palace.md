@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Fulda City Palace"
 latitude: 50.5539
 longitude: 9.67556
 images:

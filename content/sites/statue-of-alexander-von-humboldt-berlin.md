@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Statue of Alexander von Humboldt, Berlin"
 latitude: 52.51765278
 longitude: 13.39408333
 images:

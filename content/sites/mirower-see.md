@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Mirower See"
 latitude: 53.281388888
 longitude: 12.807222222
 images:

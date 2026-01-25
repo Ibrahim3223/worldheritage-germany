@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "Municipal Scientific Library Mainz"
 latitude: 50.0085
 longitude: 8.26938
 images:

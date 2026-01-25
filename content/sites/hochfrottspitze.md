@@ -11,6 +11,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Hochfrottspitze"
 latitude: 47.296111111
 longitude: 10.293055555
 images:

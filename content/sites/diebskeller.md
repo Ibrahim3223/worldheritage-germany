@@ -10,6 +10,7 @@ categories:
 - Cave
 regions:
 - Germany
+site_name: "Diebskeller"
 latitude: 50.90858
 longitude: 14.06425
 images:

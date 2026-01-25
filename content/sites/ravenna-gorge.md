@@ -10,6 +10,7 @@ categories:
   - "Valley"
 regions:
   - "Germany"
+site_name: "Ravenna Gorge"
 latitude: 47.91972222
 longitude: 8.085
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Husen Castle"
 latitude: 51.419
 longitude: 7.50527
 images:

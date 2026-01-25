@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Raitenhaslach Cistercian Abbey"
 latitude: 48.128365956
 longitude: 12.787242812
 images:

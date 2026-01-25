@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Neutor (Nürnberg)"
 latitude: 49.4564
 longitude: 11.0717
 images:

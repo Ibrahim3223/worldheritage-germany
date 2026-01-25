@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Alte Wasserkunst"
 latitude: 51.180666666
 longitude: 14.420647222
 images:

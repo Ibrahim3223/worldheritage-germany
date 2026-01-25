@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Ravensbrück Memorial"
 latitude: 53.189594
 longitude: 13.164355
 images:

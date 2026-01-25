@@ -10,6 +10,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Denkmal für Franz Xaver Gabelsberger"
 latitude: 48.1418
 longitude: 11.5678
 images:

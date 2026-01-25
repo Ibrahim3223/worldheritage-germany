@@ -10,6 +10,7 @@ categories:
   - "Windmill"
 regions:
   - "Germany"
+site_name: "Scholten-Mühle"
 latitude: 51.769897
 longitude: 6.410928
 images:

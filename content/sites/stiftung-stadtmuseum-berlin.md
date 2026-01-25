@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Stiftung Stadtmuseum Berlin"
 latitude: 52.516752
 longitude: 13.407166
 

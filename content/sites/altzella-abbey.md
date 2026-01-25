@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Altzella Abbey"
 latitude: 51.0603
 longitude: 13.2765
 images:

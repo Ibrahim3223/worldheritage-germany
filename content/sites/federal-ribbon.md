@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Federal Ribbon"
 latitude: 52.52
 longitude: 13.3719
 images:

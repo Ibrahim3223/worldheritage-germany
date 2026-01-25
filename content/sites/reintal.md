@@ -10,6 +10,7 @@ categories:
   - "Valley"
 regions:
   - "Germany"
+site_name: "Reintal"
 latitude: 47.469166666
 longitude: 11.118611111
 images:

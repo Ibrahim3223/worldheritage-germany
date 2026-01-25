@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Waldsteinburg"
 latitude: 50.1289
 longitude: 11.855
 

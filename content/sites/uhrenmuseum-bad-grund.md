@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Uhrenmuseum Bad Grund"
 latitude: 51.8078
 longitude: 10.2425
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Habichtsburg"
 latitude: 50.5866
 longitude: 10.3924
 images:

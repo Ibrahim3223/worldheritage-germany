@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Berlin-Wedding station"
 latitude: 52.5425
 longitude: 13.3661
 images:

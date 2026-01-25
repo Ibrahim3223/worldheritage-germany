@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Griebnitzsee"
 latitude: 52.3975
 longitude: 13.123888888
 images:

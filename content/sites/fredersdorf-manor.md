@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Fredersdorf Manor"
 latitude: 52.188638
 longitude: 12.63947
 images:

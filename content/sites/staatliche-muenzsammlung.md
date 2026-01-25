@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Staatliche Münzsammlung"
 latitude: 48.1411
 longitude: 11.5781
 images:

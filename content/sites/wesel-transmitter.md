@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Wesel transmitter"
 latitude: 51.648888888
 longitude: 6.578055555
 images:

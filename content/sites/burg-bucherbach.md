@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Bucherbach"
 latitude: 49.3002
 longitude: 6.89712
 images:

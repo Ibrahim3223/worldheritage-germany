@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Haus der Musik"
 latitude: 48.805664
 longitude: 9.213006
 images:

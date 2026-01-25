@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Alt-Urach"
 latitude: 47.87611111
 longitude: 8.19444444
 images:

@@ -10,6 +10,7 @@ categories:
 - Cave
 regions:
 - Germany
+site_name: "Falkensteiner Cave"
 latitude: 48.5142
 longitude: 9.45278
 images:

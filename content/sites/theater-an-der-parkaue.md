@@ -10,6 +10,7 @@ categories:
   - "School Building"
 regions:
   - "Germany"
+site_name: "Theater an der Parkaue"
 latitude: 52.5169
 longitude: 13.4772
 images:

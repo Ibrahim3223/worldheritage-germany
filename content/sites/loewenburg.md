@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Löwenburg"
 latitude: 50.6642
 longitude: 7.25056
 

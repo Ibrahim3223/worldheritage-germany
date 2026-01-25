@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Dinslaken"
 latitude: 51.5627
 longitude: 6.73146
 images:

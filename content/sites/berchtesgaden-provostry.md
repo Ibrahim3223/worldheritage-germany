@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Berchtesgaden Provostry"
 latitude: 47.63333333
 longitude: 13.00361111
 images:

@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Walther-Schreiber-Platz"
 latitude: 52.465
 longitude: 13.3283
 images:

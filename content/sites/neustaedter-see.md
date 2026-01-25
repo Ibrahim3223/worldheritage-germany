@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Neustädter See"
 latitude: 53.394444444
 longitude: 11.566944444
 images:

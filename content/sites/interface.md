@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "interface"
 latitude: 52.471196255
 longitude: 13.428984462
 images:

@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Emil-Schumacher-Museum"
 latitude: 51.355641
 longitude: 7.473533
 images:

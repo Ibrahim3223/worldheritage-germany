@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Barmbek station"
 latitude: 53.586944
 longitude: 10.044722
 images:

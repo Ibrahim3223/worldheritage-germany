@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kunst im Tunnel"
 latitude: 51.2199
 longitude: 6.76678
 

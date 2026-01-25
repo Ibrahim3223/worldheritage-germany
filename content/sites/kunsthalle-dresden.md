@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Kunsthalle Dresden"
 latitude: 51.0528
 longitude: 13.7433
 images:

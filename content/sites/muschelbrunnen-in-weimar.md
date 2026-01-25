@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Muschelbrunnen in Weimar"
 latitude: 50.9831188
 longitude: 11.3215073
 images:

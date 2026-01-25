@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Wittumspalais"
 latitude: 50.9797
 longitude: 11.3266
 images:

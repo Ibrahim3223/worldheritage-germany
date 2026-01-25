@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Regen"
 latitude: 49.166118
 longitude: 13.268559
 images:

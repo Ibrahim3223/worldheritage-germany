@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Zullenstein"
 latitude: 49.703502247
 longitude: 8.392147322
 images:

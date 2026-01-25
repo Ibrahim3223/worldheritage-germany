@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Bau am Ölberg"
 latitude: 47.91888889
 longitude: 7.76666667
 images:

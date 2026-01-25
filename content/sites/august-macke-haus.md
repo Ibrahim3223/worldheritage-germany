@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "August-Macke-Haus"
 latitude: 50.73745
 longitude: 7.086314
 images:

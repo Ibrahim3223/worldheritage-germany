@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Kampen lighthouse"
 latitude: 54.9461
 longitude: 8.34083
 images:

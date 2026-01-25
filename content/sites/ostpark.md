@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Ostpark"
 latitude: 48.1136
 longitude: 11.6381
 images:

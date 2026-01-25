@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Neuenstein"
 latitude: 48.5026
 longitude: 8.1291
 images:

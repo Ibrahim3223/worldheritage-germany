@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Ruden"
 latitude: 54.206369444
 longitude: 13.771480555
 images:

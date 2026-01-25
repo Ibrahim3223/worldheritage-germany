@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Camminer See"
 latitude: 53.435180555
 longitude: 13.3108
 images:

@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Cronenberg Protestant Cemetery"
 latitude: 51.206952777
 longitude: 7.131425
 images:

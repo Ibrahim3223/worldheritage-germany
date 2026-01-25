@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Historisches Stadttheater Weißenhorn"
 latitude: 48.3052
 longitude: 10.1565
 images:

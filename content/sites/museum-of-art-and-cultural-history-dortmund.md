@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum of Art and Cultural History (Dortmund)"
 latitude: 51.5166
 longitude: 7.463
 

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Klaus-Groth-Museum"
 latitude: 54.1929
 longitude: 9.09628
 images:

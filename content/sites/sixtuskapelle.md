@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Sixtuskapelle"
 latitude: 48.5744
 longitude: 13.4657
 images:

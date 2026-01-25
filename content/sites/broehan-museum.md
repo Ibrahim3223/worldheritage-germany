@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Bröhan Museum"
 latitude: 52.5188
 longitude: 13.2954
 images:

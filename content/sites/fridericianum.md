@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Fridericianum"
 latitude: 51.3136
 longitude: 9.4975
 images:

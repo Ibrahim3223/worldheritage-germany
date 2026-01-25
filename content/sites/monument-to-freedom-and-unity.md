@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Monument to Freedom and Unity"
 latitude: 52.51638889
 longitude: 13.4
 images:

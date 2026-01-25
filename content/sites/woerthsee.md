@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Wörthsee"
 latitude: 48.0581
 longitude: 11.1783
 images:

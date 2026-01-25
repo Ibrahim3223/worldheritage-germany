@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Galerie Neue Meister"
 latitude: 51.051944388
 longitude: 13.744444388
 images:

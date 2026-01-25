@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Schloss Blücherhof"
 latitude: 53.6166
 longitude: 12.5202
 images:

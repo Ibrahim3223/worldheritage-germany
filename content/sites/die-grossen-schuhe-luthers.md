@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Die Großen Schuhe Luthers"
 latitude: 49.630641
 longitude: 8.359949
 images:

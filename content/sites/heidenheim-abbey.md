@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Heidenheim Abbey"
 latitude: 49.0177
 longitude: 10.7427
 images:

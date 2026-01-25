@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Matthiasturm"
 latitude: 51.18276
 longitude: 14.42012
 images:

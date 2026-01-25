@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Stadeck"
 latitude: 49.9115
 longitude: 8.1358
 images:

@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Bleibeskopf"
 latitude: 50.2525
 longitude: 8.534722222
 images:

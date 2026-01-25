@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Abteiberg Museum"
 latitude: 51.192778
 longitude: 6.433056
 images:

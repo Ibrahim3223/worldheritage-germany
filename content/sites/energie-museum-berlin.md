@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Energie-Museum Berlin"
 latitude: 52.4436
 longitude: 13.33
 images:

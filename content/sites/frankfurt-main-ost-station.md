@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Frankfurt (Main) Ost station"
 latitude: 50.112459
 longitude: 8.708381
 images:

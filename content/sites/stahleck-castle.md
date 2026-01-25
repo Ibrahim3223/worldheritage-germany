@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Stahleck Castle"
 latitude: 50.058055555
 longitude: 7.765555555
 

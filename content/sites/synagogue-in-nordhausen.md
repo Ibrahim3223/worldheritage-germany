@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue in Nordhausen"
 latitude: 51.50359
 longitude: 10.79357
 images:

@@ -10,6 +10,7 @@ categories:
   - "Cave"
 regions:
   - "Germany"
+site_name: "Teufelsküche"
 latitude: 47.91888889
 longitude: 7.76666667
 images:

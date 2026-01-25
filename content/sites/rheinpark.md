@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Rheinpark"
 latitude: 50.949166666
 longitude: 6.975555555
 images:

@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Östliche Karwendelspitze"
 latitude: 47.444722222
 longitude: 11.421388888
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Stahlberg Castle"
 latitude: 50.057
 longitude: 7.73858
 

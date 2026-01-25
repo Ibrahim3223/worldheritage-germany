@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Gera"
 latitude: 53.521896
 longitude: 8.585174
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Privatbrauerei Wittingen"
 latitude: 52.726611111
 longitude: 10.743694444
 

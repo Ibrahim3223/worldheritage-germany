@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Eibenwald bei Paterzell"
 latitude: 47.856111111
 longitude: 11.046111111
 images:

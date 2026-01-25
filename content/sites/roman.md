@@ -10,6 +10,7 @@ categories:
   - "Statue"
 regions:
   - "Germany"
+site_name: "Roman"
 latitude: 50.9777
 longitude: 11.0287
 images:

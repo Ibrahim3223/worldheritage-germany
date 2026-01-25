@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Wollmatinger Ried - Untersee - Gnadensee"
 latitude: 47.67638889
 longitude: 9.12777778
 images:

@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Morstein Castle"
 latitude: 49.22
 longitude: 9.88215
 images:

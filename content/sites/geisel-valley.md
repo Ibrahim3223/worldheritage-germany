@@ -10,6 +10,7 @@ categories:
 - Valley
 regions:
 - Germany
+site_name: "Geisel Valley"
 latitude: 51.307777777
 longitude: 11.869166666
 images:

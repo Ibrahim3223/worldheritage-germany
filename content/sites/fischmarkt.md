@@ -10,6 +10,7 @@ categories:
 - Market Square
 regions:
 - Germany
+site_name: "Fischmarkt"
 latitude: 50.9778
 longitude: 11.0289
 images:

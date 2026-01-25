@@ -10,6 +10,7 @@ categories:
 - Courthouse
 regions:
 - Germany
+site_name: "Justizpalast"
 latitude: 48.1406
 longitude: 11.5647
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Tierberg"
 latitude: 49.2522
 longitude: 9.78684
 images:

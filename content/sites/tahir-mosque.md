@@ -10,6 +10,7 @@ categories:
   - "Mosque"
 regions:
   - "Germany"
+site_name: "Tahir Mosque"
 latitude: 50.3753
 longitude: 7.59208
 images:

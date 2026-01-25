@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Nordsternpark"
 latitude: 51.5236
 longitude: 7.03333
 images:

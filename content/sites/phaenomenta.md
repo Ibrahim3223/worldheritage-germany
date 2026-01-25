@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Phänomenta"
 latitude: 54.79539
 longitude: 9.42997
 images:

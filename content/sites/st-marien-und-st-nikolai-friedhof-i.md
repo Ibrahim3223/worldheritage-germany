@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "St. Marien- und St. Nikolai-Friedhof I"
 latitude: 52.527611111
 longitude: 13.417613888
 images:

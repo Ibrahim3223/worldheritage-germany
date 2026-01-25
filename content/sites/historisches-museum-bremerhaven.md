@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Historisches Museum Bremerhaven"
 latitude: 53.5388
 longitude: 8.58565
 images:

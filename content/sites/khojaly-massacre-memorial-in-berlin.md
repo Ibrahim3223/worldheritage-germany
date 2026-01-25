@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Khojaly Massacre Memorial in Berlin"
 latitude: 52.4321
 longitude: 13.255
 images:

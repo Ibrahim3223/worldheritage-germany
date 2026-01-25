@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Geigelstein"
 latitude: 47.707852777
 longitude: 12.334472222
 images:

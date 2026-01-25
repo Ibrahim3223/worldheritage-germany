@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Odeonsplatz"
 latitude: 48.142222222
 longitude: 11.5775
 images:

@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Kanzlerpalais"
 latitude: 50.9767
 longitude: 10.3169
 images:

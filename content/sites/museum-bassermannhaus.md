@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum Bassermannhaus"
 latitude: 49.48772812
 longitude: 8.46253967
 images:

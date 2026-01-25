@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum SchPIRA"
 latitude: 49.316475
 longitude: 8.439654
 images:

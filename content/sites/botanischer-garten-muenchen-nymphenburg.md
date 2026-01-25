@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten München-Nymphenburg"
 latitude: 48.163131007
 longitude: 11.499946012
 images:

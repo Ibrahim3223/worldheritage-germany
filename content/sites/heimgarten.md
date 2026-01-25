@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Heimgarten"
 latitude: 47.6136
 longitude: 11.2819
 images:

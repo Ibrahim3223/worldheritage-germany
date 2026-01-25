@@ -10,6 +10,7 @@ categories:
 - Lighthouse
 regions:
 - Germany
+site_name: "Büsum Lighthouse"
 latitude: 54.12684
 longitude: 8.85825
 images:

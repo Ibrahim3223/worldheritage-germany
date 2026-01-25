@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "St. Florian (Attenham)"
 latitude: 47.93255997
 longitude: 11.55589962
 images:

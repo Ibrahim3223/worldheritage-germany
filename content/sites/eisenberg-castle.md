@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Eisenberg Castle"
 latitude: 47.612777777
 longitude: 10.590277777
 images:

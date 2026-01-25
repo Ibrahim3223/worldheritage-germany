@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Metten Abbey"
 latitude: 48.855563818
 longitude: 12.918092039
 

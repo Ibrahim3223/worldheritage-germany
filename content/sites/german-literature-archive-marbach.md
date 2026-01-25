@@ -10,6 +10,7 @@ categories:
 - Library
 regions:
 - Germany
+site_name: "German Literature Archive Marbach"
 latitude: 48.9357107
 longitude: 9.2555486
 images:

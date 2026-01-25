@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Sperberhai Dyke"
 latitude: 51.7803
 longitude: 10.42
 

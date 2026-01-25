@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Memorial Johann David Ludwig Yorck von Wartenburg"
 latitude: 52.516599163
 longitude: 13.395906093
 images:

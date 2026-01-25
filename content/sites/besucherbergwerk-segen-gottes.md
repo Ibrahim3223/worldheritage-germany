@@ -10,6 +10,7 @@ categories:
 - Mine
 regions:
 - Germany
+site_name: "Besucherbergwerk Segen Gottes"
 latitude: 48.292168
 longitude: 8.085385
 images:

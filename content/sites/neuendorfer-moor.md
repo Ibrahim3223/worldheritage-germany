@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Neuendorfer Moor"
 latitude: 53.6562
 longitude: 11.0945
 images:

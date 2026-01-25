@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Mines of Rammelsberg, Historic Town of Goslar and Upper Harz Water Management System"
 latitude: 51.82
 longitude: 10.34
 images:

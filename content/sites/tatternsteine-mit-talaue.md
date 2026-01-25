@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Tatternsteine mit Talaue"
 latitude: 50.7606
 longitude: 6.20383
 images:

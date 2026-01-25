@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Wilhelma-Theater"
 latitude: 48.8054
 longitude: 9.20948
 images:

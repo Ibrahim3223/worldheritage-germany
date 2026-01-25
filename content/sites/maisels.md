@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Maisel's"
 latitude: 49.946388888
 longitude: 11.566666666
 

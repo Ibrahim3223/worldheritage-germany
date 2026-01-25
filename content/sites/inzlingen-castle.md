@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Inzlingen Castle"
 latitude: 47.58666667
 longitude: 7.69694444
 images:

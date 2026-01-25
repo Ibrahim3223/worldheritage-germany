@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Zollern II/IV Colliery"
 latitude: 51.5178
 longitude: 7.33465
 images:

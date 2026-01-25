@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Ramstein Castle"
 latitude: 49.8238
 longitude: 6.64408
 

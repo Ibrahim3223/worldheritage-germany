@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "III. Städtischer Friedhof Stubenrauchstraße"
 latitude: 52.476388888
 longitude: 13.322777777
 images:

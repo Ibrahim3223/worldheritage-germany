@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Haus am Horn"
 latitude: 50.9739
 longitude: 11.3394
 images:

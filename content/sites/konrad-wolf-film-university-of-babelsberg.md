@@ -10,6 +10,7 @@ categories:
   - "University"
 regions:
   - "Germany"
+site_name: "Konrad Wolf Film University of Babelsberg"
 latitude: 52.388611
 longitude: 13.116667
 images:

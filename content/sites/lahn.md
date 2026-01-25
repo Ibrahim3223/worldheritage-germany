@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Lahn"
 latitude: 50.892252777
 longitude: 8.241583333
 images:

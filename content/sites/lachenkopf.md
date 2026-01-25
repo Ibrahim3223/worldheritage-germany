@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Lachenkopf"
 latitude: 47.39483
 longitude: 10.37171
 images:

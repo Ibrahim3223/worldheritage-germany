@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Schillerplatz"
 latitude: 48.7772
 longitude: 9.17847
 images:

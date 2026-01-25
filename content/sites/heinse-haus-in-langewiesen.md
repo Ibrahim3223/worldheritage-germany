@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Heinse-Haus in Langewiesen"
 latitude: 50.6712258
 longitude: 10.9741038
 images:

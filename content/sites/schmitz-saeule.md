@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Schmitz-Säule"
 latitude: 50.9382513
 longitude: 6.9610303
 images:

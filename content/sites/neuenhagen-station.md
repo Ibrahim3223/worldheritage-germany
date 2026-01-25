@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Neuenhagen station"
 latitude: 52.5208
 longitude: 13.7003
 images:

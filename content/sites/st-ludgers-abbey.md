@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "St. Ludger's Abbey"
 latitude: 52.2262
 longitude: 11.0157
 images:

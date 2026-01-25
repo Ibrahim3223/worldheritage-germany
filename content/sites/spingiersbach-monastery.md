@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Spingiersbach Monastery"
 latitude: 50.0252
 longitude: 7.06945
 images:

@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Geltinger Birk"
 latitude: 54.7897
 longitude: 9.915
 images:

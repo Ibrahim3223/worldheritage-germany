@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Invalids' Cemetery"
 latitude: 52.531944444
 longitude: 13.371111111
 images:

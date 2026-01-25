@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Marktplatz"
 latitude: 49.4122
 longitude: 8.71028
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum of motorcycles und Technology Großschönau"
 latitude: 50.894891944
 longitude: 14.672028055
 images:

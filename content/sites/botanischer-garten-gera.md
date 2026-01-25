@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten Gera"
 latitude: 50.8758
 longitude: 12.0878
 images:

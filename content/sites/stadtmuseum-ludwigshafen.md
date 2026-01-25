@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Stadtmuseum Ludwigshafen"
 latitude: 49.4856
 longitude: 8.44314
 images:

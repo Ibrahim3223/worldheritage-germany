@@ -10,6 +10,7 @@ categories:
 - Synagogue
 regions:
 - Germany
+site_name: "Altdorf Synagogue"
 latitude: 48.26566
 longitude: 7.81459
 images:

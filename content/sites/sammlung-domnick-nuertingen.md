@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Sammlung Domnick Nürtingen"
 latitude: 48.64386
 longitude: 9.311838
 images:

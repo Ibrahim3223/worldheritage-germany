@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Hennigsdorf station"
 latitude: 52.638
 longitude: 13.2057
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schorfheide-Chorin Biosphere Reserve"
 latitude: 53.0
 longitude: 13.4
 

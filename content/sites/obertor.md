@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Obertor"
 latitude: 51.1945
 longitude: 6.69832
 images:

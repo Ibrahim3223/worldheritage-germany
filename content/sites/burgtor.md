@@ -10,6 +10,7 @@ categories:
 - City Gate
 regions:
 - Germany
+site_name: "Burgtor"
 latitude: 53.874
 longitude: 10.6911
 images:

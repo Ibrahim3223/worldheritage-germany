@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "Congresshalle"
 latitude: 49.23772
 longitude: 6.987507
 images:

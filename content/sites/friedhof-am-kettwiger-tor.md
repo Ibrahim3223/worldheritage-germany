@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Friedhof am Kettwiger Tor"
 latitude: 51.4501
 longitude: 7.01333
 images:

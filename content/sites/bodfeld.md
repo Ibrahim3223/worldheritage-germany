@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Bodfeld"
 latitude: 51.788888888
 longitude: 10.838611111
 images:

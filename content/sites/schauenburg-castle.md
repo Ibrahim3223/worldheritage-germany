@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schauenburg Castle"
 latitude: 48.5395
 longitude: 8.0945
 

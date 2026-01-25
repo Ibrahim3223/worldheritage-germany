@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "documenta-Halle"
 latitude: 51.3119
 longitude: 9.49917
 images:

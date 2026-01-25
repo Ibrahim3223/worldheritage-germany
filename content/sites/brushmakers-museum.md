@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Brushmakers' Museum"
 latitude: 49.2613
 longitude: 8.0088
 images:

@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Birkenwerder station"
 latitude: 52.6885
 longitude: 13.2888
 images:

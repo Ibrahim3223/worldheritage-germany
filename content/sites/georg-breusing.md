@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Georg Breusing"
 latitude: 53.3664
 longitude: 7.20626
 images:

@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten der Universität des Saarlandes"
 latitude: 49.2545
 longitude: 7.0378
 images:

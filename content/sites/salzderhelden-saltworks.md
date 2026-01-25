@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Salzderhelden saltworks"
 latitude: 51.7976
 longitude: 9.90345
 images:

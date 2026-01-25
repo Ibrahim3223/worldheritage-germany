@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Waldsassen Abbey"
 latitude: 50.004105821
 longitude: 12.309321121
 images:

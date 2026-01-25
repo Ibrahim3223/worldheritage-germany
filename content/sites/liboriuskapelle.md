@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Liboriuskapelle"
 latitude: 51.049166666
 longitude: 10.2525
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Gothaer Haus der Versicherungsgeschichte"
 latitude: 50.9431
 longitude: 10.7122
 images:

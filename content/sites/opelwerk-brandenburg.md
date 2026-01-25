@@ -10,6 +10,7 @@ categories:
   - "Factory"
 regions:
   - "Germany"
+site_name: "Opelwerk Brandenburg"
 latitude: 52.4222
 longitude: 12.5278
 images:

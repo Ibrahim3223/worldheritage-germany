@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Anhaltisches Theater"
 latitude: 51.8367
 longitude: 12.2364
 images:

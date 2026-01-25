@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Poppenholz"
 latitude: 50.347151111
 longitude: 10.501813055
 images:

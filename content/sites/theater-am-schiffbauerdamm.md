@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Theater am Schiffbauerdamm"
 latitude: 52.5217
 longitude: 13.3861
 images:

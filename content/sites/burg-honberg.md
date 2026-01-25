@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Honberg"
 latitude: 47.97944444
 longitude: 8.82416667
 images:

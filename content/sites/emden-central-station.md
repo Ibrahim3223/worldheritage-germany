@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Emden Central Station"
 latitude: 53.3689
 longitude: 7.19556
 images:

@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Palais Thurn und Taxis"
 latitude: 50.115
 longitude: 8.67972
 images:

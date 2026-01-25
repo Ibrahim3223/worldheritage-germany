@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Schiller memorial"
 latitude: 50.0831
 longitude: 8.24593
 images:

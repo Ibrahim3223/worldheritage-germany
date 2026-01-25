@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Skulpturensammlung Dresden"
 latitude: 51.0519
 longitude: 13.7444
 images:

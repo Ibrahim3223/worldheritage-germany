@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Jonsdorfer Felsenstadt"
 latitude: 50.8468
 longitude: 14.6837
 images:

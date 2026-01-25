@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "synagogue of Sulzbach"
 latitude: 49.5043
 longitude: 11.7394
 images:

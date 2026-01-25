@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Stadtmuseum Fembohaus"
 latitude: 49.456549168
 longitude: 11.077170977
 images:

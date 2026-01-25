@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Lobdengau Museum"
 latitude: 49.4708
 longitude: 8.60811
 images:

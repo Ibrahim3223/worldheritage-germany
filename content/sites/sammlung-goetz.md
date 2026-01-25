@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Sammlung Goetz"
 latitude: 48.1661
 longitude: 11.6231
 

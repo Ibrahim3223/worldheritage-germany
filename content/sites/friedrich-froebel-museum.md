@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Friedrich Fröbel Museum"
 latitude: 50.6847
 longitude: 11.2634
 images:

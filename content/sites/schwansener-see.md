@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Schwansener See"
 latitude: 54.6081
 longitude: 10.0192
 images:

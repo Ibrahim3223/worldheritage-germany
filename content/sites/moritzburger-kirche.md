@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Moritzburger Kirche"
 latitude: 51.15661
 longitude: 13.67939
 images:

@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Ebertswiese"
 latitude: 50.7847
 longitude: 10.5342
 images:

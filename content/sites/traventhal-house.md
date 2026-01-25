@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Traventhal House"
 latitude: 53.8919
 longitude: 10.3175
 images:

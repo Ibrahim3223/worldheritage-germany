@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kunstsammlungen der Städtischen Museen Zwickau"
 latitude: 50.725817
 longitude: 12.489733
 

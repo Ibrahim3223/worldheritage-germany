@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Templiner See"
 latitude: 52.3675
 longitude: 13.018333333
 images:

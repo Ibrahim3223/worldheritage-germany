@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Berthold-Auerbach-Museum"
 latitude: 48.4371
 longitude: 8.70363
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Natural History Museum Leipzig"
 latitude: 51.3449
 longitude: 12.3709
 images:

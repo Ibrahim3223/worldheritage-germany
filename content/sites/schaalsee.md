@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Schaalsee"
 latitude: 53.590277777
 longitude: 10.914444444
 images:

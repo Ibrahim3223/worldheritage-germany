@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Steinfeld Abbey"
 latitude: 50.5025
 longitude: 6.56389
 images:

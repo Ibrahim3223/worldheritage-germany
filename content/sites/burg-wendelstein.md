@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Wendelstein"
 latitude: 50.8303
 longitude: 10.0244
 images:

@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Rudolph-Wilde-Park"
 latitude: 52.483611111
 longitude: 13.342222222
 images:

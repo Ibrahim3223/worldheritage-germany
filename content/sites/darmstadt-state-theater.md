@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Darmstadt State Theater"
 latitude: 49.8684
 longitude: 8.64904
 images:

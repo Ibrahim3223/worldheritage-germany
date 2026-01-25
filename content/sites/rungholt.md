@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Rungholt"
 latitude: 54.466666666
 longitude: 8.716666666
 

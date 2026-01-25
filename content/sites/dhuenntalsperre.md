@@ -10,6 +10,7 @@ categories:
 - Dam
 regions:
 - Germany
+site_name: "Dhünntalsperre"
 latitude: 51.0742
 longitude: 7.21389
 images:

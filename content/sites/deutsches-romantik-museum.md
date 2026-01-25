@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Deutsches Romantik-Museum"
 latitude: 50.110932
 longitude: 8.677505
 images:

@@ -11,6 +11,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Cultural History Museum (Mühlhausen/Thuringia)"
 latitude: 51.206345008
 longitude: 10.457477505
 images:

@@ -11,6 +11,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Hedeby"
 latitude: 54.491111111
 longitude: 9.565277777
 images:

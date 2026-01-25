@@ -10,6 +10,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Busmannkapelle Memorial"
 latitude: 51.0514
 longitude: 13.7349
 images:

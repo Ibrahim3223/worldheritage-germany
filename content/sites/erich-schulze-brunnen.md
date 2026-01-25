@@ -10,6 +10,7 @@ categories:
 - Fountain
 regions:
 - Germany
+site_name: "Erich-Schulze-Brunnen"
 latitude: 48.1308
 longitude: 11.5922
 images:

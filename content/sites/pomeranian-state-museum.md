@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Pomeranian State Museum"
 latitude: 54.0947
 longitude: 13.3825
 

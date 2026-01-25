@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Tegernsee"
 latitude: 47.728333333
 longitude: 11.7325
 images:

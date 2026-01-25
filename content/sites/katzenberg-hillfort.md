@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Katzenberg Hillfort"
 latitude: 50.32
 longitude: 7.24389
 

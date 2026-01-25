@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum of Lacquer Art"
 latitude: 51.9578
 longitude: 7.63125
 images:

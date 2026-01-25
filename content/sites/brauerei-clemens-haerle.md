@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Brauerei Clemens Härle"
 latitude: 47.823611
 longitude: 10.024167
 images:

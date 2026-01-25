@@ -10,6 +10,7 @@ categories:
   - "Cathedral"
 regions:
   - "Germany"
+site_name: "Metropolitankathedrale Hagia Trias (Bonn-Limperich)"
 latitude: 50.7269
 longitude: 7.13445
 images:

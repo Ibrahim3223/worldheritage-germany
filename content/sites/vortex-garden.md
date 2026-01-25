@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Vortex Garden"
 latitude: 49.875119
 longitude: 8.666603
 images:

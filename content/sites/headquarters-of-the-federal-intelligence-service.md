@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Headquarters of the Federal Intelligence Service"
 latitude: 52.533665
 longitude: 13.376327
 images:

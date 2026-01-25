@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Wendish Tower"
 latitude: 51.1819
 longitude: 14.4273
 images:

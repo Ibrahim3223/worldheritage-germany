@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "Gürzenich"
 latitude: 50.936672
 longitude: 6.958461
 images:

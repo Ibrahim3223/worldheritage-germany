@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Palais Brühl"
 latitude: 51.0533
 longitude: 13.7394
 images:

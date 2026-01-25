@@ -10,6 +10,7 @@ categories:
   - "School Building"
 regions:
   - "Germany"
+site_name: "Orlatal-Gymnasium"
 latitude: 50.735669
 longitude: 11.741997
 images:

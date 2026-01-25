@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Karl Marx statue in Trier"
 latitude: 49.759969444
 longitude: 6.642480555
 images:

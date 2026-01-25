@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Hannoversche Klippen"
 latitude: 51.65
 longitude: 9.43167
 images:

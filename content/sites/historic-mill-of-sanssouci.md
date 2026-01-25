@@ -10,6 +10,7 @@ categories:
 - Windmill
 regions:
 - Germany
+site_name: "Historic Mill of Sanssouci"
 latitude: 52.4041
 longitude: 13.0356
 images:

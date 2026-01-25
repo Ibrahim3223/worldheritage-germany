@@ -10,6 +10,7 @@ categories:
 - Lighthouse
 regions:
 - Germany
+site_name: "Helgoland lighthouse"
 latitude: 54.18183333
 longitude: 7.88238889
 images:

@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Friedrichstadt-Palast"
 latitude: 52.52393
 longitude: 13.3881
 images:

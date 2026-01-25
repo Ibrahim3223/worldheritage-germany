@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Wohldorfer Wald"
 latitude: 53.705338
 longitude: 10.147107
 images:

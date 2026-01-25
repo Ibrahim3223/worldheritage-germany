@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Sony Center"
 latitude: 52.51
 longitude: 13.373611
 images:

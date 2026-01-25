@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Wölferlinger Weiher"
 latitude: 50.5707
 longitude: 7.87056
 images:

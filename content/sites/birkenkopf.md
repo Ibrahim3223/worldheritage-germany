@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Birkenkopf"
 latitude: 48.7653
 longitude: 9.13167
 images:

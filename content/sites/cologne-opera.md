@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Cologne Opera"
 latitude: 50.938055555
 longitude: 6.951666666
 images:

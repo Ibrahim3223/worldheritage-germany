@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Stein See"
 latitude: 48.021944444
 longitude: 11.861944444
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Wallburg Semberg"
 latitude: 47.63904
 longitude: 8.361304
 

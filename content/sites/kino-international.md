@@ -10,6 +10,7 @@ categories:
   - "Cinema"
 regions:
   - "Germany"
+site_name: "Kino International"
 latitude: 52.5203
 longitude: 13.4228
 images:

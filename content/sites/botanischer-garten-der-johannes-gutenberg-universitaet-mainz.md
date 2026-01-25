@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten der Johannes Gutenberg-Universität Mainz"
 latitude: 49.9923
 longitude: 8.24369
 images:

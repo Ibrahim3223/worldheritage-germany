@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Semper Gallery"
 latitude: 51.0535
 longitude: 13.7349
 

@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Spreebogenpark"
 latitude: 52.5225
 longitude: 13.372222222
 images:

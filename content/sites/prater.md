@@ -10,6 +10,7 @@ categories:
   - "Cinema"
 regions:
   - "Germany"
+site_name: "Prater"
 latitude: 52.5403
 longitude: 13.4094
 images:

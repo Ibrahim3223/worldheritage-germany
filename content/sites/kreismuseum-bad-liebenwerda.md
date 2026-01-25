@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Kreismuseum Bad Liebenwerda"
 latitude: 51.515861111
 longitude: 13.398611111
 images:

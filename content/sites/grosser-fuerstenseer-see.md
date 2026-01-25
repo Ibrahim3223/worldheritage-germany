@@ -11,6 +11,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Großer Fürstenseer See"
 latitude: 53.304722222
 longitude: 13.163888888
 images:

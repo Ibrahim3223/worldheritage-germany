@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue of Winnweiler"
 latitude: 49.56764
 longitude: 7.85021
 images:

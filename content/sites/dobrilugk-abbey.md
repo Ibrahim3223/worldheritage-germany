@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Dobrilugk Abbey"
 latitude: 51.6111
 longitude: 13.5454
 images:

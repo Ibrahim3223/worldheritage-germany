@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Friedhof Heerstraße"
 latitude: 52.514
 longitude: 13.251
 images:

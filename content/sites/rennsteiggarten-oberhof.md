@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Rennsteiggarten Oberhof"
 latitude: 50.6925
 longitude: 10.7194
 

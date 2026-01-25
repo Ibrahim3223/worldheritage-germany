@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Deutsches Edelsteinmuseum"
 latitude: 49.7189
 longitude: 7.30444
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Hohenlupfen"
 latitude: 48.0239
 longitude: 8.67092
 images:

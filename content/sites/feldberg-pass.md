@@ -10,6 +10,7 @@ categories:
 - Gorge
 regions:
 - Germany
+site_name: "Feldberg Pass"
 latitude: 47.85833333
 longitude: 8.05277778
 images:

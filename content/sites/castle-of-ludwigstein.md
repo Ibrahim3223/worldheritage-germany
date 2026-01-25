@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Castle of Ludwigstein"
 latitude: 51.321612127
 longitude: 9.909176573
 images:

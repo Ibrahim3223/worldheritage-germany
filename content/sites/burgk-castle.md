@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Burgk Castle"
 latitude: 50.5536
 longitude: 11.7156
 images:

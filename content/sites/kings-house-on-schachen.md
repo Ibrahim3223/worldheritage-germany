@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "King's House on Schachen"
 latitude: 47.419697222
 longitude: 11.112586111
 

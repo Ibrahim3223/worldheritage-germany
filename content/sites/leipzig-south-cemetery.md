@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Leipzig South Cemetery"
 latitude: 51.3092
 longitude: 12.4125
 images:

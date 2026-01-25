@@ -10,6 +10,7 @@ categories:
   - "Waterfall"
 regions:
   - "Germany"
+site_name: "Little Kyll"
 latitude: 50.063333333
 longitude: 6.814166666
 images:

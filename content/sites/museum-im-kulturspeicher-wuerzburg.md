@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum im Kulturspeicher Würzburg"
 latitude: 49.8014
 longitude: 9.92236
 

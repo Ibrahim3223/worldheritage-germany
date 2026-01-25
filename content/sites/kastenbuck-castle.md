@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kastenbuck Castle"
 latitude: 48.2079
 longitude: 7.844
 

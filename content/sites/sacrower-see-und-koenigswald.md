@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Sacrower See und Königswald"
 latitude: 52.4386488
 longitude: 13.0892634
 images:

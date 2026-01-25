@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Berlin Brandenburger Tor station"
 latitude: 52.516388888
 longitude: 13.380833333
 images:

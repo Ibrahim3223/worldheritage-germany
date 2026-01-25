@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Neptunbrunnen"
 latitude: 48.1413
 longitude: 11.5653
 images:

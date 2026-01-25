@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Wiesen- und Weidenflächen an der Oste"
 latitude: 53.606666666
 longitude: 9.178055555
 images:

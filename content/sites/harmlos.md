@@ -10,6 +10,7 @@ categories:
 - Statue
 regions:
 - Germany
+site_name: "Harmlos"
 latitude: 48.1436
 longitude: 11.5823
 images:

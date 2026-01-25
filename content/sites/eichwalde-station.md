@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Eichwalde station"
 latitude: 52.3715
 longitude: 13.6152
 images:

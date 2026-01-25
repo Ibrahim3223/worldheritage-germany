@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Kenner Flur"
 latitude: 49.8075
 longitude: 6.71177
 images:

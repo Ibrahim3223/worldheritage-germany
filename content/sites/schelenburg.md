@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Schelenburg"
 latitude: 52.283
 longitude: 8.22655
 images:

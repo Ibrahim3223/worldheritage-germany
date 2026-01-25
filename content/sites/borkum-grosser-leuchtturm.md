@@ -10,6 +10,7 @@ categories:
 - Lighthouse
 regions:
 - Germany
+site_name: "Borkum Großer Leuchtturm"
 latitude: 53.58879
 longitude: 6.6621
 images:

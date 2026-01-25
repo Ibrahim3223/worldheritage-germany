@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Sankt Blasien Abbey in the Black Forest"
 latitude: 47.76
 longitude: 8.13
 images:

@@ -10,6 +10,7 @@ categories:
 - Library
 regions:
 - Germany
+site_name: "Jewish Community of Berlin"
 latitude: 52.524917
 longitude: 13.394642
 images:

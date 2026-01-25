@@ -10,6 +10,7 @@ categories:
 - Factory
 regions:
 - Germany
+site_name: "BMW Central Building"
 latitude: 51.4081
 longitude: 12.4435
 images:

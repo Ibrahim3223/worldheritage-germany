@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kunsthalle Bielefeld"
 latitude: 52.0182
 longitude: 8.52611
 

@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Schloss Gültz"
 latitude: 53.7486
 longitude: 13.1897
 images:

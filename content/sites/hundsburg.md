@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Hundsburg"
 latitude: 51.0717
 longitude: 9.23
 images:

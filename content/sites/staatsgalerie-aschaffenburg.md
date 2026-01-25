@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Staatsgalerie Aschaffenburg"
 latitude: 49.9761
 longitude: 9.14167
 

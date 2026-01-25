@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Kaiserslautern Hauptbahnhof"
 latitude: 49.4359
 longitude: 7.76882
 images:

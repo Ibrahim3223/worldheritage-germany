@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Lichtenstein Castle"
 latitude: 50.1417
 longitude: 10.7794
 

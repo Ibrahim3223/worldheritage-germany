@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Europahaus"
 latitude: 52.5051
 longitude: 13.382
 images:

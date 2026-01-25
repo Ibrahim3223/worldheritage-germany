@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Borderlandmuseum Eichsfeld"
 latitude: 51.48166
 longitude: 10.2631
 images:

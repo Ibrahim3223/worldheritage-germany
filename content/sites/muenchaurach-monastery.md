@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Münchaurach monastery"
 latitude: 49.5743
 longitude: 10.8223
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "St. Ulrich's and St. Afra's Abbey, Augsburg"
 latitude: 48.3614
 longitude: 10.9004
 images:

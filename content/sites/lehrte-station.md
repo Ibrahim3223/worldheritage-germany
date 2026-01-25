@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Lehrte station"
 latitude: 52.3767
 longitude: 9.97444
 images:

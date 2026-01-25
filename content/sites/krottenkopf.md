@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Krottenkopf"
 latitude: 47.545280555
 longitude: 11.192780555
 images:

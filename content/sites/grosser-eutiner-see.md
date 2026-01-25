@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Großer Eutiner See"
 latitude: 54.143333333
 longitude: 10.637222222
 images:

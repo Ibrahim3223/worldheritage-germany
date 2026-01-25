@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Roman Museum Remchingen"
 latitude: 48.9403
 longitude: 8.5705
 images:

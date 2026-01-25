@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Futurium"
 latitude: 52.5238786
 longitude: 13.3743364
 images:

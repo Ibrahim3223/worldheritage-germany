@@ -10,6 +10,7 @@ categories:
 - Library
 regions:
 - Germany
+site_name: "Bibliotheca Bipontina"
 latitude: 49.2495
 longitude: 7.36659
 images:

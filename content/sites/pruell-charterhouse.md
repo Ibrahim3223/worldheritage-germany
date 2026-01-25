@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Prüll Charterhouse"
 latitude: 49.000420296
 longitude: 12.087332489
 images:

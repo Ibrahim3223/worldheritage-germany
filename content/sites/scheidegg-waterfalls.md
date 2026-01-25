@@ -10,6 +10,7 @@ categories:
   - "Waterfall"
 regions:
   - "Germany"
+site_name: "Scheidegg Waterfalls"
 latitude: 47.5918
 longitude: 9.8395
 images:

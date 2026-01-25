@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Großer Feldberg"
 latitude: 50.2325
 longitude: 8.458888888
 images:

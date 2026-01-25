@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Lüdinghausen"
 latitude: 51.7717
 longitude: 7.43972
 images:

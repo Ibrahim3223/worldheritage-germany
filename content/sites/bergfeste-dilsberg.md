@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Bergfeste Dilsberg"
 latitude: 49.398611111
 longitude: 8.836944444
 images:

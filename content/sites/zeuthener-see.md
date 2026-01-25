@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Zeuthener See"
 latitude: 52.356388888
 longitude: 13.638611111
 images:

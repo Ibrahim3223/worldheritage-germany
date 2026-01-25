@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Marienstift Bedburg - St. Markus Schneppenbaum"
 latitude: 51.7631
 longitude: 6.18583
 images:

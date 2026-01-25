@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Mylau Castle"
 latitude: 50.618264
 longitude: 12.265469
 

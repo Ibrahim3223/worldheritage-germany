@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Battenberg Castle"
 latitude: 49.5322
 longitude: 8.14472
 images:

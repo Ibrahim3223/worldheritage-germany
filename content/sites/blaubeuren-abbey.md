@@ -11,6 +11,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Blaubeuren Abbey"
 latitude: 48.4153
 longitude: 9.78476
 images:

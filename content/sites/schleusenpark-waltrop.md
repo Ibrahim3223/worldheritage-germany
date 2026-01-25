@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schleusenpark Waltrop"
 latitude: 51.6186
 longitude: 7.33007
 images:

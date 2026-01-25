@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Perlenbach-Fuhrtsbachtal-Talsystem"
 latitude: 50.5256
 longitude: 6.25639
 images:

@@ -11,6 +11,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Franciscan Abbey, Rothenburg ob der Tauber"
 latitude: 49.3767
 longitude: 10.1764
 images:

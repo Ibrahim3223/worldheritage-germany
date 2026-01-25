@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Simetsberg"
 latitude: 47.566388888
 longitude: 11.253333333
 images:

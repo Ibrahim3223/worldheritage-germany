@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten Gießen"
 latitude: 50.5864
 longitude: 8.67889
 images:

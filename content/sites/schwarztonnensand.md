@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Schwarztonnensand"
 latitude: 53.71027778
 longitude: 9.46277778
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Gudenau"
 latitude: 50.6342
 longitude: 7.08639
 images:

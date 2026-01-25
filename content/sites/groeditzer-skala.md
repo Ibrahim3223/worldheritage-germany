@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Gröditzer Skala"
 latitude: 51.2065
 longitude: 14.6372
 images:

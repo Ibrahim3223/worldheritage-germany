@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Lembeck"
 latitude: 51.7433
 longitude: 7.0
 

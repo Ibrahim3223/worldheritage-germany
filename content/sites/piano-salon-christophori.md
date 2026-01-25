@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Piano Salon Christophori"
 latitude: 52.552619
 longitude: 13.374169
 images:

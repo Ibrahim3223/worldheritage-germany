@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Bunkenburg"
 latitude: 52.7615
 longitude: 9.55867
 images:

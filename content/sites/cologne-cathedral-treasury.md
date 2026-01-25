@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Cologne Cathedral Treasury"
 latitude: 50.94171
 longitude: 6.95853
 images:

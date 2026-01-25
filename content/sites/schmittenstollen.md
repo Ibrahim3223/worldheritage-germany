@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Schmittenstollen"
 latitude: 49.7905
 longitude: 7.78171
 images:

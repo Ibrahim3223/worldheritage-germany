@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Hochwanner"
 latitude: 47.395833333
 longitude: 11.054166666
 images:

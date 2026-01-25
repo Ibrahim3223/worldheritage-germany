@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Kiel Transmission Tower"
 latitude: 54.300555555
 longitude: 10.118333333
 images:

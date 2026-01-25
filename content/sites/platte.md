@@ -10,6 +10,7 @@ categories:
   - "Gorge"
 regions:
   - "Germany"
+site_name: "Platte"
 latitude: 50.13457
 longitude: 8.21792
 images:

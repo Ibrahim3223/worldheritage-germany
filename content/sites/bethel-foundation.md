@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "Bethel Foundation"
 latitude: 52.013259
 longitude: 8.522945
 images:

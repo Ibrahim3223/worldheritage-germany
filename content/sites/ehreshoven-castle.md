@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Ehreshoven Castle"
 latitude: 50.9741
 longitude: 7.34421
 images:

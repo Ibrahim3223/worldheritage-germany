@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Uelzen station"
 latitude: 52.9697
 longitude: 10.5531
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Statue of Hermann von Helmholtz"
 latitude: 52.51785
 longitude: 13.39374
 images:

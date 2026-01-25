@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Mäulesmühle"
 latitude: 48.6835
 longitude: 9.12829
 images:

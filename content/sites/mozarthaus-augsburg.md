@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Mozarthaus Augsburg"
 latitude: 48.3756
 longitude: 10.8957
 images:

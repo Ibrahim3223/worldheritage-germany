@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schüttesäge Museum"
 latitude: 48.2905
 longitude: 8.34377
 images:

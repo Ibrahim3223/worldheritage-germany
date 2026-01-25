@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Pestalozzistrasse Synagogue"
 latitude: 52.50817
 longitude: 13.31556
 images:

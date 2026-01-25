@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Wittringen Castle"
 latitude: 51.55965
 longitude: 6.98125
 

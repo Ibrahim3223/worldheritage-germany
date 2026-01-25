@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Light Vessel Borkumriff"
 latitude: 53.5622
 longitude: 6.7474
 images:

@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Einfelder See"
 latitude: 54.141388888
 longitude: 10.001111111
 images:

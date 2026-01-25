@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Westfriedhof"
 latitude: 48.169620702
 longitude: 11.526656671
 images:

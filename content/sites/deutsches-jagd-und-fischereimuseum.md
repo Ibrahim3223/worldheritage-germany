@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Deutsches Jagd- und Fischereimuseum"
 latitude: 48.1384
 longitude: 11.5711
 images:

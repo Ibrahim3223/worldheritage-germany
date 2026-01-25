@@ -10,6 +10,7 @@ categories:
 - Island
 regions:
 - Germany
+site_name: "Amrum"
 latitude: 54.651317
 longitude: 8.341728
 images:

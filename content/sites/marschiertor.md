@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Marschiertor"
 latitude: 50.76815
 longitude: 6.08693
 images:

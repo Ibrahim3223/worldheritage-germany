@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Labussee"
 latitude: 53.205
 longitude: 12.891666666
 images:

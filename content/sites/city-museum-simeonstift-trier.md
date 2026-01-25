@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "City Museum Simeonstift, Trier"
 latitude: 49.7597
 longitude: 6.64333
 images:

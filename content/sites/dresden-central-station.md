@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Dresden Central Station"
 latitude: 51.040277777
 longitude: 13.731666666
 images:

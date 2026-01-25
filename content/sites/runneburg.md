@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Runneburg"
 latitude: 51.2003
 longitude: 11.0622
 

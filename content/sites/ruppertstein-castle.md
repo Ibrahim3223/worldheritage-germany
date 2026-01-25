@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Ruppertstein Castle"
 latitude: 49.1908
 longitude: 7.68944
 

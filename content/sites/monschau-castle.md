@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Monschau Castle"
 latitude: 50.5531
 longitude: 6.23972
 

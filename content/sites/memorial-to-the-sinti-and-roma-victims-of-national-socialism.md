@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Memorial to the Sinti and Roma victims of National Socialism"
 latitude: 52.517222
 longitude: 13.376111
 images:

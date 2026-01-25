@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Alte Oper"
 latitude: 50.9716
 longitude: 11.0222
 images:

@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten der TU Darmstadt"
 latitude: 49.8692
 longitude: 8.67861
 images:

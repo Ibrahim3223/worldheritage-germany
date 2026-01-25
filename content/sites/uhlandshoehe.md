@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Uhlandshöhe"
 latitude: 48.78
 longitude: 9.195
 images:

@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Riemeisterfenn"
 latitude: 52.4553
 longitude: 13.2436
 images:

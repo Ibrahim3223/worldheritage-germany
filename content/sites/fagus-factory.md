@@ -10,6 +10,7 @@ categories:
 - Factory
 regions:
 - Germany
+site_name: "Fagus Factory"
 latitude: 51.9837
 longitude: 9.81256
 images:

@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Körschburg"
 latitude: 48.71404
 longitude: 9.36308
 images:

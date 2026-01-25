@@ -10,6 +10,7 @@ categories:
 - Dam
 regions:
 - Germany
+site_name: "Grane Dam"
 latitude: 51.911566666
 longitude: 10.378441666
 images:

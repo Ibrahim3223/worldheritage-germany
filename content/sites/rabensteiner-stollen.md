@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Rabensteiner Stollen"
 latitude: 51.601944444
 longitude: 10.789722222
 images:

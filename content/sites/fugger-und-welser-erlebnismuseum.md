@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Fugger und Welser Erlebnismuseum"
 latitude: 48.37410528
 longitude: 10.90032778
 images:

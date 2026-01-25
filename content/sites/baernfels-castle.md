@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Bärnfels Castle"
 latitude: 49.7145
 longitude: 11.3437
 images:

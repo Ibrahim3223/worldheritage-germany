@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Lichtenfels"
 latitude: 51.1481
 longitude: 8.80167
 images:

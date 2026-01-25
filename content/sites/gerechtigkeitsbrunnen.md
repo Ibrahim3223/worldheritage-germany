@@ -10,6 +10,7 @@ categories:
 - Fountain
 regions:
 - Germany
+site_name: "Gerechtigkeitsbrunnen"
 latitude: 50.1103
 longitude: 8.68222
 images:

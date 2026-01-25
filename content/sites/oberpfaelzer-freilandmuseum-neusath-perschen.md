@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Oberpfälzer Freilandmuseum Neusath-Perschen"
 latitude: 49.4658
 longitude: 12.2201
 images:

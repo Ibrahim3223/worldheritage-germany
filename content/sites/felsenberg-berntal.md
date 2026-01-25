@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Felsenberg-Berntal"
 latitude: 49.5006
 longitude: 8.16651
 images:

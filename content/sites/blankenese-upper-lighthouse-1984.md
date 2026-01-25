@@ -10,6 +10,7 @@ categories:
 - Lighthouse
 regions:
 - Germany
+site_name: "Blankenese Upper Lighthouse (1984)"
 latitude: 53.55602
 longitude: 9.81614
 images:

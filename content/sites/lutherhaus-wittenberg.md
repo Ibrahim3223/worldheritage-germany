@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Lutherhaus Wittenberg"
 latitude: 51.8642
 longitude: 12.6525
 images:

@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Heiligengrabe Abbey"
 latitude: 53.1415
 longitude: 12.3512
 images:

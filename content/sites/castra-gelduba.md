@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Castra Gelduba"
 latitude: 51.3332
 longitude: 6.6825
 images:

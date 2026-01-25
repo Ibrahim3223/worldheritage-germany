@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Nikolai Chapel"
 latitude: 52.377935046
 longitude: 9.732054643
 images:

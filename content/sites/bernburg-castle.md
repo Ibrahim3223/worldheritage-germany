@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Bernburg Castle"
 latitude: 51.7939
 longitude: 11.7344
 images:

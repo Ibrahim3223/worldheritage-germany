@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "Deutsches Haus"
 latitude: 54.781
 longitude: 9.43825
 images:

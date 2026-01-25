@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Hoher Fricken"
 latitude: 47.532777777
 longitude: 11.155277777
 images:

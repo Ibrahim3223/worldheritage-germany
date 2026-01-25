@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Neuleiningen Castle"
 latitude: 49.5427
 longitude: 8.13989
 

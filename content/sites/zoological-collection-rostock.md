@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Zoological Collection Rostock"
 latitude: 54.087448
 longitude: 12.133785
 images:

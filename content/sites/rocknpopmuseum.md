@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "rock'n'popmuseum"
 latitude: 52.21393
 longitude: 7.02585
 images:

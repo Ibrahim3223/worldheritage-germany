@@ -10,6 +10,7 @@ categories:
 - School Building
 regions:
 - Germany
+site_name: "Junior-Uni Wuppertal"
 latitude: 51.2665
 longitude: 7.18703
 images:

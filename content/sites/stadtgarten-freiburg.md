@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Stadtgarten Freiburg"
 latitude: 47.997796
 longitude: 7.857407
 images:

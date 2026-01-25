@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Blankenfelde railway station"
 latitude: 52.3376
 longitude: 13.4158
 images:

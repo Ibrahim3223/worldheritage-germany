@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Lippe"
 latitude: 51.781388888
 longitude: 8.8225
 images:

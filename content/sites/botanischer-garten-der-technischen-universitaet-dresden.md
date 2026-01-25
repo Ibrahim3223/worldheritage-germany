@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten der Technischen Universität Dresden"
 latitude: 51.04302
 longitude: 13.75856
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Michaelsberg Abbey"
 latitude: 49.893611111
 longitude: 10.877222222
 images:

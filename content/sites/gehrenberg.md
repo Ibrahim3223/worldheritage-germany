@@ -11,6 +11,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Gehrenberg"
 latitude: 47.741772
 longitude: 9.424293
 images:

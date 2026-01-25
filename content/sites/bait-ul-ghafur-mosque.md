@@ -10,6 +10,7 @@ categories:
 - Mosque
 regions:
 - Germany
+site_name: "Bait ul-Ghafur Mosque"
 latitude: 49.989524
 longitude: 8.331813
 images:

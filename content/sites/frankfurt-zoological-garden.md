@@ -10,6 +10,7 @@ categories:
 - Zoo
 regions:
 - Germany
+site_name: "Frankfurt Zoological Garden"
 latitude: 50.1156
 longitude: 8.70314
 images:

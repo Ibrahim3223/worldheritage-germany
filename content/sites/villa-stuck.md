@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Villa Stuck"
 latitude: 48.140561003
 longitude: 11.599343596
 

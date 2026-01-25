@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Plankstetten Abbey"
 latitude: 49.069077026
 longitude: 11.454051032
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "German Inland Waterways Museum"
 latitude: 51.46
 longitude: 6.73
 images:

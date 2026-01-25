@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kloster Gnadenberg"
 latitude: 49.368938226
 longitude: 11.411234631
 

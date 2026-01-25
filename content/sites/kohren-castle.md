@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kohren Castle"
 latitude: 51.0193
 longitude: 12.6004
 

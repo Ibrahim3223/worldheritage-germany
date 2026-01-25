@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Geierswalder See"
 latitude: 51.5
 longitude: 14.1
 images:

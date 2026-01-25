@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum Behnhaus Drägerhaus"
 latitude: 53.8701
 longitude: 10.6896
 

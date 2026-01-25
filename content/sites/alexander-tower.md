@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Alexander Tower"
 latitude: 49.99723
 longitude: 8.26253
 images:

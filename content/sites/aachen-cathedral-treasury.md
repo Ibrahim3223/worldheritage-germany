@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Aachen Cathedral Treasury"
 latitude: 50.775036111
 longitude: 6.082816666
 images:

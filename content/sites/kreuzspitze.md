@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Kreuzspitze"
 latitude: 47.5264
 longitude: 10.9185
 images:

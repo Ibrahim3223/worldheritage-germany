@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Rothschild Park"
 latitude: 50.1179
 longitude: 8.6699
 images:

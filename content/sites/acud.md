@@ -10,6 +10,7 @@ categories:
 - Cinema
 regions:
 - Germany
+site_name: "ACUD"
 latitude: 52.5334
 longitude: 13.4009
 images:

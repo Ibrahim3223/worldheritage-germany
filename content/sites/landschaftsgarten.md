@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Landschaftsgarten"
 latitude: 50.01048186
 longitude: 11.993764635
 images:

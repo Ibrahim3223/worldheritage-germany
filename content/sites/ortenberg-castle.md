@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Ortenberg Castle"
 latitude: 48.4438
 longitude: 7.97288
 

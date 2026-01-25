@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Grugapark"
 latitude: 51.4281
 longitude: 6.98694
 images:

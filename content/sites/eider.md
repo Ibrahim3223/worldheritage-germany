@@ -10,6 +10,7 @@ categories:
 - River
 regions:
 - Germany
+site_name: "Eider"
 latitude: 54.138333333
 longitude: 10.127222222
 images:

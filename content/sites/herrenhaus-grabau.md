@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Herrenhaus Grabau"
 latitude: 53.8055
 longitude: 10.27
 images:

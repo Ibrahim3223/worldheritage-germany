@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Saale"
 latitude: 51.9547
 longitude: 11.9139
 images:

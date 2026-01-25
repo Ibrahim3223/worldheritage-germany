@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Bebenhausen Abbey"
 latitude: 48.56137
 longitude: 9.06072
 images:

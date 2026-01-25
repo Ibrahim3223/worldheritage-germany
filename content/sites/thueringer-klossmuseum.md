@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Thüringer Kloßmuseum"
 latitude: 51.03282
 longitude: 11.27943
 images:

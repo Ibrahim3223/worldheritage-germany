@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Deutz Abbey"
 latitude: 50.938061111
 longitude: 6.9697
 images:

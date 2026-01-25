@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Bordelumer Heide und Langenhorner Heide mit Umgebung"
 latitude: 54.6547
 longitude: 8.95861
 images:

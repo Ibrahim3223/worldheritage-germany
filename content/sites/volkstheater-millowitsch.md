@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Volkstheater Millowitsch"
 latitude: 50.936388888
 longitude: 6.936944444
 images:

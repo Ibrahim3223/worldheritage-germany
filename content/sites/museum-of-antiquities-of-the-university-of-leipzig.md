@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum of Antiquities of the University of Leipzig"
 latitude: 51.3413
 longitude: 12.3783
 images:

@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Platzl"
 latitude: 48.1381
 longitude: 11.58
 images:

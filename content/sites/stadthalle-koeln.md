@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Stadthalle Köln"
 latitude: 50.95986111
 longitude: 7.00508333
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Reuterhaus Eisenach"
 latitude: 50.968
 longitude: 10.3196
 images:

@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Dornburg palaces"
 latitude: 51.005833333
 longitude: 11.667777777
 images:

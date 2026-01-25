@@ -10,6 +10,7 @@ categories:
   - "Waterfall"
 regions:
   - "Germany"
+site_name: "Stuibenfall"
 latitude: 47.371
 longitude: 10.37
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Goethemuseum Stützerbach"
 latitude: 50.6358
 longitude: 10.8678
 images:

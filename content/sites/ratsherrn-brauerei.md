@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Ratsherrn Brauerei"
 latitude: 53.562993
 longitude: 9.968445
 

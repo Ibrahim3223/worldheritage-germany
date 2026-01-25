@@ -11,6 +11,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Bronnbach Abbey"
 latitude: 49.7125
 longitude: 9.547222222
 images:

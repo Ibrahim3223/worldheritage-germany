@@ -10,6 +10,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Einsteinhaus Caputh"
 latitude: 52.35
 longitude: 13.0141
 images:

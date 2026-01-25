@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum Brandhorst"
 latitude: 48.1481
 longitude: 11.5742
 

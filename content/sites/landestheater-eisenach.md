@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Landestheater Eisenach"
 latitude: 50.9778
 longitude: 10.3222
 images:

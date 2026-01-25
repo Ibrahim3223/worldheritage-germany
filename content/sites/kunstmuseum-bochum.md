@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Kunstmuseum Bochum"
 latitude: 51.4874
 longitude: 7.22122
 images:

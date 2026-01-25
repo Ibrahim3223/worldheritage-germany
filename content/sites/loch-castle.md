@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Loch Castle"
 latitude: 49.015183426
 longitude: 11.9289137
 

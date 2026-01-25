@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagoge (Landau in der Pfalz)"
 latitude: 49.1948
 longitude: 8.11591
 images:

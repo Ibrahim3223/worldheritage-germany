@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Mainzer Sand"
 latitude: 50.015277777
 longitude: 8.206944444
 images:

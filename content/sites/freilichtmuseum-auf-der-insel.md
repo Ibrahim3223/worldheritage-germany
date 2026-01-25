@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Freilichtmuseum auf der Insel"
 latitude: 53.5989
 longitude: 9.47111
 images:

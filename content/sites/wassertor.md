@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Wassertor"
 latitude: 53.8964
 longitude: 11.4613
 images:

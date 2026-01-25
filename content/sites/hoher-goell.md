@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Hoher Göll"
 latitude: 47.594166666
 longitude: 13.066944444
 images:

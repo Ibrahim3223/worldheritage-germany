@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Museum Technisches Denkmal Lehesten"
 latitude: 50.4631
 longitude: 11.4384
 images:

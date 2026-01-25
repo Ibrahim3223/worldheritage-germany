@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "State and University Library Bremen"
 latitude: 53.10816
 longitude: 8.85387
 images:

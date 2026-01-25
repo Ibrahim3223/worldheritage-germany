@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Süderlügumer Binnendünen"
 latitude: 54.8722
 longitude: 8.92917
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Kunstgebäude Stuttgart"
 latitude: 48.7794
 longitude: 9.18111
 images:

@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Kapellenhalde - Wüster See"
 latitude: 47.639827
 longitude: 8.535534
 images:

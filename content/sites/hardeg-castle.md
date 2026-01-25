@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Hardeg Castle"
 latitude: 51.651
 longitude: 9.82605
 images:

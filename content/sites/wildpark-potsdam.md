@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Wildpark Potsdam"
 latitude: 52.38828
 longitude: 12.99983
 images:

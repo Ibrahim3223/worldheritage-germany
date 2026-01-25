@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Altburg (Bundenbach)"
 latitude: 49.8486
 longitude: 7.39217
 images:

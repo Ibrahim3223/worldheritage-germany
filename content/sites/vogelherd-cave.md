@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Vogelherd cave"
 latitude: 48.5586
 longitude: 10.1943
 

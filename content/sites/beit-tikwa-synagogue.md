@@ -10,6 +10,7 @@ categories:
 - Synagogue
 regions:
 - Germany
+site_name: "Beit Tikwa synagogue"
 latitude: 52.0085
 longitude: 8.54339
 images:

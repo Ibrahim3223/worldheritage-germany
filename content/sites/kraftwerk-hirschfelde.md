@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Kraftwerk Hirschfelde"
 latitude: 50.937456
 longitude: 14.891122
 images:

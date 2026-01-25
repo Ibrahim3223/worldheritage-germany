@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Rheinisches Malermuseum"
 latitude: 50.7357
 longitude: 7.09396
 

@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Friedhof Pasing"
 latitude: 48.136460139
 longitude: 11.458995084
 images:

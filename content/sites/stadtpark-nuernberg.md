@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Stadtpark Nürnberg"
 latitude: 49.465
 longitude: 11.0925
 images:

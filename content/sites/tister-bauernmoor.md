@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Tister Bauernmoor"
 latitude: 53.2684
 longitude: 9.57077
 images:

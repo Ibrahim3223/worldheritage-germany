@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Brahms House"
 latitude: 48.744497
 longitude: 8.261013
 images:

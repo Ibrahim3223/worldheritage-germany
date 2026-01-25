@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Fischerbach Castle"
 latitude: 48.3048
 longitude: 8.1231
 images:

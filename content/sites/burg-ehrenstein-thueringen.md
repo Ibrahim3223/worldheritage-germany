@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Ehrenstein (Thüringen)"
 latitude: 50.7544
 longitude: 11.1772
 images:

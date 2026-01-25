@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Nimburg Castle"
 latitude: 48.1032
 longitude: 7.7768
 images:

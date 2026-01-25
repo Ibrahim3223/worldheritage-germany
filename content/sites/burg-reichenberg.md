@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Reichenberg"
 latitude: 50.1585
 longitude: 7.75997
 images:

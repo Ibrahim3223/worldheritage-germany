@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Neptunbrunnen (Görlitz)"
 latitude: 51.156338888
 longitude: 14.990805555
 images:

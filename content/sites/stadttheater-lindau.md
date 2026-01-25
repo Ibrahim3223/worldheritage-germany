@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Stadttheater Lindau"
 latitude: 47.545859138
 longitude: 9.687001779
 images:

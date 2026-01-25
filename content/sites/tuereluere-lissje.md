@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Türelüre-Lißje"
 latitude: 50.7746206
 longitude: 6.0813266
 images:

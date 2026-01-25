@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Palais am Festungsgraben"
 latitude: 52.5189
 longitude: 13.3956
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Sooneck Castle"
 latitude: 50.0195
 longitude: 7.82493
 

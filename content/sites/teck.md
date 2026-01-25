@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Teck"
 latitude: 48.5881
 longitude: 9.47056
 

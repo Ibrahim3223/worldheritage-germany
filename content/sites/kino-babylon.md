@@ -10,6 +10,7 @@ categories:
   - "Cinema"
 regions:
   - "Germany"
+site_name: "Kino Babylon"
 latitude: 52.5258
 longitude: 13.4119
 images:

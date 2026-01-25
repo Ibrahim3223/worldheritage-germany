@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Kupfermeisterfriedhof"
 latitude: 50.7658
 longitude: 6.23442
 images:

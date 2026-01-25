@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "German Chancellery in Berlin"
 latitude: 52.52
 longitude: 13.3694
 images:

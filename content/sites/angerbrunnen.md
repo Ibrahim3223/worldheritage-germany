@@ -10,6 +10,7 @@ categories:
 - Fountain
 regions:
 - Germany
+site_name: "Angerbrunnen"
 latitude: 50.9743143
 longitude: 11.0309717
 images:

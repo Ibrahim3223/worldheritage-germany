@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Waffenmuseum Suhl"
 latitude: 50.6103
 longitude: 10.6894
 images:

@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Helgoländer Felssockel"
 latitude: 54.183888888
 longitude: 7.87
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Dialogue in the Dark"
 latitude: 53.54619444
 longitude: 10.00161111
 images:

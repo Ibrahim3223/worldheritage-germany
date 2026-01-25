@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Wildenburg (Eifel)"
 latitude: 50.462
 longitude: 6.49409
 images:

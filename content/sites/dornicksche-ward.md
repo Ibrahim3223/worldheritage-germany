@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Dornicksche Ward"
 latitude: 51.825891666
 longitude: 6.270430555
 images:

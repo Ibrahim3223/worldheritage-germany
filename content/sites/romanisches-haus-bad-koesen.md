@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Romanisches Haus (Bad Kösen)"
 latitude: 51.1356
 longitude: 11.7225
 images:

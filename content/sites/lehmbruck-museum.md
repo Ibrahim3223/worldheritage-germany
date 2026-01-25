@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Lehmbruck Museum"
 latitude: 51.430278
 longitude: 6.766111
 

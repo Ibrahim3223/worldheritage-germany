@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Neubrandenburg Regional Museum"
 latitude: 53.5569
 longitude: 13.255
 images:

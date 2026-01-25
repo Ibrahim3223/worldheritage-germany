@@ -10,6 +10,7 @@ categories:
   - "Valley"
 regions:
   - "Germany"
+site_name: "Middle Rhine"
 latitude: 50.364166666
 longitude: 7.605555555
 images:

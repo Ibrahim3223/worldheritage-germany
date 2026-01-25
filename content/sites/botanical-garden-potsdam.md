@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanical Garden Potsdam"
 latitude: 52.4041
 longitude: 13.0252
 images:

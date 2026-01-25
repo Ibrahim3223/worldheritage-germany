@@ -10,6 +10,7 @@ categories:
 - Market Square
 regions:
 - Germany
+site_name: "Augustusplatz"
 latitude: 51.3392
 longitude: 12.3808
 images:

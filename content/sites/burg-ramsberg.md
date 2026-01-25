@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Ramsberg"
 latitude: 48.694
 longitude: 9.78678
 images:

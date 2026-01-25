@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Galgenbühl, Dreisamtal-Breisgau"
 latitude: 47.9759
 longitude: 7.9809
 images:

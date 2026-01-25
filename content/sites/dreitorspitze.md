@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Dreitorspitze"
 latitude: 47.4
 longitude: 11.123888888
 images:

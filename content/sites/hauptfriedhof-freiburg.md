@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Hauptfriedhof Freiburg"
 latitude: 48.0075
 longitude: 7.84495
 images:

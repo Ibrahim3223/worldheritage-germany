@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Horb Synagogue"
 latitude: 50.156848
 longitude: 11.199578
 images:

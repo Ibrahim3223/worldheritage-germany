@@ -10,6 +10,7 @@ categories:
   - "Mosque"
 regions:
   - "Germany"
+site_name: "Yavuz Sultan Selim Mosque"
 latitude: 49.4939
 longitude: 8.46139
 images:

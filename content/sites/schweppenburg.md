@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Schweppenburg"
 latitude: 50.4672
 longitude: 7.30833
 images:

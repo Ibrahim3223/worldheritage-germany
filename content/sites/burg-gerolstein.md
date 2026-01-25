@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Gerolstein"
 latitude: 50.2204
 longitude: 6.66694
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Neresheim Abbey"
 latitude: 48.7559
 longitude: 10.3437
 images:

@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Wiesbaden Central Station"
 latitude: 50.0708
 longitude: 8.24389
 images:

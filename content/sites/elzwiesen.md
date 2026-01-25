@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Elzwiesen"
 latitude: 48.23833333
 longitude: 7.73388889
 images:

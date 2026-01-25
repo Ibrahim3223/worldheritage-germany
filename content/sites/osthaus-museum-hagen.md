@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Osthaus-Museum Hagen"
 latitude: 51.356033333
 longitude: 7.473036111
 

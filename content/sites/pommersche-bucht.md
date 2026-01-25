@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Pommersche Bucht"
 latitude: 54.45
 longitude: 14.35
 images:

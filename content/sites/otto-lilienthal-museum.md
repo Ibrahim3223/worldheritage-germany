@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Otto Lilienthal Museum"
 latitude: 53.8539
 longitude: 13.7047
 images:

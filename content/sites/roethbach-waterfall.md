@@ -10,6 +10,7 @@ categories:
   - "Waterfall"
 regions:
   - "Germany"
+site_name: "Röthbach Waterfall"
 latitude: 47.503
 longitude: 13.012
 images:

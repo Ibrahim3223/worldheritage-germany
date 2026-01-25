@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Schauspiel Frankfurt"
 latitude: 50.10847
 longitude: 8.67473
 images:

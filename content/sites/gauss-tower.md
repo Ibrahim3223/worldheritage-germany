@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Gauss Tower"
 latitude: 51.474081
 longitude: 9.766106
 images:

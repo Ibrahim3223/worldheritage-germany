@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kronberg Castle"
 latitude: 50.181
 longitude: 8.5066
 

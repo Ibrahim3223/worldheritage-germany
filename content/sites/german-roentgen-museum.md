@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "German Röntgen Museum"
 latitude: 51.1937
 longitude: 7.2595
 images:

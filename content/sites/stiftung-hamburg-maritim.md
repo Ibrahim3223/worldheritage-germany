@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Stiftung Hamburg Maritim"
 latitude: 53.5302
 longitude: 9.99568
 

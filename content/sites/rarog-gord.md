@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Rarog Gord"
 latitude: 53.9556
 longitude: 11.4814
 

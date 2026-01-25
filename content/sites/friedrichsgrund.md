@@ -10,6 +10,7 @@ categories:
 - Valley
 regions:
 - Germany
+site_name: "Friedrichsgrund"
 latitude: 51.0154
 longitude: 13.8859
 images:

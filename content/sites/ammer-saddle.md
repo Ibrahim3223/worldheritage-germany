@@ -10,6 +10,7 @@ categories:
 - Gorge
 regions:
 - Germany
+site_name: "Ammer Saddle"
 latitude: 47.537778
 longitude: 10.889722
 images:

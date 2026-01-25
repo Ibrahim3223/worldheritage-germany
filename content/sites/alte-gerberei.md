@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Alte Gerberei"
 latitude: 50.8297
 longitude: 10.7344
 images:

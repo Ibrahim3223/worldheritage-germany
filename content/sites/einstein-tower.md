@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Einstein Tower"
 latitude: 52.378888888
 longitude: 13.063611111
 images:

@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "LVR-Cultural Centre Village Synagogue Rödingen"
 latitude: 50.9655
 longitude: 6.4612
 images:

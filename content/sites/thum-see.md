@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Thum-See"
 latitude: 47.719166666
 longitude: 12.825555555
 images:

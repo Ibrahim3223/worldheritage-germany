@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Art museum Monastery of Our Lady Magdeburg"
 latitude: 52.12777
 longitude: 11.63702
 images:

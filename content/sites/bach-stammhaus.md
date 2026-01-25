@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Bach-Stammhaus"
 latitude: 50.8914
 longitude: 10.77742
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Rautenstrauch-Joest Museum"
 latitude: 50.93464
 longitude: 6.95053
 images:

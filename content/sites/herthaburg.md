@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Herthaburg"
 latitude: 54.5703
 longitude: 13.6489
 images:

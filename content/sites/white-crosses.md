@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "White Crosses"
 latitude: 52.519635
 longitude: 13.376831
 images:

@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Tiergärtnertor"
 latitude: 49.4575
 longitude: 11.0743
 images:

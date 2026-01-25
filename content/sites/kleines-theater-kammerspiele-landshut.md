@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Kleines theater – Kammerspiele Landshut"
 latitude: 48.5392
 longitude: 12.1547
 images:

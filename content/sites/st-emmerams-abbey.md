@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "St. Emmeram's Abbey"
 latitude: 49.015277777
 longitude: 12.092777777
 images:

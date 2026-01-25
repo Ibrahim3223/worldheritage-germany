@@ -10,6 +10,7 @@ categories:
 - Lighthouse
 regions:
 - Germany
+site_name: "Bremerhaven lighthouse"
 latitude: 53.546306
 longitude: 8.570111
 images:

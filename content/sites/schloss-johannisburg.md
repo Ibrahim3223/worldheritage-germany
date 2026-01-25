@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schloss Johannisburg"
 latitude: 49.9761
 longitude: 9.14167
 images:

@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Neuland Lighthouse"
 latitude: 54.36065
 longitude: 10.60093
 images:

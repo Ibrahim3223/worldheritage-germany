@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Ökologisch-Botanischer Garten der Universität Bayreuth"
 latitude: 49.9235
 longitude: 11.5854
 

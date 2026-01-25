@@ -10,6 +10,7 @@ categories:
 - Synagogue
 regions:
 - Germany
+site_name: "Alte Synagoge (Ulm)"
 latitude: 48.396842
 longitude: 9.990565
 images:

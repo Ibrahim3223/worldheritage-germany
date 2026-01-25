@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Herxheim"
 latitude: 49.146944
 longitude: 8.22
 images:

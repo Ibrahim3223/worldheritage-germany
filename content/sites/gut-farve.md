@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Gut Farve"
 latitude: 54.2853
 longitude: 10.7938
 images:

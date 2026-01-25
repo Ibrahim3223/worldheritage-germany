@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Berlin Warschauer Straße station"
 latitude: 52.506416666
 longitude: 13.450955555
 images:

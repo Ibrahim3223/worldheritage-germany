@@ -11,6 +11,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Fellhorn"
 latitude: 47.350555555
 longitude: 10.2175
 images:

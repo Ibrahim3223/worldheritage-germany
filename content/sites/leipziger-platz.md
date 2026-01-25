@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Leipziger Platz"
 latitude: 52.509638888
 longitude: 13.378444444
 images:

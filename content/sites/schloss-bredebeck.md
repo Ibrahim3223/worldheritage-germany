@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Schloss Bredebeck"
 latitude: 52.7872
 longitude: 9.89028
 images:

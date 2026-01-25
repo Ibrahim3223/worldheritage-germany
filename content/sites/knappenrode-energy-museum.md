@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Knappenrode energy museum"
 latitude: 51.3975
 longitude: 14.3292
 images:

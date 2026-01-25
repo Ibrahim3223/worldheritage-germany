@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Statue of Joseph Stalin"
 latitude: 52.5175
 longitude: 13.4347
 images:

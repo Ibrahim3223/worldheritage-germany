@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Sammlung für Völkerkunde"
 latitude: 51.535
 longitude: 9.94083
 images:

@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Burg Aasen"
 latitude: 47.9799
 longitude: 8.5533
 images:

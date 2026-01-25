@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Bonn Botanical Garden"
 latitude: 50.7247
 longitude: 7.09167
 images:

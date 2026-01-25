@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Tannenfels Castle"
 latitude: 49.6291
 longitude: 7.935
 

@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Nikolaus-Kapelle"
 latitude: 50.818529
 longitude: 6.403308
 images:

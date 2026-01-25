@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Post and Telecommunications Museum Foundation"
 latitude: 50.706573055
 longitude: 7.138551944
 images:

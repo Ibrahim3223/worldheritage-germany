@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Düben Castle"
 latitude: 51.5921
 longitude: 12.5805
 images:

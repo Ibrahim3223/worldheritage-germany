@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Business-Tower (Nuremberg)"
 latitude: 49.4546
 longitude: 11.1171
 images:

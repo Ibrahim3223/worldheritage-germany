@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Jochberg"
 latitude: 47.6258
 longitude: 11.3717
 images:

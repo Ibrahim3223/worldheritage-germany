@@ -10,6 +10,7 @@ categories:
 - Fountain
 regions:
 - Germany
+site_name: "Hollandbrunnen"
 latitude: 48.1715
 longitude: 11.5984
 images:

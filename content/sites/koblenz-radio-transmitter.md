@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Koblenz radio transmitter"
 latitude: 50.3753
 longitude: 7.585
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Wolfsberg (Steinekirch)"
 latitude: 48.3715
 longitude: 10.5844
 images:

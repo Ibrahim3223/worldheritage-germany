@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Schönburg"
 latitude: 51.1606
 longitude: 11.8685
 images:

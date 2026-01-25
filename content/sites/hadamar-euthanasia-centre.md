@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Hadamar Euthanasia Centre"
 latitude: 50.4508
 longitude: 8.04178
 images:

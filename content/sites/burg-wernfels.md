@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Wernfels"
 latitude: 49.1981
 longitude: 10.8788
 images:

@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Stadthaus Arnstadt"
 latitude: 50.83263016
 longitude: 10.94499969
 images:

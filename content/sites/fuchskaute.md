@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Fuchskaute"
 latitude: 50.6595
 longitude: 8.10262
 images:

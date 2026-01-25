@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Klammspitze"
 latitude: 47.581111111
 longitude: 10.908888888
 images:

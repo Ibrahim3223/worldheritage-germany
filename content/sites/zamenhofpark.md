@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Zamenhofpark"
 latitude: 52.5094
 longitude: 13.5036
 images:

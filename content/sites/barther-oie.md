@@ -10,6 +10,7 @@ categories:
 - Island
 regions:
 - Germany
+site_name: "Barther Oie"
 latitude: 54.408611111
 longitude: 12.727777777
 images:

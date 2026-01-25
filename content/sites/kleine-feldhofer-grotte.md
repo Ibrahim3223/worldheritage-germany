@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kleine Feldhofer Grotte"
 latitude: 51.2275
 longitude: 6.94555556
 

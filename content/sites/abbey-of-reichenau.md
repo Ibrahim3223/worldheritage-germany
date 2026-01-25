@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Abbey of Reichenau"
 latitude: 47.698738888
 longitude: 9.062080555
 images:

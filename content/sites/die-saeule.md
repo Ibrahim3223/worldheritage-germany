@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Die Säule"
 latitude: 51.4306
 longitude: 6.76056
 images:

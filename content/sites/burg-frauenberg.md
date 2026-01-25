@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Frauenberg"
 latitude: 47.79323889
 longitude: 9.03746667
 images:

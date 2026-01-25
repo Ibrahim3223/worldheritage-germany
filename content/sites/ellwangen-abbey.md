@@ -11,6 +11,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Ellwangen Abbey"
 latitude: 48.96200035
 longitude: 10.13198179
 images:

@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Lemberg"
 latitude: 48.1505042
 longitude: 8.7503824
 images:

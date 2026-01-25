@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Heidelstein transmitter"
 latitude: 50.4605
 longitude: 10.0068
 images:

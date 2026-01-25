@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Weingartener Moor-Bruchwald Grötzingen"
 latitude: 49.0398
 longitude: 8.5131
 images:

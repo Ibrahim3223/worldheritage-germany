@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Langenberg"
 latitude: 51.276388888
 longitude: 8.558333333
 images:

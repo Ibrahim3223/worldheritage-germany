@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "The Rennsteig Museum"
 latitude: 50.5826708
 longitude: 10.9340363
 images:

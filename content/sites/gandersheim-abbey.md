@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Gandersheim Abbey"
 latitude: 51.870397222
 longitude: 10.026097222
 images:

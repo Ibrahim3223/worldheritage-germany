@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Goslarer Museum"
 latitude: 51.904589
 longitude: 10.429566
 images:

@@ -10,6 +10,7 @@ categories:
 - Library
 regions:
 - Germany
+site_name: "Augsburg State and Municipal Library"
 latitude: 48.3695
 longitude: 10.8906
 images:

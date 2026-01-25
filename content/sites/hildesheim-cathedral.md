@@ -10,6 +10,7 @@ categories:
 - Pilgrimage Church
 regions:
 - Germany
+site_name: "Hildesheim Cathedral"
 latitude: 52.148889
 longitude: 9.947222
 images:

@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Stadthalle Fürth"
 latitude: 49.47905
 longitude: 10.98322
 images:

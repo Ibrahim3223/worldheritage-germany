@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "St. Anne's Chapel (Freiburg im Breisgau)"
 latitude: 47.98484129
 longitude: 7.91179776
 images:

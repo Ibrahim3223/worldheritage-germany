@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Lessing-Denkmal"
 latitude: 52.2591
 longitude: 10.524
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schirn Kunsthalle Frankfurt"
 latitude: 50.110278
 longitude: 8.683611
 

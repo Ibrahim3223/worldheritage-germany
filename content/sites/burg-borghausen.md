@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Borghausen"
 latitude: 51.1478
 longitude: 7.99611
 images:

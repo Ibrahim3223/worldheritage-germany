@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum für Abgüsse Klassischer Bildwerke"
 latitude: 48.1444
 longitude: 11.5667
 images:

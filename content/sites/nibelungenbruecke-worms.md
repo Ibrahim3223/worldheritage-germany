@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Nibelungenbrücke Worms"
 latitude: 49.631599075
 longitude: 8.381056375
 

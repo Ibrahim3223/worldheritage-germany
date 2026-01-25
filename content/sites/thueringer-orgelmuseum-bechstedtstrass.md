@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Thüringer Orgelmuseum Bechstedtstraß"
 latitude: 50.9574
 longitude: 11.1958
 images:

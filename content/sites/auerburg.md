@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Auerburg"
 latitude: 47.6431
 longitude: 12.1783
 images:

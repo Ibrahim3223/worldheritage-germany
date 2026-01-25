@@ -10,6 +10,7 @@ categories:
 - Market Square
 regions:
 - Germany
+site_name: "Esperantoplatz, Berlin"
 latitude: 52.472893
 longitude: 13.452828
 images:

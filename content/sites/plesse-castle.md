@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Plesse Castle"
 latitude: 51.5975
 longitude: 9.965833
 

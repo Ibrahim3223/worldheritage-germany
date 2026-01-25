@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Europa-Rosarium"
 latitude: 51.4752
 longitude: 11.3148
 images:

@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Köllnischer Park"
 latitude: 52.5131
 longitude: 13.4147
 images:

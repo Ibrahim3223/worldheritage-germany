@@ -10,6 +10,7 @@ categories:
 - Statue
 regions:
 - Germany
+site_name: "Bernward Monument"
 latitude: 52.1491
 longitude: 9.94633
 images:

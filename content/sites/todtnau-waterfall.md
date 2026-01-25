@@ -10,6 +10,7 @@ categories:
   - "Waterfall"
 regions:
   - "Germany"
+site_name: "Todtnau Waterfall"
 latitude: 47.843482
 longitude: 7.939199
 images:

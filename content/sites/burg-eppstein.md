@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Eppstein"
 latitude: 50.1404
 longitude: 8.39314
 images:

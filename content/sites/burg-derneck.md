@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Derneck"
 latitude: 48.3095
 longitude: 9.49661
 images:

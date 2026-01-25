@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Steuerwald Castle"
 latitude: 52.1692
 longitude: 9.92762
 

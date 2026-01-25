@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "WeltWald Harz"
 latitude: 51.8199
 longitude: 10.2286
 

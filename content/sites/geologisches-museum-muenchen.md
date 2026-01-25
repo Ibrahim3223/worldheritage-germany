@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Geologisches Museum München"
 latitude: 48.1472
 longitude: 11.5647
 images:

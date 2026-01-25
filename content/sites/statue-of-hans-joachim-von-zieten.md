@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Statue of Hans Joachim von Zieten"
 latitude: 52.5116625
 longitude: 13.3843921
 images:

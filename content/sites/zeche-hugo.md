@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Zeche Hugo"
 latitude: 51.5689
 longitude: 7.03417
 images:

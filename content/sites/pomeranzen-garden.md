@@ -10,6 +10,7 @@ categories:
   - "Garden"
 regions:
   - "Germany"
+site_name: "Pomeranzen garden"
 latitude: 48.801
 longitude: 9.01223
 images:

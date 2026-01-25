@@ -10,6 +10,7 @@ categories:
   - "Courthouse"
 regions:
   - "Germany"
+site_name: "Palace of Justice"
 latitude: 49.454830791
 longitude: 11.046461274
 images:

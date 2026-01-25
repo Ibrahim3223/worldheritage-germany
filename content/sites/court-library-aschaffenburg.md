@@ -10,6 +10,7 @@ categories:
 - Library
 regions:
 - Germany
+site_name: "Court Library Aschaffenburg"
 latitude: 49.9761
 longitude: 9.14111
 images:

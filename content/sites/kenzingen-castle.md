@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kenzingen Castle"
 latitude: 48.1817
 longitude: 7.77155
 

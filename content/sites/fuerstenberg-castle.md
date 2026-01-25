@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Fürstenberg Castle"
 latitude: 47.8907
 longitude: 8.5601
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Monument to the X-ray and Radium Martyrs of All Nations"
 latitude: 53.55903
 longitude: 10.01975
 images:

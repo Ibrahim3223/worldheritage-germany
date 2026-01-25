@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Löwenstedter Sandberge"
 latitude: 54.6264
 longitude: 9.09917
 images:

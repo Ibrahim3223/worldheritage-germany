@@ -10,6 +10,7 @@ categories:
 - City Gate
 regions:
 - Germany
+site_name: "Eigelsteintorburg"
 latitude: 50.9493
 longitude: 6.95681
 images:

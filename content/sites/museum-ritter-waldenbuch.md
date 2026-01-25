@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum Ritter (Waldenbuch)"
 latitude: 48.6388
 longitude: 9.1226
 

@@ -10,6 +10,7 @@ categories:
 - Market Square
 regions:
 - Germany
+site_name: "Boxhagener Platz"
 latitude: 52.5108
 longitude: 13.4597
 images:

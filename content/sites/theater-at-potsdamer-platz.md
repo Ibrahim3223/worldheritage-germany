@@ -10,6 +10,7 @@ categories:
   - "Cinema"
 regions:
   - "Germany"
+site_name: "Theater at Potsdamer Platz"
 latitude: 52.507
 longitude: 13.372
 images:

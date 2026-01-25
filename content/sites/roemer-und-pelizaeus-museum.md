@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "Roemer- und Pelizaeus-Museum"
 latitude: 52.149326805
 longitude: 9.9441505
 images:

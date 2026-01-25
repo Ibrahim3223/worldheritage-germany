@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Frankfurt (Main) Süd"
 latitude: 50.099204
 longitude: 8.686163
 images:

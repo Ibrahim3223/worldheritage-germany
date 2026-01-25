@@ -10,6 +10,7 @@ categories:
 - River
 regions:
 - Germany
+site_name: "Elbe"
 latitude: 53.922222222
 longitude: 8.722222222
 images:

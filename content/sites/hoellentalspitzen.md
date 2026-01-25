@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Höllentalspitzen"
 latitude: 47.420555555
 longitude: 11.020555555
 images:

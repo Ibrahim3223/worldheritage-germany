@@ -10,6 +10,7 @@ categories:
 - Cinema
 regions:
 - Germany
+site_name: "Brotfabrik"
 latitude: 52.5527
 longitude: 13.4303
 images:

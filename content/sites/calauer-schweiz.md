@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Calauer Schweiz"
 latitude: 51.705061111
 longitude: 13.957411111
 images:

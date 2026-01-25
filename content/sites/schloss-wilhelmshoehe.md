@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Wilhelmshöhe"
 latitude: 51.315
 longitude: 9.416111111
 

@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Schloss Hohenfels"
 latitude: 50.2672
 longitude: 10.9544
 images:

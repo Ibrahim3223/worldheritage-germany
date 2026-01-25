@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Ferberturm"
 latitude: 50.8725
 longitude: 12.0985
 images:

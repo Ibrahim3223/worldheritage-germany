@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Bergfriedhof"
 latitude: 49.3972
 longitude: 8.69028
 images:

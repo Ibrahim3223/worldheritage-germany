@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "St. Marienthal Abbey"
 latitude: 50.997971
 longitude: 14.924648
 images:

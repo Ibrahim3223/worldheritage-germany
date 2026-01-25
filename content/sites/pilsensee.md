@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Pilsensee"
 latitude: 48.025277777
 longitude: 11.188055555
 images:

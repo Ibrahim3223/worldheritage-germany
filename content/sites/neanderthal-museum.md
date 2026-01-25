@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Neanderthal Museum"
 latitude: 51.2269
 longitude: 6.95056
 images:

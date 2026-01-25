@@ -10,6 +10,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Feuerbach House"
 latitude: 49.3146
 longitude: 8.43567
 images:

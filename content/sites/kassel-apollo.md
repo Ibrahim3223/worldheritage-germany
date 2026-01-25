@@ -10,6 +10,7 @@ categories:
   - "Statue"
 regions:
   - "Germany"
+site_name: "Kassel Apollo"
 latitude: 51.31583333
 longitude: 9.49805556
 images:

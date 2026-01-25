@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Starkenburg"
 latitude: 49.6461
 longitude: 8.64861
 

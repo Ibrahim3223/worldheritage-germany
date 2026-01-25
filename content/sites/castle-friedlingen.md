@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Castle Friedlingen"
 latitude: 47.59666667
 longitude: 7.60638889
 images:

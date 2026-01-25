@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Rittersdorf"
 latitude: 49.9974
 longitude: 6.49778
 images:

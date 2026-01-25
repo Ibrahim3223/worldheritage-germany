@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Ludwig Museum im Deutschherrenhaus"
 latitude: 50.3628
 longitude: 7.605
 

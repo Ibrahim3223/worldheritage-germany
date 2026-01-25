@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Bornstedt Crown Estate"
 latitude: 52.4085
 longitude: 13.0309
 images:

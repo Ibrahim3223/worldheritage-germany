@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Gerhard Marcks House"
 latitude: 53.0727
 longitude: 8.81462
 images:

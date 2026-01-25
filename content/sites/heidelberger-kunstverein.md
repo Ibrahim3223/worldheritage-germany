@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Heidelberger Kunstverein"
 latitude: 49.41141667
 longitude: 8.70288889
 images:

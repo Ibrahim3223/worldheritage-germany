@@ -11,6 +11,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Händel-Haus"
 latitude: 51.4842
 longitude: 11.9669
 images:

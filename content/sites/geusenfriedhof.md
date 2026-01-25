@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Geusenfriedhof"
 latitude: 50.925416666
 longitude: 6.926916666
 images:

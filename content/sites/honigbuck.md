@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Honigbuck"
 latitude: 47.997777777
 longitude: 7.7625
 images:

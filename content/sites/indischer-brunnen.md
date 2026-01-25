@@ -10,6 +10,7 @@ categories:
 - Fountain
 regions:
 - Germany
+site_name: "Indischer Brunnen"
 latitude: 52.504761111
 longitude: 13.417536111
 images:

@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Kaiser-Wilhelm-Denkmal"
 latitude: 51.2241
 longitude: 6.7818
 images:

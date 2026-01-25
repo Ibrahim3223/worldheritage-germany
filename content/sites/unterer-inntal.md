@@ -10,6 +10,7 @@ categories:
   - "Valley"
 regions:
   - "Germany"
+site_name: "Unterer Inntal"
 latitude: 48.2956
 longitude: 13.1898
 images:

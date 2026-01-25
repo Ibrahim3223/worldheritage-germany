@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Brauerei Bosch"
 latitude: 50.927930555
 longitude: 8.409161111
 images:

@@ -10,6 +10,7 @@ categories:
 - Lighthouse
 regions:
 - Germany
+site_name: "Fehmarn Flügge"
 latitude: 54.4425
 longitude: 11.01916667
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Deutsches Goldschmiedehaus"
 latitude: 50.1367
 longitude: 8.91778
 images:

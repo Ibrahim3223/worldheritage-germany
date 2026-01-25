@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Menzing"
 latitude: 48.16306
 longitude: 11.45694
 

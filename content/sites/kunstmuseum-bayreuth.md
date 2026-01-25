@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Kunstmuseum Bayreuth"
 latitude: 49.9438899
 longitude: 11.5746336
 images:

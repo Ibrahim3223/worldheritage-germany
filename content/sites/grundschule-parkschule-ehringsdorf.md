@@ -10,6 +10,7 @@ categories:
 - School Building
 regions:
 - Germany
+site_name: "Grundschule Parkschule Ehringsdorf"
 latitude: 50.96022
 longitude: 11.34522
 images:

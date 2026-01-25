@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Schloss Velen"
 latitude: 51.8933
 longitude: 6.98361
 images:

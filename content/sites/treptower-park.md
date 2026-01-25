@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Treptower Park"
 latitude: 52.490277777
 longitude: 13.47
 images:

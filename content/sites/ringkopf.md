@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Ringkopf"
 latitude: 49.750555555
 longitude: 7.205277777
 

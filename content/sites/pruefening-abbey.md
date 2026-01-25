@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Prüfening Abbey"
 latitude: 49.009166666
 longitude: 12.045555555
 

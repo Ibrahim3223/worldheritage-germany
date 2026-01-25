@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Neues Schloss"
 latitude: 47.69361111
 longitude: 9.27222222
 

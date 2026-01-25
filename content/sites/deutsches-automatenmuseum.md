@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Deutsches Automatenmuseum"
 latitude: 52.34472222
 longitude: 8.575
 images:

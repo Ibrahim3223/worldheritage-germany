@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Sternberg"
 latitude: 52.0533
 longitude: 9.04911
 images:

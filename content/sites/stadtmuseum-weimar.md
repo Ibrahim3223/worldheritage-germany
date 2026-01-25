@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Stadtmuseum Weimar"
 latitude: 50.982946
 longitude: 11.325558
 images:

@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Tierpark Zittau"
 latitude: 50.9014
 longitude: 14.8325
 images:

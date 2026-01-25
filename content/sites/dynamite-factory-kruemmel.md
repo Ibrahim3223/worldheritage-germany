@@ -10,6 +10,7 @@ categories:
 - Factory
 regions:
 - Germany
+site_name: "Dynamite factory Krümmel"
 latitude: 53.408668
 longitude: 10.417303
 images:

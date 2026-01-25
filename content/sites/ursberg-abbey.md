@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Ursberg Abbey"
 latitude: 48.266552854
 longitude: 10.444214436
 images:

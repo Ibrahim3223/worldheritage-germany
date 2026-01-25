@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Wiener Platz"
 latitude: 51.0413
 longitude: 13.733
 images:

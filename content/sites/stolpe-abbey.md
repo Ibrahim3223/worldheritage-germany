@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Stolpe Abbey"
 latitude: 53.873252777
 longitude: 13.561441666
 images:

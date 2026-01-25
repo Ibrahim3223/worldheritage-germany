@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Vivarium Darmstadt"
 latitude: 49.8664
 longitude: 8.68278
 images:

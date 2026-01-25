@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Sowjetischer Garnisonfriedhof"
 latitude: 51.078333333
 longitude: 13.773333333
 images:

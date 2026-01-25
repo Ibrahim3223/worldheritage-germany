@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Schäftlarn Abbey"
 latitude: 47.9786
 longitude: 11.4669
 images:

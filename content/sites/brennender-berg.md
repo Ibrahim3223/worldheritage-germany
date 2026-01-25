@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Brennender Berg"
 latitude: 49.288888888
 longitude: 7.053611111
 images:

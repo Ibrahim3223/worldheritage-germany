@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Binsfeld"
 latitude: 50.791388888
 longitude: 6.544444444
 images:

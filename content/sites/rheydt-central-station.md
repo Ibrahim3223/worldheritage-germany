@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Rheydt Central Station"
 latitude: 51.1631
 longitude: 6.43971
 images:

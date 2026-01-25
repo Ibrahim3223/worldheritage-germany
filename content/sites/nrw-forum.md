@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "NRW Forum"
 latitude: 51.2333
 longitude: 6.77204
 

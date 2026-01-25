@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "Beethoven House"
 latitude: 50.7369
 longitude: 7.10139
 images:

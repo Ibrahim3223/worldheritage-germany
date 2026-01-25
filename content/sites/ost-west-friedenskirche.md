@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Ost-West Friedenskirche"
 latitude: 48.16704
 longitude: 11.54835
 images:

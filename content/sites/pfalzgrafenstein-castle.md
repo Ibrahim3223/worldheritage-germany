@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Pfalzgrafenstein Castle"
 latitude: 50.083055555
 longitude: 7.765833333
 

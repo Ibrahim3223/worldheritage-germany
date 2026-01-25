@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "KGB Prison, Potsdam"
 latitude: 52.41647222
 longitude: 13.06441667
 images:

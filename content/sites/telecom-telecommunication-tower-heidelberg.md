@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Telecom Telecommunication Tower Heidelberg"
 latitude: 49.4028
 longitude: 8.73066
 images:

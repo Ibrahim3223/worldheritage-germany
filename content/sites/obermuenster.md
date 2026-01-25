@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Obermünster"
 latitude: 49.0159
 longitude: 12.0953
 images:

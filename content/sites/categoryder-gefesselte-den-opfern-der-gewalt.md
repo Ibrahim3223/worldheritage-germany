@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Category:Der Gefesselte (Den Opfern der Gewalt)"
 latitude: 51.3094028
 longitude: 9.4910889
 images:

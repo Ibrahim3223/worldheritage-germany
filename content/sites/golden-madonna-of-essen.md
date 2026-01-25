@@ -11,6 +11,7 @@ categories:
 - Statue
 regions:
 - Germany
+site_name: "Golden Madonna of Essen"
 latitude: 51.45583333
 longitude: 7.01361111
 images:

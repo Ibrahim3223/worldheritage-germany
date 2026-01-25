@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Altenburg railway station"
 latitude: 50.996751
 longitude: 12.444035
 images:

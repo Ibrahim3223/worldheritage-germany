@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Rickelsbüller Koog"
 latitude: 54.90248889
 longitude: 8.64848611
 images:

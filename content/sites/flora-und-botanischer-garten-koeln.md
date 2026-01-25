@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Flora und Botanischer Garten Köln"
 latitude: 50.95932
 longitude: 6.97194
 images:

@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Bavarian State Brewery Weihenstephan"
 latitude: 48.396111111
 longitude: 11.729166666
 images:

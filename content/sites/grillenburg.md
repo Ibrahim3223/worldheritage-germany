@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Grillenburg"
 latitude: 51.5346
 longitude: 11.3141
 images:

@@ -10,6 +10,7 @@ categories:
 - School Building
 regions:
 - Germany
+site_name: "International School Hannover Region"
 latitude: 52.3636
 longitude: 9.7325
 images:

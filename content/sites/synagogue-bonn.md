@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue Bonn"
 latitude: 50.725087
 longitude: 7.112987
 images:

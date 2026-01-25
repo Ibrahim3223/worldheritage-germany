@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Bensberg"
 latitude: 50.9648
 longitude: 7.16314
 images:

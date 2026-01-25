@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Langes Luch/Dachsheide"
 latitude: 52.4611
 longitude: 13.2517
 images:

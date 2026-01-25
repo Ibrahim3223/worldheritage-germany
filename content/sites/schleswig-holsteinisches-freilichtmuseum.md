@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schleswig-Holsteinisches Freilichtmuseum"
 latitude: 54.2752
 longitude: 10.079
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Greifenstein"
 latitude: 50.690418
 longitude: 11.262944
 images:

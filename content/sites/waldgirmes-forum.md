@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Waldgirmes Forum"
 latitude: 50.5883
 longitude: 8.54111
 

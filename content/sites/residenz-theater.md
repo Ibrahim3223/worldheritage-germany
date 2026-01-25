@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Residenz-Theater"
 latitude: 51.0472
 longitude: 13.7489
 images:

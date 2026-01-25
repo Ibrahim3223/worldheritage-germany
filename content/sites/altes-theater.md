@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Altes Theater"
 latitude: 51.3439
 longitude: 12.3722
 images:

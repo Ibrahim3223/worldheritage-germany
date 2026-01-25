@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Mariahilfplatz"
 latitude: 48.1258
 longitude: 11.5836
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schlesisches Museum zu Görlitz"
 latitude: 51.15611314
 longitude: 14.99059796
 images:

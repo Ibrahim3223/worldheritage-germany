@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "Arena Leipzig"
 latitude: 51.342778
 longitude: 12.355278
 images:

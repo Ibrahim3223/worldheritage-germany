@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "EWE Arena"
 latitude: 53.146944
 longitude: 8.226667
 images:

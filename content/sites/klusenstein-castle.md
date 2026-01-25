@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Klusenstein Castle"
 latitude: 51.381
 longitude: 7.85075
 

@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Wunderino Arena"
 latitude: 54.320556
 longitude: 10.130556
 images:

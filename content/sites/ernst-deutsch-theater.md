@@ -10,6 +10,7 @@ categories:
 - Cinema
 regions:
 - Germany
+site_name: "Ernst Deutsch Theater"
 latitude: 53.56932222
 longitude: 10.026275
 images:

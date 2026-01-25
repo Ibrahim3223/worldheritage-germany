@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Kemperplatz"
 latitude: 52.5111
 longitude: 13.3713
 images:

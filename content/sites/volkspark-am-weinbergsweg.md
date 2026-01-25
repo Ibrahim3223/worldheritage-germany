@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Volkspark am Weinbergsweg"
 latitude: 52.531944444
 longitude: 13.401388888
 images:

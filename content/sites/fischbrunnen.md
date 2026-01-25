@@ -10,6 +10,7 @@ categories:
 - Fountain
 regions:
 - Germany
+site_name: "Fischbrunnen"
 latitude: 48.1372
 longitude: 11.5762
 images:

@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Martinstor"
 latitude: 47.99361111
 longitude: 7.84888889
 images:

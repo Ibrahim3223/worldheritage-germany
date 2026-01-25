@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Hamburger Bahnhof"
 latitude: 52.528333333
 longitude: 13.372222222
 images:

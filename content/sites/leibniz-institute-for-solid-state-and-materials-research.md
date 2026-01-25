@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Leibniz Institute for Solid State and Materials Research"
 latitude: 51.0261
 longitude: 13.7244
 

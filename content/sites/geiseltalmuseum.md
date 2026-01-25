@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Geiseltalmuseum"
 latitude: 51.4844
 longitude: 11.9654
 images:

@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Kleßen manor"
 latitude: 52.73944
 longitude: 12.495557
 images:

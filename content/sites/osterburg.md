@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Osterburg"
 latitude: 50.7725
 longitude: 12.0568
 

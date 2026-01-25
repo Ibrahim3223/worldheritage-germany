@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Alter St.-Matthäus-Kirchhof Berlin"
 latitude: 52.490277777
 longitude: 13.366944444
 images:

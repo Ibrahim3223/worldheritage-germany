@@ -10,6 +10,7 @@ categories:
 - Zoo
 regions:
 - Germany
+site_name: "Dresden Zoo"
 latitude: 51.0369
 longitude: 13.7539
 images:

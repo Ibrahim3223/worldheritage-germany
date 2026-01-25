@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Cottbus central station"
 latitude: 51.7508
 longitude: 14.3264
 images:

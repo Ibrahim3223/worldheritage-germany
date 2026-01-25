@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg"
 latitude: 49.880555555
 longitude: 10.868611111
 images:

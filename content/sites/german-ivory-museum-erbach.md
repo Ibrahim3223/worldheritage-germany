@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "German Ivory Museum Erbach"
 latitude: 49.663002777
 longitude: 9.00075
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Dresden City Museum"
 latitude: 51.0501
 longitude: 13.743
 images:

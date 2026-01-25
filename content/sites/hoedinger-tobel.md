@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Hödinger Tobel"
 latitude: 47.789921
 longitude: 9.126463
 images:

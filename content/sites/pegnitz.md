@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Pegnitz"
 latitude: 49.7582
 longitude: 11.5377
 images:

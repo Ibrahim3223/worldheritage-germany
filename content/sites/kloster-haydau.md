@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Kloster Haydau"
 latitude: 51.0662
 longitude: 9.61783
 images:

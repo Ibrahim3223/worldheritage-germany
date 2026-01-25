@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Saxon Memorial Foundation"
 latitude: 51.02651
 longitude: 13.72734
 

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Neuenburg Castle"
 latitude: 51.2085
 longitude: 11.7755
 images:

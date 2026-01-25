@@ -11,6 +11,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Biberkopf"
 latitude: 47.270527777
 longitude: 10.232361111
 images:

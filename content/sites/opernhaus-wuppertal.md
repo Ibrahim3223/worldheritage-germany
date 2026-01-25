@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Opernhaus Wuppertal"
 latitude: 51.2673
 longitude: 7.19315
 images:

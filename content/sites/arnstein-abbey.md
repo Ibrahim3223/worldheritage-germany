@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Arnstein Abbey"
 latitude: 50.310278
 longitude: 7.851667
 images:

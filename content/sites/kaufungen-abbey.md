@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Kaufungen Abbey"
 latitude: 51.2801
 longitude: 9.6343
 images:

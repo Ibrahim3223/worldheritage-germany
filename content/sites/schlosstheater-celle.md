@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Schlosstheater Celle"
 latitude: 52.6239
 longitude: 10.0775
 images:

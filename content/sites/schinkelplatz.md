@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Schinkelplatz"
 latitude: 52.5166
 longitude: 13.3982
 images:

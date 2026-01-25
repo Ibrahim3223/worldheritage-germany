@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten Jena"
 latitude: 50.9311
 longitude: 11.5861
 images:

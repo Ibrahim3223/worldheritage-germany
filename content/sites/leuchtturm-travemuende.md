@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Leuchtturm Travemünde"
 latitude: 53.9605
 longitude: 10.8794
 images:

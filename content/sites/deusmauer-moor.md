@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Deusmauer Moor"
 latitude: 49.256613888
 longitude: 11.614613888
 images:

@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Petersberg"
 latitude: 50.686111
 longitude: 7.2075
 images:

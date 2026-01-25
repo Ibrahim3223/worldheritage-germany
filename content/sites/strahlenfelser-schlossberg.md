@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Strahlenfelser Schlossberg"
 latitude: 49.653248902
 longitude: 11.377220691
 images:

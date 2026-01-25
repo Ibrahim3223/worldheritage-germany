@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Eversberg"
 latitude: 51.3617
 longitude: 8.33417
 images:

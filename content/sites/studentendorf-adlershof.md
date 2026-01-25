@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Studentendorf Adlershof"
 latitude: 52.432975
 longitude: 13.526733
 images:

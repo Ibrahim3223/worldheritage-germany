@@ -10,6 +10,7 @@ categories:
   - "Dam"
 regions:
   - "Germany"
+site_name: "Zillierbach Dam"
 latitude: 51.7892
 longitude: 10.7767
 images:

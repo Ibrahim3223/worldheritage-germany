@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Großer Plessower See"
 latitude: 52.380833333
 longitude: 12.898611111
 images:

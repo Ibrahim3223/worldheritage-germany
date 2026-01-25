@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Leipzig Bayerischer Bahnhof"
 latitude: 51.330116
 longitude: 12.381133
 images:

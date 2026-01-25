@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Bürresheim Castle"
 latitude: 50.3528
 longitude: 7.17971
 images:

@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Fröruper Berge"
 latitude: 54.6833
 longitude: 9.45611
 images:

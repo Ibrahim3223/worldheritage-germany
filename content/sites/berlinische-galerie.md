@@ -11,6 +11,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Berlinische Galerie"
 latitude: 52.5039
 longitude: 13.3981
 images:

@@ -10,6 +10,7 @@ categories:
   - "Dam"
 regions:
   - "Germany"
+site_name: "Spremberg Dam"
 latitude: 51.657894444
 longitude: 14.396227777
 images:

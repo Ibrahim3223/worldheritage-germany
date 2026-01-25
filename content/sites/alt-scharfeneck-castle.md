@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Alt-Scharfeneck Castle"
 latitude: 49.2353
 longitude: 8.05194
 images:

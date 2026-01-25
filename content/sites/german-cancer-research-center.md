@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "German Cancer Research Center"
 latitude: 49.41416667
 longitude: 8.6725
 images:

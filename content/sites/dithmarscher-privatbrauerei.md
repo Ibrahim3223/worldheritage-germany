@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Dithmarscher Privatbrauerei"
 latitude: 53.95433
 longitude: 9.01284
 images:

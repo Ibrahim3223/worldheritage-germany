@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Synagoge Halderstraße"
 latitude: 48.365555555
 longitude: 10.891944444
 images:

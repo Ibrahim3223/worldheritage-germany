@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Scharmützelsee"
 latitude: 52.243611111
 longitude: 14.050833333
 images:

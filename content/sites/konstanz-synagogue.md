@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Konstanz Synagogue"
 latitude: 47.6583
 longitude: 9.1755
 images:

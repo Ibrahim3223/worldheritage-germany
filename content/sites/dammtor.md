@@ -10,6 +10,7 @@ categories:
 - City Gate
 regions:
 - Germany
+site_name: "Dammtor"
 latitude: 53.56194444
 longitude: 9.99083333
 images:

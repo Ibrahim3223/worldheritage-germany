@@ -10,6 +10,7 @@ categories:
 - Fountain
 regions:
 - Germany
+site_name: "Alsterfontaine"
 latitude: 53.55461667
 longitude: 9.99495278
 images:

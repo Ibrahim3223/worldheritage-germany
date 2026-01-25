@@ -10,6 +10,7 @@ categories:
 - Market Square
 regions:
 - Germany
+site_name: "Chamissoplatz"
 latitude: 52.4883
 longitude: 13.3908
 images:

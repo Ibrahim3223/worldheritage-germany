@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Orgelbaumuseum Schloss Hanstein"
 latitude: 50.4586
 longitude: 10.235
 images:

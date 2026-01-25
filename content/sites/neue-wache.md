@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Neue Wache"
 latitude: 52.5175
 longitude: 13.395556
 images:

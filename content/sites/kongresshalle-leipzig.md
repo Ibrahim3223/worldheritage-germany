@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Kongresshalle Leipzig"
 latitude: 51.3488
 longitude: 12.3712
 images:

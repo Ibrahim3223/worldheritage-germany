@@ -10,6 +10,7 @@ categories:
 - Cathedral
 regions:
 - Germany
+site_name: "Eichstätt Cathedral"
 latitude: 48.891922876
 longitude: 11.183382303
 images:

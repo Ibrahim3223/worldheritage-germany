@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "St. Rochus Cemetery"
 latitude: 49.4475
 longitude: 11.060277777
 images:

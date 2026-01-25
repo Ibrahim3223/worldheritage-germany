@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Drachenfels"
 latitude: 50.6652
 longitude: 7.21011
 images:

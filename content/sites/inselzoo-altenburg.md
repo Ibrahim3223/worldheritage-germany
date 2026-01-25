@@ -10,6 +10,7 @@ categories:
 - Zoo
 regions:
 - Germany
+site_name: "Inselzoo Altenburg"
 latitude: 50.9788
 longitude: 12.4329
 images:

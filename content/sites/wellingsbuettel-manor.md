@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Wellingsbüttel Manor"
 latitude: 53.6427
 longitude: 10.0716
 images:

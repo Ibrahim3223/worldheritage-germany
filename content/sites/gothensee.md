@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Gothensee"
 latitude: 53.92739
 longitude: 14.118404
 images:

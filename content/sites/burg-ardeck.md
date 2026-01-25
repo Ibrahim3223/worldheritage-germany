@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Ardeck"
 latitude: 50.3543
 longitude: 8.0415
 images:

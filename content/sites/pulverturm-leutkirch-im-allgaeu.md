@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Pulverturm, Leutkirch im Allgäu"
 latitude: 47.8256
 longitude: 10.0253
 images:

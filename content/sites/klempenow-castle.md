@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Klempenow Castle"
 latitude: 53.7906
 longitude: 13.3111
 

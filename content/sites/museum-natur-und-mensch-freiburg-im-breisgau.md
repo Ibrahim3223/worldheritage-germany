@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum Natur und Mensch (Freiburg im Breisgau)"
 latitude: 47.99331
 longitude: 7.85159
 images:

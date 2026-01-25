@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Schustehruspark"
 latitude: 52.516344444
 longitude: 13.299052777
 images:

@@ -10,6 +10,7 @@ categories:
   - "Cinema"
 regions:
   - "Germany"
+site_name: "Urania"
 latitude: 52.5014
 longitude: 13.3481
 images:

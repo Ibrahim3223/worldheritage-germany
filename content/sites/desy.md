@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "DESY"
 latitude: 53.575833333
 longitude: 9.879444444
 images:

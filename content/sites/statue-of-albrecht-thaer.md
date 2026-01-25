@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "statue of Albrecht Thaer"
 latitude: 52.516599
 longitude: 13.3984872
 images:

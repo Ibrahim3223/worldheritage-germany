@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Rotes Tor"
 latitude: 48.3599
 longitude: 10.903
 images:

@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Tierpark Sababurg"
 latitude: 51.5453
 longitude: 9.53528
 images:

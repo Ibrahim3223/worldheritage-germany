@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Grimmwelt Kassel"
 latitude: 51.3092
 longitude: 9.48927
 images:

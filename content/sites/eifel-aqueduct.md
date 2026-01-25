@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Eifel Aqueduct"
 latitude: 50.5127
 longitude: 6.6108
 images:

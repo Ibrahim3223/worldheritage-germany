@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Alter Botanischer Garten"
 latitude: 48.141842066
 longitude: 11.564299402
 images:

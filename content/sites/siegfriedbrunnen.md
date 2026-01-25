@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Siegfriedbrunnen"
 latitude: 49.629828
 longitude: 8.361256
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Brandenstein"
 latitude: 50.3567
 longitude: 9.57111
 images:

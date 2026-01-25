@@ -10,6 +10,7 @@ categories:
   - "Windmill"
 regions:
   - "Germany"
+site_name: "Wendhausen Windmill"
 latitude: 52.316194444
 longitude: 10.63275
 images:

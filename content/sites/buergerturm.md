@@ -11,6 +11,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Bürgerturm"
 latitude: 48.4028
 longitude: 11.7465
 images:

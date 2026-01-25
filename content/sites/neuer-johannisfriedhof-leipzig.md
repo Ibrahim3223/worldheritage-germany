@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Neuer Johannisfriedhof, Leipzig"
 latitude: 51.32737
 longitude: 12.3947
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Spangenberg Castle"
 latitude: 49.3512
 longitude: 8.01599
 

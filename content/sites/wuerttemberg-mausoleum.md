@@ -10,6 +10,7 @@ categories:
   - "Mausoleum"
 regions:
   - "Germany"
+site_name: "Württemberg Mausoleum"
 latitude: 48.781944444
 longitude: 9.268611111
 images:

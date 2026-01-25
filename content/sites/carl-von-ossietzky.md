@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Carl von Ossietzky"
 latitude: 52.573333333
 longitude: 13.408055555
 images:

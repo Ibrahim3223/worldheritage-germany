@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Skulpturenpark Köln"
 latitude: 50.955778
 longitude: 6.970972
 images:

@@ -10,6 +10,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Heinrich-Schliemann-Museum"
 latitude: 53.4838625
 longitude: 12.957932
 images:

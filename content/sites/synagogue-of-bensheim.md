@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue of Bensheim"
 latitude: 49.68247
 longitude: 8.62451
 images:

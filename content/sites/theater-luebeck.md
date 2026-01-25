@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Theater Lübeck"
 latitude: 53.8697
 longitude: 10.6864
 images:

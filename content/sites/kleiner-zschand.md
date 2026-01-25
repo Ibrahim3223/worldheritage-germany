@@ -10,6 +10,7 @@ categories:
   - "Valley"
 regions:
   - "Germany"
+site_name: "Kleiner Zschand"
 latitude: 50.90904
 longitude: 14.266
 images:

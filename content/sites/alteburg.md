@@ -10,6 +10,7 @@ categories:
 - Roman Villa
 regions:
 - Germany
+site_name: "Alteburg"
 latitude: 51.3756
 longitude: 6.99722
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Ackeburg"
 latitude: 51.6861
 longitude: 11.2535
 images:

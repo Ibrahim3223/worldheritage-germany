@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Staatliches Museum Schwerin"
 latitude: 53.6264
 longitude: 11.4183
 

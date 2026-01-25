@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Lanxess Arena"
 latitude: 50.93843
 longitude: 6.9829
 images:

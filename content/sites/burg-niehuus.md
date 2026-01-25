@@ -10,6 +10,7 @@ categories:
 - Roman Villa
 regions:
 - Germany
+site_name: "Burg Niehuus"
 latitude: 54.8288
 longitude: 9.3766
 images:

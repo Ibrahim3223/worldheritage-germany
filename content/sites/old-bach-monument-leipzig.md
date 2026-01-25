@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Old Bach-monument Leipzig"
 latitude: 51.3388
 longitude: 12.37144
 images:

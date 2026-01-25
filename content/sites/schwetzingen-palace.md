@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schwetzingen Palace"
 latitude: 49.383526939
 longitude: 8.565925958
 images:

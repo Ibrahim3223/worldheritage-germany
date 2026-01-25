@@ -10,6 +10,7 @@ categories:
 - Cave
 regions:
 - Germany
+site_name: "Das verfluchte Jungfernloch"
 latitude: 50.960913888
 longitude: 10.309466666
 images:

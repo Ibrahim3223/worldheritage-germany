@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Friedeburg"
 latitude: 53.447
 longitude: 7.84364
 images:

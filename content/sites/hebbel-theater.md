@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Hebbel Theater"
 latitude: 52.5
 longitude: 13.3873
 images:

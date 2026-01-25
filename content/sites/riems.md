@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Riems"
 latitude: 54.183055555
 longitude: 13.363888888
 images:

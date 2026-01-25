@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Valentin-Volkssänger-Musäum"
 latitude: 48.13496
 longitude: 11.58168
 images:

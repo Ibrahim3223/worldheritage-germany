@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Binding-Brauerei"
 latitude: 50.094685
 longitude: 8.691063
 images:

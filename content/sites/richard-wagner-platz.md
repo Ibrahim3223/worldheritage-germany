@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Richard-Wagner-Platz"
 latitude: 51.3433
 longitude: 12.3722
 images:

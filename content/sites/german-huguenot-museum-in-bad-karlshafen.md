@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "German Huguenot Museum in Bad Karlshafen"
 latitude: 51.642391
 longitude: 9.452661
 images:

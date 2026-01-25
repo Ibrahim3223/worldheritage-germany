@@ -10,6 +10,7 @@ categories:
 - Mosque
 regions:
 - Germany
+site_name: "Baitul Huda Mosque"
 latitude: 50.3328
 longitude: 8.51944
 images:

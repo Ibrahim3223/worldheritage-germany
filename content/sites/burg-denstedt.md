@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Denstedt"
 latitude: 51.0008
 longitude: 11.3824
 images:

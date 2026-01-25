@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Paulinzella Abbey"
 latitude: 50.7025
 longitude: 11.1044
 images:

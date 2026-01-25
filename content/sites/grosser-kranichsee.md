@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Großer Kranichsee"
 latitude: 50.4168
 longitude: 12.6007
 images:

@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Stargarder Tor"
 latitude: 53.5541
 longitude: 13.2612
 images:

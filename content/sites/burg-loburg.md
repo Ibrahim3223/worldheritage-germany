@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Loburg"
 latitude: 52.1111
 longitude: 12.0697
 images:

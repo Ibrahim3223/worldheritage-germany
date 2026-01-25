@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Alter Flugplatz"
 latitude: 50.1779
 longitude: 8.66018
 images:

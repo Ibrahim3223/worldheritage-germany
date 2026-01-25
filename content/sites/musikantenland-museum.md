@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Musikantenland Museum"
 latitude: 49.5557
 longitude: 7.35581
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum Ostwall"
 latitude: 51.513056
 longitude: 7.472222
 images:

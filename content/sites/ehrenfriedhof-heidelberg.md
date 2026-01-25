@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Ehrenfriedhof Heidelberg"
 latitude: 49.393611111
 longitude: 8.6975
 images:

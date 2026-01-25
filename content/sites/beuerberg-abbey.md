@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Beuerberg Abbey"
 latitude: 47.828867587
 longitude: 11.412196353
 images:

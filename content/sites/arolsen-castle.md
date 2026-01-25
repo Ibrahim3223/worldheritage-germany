@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Arolsen Castle"
 latitude: 51.3808
 longitude: 9.02194
 images:

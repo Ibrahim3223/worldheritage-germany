@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Ostenfriedhof Dortmund"
 latitude: 51.5098
 longitude: 7.49253
 images:

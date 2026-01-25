@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Allgäuer Hochalpen"
 latitude: 47.3725
 longitude: 10.3372
 images:

@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Wreechener See Nature Reserve"
 latitude: 54.3305
 longitude: 13.4581
 images:

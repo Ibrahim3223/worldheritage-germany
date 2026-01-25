@@ -10,6 +10,7 @@ categories:
 - Cinema
 regions:
 - Germany
+site_name: "Filmstudio Glückauf"
 latitude: 51.4432
 longitude: 7.00685
 images:

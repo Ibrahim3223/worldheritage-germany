@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Poensgen Park"
 latitude: 51.3056
 longitude: 6.85
 images:

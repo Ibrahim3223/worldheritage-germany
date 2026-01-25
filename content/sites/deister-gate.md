@@ -11,6 +11,7 @@ categories:
 - Gorge
 regions:
 - Germany
+site_name: "Deister Gate"
 latitude: 52.1998
 longitude: 9.528
 images:

@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "Exhibition Hall Magdeburg"
 latitude: 52.1206
 longitude: 11.6394
 images:

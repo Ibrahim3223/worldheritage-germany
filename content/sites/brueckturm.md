@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Brückturm"
 latitude: 49.0212
 longitude: 12.0971
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Roman baths of Badenweiler"
 latitude: 47.80286
 longitude: 7.67173
 

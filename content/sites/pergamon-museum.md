@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Pergamon Museum"
 latitude: 52.521
 longitude: 13.396
 

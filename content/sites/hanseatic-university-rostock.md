@@ -10,6 +10,7 @@ categories:
   - "University"
 regions:
   - "Germany"
+site_name: "Hanseatic University Rostock"
 latitude: 54.1709
 longitude: 12.079
 images:

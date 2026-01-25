@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Duborg Castle"
 latitude: 54.7931
 longitude: 9.42528
 images:

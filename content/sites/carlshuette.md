@@ -10,6 +10,7 @@ categories:
 - Factory
 regions:
 - Germany
+site_name: "Carlshütte"
 latitude: 54.3123
 longitude: 9.669
 images:

@@ -10,6 +10,7 @@ categories:
   - "Dam"
 regions:
   - "Germany"
+site_name: "Wahnbach Dam"
 latitude: 50.8047
 longitude: 7.28417
 images:

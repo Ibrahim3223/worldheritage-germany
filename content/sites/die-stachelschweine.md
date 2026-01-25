@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Die Stachelschweine"
 latitude: 52.5047
 longitude: 13.3369
 images:

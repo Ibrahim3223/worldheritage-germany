@@ -10,6 +10,7 @@ categories:
 - Windmill
 regions:
 - Germany
+site_name: "De Vrouw Johanna"
 latitude: 53.37238415
 longitude: 7.21333981
 images:

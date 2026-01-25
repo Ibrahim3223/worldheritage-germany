@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Belvedere water tower"
 latitude: 50.7864
 longitude: 6.08064
 images:

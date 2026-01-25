@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Mainfranken Theater Würzburg"
 latitude: 49.795
 longitude: 9.93667
 images:

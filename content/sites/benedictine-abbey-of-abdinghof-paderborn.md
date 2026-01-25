@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Benedictine Abbey of Abdinghof, Paderborn"
 latitude: 51.71879
 longitude: 8.75316
 images:

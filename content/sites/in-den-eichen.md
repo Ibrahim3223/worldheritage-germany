@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "In den Eichen"
 latitude: 51.9006
 longitude: 9.43944
 images:

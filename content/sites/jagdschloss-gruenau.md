@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Jagdschloss Grünau"
 latitude: 48.737160943
 longitude: 11.263368339
 images:

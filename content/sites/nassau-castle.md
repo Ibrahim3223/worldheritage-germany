@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Nassau Castle"
 latitude: 50.310833
 longitude: 7.792222
 

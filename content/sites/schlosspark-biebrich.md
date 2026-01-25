@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Schlosspark Biebrich"
 latitude: 50.04
 longitude: 8.234444444
 images:

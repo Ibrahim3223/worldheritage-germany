@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Stockburg"
 latitude: 47.783558
 longitude: 7.71714
 

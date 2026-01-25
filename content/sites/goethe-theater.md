@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Goethe-Theater"
 latitude: 51.3883
 longitude: 11.8639
 images:

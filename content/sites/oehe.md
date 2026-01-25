@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Öhe"
 latitude: 54.50778
 longitude: 13.16194
 images:

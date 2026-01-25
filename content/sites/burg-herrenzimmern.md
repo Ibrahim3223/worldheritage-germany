@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Herrenzimmern"
 latitude: 48.2239
 longitude: 8.58778
 images:

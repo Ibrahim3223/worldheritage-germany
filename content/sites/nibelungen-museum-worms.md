@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Nibelungen Museum Worms"
 latitude: 49.6294
 longitude: 8.36703
 images:

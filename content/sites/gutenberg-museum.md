@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Gutenberg Museum"
 latitude: 49.999722222
 longitude: 8.275277777
 images:

@@ -10,6 +10,7 @@ categories:
 - Cave
 regions:
 - Germany
+site_name: "Bockstein cave"
 latitude: 48.55424
 longitude: 10.15469
 images:

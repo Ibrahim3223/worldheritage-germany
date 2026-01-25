@@ -10,6 +10,7 @@ categories:
   - "Statue"
 regions:
   - "Germany"
+site_name: "Warrior of Hirschlanden"
 latitude: 48.833055555
 longitude: 9.011111111
 images:

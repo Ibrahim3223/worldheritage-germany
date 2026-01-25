@@ -10,6 +10,7 @@ categories:
   - "Windmill"
 regions:
   - "Germany"
+site_name: "Mühle von Donsbrüggen"
 latitude: 51.80535
 longitude: 6.087689
 images:

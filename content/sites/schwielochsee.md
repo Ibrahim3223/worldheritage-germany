@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Schwielochsee"
 latitude: 52.0667
 longitude: 14.2
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Archäologisches Freilichtmuseum Funkenburg"
 latitude: 51.2389
 longitude: 10.9181
 images:

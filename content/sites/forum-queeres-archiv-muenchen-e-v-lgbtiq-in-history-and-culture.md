@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "Forum Queeres Archiv München e. V.– LGBTIQ* in History and Culture"
 latitude: 48.1383325
 longitude: 11.5529736
 images:

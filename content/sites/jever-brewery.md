@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Jever Brewery"
 latitude: 53.57600021
 longitude: 7.90199995
 images:

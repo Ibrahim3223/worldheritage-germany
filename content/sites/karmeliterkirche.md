@@ -5,6 +5,12 @@ slug: "karmeliterkirche"
 region: "Hesse"
 
 # Location
+image_srcset:
+  Karmeliterkirche%20Mainz%2001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Karmeliterkirche_Mainz_01.jpg/400px-Karmeliterkirche_Mainz_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Karmeliterkirche_Mainz_01.jpg/800px-Karmeliterkirche_Mainz_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Karmeliterkirche_Mainz_01.jpg/1200px-Karmeliterkirche_Mainz_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Karmeliterkirche_Mainz_01.jpg/1920px-Karmeliterkirche_Mainz_01.jpg
 latitude: 50.0027
 longitude: 8.2733
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q3585896"
 description: "Located in the heart of Mainzs Altstadt, Karmeliterkirche is a striking example of Gothic architecture that beckons history enthusiasts and architecture..."
 images:
-  - "/images/karmeliterkirche/01-ac18a70f-1920w.webp"
-  - "/images/karmeliterkirche/02-2d0e33dd-1920w.webp"
-  - "/images/karmeliterkirche/03-00f4d684-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Karmeliterkirche_Mainz_01.jpg/1200px-Karmeliterkirche_Mainz_01.jpg
 ---
 
 ## Overview

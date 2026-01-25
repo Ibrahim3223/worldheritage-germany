@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Radolfzeller Aachried"
 latitude: 47.736111111
 longitude: 8.926944444
 images:

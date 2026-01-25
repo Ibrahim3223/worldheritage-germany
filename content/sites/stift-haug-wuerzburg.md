@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Stift Haug, Würzburg"
 latitude: 49.798007739
 longitude: 9.93587169
 images:

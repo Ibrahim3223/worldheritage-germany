@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Gewerbemuseum Nürnberg"
 latitude: 49.451458826
 longitude: 11.083333306
 images:

@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Saint Michael Chapel (Kienberg, Bernbeuren)"
 latitude: 47.76261
 longitude: 10.76596
 images:

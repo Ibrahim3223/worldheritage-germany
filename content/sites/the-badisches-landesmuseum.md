@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "The Badisches Landesmuseum"
 latitude: 49.0136
 longitude: 8.40444
 images:

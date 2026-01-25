@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Statue of Wilhelm von Humboldt"
 latitude: 52.51761
 longitude: 13.39346
 images:

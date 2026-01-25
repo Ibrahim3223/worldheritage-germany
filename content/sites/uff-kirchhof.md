@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Uff-Kirchhof"
 latitude: 48.804269444
 longitude: 9.226013888
 images:

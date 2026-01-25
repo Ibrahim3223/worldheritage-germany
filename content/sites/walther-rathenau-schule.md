@@ -10,6 +10,7 @@ categories:
   - "School Building"
 regions:
   - "Germany"
+site_name: "Walther-Rathenau-Schule"
 latitude: 52.491493251
 longitude: 13.281589641
 images:

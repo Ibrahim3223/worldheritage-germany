@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "cemeteries at Hallesches Tor"
 latitude: 52.495277777
 longitude: 13.391944444
 images:

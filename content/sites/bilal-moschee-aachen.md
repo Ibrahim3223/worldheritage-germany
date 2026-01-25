@@ -10,6 +10,7 @@ categories:
 - Mosque
 regions:
 - Germany
+site_name: "Bilal-Moschee (Aachen)"
 latitude: 50.7797
 longitude: 6.07139
 images:

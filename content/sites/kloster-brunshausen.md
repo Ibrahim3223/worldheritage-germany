@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Kloster Brunshausen"
 latitude: 51.8828
 longitude: 10.0319
 images:

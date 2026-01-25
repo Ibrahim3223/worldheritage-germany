@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Limburg Abbey"
 latitude: 49.4564
 longitude: 8.14639
 images:

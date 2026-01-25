@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kiel Castle"
 latitude: 54.3242
 longitude: 10.1434
 

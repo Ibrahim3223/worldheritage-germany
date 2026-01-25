@@ -10,6 +10,7 @@ categories:
 - Cave
 regions:
 - Germany
+site_name: "Daneil's Cave"
 latitude: 51.962611111
 longitude: 10.988333333
 images:

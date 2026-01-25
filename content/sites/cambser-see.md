@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Cambser See"
 latitude: 53.678611111
 longitude: 11.535555555
 images:

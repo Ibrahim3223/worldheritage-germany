@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Old town of Regensburg with Stadtamhof"
 latitude: 49.017222222
 longitude: 12.096944444
 images:

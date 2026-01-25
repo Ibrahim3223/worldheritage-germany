@@ -10,6 +10,7 @@ categories:
 - River
 regions:
 - Germany
+site_name: "Black Elster"
 latitude: 51.8162
 longitude: 12.8324
 images:

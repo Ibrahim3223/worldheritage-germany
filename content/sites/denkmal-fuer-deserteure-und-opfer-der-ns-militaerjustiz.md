@@ -10,6 +10,7 @@ categories:
 - Memorial
 regions:
 - Germany
+site_name: "Denkmal für Deserteure und Opfer der NS-Militärjustiz"
 latitude: 50.941052
 longitude: 6.950593
 images:

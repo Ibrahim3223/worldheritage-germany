@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Weißer See"
 latitude: 52.55416667
 longitude: 13.46402778
 images:

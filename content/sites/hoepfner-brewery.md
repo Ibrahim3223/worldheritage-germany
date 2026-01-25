@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Hoepfner Brewery"
 latitude: 49.01227
 longitude: 8.42765
 images:

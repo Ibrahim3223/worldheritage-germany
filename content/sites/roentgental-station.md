@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Röntgental station"
 latitude: 52.6487
 longitude: 13.5136
 images:

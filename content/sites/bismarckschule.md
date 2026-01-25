@@ -10,6 +10,7 @@ categories:
 - School Building
 regions:
 - Germany
+site_name: "Bismarckschule"
 latitude: 52.3552
 longitude: 9.7469
 images:

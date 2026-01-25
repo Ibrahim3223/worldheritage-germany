@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Hackesche Höfe"
 latitude: 52.524167
 longitude: 13.402222
 images:

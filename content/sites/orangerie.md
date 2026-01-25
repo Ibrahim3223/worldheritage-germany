@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Orangerie"
 latitude: 49.858
 longitude: 8.6531
 images:

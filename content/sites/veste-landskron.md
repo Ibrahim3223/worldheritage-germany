@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Veste Landskron"
 latitude: 53.7658
 longitude: 13.3792
 

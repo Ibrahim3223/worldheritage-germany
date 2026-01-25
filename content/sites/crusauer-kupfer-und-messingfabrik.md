@@ -10,6 +10,7 @@ categories:
 - Factory
 regions:
 - Germany
+site_name: "Crusauer Kupfer- und Messingfabrik"
 latitude: 54.8378
 longitude: 9.4157
 images:

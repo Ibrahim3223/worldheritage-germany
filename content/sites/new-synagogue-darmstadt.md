@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "New Synagogue (Darmstadt)"
 latitude: 49.86753
 longitude: 8.6546
 images:

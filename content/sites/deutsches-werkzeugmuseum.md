@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Deutsches Werkzeugmuseum"
 latitude: 51.1978
 longitude: 7.165
 images:

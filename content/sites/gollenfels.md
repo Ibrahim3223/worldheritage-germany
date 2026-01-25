@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Gollenfels"
 latitude: 49.9446
 longitude: 7.7686
 images:

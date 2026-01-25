@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Kongressdenkmal"
 latitude: 50.7817
 longitude: 6.09747
 images:

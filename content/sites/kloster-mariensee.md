@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Kloster Mariensee"
 latitude: 52.5586
 longitude: 9.48667
 images:

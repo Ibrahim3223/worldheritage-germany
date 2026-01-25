@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Quedlinburg Abbey"
 latitude: 51.785944444
 longitude: 11.136805555
 images:

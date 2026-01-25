@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Wittenberge station"
 latitude: 53.0019
 longitude: 11.7628
 images:

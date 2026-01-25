@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Romano-Germanic Museum"
 latitude: 50.940542
 longitude: 6.958931
 images:

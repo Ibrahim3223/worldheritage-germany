@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Stadtmuseum Schwabach"
 latitude: 49.336952
 longitude: 11.0183
 images:

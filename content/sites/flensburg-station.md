@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Flensburg station"
 latitude: 54.774663
 longitude: 9.436781
 images:

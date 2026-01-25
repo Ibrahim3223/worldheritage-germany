@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Pfalztheater"
 latitude: 49.4468
 longitude: 7.7692
 images:

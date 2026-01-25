@@ -10,6 +10,7 @@ categories:
   - "Castle"
 regions:
   - "Germany"
+site_name: "Kriegshoven Castle"
 latitude: 50.7265
 longitude: 6.90667
 images:

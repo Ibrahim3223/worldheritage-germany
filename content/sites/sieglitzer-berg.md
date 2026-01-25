@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Sieglitzer Berg"
 latitude: 51.8666
 longitude: 12.3214
 images:

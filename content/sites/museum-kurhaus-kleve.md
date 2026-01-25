@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum Kurhaus Kleve"
 latitude: 51.7956
 longitude: 6.12583
 

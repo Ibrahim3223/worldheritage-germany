@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Luisenstadt Canal"
 latitude: 52.505833333
 longitude: 13.418611111
 images:

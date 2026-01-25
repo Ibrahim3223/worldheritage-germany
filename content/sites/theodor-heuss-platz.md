@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Theodor-Heuss-Platz"
 latitude: 52.5094
 longitude: 13.2728
 images:

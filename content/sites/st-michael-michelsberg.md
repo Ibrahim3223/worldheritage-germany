@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "St. Michael (Michelsberg)"
 latitude: 50.5126
 longitude: 6.82429
 images:

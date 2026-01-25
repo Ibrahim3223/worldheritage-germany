@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "Festhalle Ilmenau"
 latitude: 50.681834
 longitude: 10.903003
 images:

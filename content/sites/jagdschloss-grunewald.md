@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Jagdschloss Grunewald"
 latitude: 52.4672
 longitude: 13.2614
 images:

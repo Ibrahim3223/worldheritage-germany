@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Cappenberg Castle"
 latitude: 51.650556
 longitude: 7.538611
 images:

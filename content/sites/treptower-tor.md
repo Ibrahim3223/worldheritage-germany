@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Treptower Tor"
 latitude: 53.557
 longitude: 13.255
 images:

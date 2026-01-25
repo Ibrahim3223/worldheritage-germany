@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Heidelberger Brauerei"
 latitude: 49.405
 longitude: 8.64
 images:

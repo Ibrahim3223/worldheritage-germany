@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Heinrich-Schütz-Haus (Weißenfels)"
 latitude: 51.1996
 longitude: 11.9709
 images:

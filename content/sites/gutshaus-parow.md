@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Gutshaus Parow"
 latitude: 54.3532
 longitude: 13.069
 images:

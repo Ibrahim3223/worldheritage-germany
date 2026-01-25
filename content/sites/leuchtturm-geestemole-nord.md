@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Leuchtturm Geestemole Nord"
 latitude: 53.5359
 longitude: 8.57493
 images:

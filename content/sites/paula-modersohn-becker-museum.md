@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Paula Modersohn-Becker Museum"
 latitude: 53.0751
 longitude: 8.80596
 

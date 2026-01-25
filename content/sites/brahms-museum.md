@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Brahms-Museum"
 latitude: 53.55123
 longitude: 9.976573
 images:

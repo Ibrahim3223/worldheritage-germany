@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Bergpark Wilhelmshöhe"
 latitude: 51.3167
 longitude: 9.4
 images:

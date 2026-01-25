@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Zeche Sachsen"
 latitude: 51.7065
 longitude: 7.82445
 images:

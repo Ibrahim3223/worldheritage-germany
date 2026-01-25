@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Hegau"
 latitude: 47.795
 longitude: 8.75
 images:

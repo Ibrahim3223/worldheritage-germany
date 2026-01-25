@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Norderstedt Mitte station"
 latitude: 53.707778
 longitude: 9.992222
 images:

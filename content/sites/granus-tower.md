@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Granus Tower"
 latitude: 50.77597
 longitude: 6.08422
 images:

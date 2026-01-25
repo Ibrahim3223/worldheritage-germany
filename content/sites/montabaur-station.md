@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Montabaur station"
 latitude: 50.4447
 longitude: 7.82528
 images:

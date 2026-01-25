@@ -10,6 +10,7 @@ categories:
   - "Waterfall"
 regions:
   - "Germany"
+site_name: "Uracher Wasserfall"
 latitude: 48.482222222
 longitude: 9.367777777
 images:

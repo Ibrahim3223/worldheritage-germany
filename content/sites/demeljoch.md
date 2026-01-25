@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Demeljoch"
 latitude: 47.546151
 longitude: 11.5864
 images:

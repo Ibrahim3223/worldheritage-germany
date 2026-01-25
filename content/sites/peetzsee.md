@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Peetzsee"
 latitude: 52.423861111
 longitude: 13.833666666
 images:

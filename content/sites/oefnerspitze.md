@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Öfnerspitze"
 latitude: 47.3175062
 longitude: 10.3487798
 images:

@@ -10,6 +10,7 @@ categories:
 - Mosque
 regions:
 - Germany
+site_name: "DİTİB Kocatepe Mosque"
 latitude: 48.7781
 longitude: 11.4236
 images:

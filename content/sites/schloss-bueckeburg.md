@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schloss Bückeburg"
 latitude: 52.2589
 longitude: 9.04361
 images:

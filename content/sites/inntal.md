@@ -10,6 +10,7 @@ categories:
 - Valley
 regions:
 - Germany
+site_name: "Inntal"
 latitude: 47.28109
 longitude: 10.98633
 images:

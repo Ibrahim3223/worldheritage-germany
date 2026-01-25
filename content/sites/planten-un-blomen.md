@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Planten un Blomen"
 latitude: 53.561111111
 longitude: 9.983333333
 images:

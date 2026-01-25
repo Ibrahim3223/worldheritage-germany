@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Schnellerts"
 latitude: 49.7409
 longitude: 8.8951
 images:

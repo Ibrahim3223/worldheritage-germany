@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Schloss Kalkhorst"
 latitude: 53.965
 longitude: 11.0595
 images:

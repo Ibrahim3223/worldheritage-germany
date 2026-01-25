@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Maisinger See"
 latitude: 47.9797
 longitude: 11.2794
 images:

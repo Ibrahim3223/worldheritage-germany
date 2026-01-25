@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Altabgrabung Klingenberger"
 latitude: 51.092083888
 longitude: 6.938623055
 images:

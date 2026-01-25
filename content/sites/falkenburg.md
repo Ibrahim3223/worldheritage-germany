@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Falkenburg"
 latitude: 51.3753
 longitude: 11.0378
 images:

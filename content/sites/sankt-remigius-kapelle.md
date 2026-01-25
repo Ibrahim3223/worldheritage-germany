@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Sankt-Remigius-Kapelle"
 latitude: 48.5063
 longitude: 8.9825
 images:

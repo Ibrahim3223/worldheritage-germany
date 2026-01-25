@@ -10,6 +10,7 @@ categories:
 - Cave
 regions:
 - Germany
+site_name: "Devil's Cave"
 latitude: 49.754722222
 longitude: 11.42
 images:

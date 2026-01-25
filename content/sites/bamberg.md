@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Bamberg"
 latitude: 49.900815
 longitude: 10.899516
 images:

@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Celle War Cemetery"
 latitude: 52.6382
 longitude: 10.0828
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Kloster Himmelkron"
 latitude: 50.062393085
 longitude: 11.593427814
 images:

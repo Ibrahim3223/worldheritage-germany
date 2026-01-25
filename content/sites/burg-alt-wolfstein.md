@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Alt-Wolfstein"
 latitude: 49.5899
 longitude: 7.60092
 images:

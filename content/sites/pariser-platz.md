@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Pariser Platz"
 latitude: 52.516388888
 longitude: 13.378888888
 images:

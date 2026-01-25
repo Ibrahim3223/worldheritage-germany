@@ -10,6 +10,7 @@ categories:
 - Market Square
 regions:
 - Germany
+site_name: "Gänsemarkt"
 latitude: 53.555
 longitude: 9.98833333
 images:

@@ -10,6 +10,7 @@ categories:
 - University
 regions:
 - Germany
+site_name: "Frederick's University of Bützow"
 latitude: 53.847128
 longitude: 11.97661
 images:

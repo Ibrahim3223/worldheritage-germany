@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Alte Brennerei Schwake"
 latitude: 51.8367
 longitude: 8.02333
 images:

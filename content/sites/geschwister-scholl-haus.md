@@ -10,6 +10,7 @@ categories:
 - School Building
 regions:
 - Germany
+site_name: "Geschwister-Scholl-Haus"
 latitude: 51.3401
 longitude: 12.3794
 images:

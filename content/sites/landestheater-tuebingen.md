@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Landestheater Tübingen"
 latitude: 48.515
 longitude: 9.0634
 images:

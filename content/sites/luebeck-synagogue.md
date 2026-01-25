@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Lübeck synagogue"
 latitude: 53.863
 longitude: 10.6896
 images:

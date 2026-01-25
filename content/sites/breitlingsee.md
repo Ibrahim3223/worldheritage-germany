@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Breitlingsee"
 latitude: 52.386287
 longitude: 12.477894
 images:

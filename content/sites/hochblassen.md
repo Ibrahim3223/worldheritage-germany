@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Hochblassen"
 latitude: 47.423533333
 longitude: 11.040536111
 images:

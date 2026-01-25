@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Pobüller Bauernholz"
 latitude: 54.605833333
 longitude: 9.255
 images:

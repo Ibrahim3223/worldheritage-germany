@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Max-Schmeling-Halle"
 latitude: 52.544792
 longitude: 13.404484
 images:

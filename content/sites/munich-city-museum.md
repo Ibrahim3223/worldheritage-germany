@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Munich City Museum"
 latitude: 48.135111111
 longitude: 11.572583333
 images:

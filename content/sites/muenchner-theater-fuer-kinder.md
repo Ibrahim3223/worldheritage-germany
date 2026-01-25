@@ -10,6 +10,7 @@ categories:
   - "Cinema"
 regions:
   - "Germany"
+site_name: "Münchner Theater für Kinder"
 latitude: 48.1461
 longitude: 11.5594
 images:

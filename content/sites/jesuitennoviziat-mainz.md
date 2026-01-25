@@ -10,6 +10,7 @@ categories:
 - School Building
 regions:
 - Germany
+site_name: "Jesuitennoviziat (Mainz)"
 latitude: 50.001509
 longitude: 8.271941
 images:

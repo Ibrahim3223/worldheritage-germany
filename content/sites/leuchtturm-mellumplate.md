@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Leuchtturm Mellumplate"
 latitude: 53.771667
 longitude: 8.0925
 images:

@@ -10,6 +10,7 @@ categories:
 - Valley
 regions:
 - Germany
+site_name: "Amselgrund"
 latitude: 50.93333
 longitude: 12.86667
 images:

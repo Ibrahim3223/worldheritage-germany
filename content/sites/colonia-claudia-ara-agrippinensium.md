@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Colonia Claudia Ara Agrippinensium"
 latitude: 50.938055555
 longitude: 6.956944444
 images:

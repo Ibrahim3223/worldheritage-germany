@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Zentralfriedhof Friedrichsfelde"
 latitude: 52.515555555
 longitude: 13.510555555
 images:

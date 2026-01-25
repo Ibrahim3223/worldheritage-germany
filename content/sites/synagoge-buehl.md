@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagoge Bühl"
 latitude: 48.695881
 longitude: 8.138329
 images:

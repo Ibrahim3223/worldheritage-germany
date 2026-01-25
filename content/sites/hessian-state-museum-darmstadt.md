@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Hessian State Museum Darmstadt"
 latitude: 49.874752721
 longitude: 8.653534752
 images:

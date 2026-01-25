@@ -10,6 +10,7 @@ categories:
   - "Waterfall"
 regions:
   - "Germany"
+site_name: "Spitter Waterfall"
 latitude: 50.788256
 longitude: 10.54310247
 images:

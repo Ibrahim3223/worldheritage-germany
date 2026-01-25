@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Porzellanikon"
 latitude: 50.1695
 longitude: 12.1287
 

@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Isted Lion"
 latitude: 54.78531076
 longitude: 9.42948818
 images:

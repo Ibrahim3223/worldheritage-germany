@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Rottenbuch Abbey"
 latitude: 47.734887976
 longitude: 10.966956702
 images:

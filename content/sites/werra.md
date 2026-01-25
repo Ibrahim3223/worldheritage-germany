@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Werra"
 latitude: 51.421303
 longitude: 9.648473
 images:

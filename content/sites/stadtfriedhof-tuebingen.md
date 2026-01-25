@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Stadtfriedhof Tübingen"
 latitude: 48.525988888
 longitude: 9.057172222
 images:

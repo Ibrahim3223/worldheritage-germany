@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Moritzburg"
 latitude: 51.486111
 longitude: 11.963333
 

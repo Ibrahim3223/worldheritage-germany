@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Weissenau Abbey"
 latitude: 47.763
 longitude: 9.596
 images:

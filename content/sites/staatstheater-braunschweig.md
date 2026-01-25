@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Staatstheater Braunschweig"
 latitude: 52.2658
 longitude: 10.5317
 images:

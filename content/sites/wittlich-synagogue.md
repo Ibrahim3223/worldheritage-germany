@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Wittlich Synagogue"
 latitude: 49.9881
 longitude: 6.88569
 images:

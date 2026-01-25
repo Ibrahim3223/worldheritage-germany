@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Großer Falkenstein"
 latitude: 49.084166666
 longitude: 13.28
 images:

@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Bismarck Statue"
 latitude: 54.417472
 longitude: 9.689917
 images:

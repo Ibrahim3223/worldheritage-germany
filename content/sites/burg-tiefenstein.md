@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Tiefenstein"
 latitude: 47.63055556
 longitude: 8.09527778
 images:

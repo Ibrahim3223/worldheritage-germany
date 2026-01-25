@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum der Alltagskultur"
 latitude: 48.6373
 longitude: 9.13105
 images:

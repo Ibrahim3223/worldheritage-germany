@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Volkspark Mariendorf"
 latitude: 52.443611
 longitude: 13.395278
 images:

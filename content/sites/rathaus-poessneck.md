@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Rathaus Pößneck"
 latitude: 50.693862
 longitude: 11.593965
 images:

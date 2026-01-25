@@ -11,6 +11,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Großer Pälitzsee"
 latitude: 53.185876122
 longitude: 12.970390319
 images:

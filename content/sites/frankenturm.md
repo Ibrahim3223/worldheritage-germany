@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Frankenturm"
 latitude: 49.7569
 longitude: 6.63944
 images:

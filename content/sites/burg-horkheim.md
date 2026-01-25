@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Horkheim"
 latitude: 49.1158
 longitude: 9.166
 images:

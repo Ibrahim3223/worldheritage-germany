@@ -10,6 +10,7 @@ categories:
 - City Gate
 regions:
 - Germany
+site_name: "Jägertor"
 latitude: 52.4025614
 longitude: 13.0526785
 images:

@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Kompagnietor"
 latitude: 54.7902
 longitude: 9.43357
 images:

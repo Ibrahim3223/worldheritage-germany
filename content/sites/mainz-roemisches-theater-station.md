@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Mainz Römisches Theater station"
 latitude: 49.9933
 longitude: 8.27778
 images:

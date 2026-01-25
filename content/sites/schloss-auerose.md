@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Schloss Auerose"
 latitude: 53.807
 longitude: 13.7561
 images:

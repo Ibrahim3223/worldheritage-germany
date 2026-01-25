@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "TRUDE"
 latitude: 53.58483333
 longitude: 10.04433333
 images:

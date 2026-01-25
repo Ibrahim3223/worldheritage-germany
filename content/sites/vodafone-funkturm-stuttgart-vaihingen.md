@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Vodafone-Funkturm Stuttgart-Vaihingen"
 latitude: 48.7282
 longitude: 9.07953
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Heimburg Castle"
 latitude: 50.0339
 longitude: 7.8066
 images:

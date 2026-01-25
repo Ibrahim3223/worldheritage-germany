@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Neuburg Abbey"
 latitude: 49.4189
 longitude: 8.74083
 

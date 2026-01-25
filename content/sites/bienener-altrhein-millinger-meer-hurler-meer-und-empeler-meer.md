@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Bienener Altrhein, Millinger Meer, Hurler Meer und Empeler Meer"
 latitude: 51.8036594
 longitude: 6.3595969
 images:

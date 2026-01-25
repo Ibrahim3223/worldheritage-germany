@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Ebersburg Castle"
 latitude: 50.4744
 longitude: 9.8516
 images:

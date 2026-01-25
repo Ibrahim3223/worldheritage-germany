@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Berlin-Friedrichsfelde Ost station"
 latitude: 52.5141
 longitude: 13.5198
 images:

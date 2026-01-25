@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Pfaueninsel"
 latitude: 52.434444444
 longitude: 13.130833333
 images:

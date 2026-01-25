@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Parsteiner See"
 latitude: 52.933669444
 longitude: 13.982280555
 images:

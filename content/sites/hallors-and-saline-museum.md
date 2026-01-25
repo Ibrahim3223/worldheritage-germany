@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Hallors and Saline Museum"
 latitude: 51.4822
 longitude: 11.9596
 images:

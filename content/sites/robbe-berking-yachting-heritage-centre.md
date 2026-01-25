@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "Robbe & Berking Yachting Heritage Centre"
 latitude: 54.80012
 longitude: 9.43798
 images:

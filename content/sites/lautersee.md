@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Lautersee"
 latitude: 47.438611111
 longitude: 11.235277777
 images:

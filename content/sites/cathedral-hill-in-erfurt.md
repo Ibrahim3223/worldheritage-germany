@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Cathedral Hill in Erfurt"
 latitude: 50.976071
 longitude: 11.023058
 images:

@@ -10,6 +10,7 @@ categories:
   - "Waterfall"
 regions:
   - "Germany"
+site_name: "Königshütte Waterfall"
 latitude: 51.751133333
 longitude: 10.753422222
 images:

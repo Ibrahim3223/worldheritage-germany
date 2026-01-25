@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Ferchensee"
 latitude: 47.439166666
 longitude: 11.214722222
 images:

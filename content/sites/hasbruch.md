@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Hasbruch"
 latitude: 53.07222
 longitude: 8.48056
 images:

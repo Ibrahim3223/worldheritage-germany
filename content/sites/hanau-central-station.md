@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Hanau Central Station"
 latitude: 50.121102
 longitude: 8.92946
 images:

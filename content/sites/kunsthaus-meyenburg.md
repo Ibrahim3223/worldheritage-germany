@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kunsthaus Meyenburg"
 latitude: 51.509166666
 longitude: 10.799166666
 

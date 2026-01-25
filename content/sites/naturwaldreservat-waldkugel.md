@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Naturwaldreservat Waldkugel"
 latitude: 49.74
 longitude: 9.91
 images:

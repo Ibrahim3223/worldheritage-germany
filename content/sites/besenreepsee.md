@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Besenreepsee"
 latitude: 53.25305
 longitude: 13.110288888
 images:

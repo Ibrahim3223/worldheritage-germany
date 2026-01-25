@@ -10,6 +10,7 @@ categories:
   - "University"
 regions:
   - "Germany"
+site_name: "University of Koblenz"
 latitude: 50.363611111
 longitude: 7.558333333
 images:

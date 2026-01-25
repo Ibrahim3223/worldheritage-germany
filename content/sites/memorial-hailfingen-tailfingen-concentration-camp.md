@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Memorial Hailfingen-Tailfingen concentration camp"
 latitude: 48.5517
 longitude: 8.87531
 images:

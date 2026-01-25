@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "State Museum of Technology"
 latitude: 53.89363889
 longitude: 11.43066111
 images:

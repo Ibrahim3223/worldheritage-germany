@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Castle Kastellaun"
 latitude: 50.0708
 longitude: 7.43833
 images:

@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Hölderlinturm"
 latitude: 48.519344
 longitude: 9.055728
 images:

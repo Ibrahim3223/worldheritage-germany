@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Volkshaus Jena"
 latitude: 50.9272
 longitude: 11.58
 images:

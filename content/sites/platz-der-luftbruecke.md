@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Platz der Luftbrücke"
 latitude: 52.4842
 longitude: 13.3875
 images:

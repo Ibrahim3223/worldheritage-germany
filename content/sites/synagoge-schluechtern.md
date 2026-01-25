@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagoge Schlüchtern"
 latitude: 50.3489
 longitude: 9.52709
 images:

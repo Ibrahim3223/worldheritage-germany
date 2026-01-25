@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Frederick the Great Memorial"
 latitude: 52.52062
 longitude: 13.29857
 images:

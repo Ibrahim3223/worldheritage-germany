@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Nieblum Lighthouse"
 latitude: 54.68441
 longitude: 8.485702
 images:

@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Denk-Mal Güterwagen"
 latitude: 53.587464
 longitude: 10.027059
 images:

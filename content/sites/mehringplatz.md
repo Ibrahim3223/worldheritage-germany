@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Mehringplatz"
 latitude: 52.49889
 longitude: 13.39167
 images:

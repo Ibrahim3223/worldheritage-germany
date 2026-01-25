@@ -10,6 +10,7 @@ categories:
 - School Building
 regions:
 - Germany
+site_name: "Gymnasium Dresden-Plauen"
 latitude: 51.0271
 longitude: 13.705
 images:

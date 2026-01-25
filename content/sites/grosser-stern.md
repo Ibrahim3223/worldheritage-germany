@@ -10,6 +10,7 @@ categories:
 - Market Square
 regions:
 - Germany
+site_name: "Großer Stern"
 latitude: 52.5145
 longitude: 13.350111111
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Ostfriesisches Landesmuseum Emden"
 latitude: 53.3668
 longitude: 7.20692
 images:

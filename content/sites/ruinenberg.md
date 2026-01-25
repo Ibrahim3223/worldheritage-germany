@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Ruinenberg"
 latitude: 52.409722222
 longitude: 13.038611111
 images:

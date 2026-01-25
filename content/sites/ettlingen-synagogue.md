@@ -10,6 +10,7 @@ categories:
 - Synagogue
 regions:
 - Germany
+site_name: "Ettlingen Synagogue"
 latitude: 48.9415
 longitude: 8.41294
 images:

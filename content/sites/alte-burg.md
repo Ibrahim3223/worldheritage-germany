@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Alte Burg"
 latitude: 51.0583
 longitude: 10.4114
 images:

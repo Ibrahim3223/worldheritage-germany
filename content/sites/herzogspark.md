@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Herzogspark"
 latitude: 49.0231
 longitude: 12.0822
 images:

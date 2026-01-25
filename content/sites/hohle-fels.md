@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Hohle Fels"
 latitude: 48.379166666
 longitude: 9.755555555
 images:

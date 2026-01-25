@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Margravial Opera House"
 latitude: 49.944344697
 longitude: 11.57866362
 images:

@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Großes Militärwaisenhaus"
 latitude: 52.396325
 longitude: 13.051589
 images:

@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Operettenhaus"
 latitude: 53.54944444
 longitude: 9.96694444
 images:

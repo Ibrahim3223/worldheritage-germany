@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Akademietheater"
 latitude: 48.1386
 longitude: 11.6055
 images:

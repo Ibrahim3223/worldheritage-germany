@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Wiesenburg Castle"
 latitude: 50.6517
 longitude: 12.5669
 

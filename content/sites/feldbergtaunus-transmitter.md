@@ -11,6 +11,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Feldberg/Taunus transmitter"
 latitude: 50.2321
 longitude: 8.45734
 images:

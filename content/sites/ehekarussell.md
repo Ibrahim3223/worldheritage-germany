@@ -10,6 +10,7 @@ categories:
 - Fountain
 regions:
 - Germany
+site_name: "Ehekarussell"
 latitude: 49.4506
 longitude: 11.071
 images:

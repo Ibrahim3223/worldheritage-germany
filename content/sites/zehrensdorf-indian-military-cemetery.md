@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Zehrensdorf Indian Military Cemetery"
 latitude: 52.1728
 longitude: 13.5025
 images:

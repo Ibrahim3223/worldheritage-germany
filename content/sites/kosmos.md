@@ -10,6 +10,7 @@ categories:
   - "Cinema"
 regions:
   - "Germany"
+site_name: "Kosmos"
 latitude: 52.5172
 longitude: 13.45
 images:

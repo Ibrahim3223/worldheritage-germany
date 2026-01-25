@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Marchtal Abbey"
 latitude: 48.2365
 longitude: 9.57097
 images:

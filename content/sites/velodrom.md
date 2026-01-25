@@ -10,6 +10,7 @@ categories:
   - "Cinema"
 regions:
   - "Germany"
+site_name: "Velodrom"
 latitude: 49.01992
 longitude: 12.08744
 images:

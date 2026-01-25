@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Schwarzenfels"
 latitude: 50.300299306
 longitude: 9.671865571
 images:

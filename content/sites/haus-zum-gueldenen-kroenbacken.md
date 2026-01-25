@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Haus zum Güldenen Krönbacken"
 latitude: 50.9792
 longitude: 11.0283
 images:

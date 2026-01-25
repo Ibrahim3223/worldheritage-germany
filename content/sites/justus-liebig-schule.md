@@ -10,6 +10,7 @@ categories:
 - School Building
 regions:
 - Germany
+site_name: "Justus-Liebig-Schule"
 latitude: 49.877393347
 longitude: 8.645879827
 images:

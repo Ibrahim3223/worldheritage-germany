@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Amrumer Dünen"
 latitude: 54.6594
 longitude: 8.32194
 images:

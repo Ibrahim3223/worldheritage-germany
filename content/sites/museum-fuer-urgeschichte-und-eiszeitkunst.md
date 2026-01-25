@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum für Urgeschichte und Eiszeitkunst"
 latitude: 48.4117324
 longitude: 9.7850221
 images:

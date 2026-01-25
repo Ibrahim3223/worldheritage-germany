@@ -10,6 +10,7 @@ categories:
 - Mine
 regions:
 - Germany
+site_name: "Bellerberg volcano"
 latitude: 50.347334
 longitude: 7.230359
 images:

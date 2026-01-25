@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Veldenstein"
 latitude: 49.6293
 longitude: 11.5492
 images:

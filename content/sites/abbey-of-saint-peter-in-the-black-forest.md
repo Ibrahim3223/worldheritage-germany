@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Abbey of Saint Peter in the Black Forest"
 latitude: 48.0166
 longitude: 8.0325
 images:

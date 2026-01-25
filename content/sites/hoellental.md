@@ -10,6 +10,7 @@ categories:
 - Valley
 regions:
 - Germany
+site_name: "Höllental"
 latitude: 47.441
 longitude: 11.0339
 images:

@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Stadthalle Freiburg im Breisgau"
 latitude: 47.986861111
 longitude: 7.872694444
 images:

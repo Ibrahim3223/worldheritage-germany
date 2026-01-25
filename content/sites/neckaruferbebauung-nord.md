@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Neckaruferbebauung-Nord"
 latitude: 49.495
 longitude: 8.47611
 images:

@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Bürgerpark Pankow"
 latitude: 52.569444444
 longitude: 13.393055555
 images:

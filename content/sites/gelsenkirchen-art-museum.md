@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Gelsenkirchen Art Museum"
 latitude: 51.577
 longitude: 7.05407
 images:

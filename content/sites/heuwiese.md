@@ -10,6 +10,7 @@ categories:
 - Island
 regions:
 - Germany
+site_name: "Heuwiese"
 latitude: 54.428055555
 longitude: 13.119444444
 images:

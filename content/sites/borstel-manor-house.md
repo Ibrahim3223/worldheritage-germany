@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Borstel Manor House"
 latitude: 53.8183
 longitude: 10.1994
 images:

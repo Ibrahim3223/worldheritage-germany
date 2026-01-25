@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Meersburg Castle"
 latitude: 47.6939
 longitude: 9.270516
 

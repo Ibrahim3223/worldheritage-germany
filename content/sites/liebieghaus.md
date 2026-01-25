@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Liebieghaus"
 latitude: 50.1019
 longitude: 8.67167
 

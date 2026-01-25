@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "German Cancer Aid"
 latitude: 50.721348
 longitude: 7.112759
 images:

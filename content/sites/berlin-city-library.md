@@ -10,6 +10,7 @@ categories:
 - Library
 regions:
 - Germany
+site_name: "Berlin City Library"
 latitude: 52.5156
 longitude: 13.4041
 images:

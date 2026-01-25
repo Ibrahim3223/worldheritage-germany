@@ -10,6 +10,7 @@ categories:
   - "Library"
 regions:
   - "Germany"
+site_name: "Stadt- und Regionalbibliothek Erfurt"
 latitude: 50.97805556
 longitude: 11.02444444
 images:

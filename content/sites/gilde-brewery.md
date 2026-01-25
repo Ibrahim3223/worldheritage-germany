@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Gilde Brewery"
 latitude: 52.354444444
 longitude: 9.754444444
 images:

@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Brombachmoor"
 latitude: 49.1309
 longitude: 10.8448
 images:

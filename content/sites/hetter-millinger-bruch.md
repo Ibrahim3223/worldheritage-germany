@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Hetter-Millinger Bruch"
 latitude: 51.845843507
 longitude: 6.339380459
 images:

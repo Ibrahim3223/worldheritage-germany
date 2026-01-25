@@ -10,6 +10,7 @@ categories:
   - "Statue"
 regions:
   - "Germany"
+site_name: "Statue of Adolf Dassler"
 latitude: 49.583056
 longitude: 10.915387
 images:

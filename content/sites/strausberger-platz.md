@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Strausberger Platz"
 latitude: 52.518527777
 longitude: 13.428305555
 images:

@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Spree"
 latitude: 52.5361
 longitude: 13.2089
 images:

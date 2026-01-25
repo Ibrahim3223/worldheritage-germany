@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Alte Pinakothek"
 latitude: 48.148291
 longitude: 11.569985
 images:

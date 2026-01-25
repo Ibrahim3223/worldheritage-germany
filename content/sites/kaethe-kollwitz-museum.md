@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Käthe Kollwitz Museum"
 latitude: 52.520555555
 longitude: 13.291944444
 images:

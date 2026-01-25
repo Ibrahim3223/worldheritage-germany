@@ -10,6 +10,7 @@ categories:
   - "Factory"
 regions:
   - "Germany"
+site_name: "WAGO GmbH & Co. KG"
 latitude: 52.29908
 longitude: 8.92253
 images:

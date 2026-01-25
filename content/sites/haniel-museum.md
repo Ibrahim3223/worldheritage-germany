@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Haniel Museum"
 latitude: 51.4513
 longitude: 6.73325
 images:

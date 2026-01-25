@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Elbauenpark"
 latitude: 52.1349
 longitude: 11.669
 images:

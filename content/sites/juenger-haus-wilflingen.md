@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Jünger-Haus Wilflingen"
 latitude: 48.1375
 longitude: 9.35631
 images:

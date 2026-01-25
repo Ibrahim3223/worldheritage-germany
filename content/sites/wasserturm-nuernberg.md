@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Wasserturm (Nürnberg)"
 latitude: 49.4535
 longitude: 11.0734
 images:

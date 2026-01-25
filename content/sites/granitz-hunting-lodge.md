@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Granitz Hunting Lodge"
 latitude: 54.380555555
 longitude: 13.627222222
 images:

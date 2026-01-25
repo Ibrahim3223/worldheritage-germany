@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Stadthalle Offenbach"
 latitude: 50.0829
 longitude: 8.7767
 images:

@@ -10,6 +10,7 @@ categories:
   - "Roman Villa"
 regions:
   - "Germany"
+site_name: "Räuberberg (Görsdorf)"
 latitude: 52.147295
 longitude: 14.059191
 images:

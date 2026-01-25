@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Gut Wahlstorf"
 latitude: 54.1964
 longitude: 10.3067
 images:

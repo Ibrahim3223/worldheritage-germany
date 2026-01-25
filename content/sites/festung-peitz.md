@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Festung Peitz"
 latitude: 51.8574
 longitude: 14.4094
 images:

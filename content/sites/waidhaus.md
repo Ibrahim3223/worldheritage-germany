@@ -10,6 +10,7 @@ categories:
   - "School Building"
 regions:
   - "Germany"
+site_name: "Waidhaus"
 latitude: 51.15794
 longitude: 14.992609
 images:

@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "President Friedrich Ebert Memorial"
 latitude: 49.4127
 longitude: 8.7082
 images:

@@ -11,6 +11,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Freising Brewery"
 latitude: 48.406082635
 longitude: 11.746963404
 images:

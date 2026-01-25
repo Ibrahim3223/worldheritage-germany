@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Baalensee"
 latitude: 53.181453
 longitude: 13.149605
 images:

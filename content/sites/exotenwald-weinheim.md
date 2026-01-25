@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Exotenwald Weinheim"
 latitude: 49.5408
 longitude: 8.675
 images:

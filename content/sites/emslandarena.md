@@ -10,6 +10,7 @@ categories:
 - City Wall
 regions:
 - Germany
+site_name: "EmslandArena"
 latitude: 52.5139
 longitude: 7.31389
 images:

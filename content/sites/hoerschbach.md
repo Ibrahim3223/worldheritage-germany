@@ -10,6 +10,7 @@ categories:
 - Waterfall
 regions:
 - Germany
+site_name: "Hörschbach"
 latitude: 48.9846
 longitude: 9.56081
 images:

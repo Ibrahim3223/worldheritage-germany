@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Wilenstein"
 latitude: 49.3541
 longitude: 7.75319
 images:

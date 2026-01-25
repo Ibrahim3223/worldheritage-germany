@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Herrenhaus Mallin"
 latitude: 53.5376
 longitude: 13.1395
 images:

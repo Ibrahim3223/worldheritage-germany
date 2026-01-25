@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Pellworm"
 latitude: 54.521388888
 longitude: 8.656388888
 images:

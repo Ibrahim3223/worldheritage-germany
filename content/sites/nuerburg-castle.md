@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Nürburg Castle"
 latitude: 50.3465
 longitude: 6.95407
 

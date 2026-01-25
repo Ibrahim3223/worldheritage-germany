@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Angel of Peace"
 latitude: 48.1414
 longitude: 11.5969
 images:

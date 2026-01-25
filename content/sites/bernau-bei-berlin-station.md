@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Bernau bei Berlin station"
 latitude: 52.6763
 longitude: 13.5931
 images:

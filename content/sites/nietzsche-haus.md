@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Nietzsche-Haus"
 latitude: 51.15
 longitude: 11.8126
 images:

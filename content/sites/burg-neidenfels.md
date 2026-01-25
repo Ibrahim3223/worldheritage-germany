@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Neidenfels"
 latitude: 49.3917
 longitude: 8.0458
 images:

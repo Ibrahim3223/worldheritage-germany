@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Potsdamer Platz"
 latitude: 52.508944444
 longitude: 13.376333333
 images:

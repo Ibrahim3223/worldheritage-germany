@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Scharfenburg"
 latitude: 50.9144
 longitude: 10.3972
 images:

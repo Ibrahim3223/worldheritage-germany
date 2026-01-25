@@ -10,6 +10,7 @@ categories:
   - "Cinema"
 regions:
   - "Germany"
+site_name: "Scharfrichterhaus"
 latitude: 48.574698533
 longitude: 13.469312698
 images:

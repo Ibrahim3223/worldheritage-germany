@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Nassenfels Castle"
 latitude: 48.796072961
 longitude: 11.229172321
 

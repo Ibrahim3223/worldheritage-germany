@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "ÖVB Arena"
 latitude: 53.0875
 longitude: 8.815278
 images:

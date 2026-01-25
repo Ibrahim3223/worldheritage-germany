@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Neues Museum Nürnberg"
 latitude: 49.4478
 longitude: 11.08
 

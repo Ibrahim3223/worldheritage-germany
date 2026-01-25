@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Kartzow manor"
 latitude: 52.4912
 longitude: 12.98002
 images:

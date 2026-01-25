@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schillerhaus Weimar"
 latitude: 50.9789
 longitude: 11.3278
 images:

@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Kapelle"
 latitude: 47.8954
 longitude: 10.1444
 images:

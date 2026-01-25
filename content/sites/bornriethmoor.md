@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Bornriethmoor"
 latitude: 52.7747
 longitude: 10.0972
 images:

@@ -10,6 +10,7 @@ categories:
 - Lighthouse
 regions:
 - Germany
+site_name: "Hohe Weg Lighthouse"
 latitude: 53.70194444
 longitude: 8.235
 images:

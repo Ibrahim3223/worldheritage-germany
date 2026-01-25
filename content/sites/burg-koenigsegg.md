@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Königsegg"
 latitude: 47.925
 longitude: 9.45613
 images:

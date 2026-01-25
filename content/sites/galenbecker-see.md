@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Galenbecker See"
 latitude: 53.621944444
 longitude: 13.732777777
 images:

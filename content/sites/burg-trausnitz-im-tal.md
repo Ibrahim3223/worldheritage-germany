@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Trausnitz im Tal"
 latitude: 49.5203
 longitude: 12.2649
 images:

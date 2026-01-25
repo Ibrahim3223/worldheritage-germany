@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Gutenzell Abbey"
 latitude: 48.1147
 longitude: 9.99597
 images:

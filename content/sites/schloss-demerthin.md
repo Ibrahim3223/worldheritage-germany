@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schloss Demerthin"
 latitude: 52.9715
 longitude: 12.2897
 images:

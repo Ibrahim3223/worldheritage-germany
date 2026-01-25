@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Gartenfriedhof"
 latitude: 52.369795163
 longitude: 9.747385126
 images:

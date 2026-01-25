@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Pulverturm, Andernach"
 latitude: 50.439
 longitude: 7.40483
 images:

@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Schloss Prantseck"
 latitude: 47.867682421
 longitude: 12.010626814
 images:

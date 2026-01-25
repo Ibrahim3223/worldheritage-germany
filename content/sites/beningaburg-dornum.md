@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Beningaburg Dornum"
 latitude: 53.6473
 longitude: 7.43
 images:

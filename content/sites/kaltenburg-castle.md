@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kaltenburg Castle"
 latitude: 48.5814
 longitude: 10.2117
 

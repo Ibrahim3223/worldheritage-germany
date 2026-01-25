@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Homburg Central Station"
 latitude: 49.3278
 longitude: 7.33694
 images:

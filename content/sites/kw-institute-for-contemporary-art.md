@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "KW Institute for Contemporary Art"
 latitude: 52.527
 longitude: 13.3948
 

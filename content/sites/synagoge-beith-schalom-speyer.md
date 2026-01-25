@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagoge Beith-Schalom (Speyer)"
 latitude: 49.3219
 longitude: 8.43194
 images:

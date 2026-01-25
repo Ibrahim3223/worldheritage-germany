@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Schilf- und Wasserfläche Krautsand/ Ostende"
 latitude: 53.74222222
 longitude: 9.38805556
 images:

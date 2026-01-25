@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Schloss Gnadenthal"
 latitude: 51.8063
 longitude: 6.10764
 images:

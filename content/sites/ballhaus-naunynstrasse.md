@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Ballhaus Naunynstrasse"
 latitude: 52.502271
 longitude: 13.421489
 images:

@@ -10,6 +10,7 @@ categories:
   - "Roman Villa"
 regions:
   - "Germany"
+site_name: "Wallanlage Weilenscheid"
 latitude: 51.1439
 longitude: 8.04833
 images:

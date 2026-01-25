@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Kreuzkapelle"
 latitude: 50.3075
 longitude: 8.2862
 images:

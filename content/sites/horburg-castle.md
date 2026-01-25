@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Horburg Castle"
 latitude: 47.8773
 longitude: 7.7552
 images:

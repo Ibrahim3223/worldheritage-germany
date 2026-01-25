@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue on Reichenbachstraße in Munich"
 latitude: 48.1306
 longitude: 11.5766
 images:

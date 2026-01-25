@@ -10,6 +10,7 @@ categories:
 - Island
 regions:
 - Germany
+site_name: "Harriersand"
 latitude: 53.309555555
 longitude: 8.497444444
 images:

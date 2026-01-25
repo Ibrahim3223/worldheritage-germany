@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Neuengamme Concentration Camp - Bullenhuser Damm Memorial"
 latitude: 53.542089
 longitude: 10.04775
 images:

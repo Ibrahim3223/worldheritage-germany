@@ -10,6 +10,7 @@ categories:
   - "Mausoleum"
 regions:
   - "Germany"
+site_name: "Mausoleum"
 latitude: 53.148417
 longitude: 8.214833
 images:

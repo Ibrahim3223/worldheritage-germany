@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Frankfurt (Oder) railway station"
 latitude: 52.3368
 longitude: 14.5471
 images:

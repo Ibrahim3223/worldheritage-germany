@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Wiesbach"
 latitude: 49.3364
 longitude: 7.45483
 images:

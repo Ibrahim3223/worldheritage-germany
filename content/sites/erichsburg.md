@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Erichsburg"
 latitude: 51.8226
 longitude: 9.7182
 images:

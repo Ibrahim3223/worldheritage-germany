@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Ohře"
 latitude: 50.529384
 longitude: 14.134078
 images:

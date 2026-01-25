@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Idstein Castle"
 latitude: 50.2219
 longitude: 8.26861
 images:

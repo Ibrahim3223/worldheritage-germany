@@ -10,6 +10,7 @@ categories:
 - Science Museum
 regions:
 - Germany
+site_name: "Deutsches Museum"
 latitude: 48.13
 longitude: 11.583333333
 images:

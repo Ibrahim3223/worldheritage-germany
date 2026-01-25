@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Gaffel Becker & Co"
 latitude: 50.946388888
 longitude: 6.956388888
 images:

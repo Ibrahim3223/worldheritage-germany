@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "New Bolanden Castle"
 latitude: 49.6394
 longitude: 8.01333
 

@@ -10,6 +10,7 @@ categories:
 - Cave
 regions:
 - Germany
+site_name: "Blauhöhle"
 latitude: 48.416388888
 longitude: 9.783888888
 images:

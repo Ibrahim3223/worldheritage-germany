@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Untersee"
 latitude: 47.68333333
 longitude: 9.0
 images:

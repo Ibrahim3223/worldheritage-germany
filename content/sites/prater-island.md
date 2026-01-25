@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Prater Island"
 latitude: 48.1362
 longitude: 11.5905
 images:

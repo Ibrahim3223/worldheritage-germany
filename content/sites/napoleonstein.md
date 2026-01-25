@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Napoleonstein"
 latitude: 50.945111111
 longitude: 11.571444444
 images:

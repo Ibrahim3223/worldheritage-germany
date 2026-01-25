@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Bremen-Vegesack station"
 latitude: 53.1695
 longitude: 8.6291
 images:

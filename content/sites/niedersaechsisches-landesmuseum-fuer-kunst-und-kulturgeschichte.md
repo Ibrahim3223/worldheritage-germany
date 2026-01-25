@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Niedersächsisches Landesmuseum für Kunst und Kulturgeschichte"
 latitude: 53.1377
 longitude: 8.21638
 images:

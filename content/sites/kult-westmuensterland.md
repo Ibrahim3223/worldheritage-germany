@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kult Westmünsterland"
 latitude: 52.034891
 longitude: 6.821588
 

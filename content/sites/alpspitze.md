@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Alpspitze"
 latitude: 47.429444444
 longitude: 11.0475
 images:

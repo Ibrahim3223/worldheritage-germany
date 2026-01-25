@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Lindheim Castle"
 latitude: 50.2894
 longitude: 8.98558
 

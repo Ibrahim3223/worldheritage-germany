@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Schwaneburger Moor"
 latitude: 53.0439
 longitude: 7.78861
 images:

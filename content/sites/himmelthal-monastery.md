@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Himmelthal Monastery"
 latitude: 49.822874418
 longitude: 9.219494806
 images:

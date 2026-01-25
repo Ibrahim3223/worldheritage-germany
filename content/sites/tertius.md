@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Tertius"
 latitude: 54.133333333
 longitude: 8.683333333
 images:

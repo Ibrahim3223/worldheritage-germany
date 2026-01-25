@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Straussee"
 latitude: 52.582608333
 longitude: 13.875819444
 images:

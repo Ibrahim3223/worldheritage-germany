@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "European University Viadrina"
 latitude: 52.342222222
 longitude: 14.553888888
 images:

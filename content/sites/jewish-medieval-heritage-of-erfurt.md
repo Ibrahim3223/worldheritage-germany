@@ -10,6 +10,7 @@ categories:
 - History Museum
 regions:
 - Germany
+site_name: "Jewish-Medieval Heritage of Erfurt"
 latitude: 50.978644
 longitude: 11.029246
 images:

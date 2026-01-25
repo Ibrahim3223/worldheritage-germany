@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Herzogstand"
 latitude: 47.613666666
 longitude: 11.307666666
 images:

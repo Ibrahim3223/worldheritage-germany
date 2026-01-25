@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Haigerloch nuclear pile"
 latitude: 48.3668
 longitude: 8.80404
 images:

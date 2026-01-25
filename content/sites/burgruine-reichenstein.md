@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burgruine Reichenstein"
 latitude: 49.514858
 longitude: 12.620882
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schwedenspeicher-Museum"
 latitude: 53.6039
 longitude: 9.47722
 images:

@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Townhouse tower in Münster"
 latitude: 51.9612
 longitude: 7.62778
 images:

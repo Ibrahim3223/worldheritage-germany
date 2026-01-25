@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "The Kennedys"
 latitude: 52.5167
 longitude: 13.3833
 images:

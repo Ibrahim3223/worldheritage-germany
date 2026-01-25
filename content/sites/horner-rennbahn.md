@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Horner Rennbahn"
 latitude: 53.558333
 longitude: 10.085
 images:

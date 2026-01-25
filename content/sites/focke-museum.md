@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Focke Museum"
 latitude: 53.0925
 longitude: 8.86417
 images:

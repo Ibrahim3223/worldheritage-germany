@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Lake Starnberg"
 latitude: 47.903888888
 longitude: 11.307222222
 images:

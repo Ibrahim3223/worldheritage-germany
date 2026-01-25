@@ -10,6 +10,7 @@ categories:
   - "Pilgrimage Church"
 regions:
   - "Germany"
+site_name: "St. Jakobus"
 latitude: 51.144903
 longitude: 14.979347
 images:

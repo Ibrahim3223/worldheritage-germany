@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "St. Gertrud (Oedingen)"
 latitude: 50.606214
 longitude: 7.157168
 images:

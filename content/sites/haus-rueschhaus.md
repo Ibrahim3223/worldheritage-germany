@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Haus Rüschhaus"
 latitude: 51.990662
 longitude: 7.552318
 images:

@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Neptuns Triumph"
 latitude: 52.3928214
 longitude: 13.0597112
 images:

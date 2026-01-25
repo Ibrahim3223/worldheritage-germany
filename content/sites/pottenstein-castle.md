@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Pottenstein Castle"
 latitude: 49.7699
 longitude: 11.4081
 

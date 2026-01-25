@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Rheinisches Landesmuseum Trier"
 latitude: 49.7518
 longitude: 6.6445
 images:

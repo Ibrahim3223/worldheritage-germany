@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Rosenheim station"
 latitude: 47.850361111
 longitude: 12.119527777
 images:

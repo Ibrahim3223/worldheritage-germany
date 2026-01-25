@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kunst- und Ausstellungshalle der Bundesrepublik Deutschland"
 latitude: 50.7142
 longitude: 7.12203
 

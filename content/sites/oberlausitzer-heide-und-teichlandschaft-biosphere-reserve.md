@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Oberlausitzer Heide - und Teichlandschaft Biosphere Reserve"
 latitude: 51.18
 longitude: 14.32
 

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Langweiler"
 latitude: 50.88166667
 longitude: 6.25277778
 

@@ -10,6 +10,7 @@ categories:
 - Mine
 regions:
 - Germany
+site_name: "Bergwerk Ensdorf"
 latitude: 49.31916667
 longitude: 6.77666667
 images:

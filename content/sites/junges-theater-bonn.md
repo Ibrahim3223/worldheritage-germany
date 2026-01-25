@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Junges Theater Bonn"
 latitude: 50.7365
 longitude: 7.11686
 images:

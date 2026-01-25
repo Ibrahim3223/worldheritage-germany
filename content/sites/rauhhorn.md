@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Rauhhorn"
 latitude: 47.4585184
 longitude: 10.4681893
 images:

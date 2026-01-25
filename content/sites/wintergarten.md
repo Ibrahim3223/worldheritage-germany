@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Wintergarten"
 latitude: 52.519166666
 longitude: 13.387777777
 images:

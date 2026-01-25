@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Heidenburg"
 latitude: 49.374
 longitude: 8.1435
 images:

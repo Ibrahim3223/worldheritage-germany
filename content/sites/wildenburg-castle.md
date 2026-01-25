@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Wildenburg Castle"
 latitude: 49.7761
 longitude: 7.2568
 

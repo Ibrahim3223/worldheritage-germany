@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burgbasteien"
 latitude: 49.458374557
 longitude: 11.074770408
 images:

@@ -10,6 +10,7 @@ categories:
   - "River"
 regions:
   - "Germany"
+site_name: "Rhine"
 latitude: 51.980833333
 longitude: 4.093055555
 images:

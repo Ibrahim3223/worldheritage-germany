@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Göttingen City Cemetery"
 latitude: 51.5325
 longitude: 9.90972
 images:

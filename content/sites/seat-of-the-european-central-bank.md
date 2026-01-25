@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Seat of the European Central Bank"
 latitude: 50.109438888
 longitude: 8.7025
 images:

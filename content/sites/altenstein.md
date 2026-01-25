@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Altenstein"
 latitude: 50.835130555
 longitude: 10.349211111
 images:

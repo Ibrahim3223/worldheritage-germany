@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Mährens"
 latitude: 54.465833333
 longitude: 13.205833333
 images:

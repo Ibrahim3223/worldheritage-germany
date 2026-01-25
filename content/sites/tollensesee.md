@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Tollensesee"
 latitude: 53.507222222
 longitude: 13.211388888
 images:

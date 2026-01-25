@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Marburg Castle"
 latitude: 50.810194444
 longitude: 8.767
 

@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Berlin-Hohenschönhausen station"
 latitude: 52.5664
 longitude: 13.5122
 images:

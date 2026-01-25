@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Venedig"
 latitude: 50.9833
 longitude: 11.0244
 images:

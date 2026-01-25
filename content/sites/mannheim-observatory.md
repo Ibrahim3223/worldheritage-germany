@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Mannheim Observatory"
 latitude: 49.4865
 longitude: 8.4597
 images:

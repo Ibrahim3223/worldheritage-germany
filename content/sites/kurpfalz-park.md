@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Kurpfalz-Park"
 latitude: 49.4134
 longitude: 8.1052
 images:

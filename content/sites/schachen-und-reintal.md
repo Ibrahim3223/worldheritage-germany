@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Schachen und Reintal"
 latitude: 47.433330555
 longitude: 11.166669444
 images:

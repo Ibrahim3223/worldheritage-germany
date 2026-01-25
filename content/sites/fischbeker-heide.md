@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Fischbeker Heide"
 latitude: 53.455
 longitude: 9.83833333
 images:

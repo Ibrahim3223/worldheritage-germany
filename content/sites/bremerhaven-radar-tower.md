@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Bremerhaven Radar Tower"
 latitude: 53.5384
 longitude: 8.58026
 images:

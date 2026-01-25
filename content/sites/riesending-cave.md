@@ -10,6 +10,7 @@ categories:
   - "Cave"
 regions:
   - "Germany"
+site_name: "Riesending cave"
 latitude: 47.6994
 longitude: 12.9831
 images:

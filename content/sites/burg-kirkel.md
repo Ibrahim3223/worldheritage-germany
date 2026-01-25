@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Kirkel"
 latitude: 49.2831
 longitude: 7.24028
 images:

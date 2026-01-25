@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Schwabentor"
 latitude: 47.99277778
 longitude: 7.85416667
 images:

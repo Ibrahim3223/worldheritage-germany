@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Dieburg"
 latitude: 49.4933
 longitude: 7.92361
 images:

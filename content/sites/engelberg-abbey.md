@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Engelberg Abbey"
 latitude: 49.7239
 longitude: 9.23194
 images:

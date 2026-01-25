@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Alter Friedhof der Zwölf-Apostel-Gemeinde"
 latitude: 52.483661111
 longitude: 13.36545
 images:

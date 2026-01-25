@@ -10,6 +10,7 @@ categories:
 - Cinema
 regions:
 - Germany
+site_name: "Isartor-Theater"
 latitude: 48.1349
 longitude: 11.5812
 images:

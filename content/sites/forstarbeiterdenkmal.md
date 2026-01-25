@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Forstarbeiterdenkmal"
 latitude: 50.6952
 longitude: 10.7194
 images:

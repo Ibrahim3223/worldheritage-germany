@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Herrenhaus Roggow"
 latitude: 54.0754
 longitude: 11.6346
 images:

@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Berlin-Karlshorst station"
 latitude: 52.4808
 longitude: 13.5258
 images:

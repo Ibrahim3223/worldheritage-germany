@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Handel monument"
 latitude: 51.4826
 longitude: 11.9703
 images:

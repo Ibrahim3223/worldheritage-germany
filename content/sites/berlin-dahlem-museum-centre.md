@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Berlin-Dahlem Museum Centre"
 latitude: 52.456111
 longitude: 13.292222
 images:

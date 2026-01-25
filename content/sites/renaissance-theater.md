@@ -10,6 +10,7 @@ categories:
   - "Cinema"
 regions:
   - "Germany"
+site_name: "Renaissance-Theater"
 latitude: 52.5104
 longitude: 13.3234
 images:

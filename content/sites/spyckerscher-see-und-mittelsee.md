@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Spyckerscher See und Mittelsee"
 latitude: 54.558919444
 longitude: 13.490869444
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Falkenberg"
 latitude: 49.8593
 longitude: 12.2249
 images:

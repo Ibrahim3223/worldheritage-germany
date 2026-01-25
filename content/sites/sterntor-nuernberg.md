@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Sterntor (Nürnberg)"
 latitude: 49.447
 longitude: 11.0779
 images:

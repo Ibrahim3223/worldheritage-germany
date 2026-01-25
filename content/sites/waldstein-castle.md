@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Waldstein Castle"
 latitude: 48.3235
 longitude: 8.1369
 

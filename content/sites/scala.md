@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Scala"
 latitude: 52.4981
 longitude: 13.3451
 images:

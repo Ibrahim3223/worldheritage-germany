@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Kiel Central station"
 latitude: 54.3148
 longitude: 10.1318
 images:

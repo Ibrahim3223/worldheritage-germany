@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Taxis"
 latitude: 48.691583333
 longitude: 10.371777777
 

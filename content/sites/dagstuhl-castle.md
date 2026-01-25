@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Dagstuhl Castle"
 latitude: 49.5311
 longitude: 6.89639
 images:

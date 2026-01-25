@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Hundekehlefenn"
 latitude: 52.4772
 longitude: 13.2647
 images:

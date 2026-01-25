@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Apothekenmuseum, Cottbus"
 latitude: 51.7604
 longitude: 14.3344
 images:

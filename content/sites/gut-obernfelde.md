@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Gut Obernfelde"
 latitude: 52.2933
 longitude: 8.6025
 images:

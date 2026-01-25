@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Weser-Ems Halle"
 latitude: 53.1475
 longitude: 8.227778
 images:

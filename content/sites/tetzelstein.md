@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Tetzelstein"
 latitude: 52.1959
 longitude: 10.7909
 images:

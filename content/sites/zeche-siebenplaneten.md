@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Zeche Siebenplaneten"
 latitude: 51.4828
 longitude: 7.33972
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "St. Anne's Museum Quarter"
 latitude: 53.862777777
 longitude: 10.689166666
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Nieder-Modau"
 latitude: 49.806833333
 longitude: 8.741472222
 images:

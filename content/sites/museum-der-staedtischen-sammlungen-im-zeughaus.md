@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum der städtischen Sammlungen im Zeughaus"
 latitude: 51.86786
 longitude: 12.642848
 images:

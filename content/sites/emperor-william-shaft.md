@@ -10,6 +10,7 @@ categories:
 - Mine
 regions:
 - Germany
+site_name: "Emperor William Shaft"
 latitude: 51.8042
 longitude: 10.3445
 images:

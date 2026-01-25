@@ -10,6 +10,7 @@ categories:
   - "Cave"
 regions:
   - "Germany"
+site_name: "Lichtenstein Cave"
 latitude: 51.724444444
 longitude: 10.174166666
 images:

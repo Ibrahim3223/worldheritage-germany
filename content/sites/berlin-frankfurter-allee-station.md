@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Berlin Frankfurter Allee station"
 latitude: 52.514166666
 longitude: 13.474722222
 images:

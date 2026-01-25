@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Landshut Residence"
 latitude: 48.5361
 longitude: 12.1508
 images:

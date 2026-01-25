@@ -10,6 +10,7 @@ categories:
   - "Monument"
 regions:
   - "Germany"
+site_name: "Memorial to Jewish Citizens"
 latitude: 51.34805
 longitude: 12.3716
 images:

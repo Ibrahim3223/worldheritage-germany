@@ -10,6 +10,7 @@ categories:
 - School Building
 regions:
 - Germany
+site_name: "Kaiser-Wilhelm- und Ratsgymnasium (Hannover)"
 latitude: 52.3781
 longitude: 9.76222
 images:

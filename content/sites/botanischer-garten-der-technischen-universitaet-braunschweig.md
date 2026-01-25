@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten der Technischen Universität Braunschweig"
 latitude: 52.2708
 longitude: 10.5331
 images:

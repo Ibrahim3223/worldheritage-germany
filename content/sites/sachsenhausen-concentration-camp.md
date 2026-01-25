@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Sachsenhausen concentration camp"
 latitude: 52.7662
 longitude: 13.2624
 images:

@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagoge (Göppingen)"
 latitude: 48.7053
 longitude: 9.6542
 images:

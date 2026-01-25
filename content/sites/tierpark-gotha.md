@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Tierpark Gotha"
 latitude: 50.936
 longitude: 10.7176
 images:

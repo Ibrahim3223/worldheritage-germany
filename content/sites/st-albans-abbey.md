@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "St. Alban's Abbey"
 latitude: 49.99
 longitude: 8.28
 images:

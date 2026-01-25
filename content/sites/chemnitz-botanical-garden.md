@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Chemnitz Botanical Garden"
 latitude: 50.8502675
 longitude: 12.8902626
 images:

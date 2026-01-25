@@ -10,6 +10,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Bach memorial Arnstadt"
 latitude: 50.8336453
 longitude: 10.9455261
 images:

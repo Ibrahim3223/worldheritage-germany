@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Pirnaischer Platz"
 latitude: 51.0492
 longitude: 13.7452
 images:

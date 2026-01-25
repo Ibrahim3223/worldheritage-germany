@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Campen"
 latitude: 52.3524
 longitude: 10.7093
 images:

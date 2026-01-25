@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Weinberg"
 latitude: 51.1375
 longitude: 14.990277777
 images:

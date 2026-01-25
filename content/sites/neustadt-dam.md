@@ -10,6 +10,7 @@ categories:
   - "Dam"
 regions:
   - "Germany"
+site_name: "Neustadt Dam"
 latitude: 51.58055556
 longitude: 10.86722222
 images:

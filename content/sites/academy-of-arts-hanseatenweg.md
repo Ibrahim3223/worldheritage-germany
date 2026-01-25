@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Academy of Arts (Hanseatenweg)"
 latitude: 52.5179
 longitude: 13.3461
 images:

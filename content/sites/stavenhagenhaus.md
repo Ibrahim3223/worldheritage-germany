@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Stavenhagenhaus"
 latitude: 53.6094
 longitude: 9.9729
 images:

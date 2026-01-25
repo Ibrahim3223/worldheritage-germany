@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Roter Ochse"
 latitude: 51.4916
 longitude: 11.9604
 images:

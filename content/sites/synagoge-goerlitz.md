@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagoge Görlitz"
 latitude: 51.15277778
 longitude: 14.99111111
 images:

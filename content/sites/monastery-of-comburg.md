@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "monastery of Comburg"
 latitude: 49.100278
 longitude: 9.749722
 images:

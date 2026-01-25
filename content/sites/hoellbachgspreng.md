@@ -10,6 +10,7 @@ categories:
 - Waterfall
 regions:
 - Germany
+site_name: "Höllbachgspreng"
 latitude: 49.0858
 longitude: 13.2967
 images:

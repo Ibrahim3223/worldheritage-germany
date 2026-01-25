@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schloss Mosigkau"
 latitude: 51.806
 longitude: 12.1508
 images:

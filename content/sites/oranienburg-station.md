@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Oranienburg station"
 latitude: 52.754611111
 longitude: 13.249222222
 images:

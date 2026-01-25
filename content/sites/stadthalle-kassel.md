@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Stadthalle Kassel"
 latitude: 51.3167
 longitude: 9.46083
 images:

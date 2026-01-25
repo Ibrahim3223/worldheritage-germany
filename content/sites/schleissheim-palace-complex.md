@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Schleißheim palace complex"
 latitude: 48.248611111
 longitude: 11.568333333
 images:

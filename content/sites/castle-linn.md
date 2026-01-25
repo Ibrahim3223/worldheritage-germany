@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Castle Linn"
 latitude: 51.3331
 longitude: 6.63444
 images:

@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Pathos München"
 latitude: 48.1585
 longitude: 11.5514
 images:

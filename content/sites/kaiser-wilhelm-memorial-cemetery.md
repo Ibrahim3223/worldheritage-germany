@@ -10,6 +10,7 @@ categories:
 - Cemetery
 regions:
 - Germany
+site_name: "Kaiser Wilhelm Memorial Cemetery"
 latitude: 52.5259
 longitude: 13.2779
 images:

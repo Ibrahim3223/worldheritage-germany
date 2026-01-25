@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Königsplatz"
 latitude: 48.145555555
 longitude: 11.565277777
 images:

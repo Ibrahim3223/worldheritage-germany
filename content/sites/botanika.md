@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanika"
 latitude: 53.0936
 longitude: 8.88492
 images:

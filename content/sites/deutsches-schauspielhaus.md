@@ -10,6 +10,7 @@ categories:
 - Theater
 regions:
 - Germany
+site_name: "Deutsches Schauspielhaus"
 latitude: 53.55430556
 longitude: 10.00886111
 images:

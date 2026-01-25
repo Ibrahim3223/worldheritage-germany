@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Theater Münster"
 latitude: 51.9647
 longitude: 7.62889
 images:

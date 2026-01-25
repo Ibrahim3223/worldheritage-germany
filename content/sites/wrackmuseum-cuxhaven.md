@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Wrackmuseum Cuxhaven"
 latitude: 53.8747
 longitude: 8.65389
 images:

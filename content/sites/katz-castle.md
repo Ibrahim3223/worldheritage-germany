@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Katz Castle"
 latitude: 50.1518
 longitude: 7.72414
 

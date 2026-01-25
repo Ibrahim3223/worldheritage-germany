@@ -10,6 +10,7 @@ categories:
 - River
 regions:
 - Germany
+site_name: "Danube"
 latitude: 45.221944444
 longitude: 29.743333333
 images:

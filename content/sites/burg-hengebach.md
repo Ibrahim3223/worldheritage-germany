@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Hengebach"
 latitude: 50.6333
 longitude: 6.47944
 images:

@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Old Bishop's Palace in Wittstock/Dosse"
 latitude: 53.1592
 longitude: 12.4859
 

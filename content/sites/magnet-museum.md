@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Magnet Museum"
 latitude: 51.4877
 longitude: 7.55452
 images:

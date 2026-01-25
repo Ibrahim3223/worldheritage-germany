@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Gutenburg Castle"
 latitude: 49.8819
 longitude: 7.79864
 images:

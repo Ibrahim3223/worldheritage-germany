@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Viktualienmarkt"
 latitude: 48.1353
 longitude: 11.5761
 images:

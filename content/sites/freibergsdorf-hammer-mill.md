@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Freibergsdorf Hammer Mill"
 latitude: 50.9102
 longitude: 13.3269
 images:

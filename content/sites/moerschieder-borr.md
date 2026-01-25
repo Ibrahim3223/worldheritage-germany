@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Moerschieder Borr"
 latitude: 49.78448
 longitude: 7.278
 images:

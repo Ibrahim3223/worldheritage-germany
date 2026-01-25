@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Dreiländermuseum"
 latitude: 47.60985556
 longitude: 7.65989722
 images:

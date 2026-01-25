@@ -10,6 +10,7 @@ categories:
   - "Fortress"
 regions:
   - "Germany"
+site_name: "Valdemarsmuren"
 latitude: 54.4817
 longitude: 9.49551
 images:

@@ -10,6 +10,7 @@ categories:
 - Zoo
 regions:
 - Germany
+site_name: "Bad Mergentheim Wildlife Park"
 latitude: 49.4683
 longitude: 9.79694
 images:

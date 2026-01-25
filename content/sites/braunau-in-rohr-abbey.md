@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Braunau in Rohr Abbey"
 latitude: 48.768888888
 longitude: 11.966944444
 images:

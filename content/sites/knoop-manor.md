@@ -10,6 +10,7 @@ categories:
   - "Manor House"
 regions:
   - "Germany"
+site_name: "Knoop Manor"
 latitude: 54.3734
 longitude: 10.1025
 images:

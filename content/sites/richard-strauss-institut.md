@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Richard-Strauss-Institut"
 latitude: 47.493085
 longitude: 11.107684
 images:

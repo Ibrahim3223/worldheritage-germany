@@ -10,6 +10,7 @@ categories:
 - Lighthouse
 regions:
 - Germany
+site_name: "Dornbusch Lighthouse"
 latitude: 54.599166666
 longitude: 13.119444444
 images:

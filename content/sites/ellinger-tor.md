@@ -10,6 +10,7 @@ categories:
 - City Gate
 regions:
 - Germany
+site_name: "Ellinger Tor"
 latitude: 49.032509196
 longitude: 10.971497436
 images:

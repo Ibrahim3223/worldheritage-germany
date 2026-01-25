@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Fremersberg Tower"
 latitude: 48.7528
 longitude: 8.20234
 images:

@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Wettenhausen Abbey"
 latitude: 48.396943783
 longitude: 10.358853598
 images:

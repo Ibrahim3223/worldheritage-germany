@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kunstmuseum Ahrenshoop"
 latitude: 54.3751
 longitude: 12.415921
 

@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue (Neustadtgödens)"
 latitude: 53.476705
 longitude: 7.989943
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Dresden Porcelain Collection"
 latitude: 51.0522
 longitude: 13.7346
 images:

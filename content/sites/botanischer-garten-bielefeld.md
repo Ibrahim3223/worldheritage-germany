@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten Bielefeld"
 latitude: 52.0147
 longitude: 8.51
 images:

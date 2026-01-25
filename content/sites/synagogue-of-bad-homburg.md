@@ -10,6 +10,7 @@ categories:
   - "Synagogue"
 regions:
   - "Germany"
+site_name: "Synagogue of Bad Homburg"
 latitude: 50.230424
 longitude: 8.612702
 images:

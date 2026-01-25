@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Ruchenköpfe"
 latitude: 47.649722222
 longitude: 11.95
 images:

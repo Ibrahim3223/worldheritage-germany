@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Bremerhaven Hauptbahnhof"
 latitude: 53.534872
 longitude: 8.598862
 images:

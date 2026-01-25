@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Steiff Museum"
 latitude: 48.6211
 longitude: 10.2416
 images:

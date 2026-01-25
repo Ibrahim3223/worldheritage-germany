@@ -11,6 +11,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "Global Crop Diversity Trust"
 latitude: 50.720322192
 longitude: 7.122884136
 images:

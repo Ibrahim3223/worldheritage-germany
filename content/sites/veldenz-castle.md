@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Veldenz Castle"
 latitude: 49.5867
 longitude: 7.14444
 

@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Hahnenfilz bei Mehlmeisel"
 latitude: 49.976388888
 longitude: 11.898055555
 images:

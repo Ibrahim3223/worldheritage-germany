@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Kunstmuseum Wolfsburg"
 latitude: 52.4187
 longitude: 10.7853
 

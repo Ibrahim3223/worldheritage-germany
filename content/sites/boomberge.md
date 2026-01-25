@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Boomberge"
 latitude: 51.95
 longitude: 8.23611
 images:

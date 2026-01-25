@@ -10,6 +10,7 @@ categories:
 - Cave
 regions:
 - Germany
+site_name: "Jettenhöhle"
 latitude: 51.6842
 longitude: 10.2728
 images:

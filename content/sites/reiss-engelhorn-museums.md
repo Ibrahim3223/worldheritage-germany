@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Reiss-Engelhorn Museums"
 latitude: 49.4889
 longitude: 8.46212
 images:

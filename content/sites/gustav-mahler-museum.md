@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Gustav Mahler Museum"
 latitude: 53.551476
 longitude: 9.977276
 images:

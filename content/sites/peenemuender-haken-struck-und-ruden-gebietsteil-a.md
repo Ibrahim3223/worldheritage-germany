@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Peenemünder Haken, Struck und Ruden - Gebietsteil A"
 latitude: 54.165556111
 longitude: 13.743333055
 images:

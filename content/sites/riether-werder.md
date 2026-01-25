@@ -10,6 +10,7 @@ categories:
   - "Island"
 regions:
   - "Germany"
+site_name: "Riether Werder"
 latitude: 53.706388888
 longitude: 14.258611111
 images:

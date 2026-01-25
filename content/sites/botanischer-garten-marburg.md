@@ -10,6 +10,7 @@ categories:
 - Botanical Garden
 regions:
 - Germany
+site_name: "Botanischer Garten Marburg"
 latitude: 50.803
 longitude: 8.80938
 images:

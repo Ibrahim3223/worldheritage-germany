@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Basilica Gößweinstein"
 latitude: 49.77
 longitude: 11.3372
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Badenweiler"
 latitude: 47.8025
 longitude: 7.6682
 images:

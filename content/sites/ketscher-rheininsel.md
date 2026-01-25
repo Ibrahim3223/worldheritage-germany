@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Ketscher Rheininsel"
 latitude: 49.372579
 longitude: 8.513379
 images:

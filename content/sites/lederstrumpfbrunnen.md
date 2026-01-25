@@ -10,6 +10,7 @@ categories:
   - "Fountain"
 regions:
   - "Germany"
+site_name: "Lederstrumpfbrunnen"
 latitude: 49.2826
 longitude: 8.12756
 images:

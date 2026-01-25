@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Mathäser"
 latitude: 48.1392
 longitude: 11.5636
 

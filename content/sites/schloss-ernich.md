@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Schloss Ernich"
 latitude: 50.5964
 longitude: 7.2048
 images:

@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "GRASSI Museum of Applied Arts Leipzig"
 latitude: 51.3369
 longitude: 12.3885
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Mauritianum"
 latitude: 50.9919785
 longitude: 12.4464284
 images:

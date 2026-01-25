@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Ettal Abbey"
 latitude: 47.569577059
 longitude: 11.094658627
 images:

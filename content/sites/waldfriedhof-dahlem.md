@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Waldfriedhof Dahlem"
 latitude: 52.456
 longitude: 13.264
 images:

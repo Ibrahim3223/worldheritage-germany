@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Marstallmuseum"
 latitude: 48.1558
 longitude: 11.5055
 images:

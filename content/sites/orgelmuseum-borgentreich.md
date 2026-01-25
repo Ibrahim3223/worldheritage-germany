@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Orgelmuseum Borgentreich"
 latitude: 51.569722
 longitude: 9.240556
 images:

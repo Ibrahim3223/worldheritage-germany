@@ -10,6 +10,7 @@ categories:
 - Park
 regions:
 - Germany
+site_name: "Humboldthain"
 latitude: 52.547222222
 longitude: 13.386111111
 images:

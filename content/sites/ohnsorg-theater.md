@@ -10,6 +10,7 @@ categories:
   - "Theater"
 regions:
   - "Germany"
+site_name: "Ohnsorg-Theater"
 latitude: 53.55471944
 longitude: 10.00732222
 images:

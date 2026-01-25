@@ -10,6 +10,7 @@ categories:
 - Railway Station
 regions:
 - Germany
+site_name: "Berlin-Wannsee railway station"
 latitude: 52.4214
 longitude: 13.1792
 images:

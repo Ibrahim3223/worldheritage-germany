@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Schneeberg"
 latitude: 50.052465
 longitude: 11.8534185
 images:

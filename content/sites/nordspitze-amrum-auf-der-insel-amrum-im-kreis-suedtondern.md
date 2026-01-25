@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Nordspitze Amrum auf der Insel Amrum im Kreis Südtondern"
 latitude: 54.699
 longitude: 8.33897
 images:

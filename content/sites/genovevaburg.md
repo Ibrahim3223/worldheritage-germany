@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Genovevaburg"
 latitude: 50.3261
 longitude: 7.22127
 images:

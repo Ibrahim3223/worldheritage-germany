@@ -10,6 +10,7 @@ categories:
   - "Factory"
 regions:
   - "Germany"
+site_name: "Saarlouis Body & Assembly"
 latitude: 49.34722222
 longitude: 6.76472222
 images:

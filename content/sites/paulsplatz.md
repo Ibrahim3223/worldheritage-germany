@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Paulsplatz"
 latitude: 50.1111
 longitude: 8.68139
 images:

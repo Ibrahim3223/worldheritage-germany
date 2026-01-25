@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Löffelstelz"
 latitude: 48.9417
 longitude: 8.84514
 images:

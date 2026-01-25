@@ -5,6 +5,12 @@ slug: "kirche-heilige-familie"
 region: "North Rhine-Westphalia"
 
 # Location
+image_srcset:
+  Kamen%20Kirche%20Heilige%20Familie%20IMGP0949%20wp.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg/400px-Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg/800px-Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg/1200px-Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg/1920px-Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg
 latitude: 51.5913
 longitude: 7.66054
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q230288"
 description: "In the charming region of Kamen, Germany, the Kirche Heilige Familie stands as a striking example of Gothic Revival architecture. This church is not mer..."
 images:
-  - "/images/kirche-heilige-familie/01-61217ad8-1920w.webp"
-  - "/images/kirche-heilige-familie/02-8a56df68-1920w.webp"
-  - "/images/kirche-heilige-familie/03-b08bd9b4-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg/1200px-Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg
 ---
 
 ## Overview

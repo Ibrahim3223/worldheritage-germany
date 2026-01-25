@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Neue Wasserkunst"
 latitude: 51.177430555
 longitude: 14.422563888
 images:

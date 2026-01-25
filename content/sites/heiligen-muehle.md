@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Heiligen Mühle"
 latitude: 51.001708
 longitude: 11.022711
 images:

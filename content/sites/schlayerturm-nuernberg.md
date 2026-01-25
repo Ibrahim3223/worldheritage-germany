@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Schlayerturm (Nürnberg)"
 latitude: 49.4543
 longitude: 11.0708
 images:

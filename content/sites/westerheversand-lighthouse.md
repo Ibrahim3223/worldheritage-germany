@@ -10,6 +10,7 @@ categories:
   - "Lighthouse"
 regions:
   - "Germany"
+site_name: "Westerheversand Lighthouse"
 latitude: 54.3734
 longitude: 8.63992
 images:

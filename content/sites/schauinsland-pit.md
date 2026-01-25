@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Schauinsland Pit"
 latitude: 47.909611
 longitude: 7.898676
 images:

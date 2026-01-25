@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Schlossturm"
 latitude: 51.2275
 longitude: 6.77111
 images:

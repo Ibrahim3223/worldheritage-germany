@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Wank"
 latitude: 47.5108
 longitude: 11.1407
 images:

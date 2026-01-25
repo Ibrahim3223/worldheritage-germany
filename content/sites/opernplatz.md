@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Opernplatz"
 latitude: 50.1153
 longitude: 8.67139
 images:

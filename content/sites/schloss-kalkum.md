@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Kalkum"
 latitude: 51.304166666
 longitude: 6.756944444
 

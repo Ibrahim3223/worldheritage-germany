@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schkölen Castle"
 latitude: 51.04194444
 longitude: 11.81944444
 

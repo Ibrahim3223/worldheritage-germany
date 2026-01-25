@@ -11,6 +11,7 @@ categories:
 - Monument
 regions:
 - Germany
+site_name: "Airlift Memorial"
 latitude: 52.484111111
 longitude: 13.387388888
 images:

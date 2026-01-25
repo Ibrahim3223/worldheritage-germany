@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Altena Castle"
 latitude: 51.29994
 longitude: 7.67513
 images:

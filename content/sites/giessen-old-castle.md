@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Giessen Old Castle"
 latitude: 50.587
 longitude: 8.6769
 images:

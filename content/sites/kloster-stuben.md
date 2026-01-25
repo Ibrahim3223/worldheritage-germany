@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Kloster Stuben"
 latitude: 50.1044
 longitude: 7.12259
 images:

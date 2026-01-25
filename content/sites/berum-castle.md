@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Berum Castle"
 latitude: 53.6014
 longitude: 7.2973
 images:

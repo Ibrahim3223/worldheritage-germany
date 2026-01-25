@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Neumühler See"
 latitude: 53.643611111
 longitude: 11.337222222
 images:

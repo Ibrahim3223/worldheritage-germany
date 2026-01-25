@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Dresden Armory"
 latitude: 51.05254
 longitude: 13.73743
 images:

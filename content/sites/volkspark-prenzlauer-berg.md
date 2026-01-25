@@ -10,6 +10,7 @@ categories:
   - "Park"
 regions:
   - "Germany"
+site_name: "Volkspark Prenzlauer Berg"
 latitude: 52.536666666
 longitude: 13.462222222
 images:

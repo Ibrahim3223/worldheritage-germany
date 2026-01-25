@@ -10,6 +10,7 @@ categories:
 - Windmill
 regions:
 - Germany
+site_name: "Deichmühle"
 latitude: 53.5899
 longitude: 7.21434
 images:

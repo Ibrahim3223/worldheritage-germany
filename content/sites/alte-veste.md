@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Alte Veste"
 latitude: 49.4532
 longitude: 10.9661
 images:

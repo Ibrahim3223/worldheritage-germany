@@ -10,6 +10,7 @@ categories:
 - Synagogue
 regions:
 - Germany
+site_name: "Alte Synagoge (Barmen)"
 latitude: 51.2753
 longitude: 7.20222
 images:

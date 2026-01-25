@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Redoute"
 latitude: 50.681544
 longitude: 7.153062
 images:

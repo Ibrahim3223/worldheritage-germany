@@ -10,6 +10,7 @@ categories:
   - "Cemetery"
 regions:
   - "Germany"
+site_name: "Old Niendorf Cemetery"
 latitude: 53.61611111
 longitude: 9.94972222
 images:

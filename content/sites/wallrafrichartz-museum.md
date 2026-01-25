@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Wallraf–Richartz Museum"
 latitude: 50.9375
 longitude: 6.958611
 

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Wetterau-Museum"
 latitude: 50.336365092
 longitude: 8.755795737
 images:

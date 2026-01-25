@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Ellar"
 latitude: 50.5085
 longitude: 8.0936
 images:

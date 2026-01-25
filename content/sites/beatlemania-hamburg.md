@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Beatlemania Hamburg"
 latitude: 53.55005556
 longitude: 9.95686111
 images:

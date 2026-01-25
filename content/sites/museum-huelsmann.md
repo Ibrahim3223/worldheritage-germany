@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Museum Huelsmann"
 latitude: 52.022390162
 longitude: 8.545709711
 images:

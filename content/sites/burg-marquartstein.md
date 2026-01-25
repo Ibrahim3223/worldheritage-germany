@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Marquartstein"
 latitude: 47.756757937
 longitude: 12.468695412
 images:

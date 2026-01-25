@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Freilichtmuseum Glentleiten"
 latitude: 47.6656
 longitude: 11.2864
 images:

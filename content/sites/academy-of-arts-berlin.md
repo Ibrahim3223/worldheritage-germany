@@ -11,6 +11,7 @@ categories:
 - Cultural Center
 regions:
 - Germany
+site_name: "Academy of Arts, Berlin"
 latitude: 52.515
 longitude: 13.379444444
 images:

@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Adlerturm Dortmund"
 latitude: 51.5103
 longitude: 7.46935
 images:

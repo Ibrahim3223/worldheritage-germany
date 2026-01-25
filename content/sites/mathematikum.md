@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Mathematikum"
 latitude: 50.581193
 longitude: 8.665756
 images:

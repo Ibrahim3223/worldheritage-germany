@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "Sachsenhain"
 latitude: 52.9456
 longitude: 9.225
 images:

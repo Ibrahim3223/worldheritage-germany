@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum of Modern Art"
 latitude: 48.5744
 longitude: 13.4731
 

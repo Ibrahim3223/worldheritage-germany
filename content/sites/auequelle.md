@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Auequelle"
 latitude: 53.0153
 longitude: 9.32056
 images:

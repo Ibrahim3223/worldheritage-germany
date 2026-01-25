@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum Barberini"
 latitude: 52.395169
 longitude: 13.062282
 

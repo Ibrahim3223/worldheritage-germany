@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Schönbornkapelle"
 latitude: 49.7937
 longitude: 9.93257
 images:

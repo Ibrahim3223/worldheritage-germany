@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Minden station"
 latitude: 52.2906
 longitude: 8.93444
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Castle Sponheim"
 latitude: 49.8315
 longitude: 7.71472
 images:

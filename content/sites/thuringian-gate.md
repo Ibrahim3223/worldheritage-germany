@@ -10,6 +10,7 @@ categories:
   - "Valley"
 regions:
   - "Germany"
+site_name: "Thuringian Gate"
 latitude: 51.2975
 longitude: 11.171944444
 images:

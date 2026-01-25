@@ -10,6 +10,7 @@ categories:
 - Gorge
 regions:
 - Germany
+site_name: "Fohrenbühl"
 latitude: 48.2355
 longitude: 8.2942
 images:

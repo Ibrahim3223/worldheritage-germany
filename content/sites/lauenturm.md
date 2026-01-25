@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Lauenturm"
 latitude: 51.1802
 longitude: 14.4235
 images:

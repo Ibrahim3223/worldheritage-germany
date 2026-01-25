@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Slawenburg Raddusch"
 latitude: 51.8049
 longitude: 14.0304
 

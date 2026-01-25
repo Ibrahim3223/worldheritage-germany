@@ -10,6 +10,7 @@ categories:
 - Valley
 regions:
 - Germany
+site_name: "Dreisamtal"
 latitude: 47.980555555
 longitude: 7.921666666
 images:

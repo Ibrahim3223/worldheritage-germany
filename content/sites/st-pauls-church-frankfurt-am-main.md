@@ -10,6 +10,7 @@ categories:
   - "Memorial"
 regions:
   - "Germany"
+site_name: "St. Paul's Church, Frankfurt am Main"
 latitude: 50.111111111
 longitude: 8.680833333
 images:

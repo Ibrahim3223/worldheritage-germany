@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Villa Hügel"
 latitude: 51.4069
 longitude: 7.0083
 images:

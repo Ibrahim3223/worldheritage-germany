@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Schneefernerkopf"
 latitude: 47.409444444
 longitude: 10.97
 images:

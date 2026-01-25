@@ -10,6 +10,7 @@ categories:
 - Archaeological Site
 regions:
 - Germany
+site_name: "Geißenklösterle"
 latitude: 48.398333333
 longitude: 9.772222222
 images:

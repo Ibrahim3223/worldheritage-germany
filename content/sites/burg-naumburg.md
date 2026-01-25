@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Naumburg"
 latitude: 49.7519
 longitude: 7.4321
 images:

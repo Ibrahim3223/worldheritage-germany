@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Scheyern Abbey"
 latitude: 48.5023203
 longitude: 11.453130928
 

@@ -10,6 +10,7 @@ categories:
   - "Palace"
 regions:
   - "Germany"
+site_name: "Palais Pettenkofer"
 latitude: 48.5349
 longitude: 12.1522
 images:

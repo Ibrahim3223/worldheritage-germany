@@ -10,6 +10,7 @@ categories:
 - Abbey
 regions:
 - Germany
+site_name: "German Institute for Global and Area Studies"
 latitude: 53.557222
 longitude: 9.992222
 images:

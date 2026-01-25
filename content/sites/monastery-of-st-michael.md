@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Monastery of St. Michael"
 latitude: 49.4258
 longitude: 8.70611
 images:

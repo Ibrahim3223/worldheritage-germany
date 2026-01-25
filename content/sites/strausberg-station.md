@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Strausberg station"
 latitude: 52.531933
 longitude: 13.836933
 images:

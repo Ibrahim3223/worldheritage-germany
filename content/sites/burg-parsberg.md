@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Parsberg"
 latitude: 49.160438888
 longitude: 11.7204
 images:

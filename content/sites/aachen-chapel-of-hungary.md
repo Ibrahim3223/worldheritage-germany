@@ -10,6 +10,7 @@ categories:
 - Chapel
 regions:
 - Germany
+site_name: "Aachen Chapel of Hungary"
 latitude: 50.77475
 longitude: 6.083922222
 images:

@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "St. Catherine's Church"
 latitude: 53.869166666
 longitude: 10.689444444
 images:

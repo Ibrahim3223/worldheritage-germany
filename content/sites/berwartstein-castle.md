@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Berwartstein Castle"
 latitude: 49.1083
 longitude: 7.86278
 images:

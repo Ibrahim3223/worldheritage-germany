@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Caricatura Museum Frankfurt"
 latitude: 50.1102
 longitude: 8.68511
 images:

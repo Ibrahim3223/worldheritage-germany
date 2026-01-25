@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Fragrance Museum"
 latitude: 50.93774
 longitude: 6.95792
 images:

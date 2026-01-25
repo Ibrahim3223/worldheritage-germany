@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Treis Castle"
 latitude: 50.1656
 longitude: 7.29847
 

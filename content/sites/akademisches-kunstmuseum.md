@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Akademisches Kunstmuseum"
 latitude: 50.73182
 longitude: 7.106187
 images:

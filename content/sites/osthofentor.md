@@ -10,6 +10,7 @@ categories:
   - "City Gate"
 regions:
   - "Germany"
+site_name: "Osthofentor"
 latitude: 51.5736
 longitude: 8.11583
 images:

@@ -10,6 +10,7 @@ categories:
 - Manor House
 regions:
 - Germany
+site_name: "Haus Weitmar"
 latitude: 51.4478
 longitude: 7.18931
 images:

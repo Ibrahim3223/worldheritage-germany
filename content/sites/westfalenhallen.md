@@ -10,6 +10,7 @@ categories:
   - "City Wall"
 regions:
   - "Germany"
+site_name: "Westfalenhallen"
 latitude: 51.496388888
 longitude: 7.455833333
 images:

@@ -10,6 +10,7 @@ categories:
 - Library
 regions:
 - Germany
+site_name: "Gottfried Wilhelm Leibniz Library"
 latitude: 52.36525
 longitude: 9.73115
 images:

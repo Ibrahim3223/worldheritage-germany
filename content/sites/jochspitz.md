@@ -11,6 +11,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Jochspitz"
 latitude: 47.35429
 longitude: 10.38352
 images:

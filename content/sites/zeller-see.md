@@ -10,6 +10,7 @@ categories:
   - "Lake"
 regions:
   - "Germany"
+site_name: "Zeller See"
 latitude: 47.719166666
 longitude: 8.985833333
 images:

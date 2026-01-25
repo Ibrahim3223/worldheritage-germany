@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Domjüchsee"
 latitude: 53.331138888
 longitude: 13.131511111
 images:

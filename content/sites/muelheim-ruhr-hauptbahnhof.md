@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Mülheim (Ruhr) Hauptbahnhof"
 latitude: 51.431388888
 longitude: 6.886388888
 images:

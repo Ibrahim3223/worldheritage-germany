@@ -10,6 +10,7 @@ categories:
   - "Dam"
 regions:
   - "Germany"
+site_name: "Wehra Dam"
 latitude: 47.6460136
 longitude: 7.9182819
 images:

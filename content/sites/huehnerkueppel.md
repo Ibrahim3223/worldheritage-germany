@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Hühnerküppel"
 latitude: 50.403055555
 longitude: 8.355555555
 

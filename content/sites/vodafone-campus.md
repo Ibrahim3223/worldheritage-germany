@@ -10,6 +10,7 @@ categories:
   - "History Museum"
 regions:
   - "Germany"
+site_name: "Vodafone-Campus"
 latitude: 51.235608333
 longitude: 6.733875
 images:

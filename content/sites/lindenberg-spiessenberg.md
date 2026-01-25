@@ -10,6 +10,7 @@ categories:
   - "Nature Reserve"
 regions:
   - "Germany"
+site_name: "Lindenberg-Spießenberg"
 latitude: 47.758562
 longitude: 8.433963
 images:

@@ -10,6 +10,7 @@ categories:
   - "Mine"
 regions:
   - "Germany"
+site_name: "Zeche Friedrich der Große"
 latitude: 51.5612
 longitude: 7.25305
 images:

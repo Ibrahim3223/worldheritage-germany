@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Castle Rabenstein"
 latitude: 52.0324
 longitude: 12.5839
 images:

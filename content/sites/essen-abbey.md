@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Essen Abbey"
 latitude: 51.455833
 longitude: 7.013611
 images:

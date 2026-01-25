@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Ravensberg"
 latitude: 52.0826
 longitude: 8.29717
 images:

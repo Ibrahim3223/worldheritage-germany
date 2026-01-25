@@ -10,6 +10,7 @@ categories:
   - "Monastery"
 regions:
   - "Germany"
+site_name: "Ottobeuren Abbey"
 latitude: 47.9414
 longitude: 10.2981
 images:

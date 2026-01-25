@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Baldern Castle"
 latitude: 48.9026
 longitude: 10.3169
 images:

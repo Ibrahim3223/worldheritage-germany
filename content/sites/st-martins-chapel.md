@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "St Martin's Chapel"
 latitude: 48.0961
 longitude: 8.15558
 images:

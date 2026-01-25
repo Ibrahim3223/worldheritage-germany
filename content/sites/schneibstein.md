@@ -10,6 +10,7 @@ categories:
   - "Mountain"
 regions:
   - "Germany"
+site_name: "Schneibstein"
 latitude: 47.562222222
 longitude: 13.057222222
 images:

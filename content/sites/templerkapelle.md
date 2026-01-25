@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Templerkapelle"
 latitude: 51.5758
 longitude: 11.8275
 images:

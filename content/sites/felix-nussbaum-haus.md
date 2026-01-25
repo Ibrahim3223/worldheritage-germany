@@ -10,6 +10,7 @@ categories:
 - Art Museum
 regions:
 - Germany
+site_name: "Felix Nussbaum Haus"
 latitude: 52.27522
 longitude: 8.03851
 images:

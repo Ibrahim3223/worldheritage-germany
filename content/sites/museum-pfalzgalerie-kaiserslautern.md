@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum Pfalzgalerie Kaiserslautern"
 latitude: 49.4492
 longitude: 7.76917
 

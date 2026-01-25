@@ -10,6 +10,7 @@ categories:
   - "Chapel"
 regions:
   - "Germany"
+site_name: "Wernerkapelle Bacharach"
 latitude: 50.0595
 longitude: 7.76711
 images:

@@ -10,6 +10,7 @@ categories:
   - "Zoo"
 regions:
   - "Germany"
+site_name: "Zoo Neuwied"
 latitude: 50.4531
 longitude: 7.5625
 images:

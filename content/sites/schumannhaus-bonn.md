@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Schumannhaus Bonn"
 latitude: 50.7243
 longitude: 7.07728
 images:

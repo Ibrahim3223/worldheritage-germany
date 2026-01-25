@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Jagdschloss Kranichstein"
 latitude: 49.9003
 longitude: 8.6975
 images:

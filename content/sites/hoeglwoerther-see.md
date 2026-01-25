@@ -10,6 +10,7 @@ categories:
 - Lake
 regions:
 - Germany
+site_name: "Höglwörther See"
 latitude: 47.765833333
 longitude: 12.842777777
 images:

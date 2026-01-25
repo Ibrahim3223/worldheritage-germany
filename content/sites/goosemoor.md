@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Goosemoor"
 latitude: 52.7161
 longitude: 9.90722
 images:

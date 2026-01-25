@@ -10,6 +10,7 @@ categories:
 - Museum
 regions:
 - Germany
+site_name: "Elztalmuseum"
 latitude: 48.09086
 longitude: 7.96279
 images:

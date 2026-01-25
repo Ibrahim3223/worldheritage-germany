@@ -10,6 +10,7 @@ categories:
   - "Market Square"
 regions:
   - "Germany"
+site_name: "Theaterplatz"
 latitude: 51.054
 longitude: 13.736
 images:

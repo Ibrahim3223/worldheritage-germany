@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Deutsches Brauereimuseum"
 latitude: 48.134816693
 longitude: 11.573088369
 images:

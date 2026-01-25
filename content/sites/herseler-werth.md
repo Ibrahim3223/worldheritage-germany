@@ -10,6 +10,7 @@ categories:
 - Nature Reserve
 regions:
 - Germany
+site_name: "Herseler Werth"
 latitude: 50.7778
 longitude: 7.04438
 images:

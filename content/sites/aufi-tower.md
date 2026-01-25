@@ -10,6 +10,7 @@ categories:
 - Tower
 regions:
 - Germany
+site_name: "Aufi Tower"
 latitude: 48.588055555
 longitude: 9.7475
 images:

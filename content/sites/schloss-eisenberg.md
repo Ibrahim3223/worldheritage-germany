@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schloss Eisenberg"
 latitude: 50.96574
 longitude: 11.90502
 

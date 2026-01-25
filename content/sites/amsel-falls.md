@@ -10,6 +10,7 @@ categories:
 - Waterfall
 regions:
 - Germany
+site_name: "Amsel Falls"
 latitude: 50.971944444
 longitude: 14.073611111
 images:

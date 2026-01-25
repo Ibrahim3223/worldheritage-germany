@@ -10,6 +10,7 @@ categories:
   - "Railway Station"
 regions:
   - "Germany"
+site_name: "Limburg Süd station"
 latitude: 50.3822
 longitude: 8.09611
 images:

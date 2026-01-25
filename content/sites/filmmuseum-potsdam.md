@@ -10,6 +10,7 @@ categories:
 - Cinema
 regions:
 - Germany
+site_name: "Filmmuseum Potsdam"
 latitude: 52.3953
 longitude: 13.0581
 images:

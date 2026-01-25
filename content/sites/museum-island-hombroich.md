@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Museum Island Hombroich"
 latitude: 51.147412
 longitude: 6.658745
 

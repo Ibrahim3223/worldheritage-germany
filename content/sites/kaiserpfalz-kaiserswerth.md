@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Kaiserpfalz Kaiserswerth"
 latitude: 51.299555555
 longitude: 6.731388888
 images:

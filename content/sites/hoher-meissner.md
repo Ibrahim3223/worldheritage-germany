@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Hoher Meissner"
 latitude: 51.207777777
 longitude: 9.847222222
 images:

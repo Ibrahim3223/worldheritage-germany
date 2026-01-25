@@ -10,6 +10,7 @@ categories:
 - Monastery
 regions:
 - Germany
+site_name: "Abbey and Altenmünster of Lorsch"
 latitude: 49.653888888
 longitude: 8.568888888
 images:

@@ -10,6 +10,7 @@ categories:
   - "Tower"
 regions:
   - "Germany"
+site_name: "Wilhelmsturm Dillenburg"
 latitude: 50.73828928
 longitude: 8.285429171
 images:

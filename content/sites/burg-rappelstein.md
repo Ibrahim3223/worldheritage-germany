@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Burg Rappelstein"
 latitude: 51.175
 longitude: 8.42472
 images:

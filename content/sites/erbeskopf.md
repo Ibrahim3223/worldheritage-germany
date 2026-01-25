@@ -10,6 +10,7 @@ categories:
 - Mountain
 regions:
 - Germany
+site_name: "Erbeskopf"
 latitude: 49.72944
 longitude: 7.08889
 images:

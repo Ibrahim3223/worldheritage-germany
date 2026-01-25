@@ -10,6 +10,7 @@ categories:
 - Brewery
 regions:
 - Germany
+site_name: "Cölner Hofbräu Früh"
 latitude: 50.939722222
 longitude: 6.957222222
 images:

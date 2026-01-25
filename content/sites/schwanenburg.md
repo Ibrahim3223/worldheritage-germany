@@ -16,6 +16,7 @@ regions:
   - "Germany"
 
 # Location
+site_name: "Schwanenburg"
 latitude: 51.786583
 longitude: 6.139089
 

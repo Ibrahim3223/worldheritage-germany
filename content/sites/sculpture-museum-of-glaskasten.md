@@ -10,6 +10,7 @@ categories:
   - "Museum"
 regions:
   - "Germany"
+site_name: "Sculpture museum of Glaskasten"
 latitude: 51.6561763
 longitude: 7.0946834
 images:

@@ -10,6 +10,7 @@ categories:
 - Castle
 regions:
 - Germany
+site_name: "Bilstein Castle (Lennestadt)"
 latitude: 51.0962
 longitude: 8.01931
 images:
