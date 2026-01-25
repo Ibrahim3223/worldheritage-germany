@@ -10,6 +10,8 @@ import time
 import re
 import argparse
 import asyncio
+import hashlib
+import requests
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dotenv import load_dotenv
@@ -38,6 +40,49 @@ PROGRESS_FILE = BASE_DIR / 'content_generation_progress.txt'
 # ============================================
 # UTILITIES
 # ============================================
+
+def get_wikimedia_thumb_url(filename: str, width: int = 1200) -> str:
+    """Generate Wikimedia Commons thumbnail URL"""
+    filename = filename.replace(' ', '_')
+    md5 = hashlib.md5(filename.encode('utf-8')).hexdigest()
+    base_url = f"https://upload.wikimedia.org/wikipedia/commons/thumb/{md5[0]}/{md5[0:2]}/{filename}/{width}px-{filename}"
+
+    # Handle special formats
+    if filename.lower().endswith('.svg'):
+        base_url += '.png'
+    elif filename.lower().endswith(('.tif', '.tiff')):
+        base_url = base_url.replace(filename, filename + '.jpg')
+
+    return base_url
+
+def get_wikidata_images(wikidata_id: str) -> list:
+    """Fetch image filenames from Wikidata"""
+    if not wikidata_id:
+        return []
+
+    try:
+        url = "https://www.wikidata.org/w/api.php"
+        params = {
+            'action': 'wbgetclaims',
+            'entity': wikidata_id,
+            'property': 'P18',  # image property
+            'format': 'json'
+        }
+
+        response = requests.get(url, params=params, timeout=10)
+        data = response.json()
+
+        if 'claims' in data and 'P18' in data['claims']:
+            images = []
+            for claim in data['claims']['P18'][:5]:  # Max 5 images
+                if 'mainsnak' in claim and 'datavalue' in claim['mainsnak']:
+                    filename = claim['mainsnak']['datavalue']['value']
+                    images.append(filename)
+            return images
+    except:
+        pass
+
+    return []
 
 def generate_slug(title: str) -> str:
     slug = title.lower()
@@ -71,10 +116,12 @@ def build_prompt(site: dict) -> str:
     category_info = site.get('category_info', {})
     heritage_type = category.replace('_', ' ').title()
 
+    region = site.get('region', 'Germany')
+
     formatted_data = f"""=== BASIC INFORMATION ===
 Name: {title}
 Type: {heritage_type}
-Region: Germany
+Region: {region}
 Country: Germany
 Description: {description}
 
@@ -196,30 +243,93 @@ def generate_content(site: dict, client: OpenAI) -> tuple:
         lat = site.get('latitude', 0)
         lon = site.get('longitude', 0)
 
-        img_dir = IMAGES_DIR / slug
+        # Try to get Wikimedia images first
         images = []
-        if img_dir.exists():
-            for img in sorted(img_dir.glob('*-800w.webp'))[:3]:
-                images.append(f'/images-sites/{slug}/{img.name}')
+        image_srcset = {}
+        wikidata_id = site.get('wikidata_id', '')
 
-        images_yaml = '\n'.join([f'  - "{img}"' for img in images]) if images else '  []'
+        if wikidata_id:
+            wiki_filenames = get_wikidata_images(wikidata_id)
+            if wiki_filenames:
+                for filename in wiki_filenames[:5]:  # Max 5 images
+                    # Main image URL (1200px)
+                    main_url = get_wikimedia_thumb_url(filename, 1200)
+                    images.append(main_url)
+
+                    # Generate srcset for responsive images
+                    srcset_key = filename.replace(' ', '%20')
+                    image_srcset[srcset_key] = {
+                        400: get_wikimedia_thumb_url(filename, 400),
+                        800: get_wikimedia_thumb_url(filename, 800),
+                        1200: get_wikimedia_thumb_url(filename, 1200),
+                        1920: get_wikimedia_thumb_url(filename, 1920),
+                    }
+
+        # Fallback to local images if no Wikimedia images
+        if not images:
+            img_dir = IMAGES_DIR / slug
+            if img_dir.exists():
+                for img in sorted(img_dir.glob('*-800w.webp'))[:3]:
+                    images.append(f'/images-sites/{slug}/{img.name}')
+
+        # Generate YAML for images
+        images_yaml = '\n'.join([f'  - {img}' for img in images]) if images else '  []'
+
+        # Generate YAML for srcset
+        srcset_yaml = ''
+        if image_srcset:
+            srcset_yaml = '\nimage_srcset:'
+            for key, sizes in image_srcset.items():
+                srcset_yaml += f'\n  {key}:'
+                for size, url in sizes.items():
+                    srcset_yaml += f'\n    {size}: {url}'
+
+        # Extract metadata
+        site_name = title
+        region = site.get('region', 'Germany')
+        wikidata_id = site.get('wikidata_id', '')
+        is_unesco = site.get('unesco', False)
+
+        # Build tags list
+        tags = []
+        if is_unesco:
+            tags.append('unesco')
+        tags_yaml = '\n'.join([f'  - {tag}' for tag in tags]) if tags else ''
+
+        # Build regions list - use actual region if available
+        regions_list = [region] if region and region != 'Germany' else ['Germany']
+        regions_yaml = '\n'.join([f'  - "{r}"' for r in regions_list])
 
         md_content = f'''---
 title: "{title.replace('"', '\\"')}"
+site_name: "{site_name.replace('"', '\\"')}"
 date: {time.strftime('%Y-%m-%d')}
 draft: false
 description: "{description}"
-region: "Germany"
+region: "{region}"
 country: "Germany"
 heritage_type: "{category}"
 categories:
   - "{category}"
 regions:
-  - "Germany"
+{regions_yaml}'''
+
+        if wikidata_id:
+            md_content += f'\nwikidata_id: "{wikidata_id}"'
+
+        if tags_yaml:
+            md_content += f'\ntags:\n{tags_yaml}'
+
+        md_content += f'''
 latitude: {lat}
 longitude: {lon}
 images:
-{images_yaml}
+{images_yaml}'''
+
+        if srcset_yaml:
+            md_content += srcset_yaml
+
+        md_content += f'''
 ---
 
 {content}
