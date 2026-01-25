@@ -28,6 +28,7 @@ paginate = 12
   category = "categories"
   tag = "tags"
   region = "regions"
+  heritage_type = "heritage_types"
   author = "authors"
   blog_category = "blog_categories"
 
@@ -81,7 +82,7 @@ paginate = 12
   accentColor = "#97BC62"
 
   # Features
-  enableSearch = true
+  enableSearch = false
   enableComments = false
   enableShareButtons = true
 

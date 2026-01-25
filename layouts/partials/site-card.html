@@ -1,9 +1,22 @@
 {{ $imgURL := "" }}
 {{ with .Params.images }}
-  {{ $imgURL = partial "image-url.html" (dict "src" (index . 0) "site" $.Site) }}
+  {{ $firstImg := index . 0 }}
+  {{ $imgURL = partial "image-url.html" (dict "src" $firstImg "site" $.Site) }}
+  {{/* Fallback to 2nd image if 1st might be broken */}}
+  {{ if gt (len .) 1 }}
+    {{ if or (in $firstImg "Thumbnail") (in $firstImg "thumbnail") }}
+      {{ $imgURL = partial "image-url.html" (dict "src" (index . 1) "site" $.Site) }}
+    {{ end }}
+  {{ end }}
 {{ end }}
 {{ $siteName := .Params.site_name | default .Title }}
 {{ $region := .Params.region | default "Germany" }}
+{{ $locationText := $region }}
+{{ if and $region (ne $region "Germany") }}
+  {{ $locationText = printf "%s, Germany" $region }}
+{{ else }}
+  {{ $locationText = "Germany" }}
+{{ end }}
 <a href="{{ .Permalink }}" class="card group flex flex-col" style="height: 530px; max-height: 530px;" aria-label="View details about {{ $siteName }}, {{ .Params.heritage_type }} in {{ $region }}">
   {{ with .Params.images }}
     <div class="relative bg-sand h-64 overflow-hidden flex-shrink-0">
@@ -47,12 +60,20 @@
       {{ $siteName }}
     </h3>
 
-    {{ if and $region (ne $region "Germany") }}
-      <p class="text-sm text-stone mb-3">📍 {{ $region }}</p>
-    {{ end }}
+    <p class="text-sm text-stone mb-3">📍 {{ $locationText }}</p>
 
     <p class="card-text line-clamp-4 overflow-hidden mb-4">
-      {{ if .Description }}
+      {{ $excerpt := "" }}
+      {{ if .Content }}
+        {{/* Extract first sentence from content (after ## Overview) */}}
+        {{ $content := .Content | plainify }}
+        {{ $content = replaceRE "(?s).*?## Overview\\s+" "" $content }}
+        {{ $firstSentence := replaceRE "(?s)^([^.!?]+[.!?]).*" "$1" $content }}
+        {{ $excerpt = $firstSentence | truncate 180 }}
+      {{ end }}
+      {{ if $excerpt }}
+        {{ $excerpt }}
+      {{ else if .Description }}
         {{ .Description | truncate 180 }}
       {{ else if .Summary }}
         {{ .Summary | plainify | truncate 180 }}

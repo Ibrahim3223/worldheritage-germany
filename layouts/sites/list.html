@@ -63,8 +63,8 @@
               class="w-full px-4 py-3 bg-white border-2 border-sand hover:border-forest-300 focus:border-forest-500 rounded-xl focus:ring-2 focus:ring-forest-200 transition-all shadow-sm cursor-pointer"
             >
               <option value="">All Categories</option>
-              {{ range .Site.Taxonomies.categories.Alphabetical }}
-                <option value="{{ .Page.Title | lower }}">{{ .Page.Title | title }}</option>
+              {{ range .Site.Taxonomies.heritage_types.Alphabetical }}
+                <option value="{{ .Page.Title }}">{{ .Page.Title | title }}</option>
               {{ end }}
             </select>
           </div>
@@ -126,11 +126,10 @@
           class="h-[530px] overflow-hidden"
           data-site-name="{{ $siteName | lower }}"
           data-title="{{ .Title | lower }}"
-          data-categories="{{ delimit .Params.categories "," | lower }}"
-          data-heritage-type="{{ .Params.heritage_type | lower }}"
+          data-heritage-type="{{ .Params.heritage_type }}"
           data-region="{{ $region }}"
           data-unesco="{{ if or .Params.unesco (in .Params.tags "unesco") }}true{{ else }}false{{ end }}"
-          x-show="(searchQuery === '' || $el.dataset.siteName.includes(searchQuery.toLowerCase()) || $el.dataset.title.includes(searchQuery.toLowerCase())) && (selectedCategory === '' || $el.dataset.categories.includes(selectedCategory.toLowerCase()) || $el.dataset.heritageType.includes(selectedCategory.toLowerCase())) && (selectedRegion === '' || $el.dataset.region === selectedRegion) && (selectedUNESCO === '' || $el.dataset.unesco === selectedUNESCO)"
+          x-show="(searchQuery === '' || $el.dataset.siteName.includes(searchQuery.toLowerCase()) || $el.dataset.title.includes(searchQuery.toLowerCase())) && (selectedCategory === '' || $el.dataset.heritageType === selectedCategory) && (selectedRegion === '' || $el.dataset.region === selectedRegion) && (selectedUNESCO === '' || $el.dataset.unesco === selectedUNESCO)"
           x-transition:enter="transition ease-out duration-200"
           x-transition:enter-start="opacity-0 transform scale-95"
           x-transition:enter-end="opacity-100 transform scale-100"
