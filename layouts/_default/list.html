@@ -52,11 +52,67 @@
 
   <div class="container-custom py-12">
     {{ if gt (len $filteredPages) 0 }}
+      {{ $paginator := .Paginate $filteredPages 24 }}
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8" style="grid-auto-rows: 530px;">
-        {{ range $filteredPages }}
+        {{ range $paginator.Pages }}
           {{ partial "site-card.html" . }}
         {{ end }}
       </div>
+
+      <!-- Pagination -->
+      {{ if gt $paginator.TotalPages 1 }}
+      <div class="mt-12 flex justify-center">
+        <nav class="flex items-center gap-2" aria-label="Pagination">
+
+          <!-- Previous Page -->
+          {{ if $paginator.HasPrev }}
+            <a href="{{ $paginator.Prev.URL }}" class="px-4 py-2 bg-white border-2 border-forest-500 text-forest-600 rounded-lg hover:bg-forest-50 transition-colors font-medium">
+              ← Previous
+            </a>
+          {{ else }}
+            <span class="px-4 py-2 bg-sand/50 border-2 border-sand text-stone rounded-lg cursor-not-allowed">
+              ← Previous
+            </span>
+          {{ end }}
+
+          <!-- Page Numbers -->
+          <div class="flex items-center gap-1">
+            {{ $currentPage := $paginator.PageNumber }}
+            {{ $totalPages := $paginator.TotalPages }}
+
+            {{ range $paginator.Pagers }}
+              {{ $pageNum := .PageNumber }}
+              {{ if or (eq $pageNum 1) (eq $pageNum $totalPages) (and (ge $pageNum (sub $currentPage 2)) (le $pageNum (add $currentPage 2))) }}
+                {{ if eq $pageNum $currentPage }}
+                  <span class="px-4 py-2 bg-forest-600 text-white rounded-lg font-bold">
+                    {{ $pageNum }}
+                  </span>
+                {{ else }}
+                  <a href="{{ .URL }}" class="px-4 py-2 bg-white border-2 border-sand hover:border-forest-300 text-charcoal rounded-lg hover:bg-forest-50 transition-colors">
+                    {{ $pageNum }}
+                  </a>
+                {{ end }}
+              {{ else if or (eq $pageNum (sub $currentPage 3)) (eq $pageNum (add $currentPage 3)) }}
+                <span class="px-2 text-stone">...</span>
+              {{ end }}
+            {{ end }}
+          </div>
+
+          <!-- Next Page -->
+          {{ if $paginator.HasNext }}
+            <a href="{{ $paginator.Next.URL }}" class="px-4 py-2 bg-white border-2 border-forest-500 text-forest-600 rounded-lg hover:bg-forest-50 transition-colors font-medium">
+              Next →
+            </a>
+          {{ else }}
+            <span class="px-4 py-2 bg-sand/50 border-2 border-sand text-stone rounded-lg cursor-not-allowed">
+              Next →
+            </span>
+          {{ end }}
+
+        </nav>
+      </div>
+      {{ end }}
+
     {{ else }}
       <div class="text-center py-16">
         <div class="text-6xl mb-4">🏛️</div>

@@ -29,14 +29,14 @@
 <!-- Articles Grid -->
 <div class="bg-white py-12 md:py-16">
   <div class="container-custom">
+    {{ $paginator := .Paginate .Pages 12 }}
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-      {{ range .Pages }}
+      {{ range $paginator.Pages }}
         {{ partial "blog-card.html" . }}
       {{ end }}
     </div>
 
     <!-- Pagination -->
-    {{ $paginator := .Paginate .Pages 12 }}
     {{ if gt $paginator.TotalPages 1 }}
     <div class="flex justify-center mt-12">
       <nav class="flex items-center gap-2">
