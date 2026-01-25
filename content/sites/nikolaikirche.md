@@ -5,6 +5,12 @@ slug: "nikolaikirche"
 region: "Mecklenburg-Vorpommern"
 
 # Location
+image_srcset:
+  Nicolaikirche%20Röbel%20von%20Nordosten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Nicolaikirche_Röbel_von_Nordosten.jpg/400px-Nicolaikirche_Röbel_von_Nordosten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Nicolaikirche_Röbel_von_Nordosten.jpg/800px-Nicolaikirche_Röbel_von_Nordosten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Nicolaikirche_Röbel_von_Nordosten.jpg/1200px-Nicolaikirche_Röbel_von_Nordosten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Nicolaikirche_Röbel_von_Nordosten.jpg/1920px-Nicolaikirche_Röbel_von_Nordosten.jpg
 latitude: 53.3772
 longitude: 12.6062
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1986323"
 description: "Nestled in the picturesque town of Röbel, Germany, Nikolaikirche is a stunning example of Brick Gothic architecture that captivates both locals and visi..."
 images:
-  - "/images/nikolaikirche/01-647fdfb5-1920w.webp"
-  - "/images/nikolaikirche/02-52ce608e-1920w.webp"
-  - "/images/nikolaikirche/03-67d8e8ae-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Nicolaikirche_Röbel_von_Nordosten.jpg/1200px-Nicolaikirche_Röbel_von_Nordosten.jpg
 ---
 
 ## Overview

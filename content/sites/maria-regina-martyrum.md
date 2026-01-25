@@ -5,6 +5,12 @@ slug: "maria-regina-martyrum"
 region: "Berlin"
 
 # Location
+image_srcset:
+  Berlin-ChbgN%20Maria%20Regina%20Martyrum%20asv2022-11%20img1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Berlin-ChbgN_Maria_Regina_Martyrum_asv2022-11_img1.jpg/400px-Berlin-ChbgN_Maria_Regina_Martyrum_asv2022-11_img1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Berlin-ChbgN_Maria_Regina_Martyrum_asv2022-11_img1.jpg/800px-Berlin-ChbgN_Maria_Regina_Martyrum_asv2022-11_img1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Berlin-ChbgN_Maria_Regina_Martyrum_asv2022-11_img1.jpg/1200px-Berlin-ChbgN_Maria_Regina_Martyrum_asv2022-11_img1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Berlin-ChbgN_Maria_Regina_Martyrum_asv2022-11_img1.jpg/1920px-Berlin-ChbgN_Maria_Regina_Martyrum_asv2022-11_img1.jpg
 latitude: 52.540316666667
 longitude: 13.2985
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q1896259"
 description: "In the heart of Berlin, a striking example of modern architecture rises to meet the sky—Maria Regina Martyrum. This Catholic church, established in 1963..."
 images:
-  - "/images/maria-regina-martyrum/01-e61c305c-1920w.webp"
-  - "/images/maria-regina-martyrum/02-24c0e856-1920w.webp"
-  - "/images/maria-regina-martyrum/03-a1a35a91-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Berlin-ChbgN_Maria_Regina_Martyrum_asv2022-11_img1.jpg/1200px-Berlin-ChbgN_Maria_Regina_Martyrum_asv2022-11_img1.jpg
 ---
 
 ## Overview

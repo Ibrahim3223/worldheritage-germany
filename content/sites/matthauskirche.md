@@ -5,6 +5,12 @@ slug: "matthauskirche"
 region: "Lower Saxony"
 
 # Location
+image_srcset:
+  Lehrte%20Matthäuskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lehrte_Matthäuskirche.jpg/400px-Lehrte_Matthäuskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lehrte_Matthäuskirche.jpg/800px-Lehrte_Matthäuskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lehrte_Matthäuskirche.jpg/1200px-Lehrte_Matthäuskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lehrte_Matthäuskirche.jpg/1920px-Lehrte_Matthäuskirche.jpg
 latitude: 52.3725
 longitude: 9.97903
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1463102"
 description: "In the heart of Lehrte, a small town in the Region Hannover, Germany, stands Matthäuskirche, an architectural gem that invites both contemplation and ad..."
 images:
-  - "/images/matthauskirche/01-35355ac4-1920w.webp"
-  - "/images/matthauskirche/02-17faf884-1920w.webp"
-  - "/images/matthauskirche/03-c546a856-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lehrte_Matthäuskirche.jpg/1200px-Lehrte_Matthäuskirche.jpg
 ---
 
 ## Overview

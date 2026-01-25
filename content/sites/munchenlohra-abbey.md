@@ -5,6 +5,12 @@ slug: "munchenlohra-abbey"
 region: "Saxony-Anhalt"
 
 # Location
+image_srcset:
+  Münchenlohra1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Münchenlohra1.JPG/400px-Münchenlohra1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Münchenlohra1.JPG/800px-Münchenlohra1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Münchenlohra1.JPG/1200px-Münchenlohra1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Münchenlohra1.JPG/1920px-Münchenlohra1.JPG
 latitude: 51.421943
 longitude: 10.667553
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q630935"
 description: "Münchenlohra Abbey, a prominent church building located in the region of Großlohra, Germany, stands as a remarkable example of Romanesque architecture. ..."
 images:
-  - "/images/munchenlohra-abbey/01-fa2645e1-1920w.webp"
-  - "/images/munchenlohra-abbey/02-d9039b80-1920w.webp"
-  - "/images/munchenlohra-abbey/03-4182ca41-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Münchenlohra1.JPG/1200px-Münchenlohra1.JPG
 ---
 
 ## Overview

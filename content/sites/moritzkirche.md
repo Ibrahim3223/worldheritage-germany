@@ -5,6 +5,12 @@ slug: "moritzkirche"
 region: "Brandenburg"
 
 # Location
+image_srcset:
+  Moritzkirche%201800.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Moritzkirche_1800.jpg/400px-Moritzkirche_1800.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Moritzkirche_1800.jpg/800px-Moritzkirche_1800.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Moritzkirche_1800.jpg/1200px-Moritzkirche_1800.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Moritzkirche_1800.jpg/1920px-Moritzkirche_1800.jpg
 latitude: 51.4801
 longitude: 11.9664
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1948167"
 description: "In the heart of Halle (Saale), Germany, the Moritzkirche stands as a striking example of late-Gothic architecture. Built in 1557, this church captures t..."
 images:
-  - "/images/moritzkirche/01-21ae528f-1920w.webp"
-  - "/images/moritzkirche/02-4ea01a04-1920w.webp"
-  - "/images/moritzkirche/03-a21f25c6-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Moritzkirche_1800.jpg/1200px-Moritzkirche_1800.jpg
 ---
 
 ## Overview

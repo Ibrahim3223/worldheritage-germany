@@ -18,9 +18,14 @@ categories:
 regions:
     - "Saxony-Anhalt"
 tags:
-  - "unesco"
-
+  - unesco
 # Location
+image_srcset:
+  Naumburger%20Dom.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Naumburger_Dom.JPG/400px-Naumburger_Dom.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Naumburger_Dom.JPG/800px-Naumburger_Dom.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Naumburger_Dom.JPG/1200px-Naumburger_Dom.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Naumburger_Dom.JPG/1920px-Naumburger_Dom.JPG
 latitude: 51.154722222
 longitude: 11.803888888
 
@@ -29,8 +34,7 @@ website: "https://www.naumburger-dom.de"
 
 # Images
 images:
-  - "/images/naumburg-cathedral/wikimedia-1920w.webp"
-  - "/images/naumburg-cathedral/satellite-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Naumburger_Dom.JPG/1200px-Naumburger_Dom.JPG
 ---
 
 ## Overview
@@ -132,4 +136,3 @@ For the latest information on visitor facilities, including restrooms and cafes,
 Dress comfortably and respectfully, keeping in mind that this is a place of worship. Modest clothing is recommended.
 
 Naumburg Cathedral is more than just a church; it is a vibrant part of history and culture, inviting you to explore its depths and appreciate its beauty. Whether you are drawn by its architectural splendor or its historical significance, your visit promises to be enlightening and enriching.
-

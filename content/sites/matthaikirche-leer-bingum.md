@@ -5,6 +5,12 @@ slug: "matthaikirche-leer-bingum"
 region: "Lower Saxony"
 
 # Location
+image_srcset:
+  ChurchBingum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/ChurchBingum.jpg/400px-ChurchBingum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/ChurchBingum.jpg/800px-ChurchBingum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/ChurchBingum.jpg/1200px-ChurchBingum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/ChurchBingum.jpg/1920px-ChurchBingum.jpg
 latitude: 53.2225
 longitude: 7.41324
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q568427"
 description: "Matthäikirche in Leer-Bingum is a captivating church building that invites visitors to explore its rich historical and architectural significance. This ..."
 images:
-  - "/images/matthaikirche-leer-bingum/01-239fbb46-1920w.webp"
-  - "/images/matthaikirche-leer-bingum/02-58ae7d71-1920w.webp"
-  - "/images/matthaikirche-leer-bingum/03-4886468b-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/ChurchBingum.jpg/1200px-ChurchBingum.jpg
 ---
 
 ## Overview

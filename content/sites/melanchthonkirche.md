@@ -5,6 +5,12 @@ slug: "melanchthonkirche"
 region: "Berlin"
 
 # Location
+image_srcset:
+  Melanchthon-Kirche%20(Wilhelmstadt).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Melanchthon-Kirche_(Wilhelmstadt).JPG/400px-Melanchthon-Kirche_(Wilhelmstadt).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Melanchthon-Kirche_(Wilhelmstadt).JPG/800px-Melanchthon-Kirche_(Wilhelmstadt).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Melanchthon-Kirche_(Wilhelmstadt).JPG/1200px-Melanchthon-Kirche_(Wilhelmstadt).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Melanchthon-Kirche_(Wilhelmstadt).JPG/1920px-Melanchthon-Kirche_(Wilhelmstadt).JPG
 latitude: 52.5212
 longitude: 13.189
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q14532173"
 description: "The Melanchthonkirche, a striking Gothic Revival church building, is located in the heart of Spandau, Germany. Standing at an impressive height of 41 me..."
 images:
-  - "/images/melanchthonkirche/01-1abc00d0-1920w.webp"
-  - "/images/melanchthonkirche/02-b46cfad6-1920w.webp"
-  - "/images/melanchthonkirche/03-656e2e31-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Melanchthon-Kirche_(Wilhelmstadt).JPG/1200px-Melanchthon-Kirche_(Wilhelmstadt).JPG
 ---
 
 ## Overview

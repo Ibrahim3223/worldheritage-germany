@@ -5,6 +5,12 @@ slug: "market-church-poppenbuttel"
 region: "Hamburg"
 
 # Location
+image_srcset:
+  Hamburg-Poppenbüttel,%20Marktkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hamburg-Poppenbüttel,_Marktkirche.jpg/400px-Hamburg-Poppenbüttel,_Marktkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hamburg-Poppenbüttel,_Marktkirche.jpg/800px-Hamburg-Poppenbüttel,_Marktkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hamburg-Poppenbüttel,_Marktkirche.jpg/1200px-Hamburg-Poppenbüttel,_Marktkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hamburg-Poppenbüttel,_Marktkirche.jpg/1920px-Hamburg-Poppenbüttel,_Marktkirche.jpg
 latitude: 53.658789
 longitude: 10.086115
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q1901084"
 description: "Market Church Poppenbüttel stands as a remarkable example of modern church architecture in Hamburg, Germany. Located in the Wandsbek region, this Luther..."
 images:
-  - "/images/market-church-poppenbuttel/01-9f177904-1920w.webp"
-  - "/images/market-church-poppenbuttel/02-be394cad-1920w.webp"
-  - "/images/market-church-poppenbuttel/03-341419ed-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hamburg-Poppenbüttel,_Marktkirche.jpg/1200px-Hamburg-Poppenbüttel,_Marktkirche.jpg
 ---
 
 ## Overview

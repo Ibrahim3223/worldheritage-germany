@@ -5,6 +5,12 @@ slug: "laurentiuskirche"
 region: "Baden-Württemberg"
 
 # Location
+image_srcset:
+  Ansicht%20composit1068x1024blau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ansicht_composit1068x1024blau.jpg/400px-Ansicht_composit1068x1024blau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ansicht_composit1068x1024blau.jpg/800px-Ansicht_composit1068x1024blau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ansicht_composit1068x1024blau.jpg/1200px-Ansicht_composit1068x1024blau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ansicht_composit1068x1024blau.jpg/1920px-Ansicht_composit1068x1024blau.jpg
 latitude: 48.8659
 longitude: 9.03521
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1808223"
 description: "Laurentiuskirche, a striking example of Baroque architecture, resides in Hemmingen, Germany. This church not only serves as a place of worship but also ..."
 images:
-  - "/images/laurentiuskirche/01-0576a350-1920w.webp"
-  - "/images/laurentiuskirche/02-656b18ef-1920w.webp"
-  - "/images/laurentiuskirche/03-1e827d57-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ansicht_composit1068x1024blau.jpg/1200px-Ansicht_composit1068x1024blau.jpg
 ---
 
 ## Overview

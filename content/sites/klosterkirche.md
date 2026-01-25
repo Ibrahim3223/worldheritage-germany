@@ -5,6 +5,12 @@ slug: "klosterkirche"
 region: "Brandenburg"
 
 # Location
+image_srcset:
+  Cottbus%2007-2017%20img26%20Klosterkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cottbus_07-2017_img26_Klosterkirche.jpg/400px-Cottbus_07-2017_img26_Klosterkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cottbus_07-2017_img26_Klosterkirche.jpg/800px-Cottbus_07-2017_img26_Klosterkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cottbus_07-2017_img26_Klosterkirche.jpg/1200px-Cottbus_07-2017_img26_Klosterkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cottbus_07-2017_img26_Klosterkirche.jpg/1920px-Cottbus_07-2017_img26_Klosterkirche.jpg
 latitude: 51.7616
 longitude: 14.3334
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1776416"
 description: "In the heart of Cottbus, Brandenburg, the Klosterkirche stands as a historical church building that dates back to 1400. This brick Gothic structure not ..."
 images:
-  - "/images/klosterkirche/01-4f8d1b0d-1920w.webp"
-  - "/images/klosterkirche/02-9e1ef18a-1920w.webp"
-  - "/images/klosterkirche/03-2407a8e0-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cottbus_07-2017_img26_Klosterkirche.jpg/1200px-Cottbus_07-2017_img26_Klosterkirche.jpg
 ---
 
 ## Overview

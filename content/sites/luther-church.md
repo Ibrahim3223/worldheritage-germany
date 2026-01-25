@@ -5,6 +5,12 @@ slug: "luther-church"
 region: "North Rhine-Westphalia"
 
 # Location
+image_srcset:
+  Martin-Luther-Kirche%20Münster.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Martin-Luther-Kirche_Münster.JPG/400px-Martin-Luther-Kirche_Münster.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Martin-Luther-Kirche_Münster.JPG/800px-Martin-Luther-Kirche_Münster.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Martin-Luther-Kirche_Münster.JPG/1200px-Martin-Luther-Kirche_Münster.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Martin-Luther-Kirche_Münster.JPG/1920px-Martin-Luther-Kirche_Münster.JPG
 latitude: 51.9304
 longitude: 7.57014
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q1499140"
 description: "Imagine stepping into a space that reflects a modern interpretation of spirituality and community. The Luther Church, located in Münster, Germany, embod..."
 images:
-  - "/images/luther-church/01-b56483a8-1920w.webp"
-  - "/images/luther-church/02-1afdcea4-1920w.webp"
-  - "/images/luther-church/03-a0b68322-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Martin-Luther-Kirche_Münster.JPG/1200px-Martin-Luther-Kirche_Münster.JPG
 ---
 
 ## Overview

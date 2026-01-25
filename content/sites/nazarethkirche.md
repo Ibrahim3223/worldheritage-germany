@@ -5,6 +5,12 @@ slug: "nazarethkirche"
 region: "Lower Saxony"
 
 # Location
+image_srcset:
+  Nazareth%20church%20Sallstrasse%20Krausenstrasse%20Suedstadt%20Hannover%20Germany.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nazareth_church_Sallstrasse_Krausenstrasse_Suedstadt_Hannover_Germany.jpg/400px-Nazareth_church_Sallstrasse_Krausenstrasse_Suedstadt_Hannover_Germany.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nazareth_church_Sallstrasse_Krausenstrasse_Suedstadt_Hannover_Germany.jpg/800px-Nazareth_church_Sallstrasse_Krausenstrasse_Suedstadt_Hannover_Germany.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nazareth_church_Sallstrasse_Krausenstrasse_Suedstadt_Hannover_Germany.jpg/1200px-Nazareth_church_Sallstrasse_Krausenstrasse_Suedstadt_Hannover_Germany.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nazareth_church_Sallstrasse_Krausenstrasse_Suedstadt_Hannover_Germany.jpg/1920px-Nazareth_church_Sallstrasse_Krausenstrasse_Suedstadt_Hannover_Germany.jpg
 latitude: 52.36418
 longitude: 9.75802
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1646641"
 description: "Nazarethkirche, a striking example of Romanesque Revival architecture, rises prominently in the Südstadt-Bult region of Hannover, Germany. This church b..."
 images:
-  - "/images/nazarethkirche/01-056fcc9b-1920w.webp"
-  - "/images/nazarethkirche/02-aaeca989-1920w.webp"
-  - "/images/nazarethkirche/03-4323481f-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nazareth_church_Sallstrasse_Krausenstrasse_Suedstadt_Hannover_Germany.jpg/1200px-Nazareth_church_Sallstrasse_Krausenstrasse_Suedstadt_Hannover_Germany.jpg
 ---
 
 ## Overview

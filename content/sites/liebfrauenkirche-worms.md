@@ -5,6 +5,12 @@ slug: "liebfrauenkirche-worms"
 region: "Hesse"
 
 # Location
+image_srcset:
+  Worms%20Liebfrauenkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Worms_Liebfrauenkirche.jpg/400px-Worms_Liebfrauenkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Worms_Liebfrauenkirche.jpg/800px-Worms_Liebfrauenkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Worms_Liebfrauenkirche.jpg/1200px-Worms_Liebfrauenkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Worms_Liebfrauenkirche.jpg/1920px-Worms_Liebfrauenkirche.jpg
 latitude: 49.6391
 longitude: 8.36885
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q826562"
 description: "In the heart of Worms, Germany, stands a remarkable example of Gothic architecture: the Liebfrauenkirche, or Church of Our Lady. This church, designed b..."
 images:
-  - "/images/liebfrauenkirche-worms/01-22eb9d72-1920w.webp"
-  - "/images/liebfrauenkirche-worms/02-028c0432-1920w.webp"
-  - "/images/liebfrauenkirche-worms/03-78e3f7c4-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Worms_Liebfrauenkirche.jpg/1200px-Worms_Liebfrauenkirche.jpg
 ---
 
 ## Overview

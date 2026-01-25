@@ -5,6 +5,12 @@ slug: "oldendorper-kirche"
 region: "Lower Saxony"
 
 # Location
+image_srcset:
+  ChurchOldendorp.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ChurchOldendorp.jpg/400px-ChurchOldendorp.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ChurchOldendorp.jpg/800px-ChurchOldendorp.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ChurchOldendorp.jpg/1200px-ChurchOldendorp.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ChurchOldendorp.jpg/1920px-ChurchOldendorp.jpg
 latitude: 53.3084
 longitude: 7.29418
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q2018758"
 description: "As you approach the Oldendorper Kirche, a striking example of Gothic architecture, its brick façade rises against the backdrop of the serene landscape o..."
 images:
-  - "/images/oldendorper-kirche/01-7ec158e2-1920w.webp"
-  - "/images/oldendorper-kirche/02-27f2fce3-1920w.webp"
-  - "/images/oldendorper-kirche/03-ad6f8f39-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ChurchOldendorp.jpg/1200px-ChurchOldendorp.jpg
 ---
 
 ## Overview

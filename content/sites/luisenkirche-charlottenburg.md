@@ -5,6 +5,12 @@ slug: "luisenkirche-charlottenburg"
 region: "Berlin"
 
 # Location
+image_srcset:
+  Charlottenburg%20Luisenkirche-001.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Charlottenburg_Luisenkirche-001.JPG/400px-Charlottenburg_Luisenkirche-001.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Charlottenburg_Luisenkirche-001.JPG/800px-Charlottenburg_Luisenkirche-001.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Charlottenburg_Luisenkirche-001.JPG/1200px-Charlottenburg_Luisenkirche-001.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Charlottenburg_Luisenkirche-001.JPG/1920px-Charlottenburg_Luisenkirche-001.JPG
 latitude: 52.5172
 longitude: 13.3026
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1876714"
 description: "Luisenkirche, a Protestant church located in the Charlottenburg-Wilmersdorf district of Berlin, is a remarkable example of Neoclassical architecture. Fo..."
 images:
-  - "/images/luisenkirche-charlottenburg/01-37b51a05-1920w.webp"
-  - "/images/luisenkirche-charlottenburg/02-536e101a-1920w.webp"
-  - "/images/luisenkirche-charlottenburg/03-8dd2db59-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Charlottenburg_Luisenkirche-001.JPG/1200px-Charlottenburg_Luisenkirche-001.JPG
 ---
 
 ## Overview

@@ -5,6 +5,12 @@ slug: "liebfrauenkirche"
 region: "North Rhine-Westphalia"
 
 # Location
+image_srcset:
+  Bocholt%20Minoritenkirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bocholt_Minoritenkirche.JPG/400px-Bocholt_Minoritenkirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bocholt_Minoritenkirche.JPG/800px-Bocholt_Minoritenkirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bocholt_Minoritenkirche.JPG/1200px-Bocholt_Minoritenkirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bocholt_Minoritenkirche.JPG/1920px-Bocholt_Minoritenkirche.JPG
 latitude: 51.8393
 longitude: 6.61752
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1823918"
 description: "In the heart of Bocholt, Germany, lies Liebfrauenkirche, a church building that captures the essence of local architectural heritage. This striking bric..."
 images:
-  - "/images/liebfrauenkirche/01-1e9a2460-1920w.webp"
-  - "/images/liebfrauenkirche/02-2c19f1fe-1920w.webp"
-  - "/images/liebfrauenkirche/03-a5637922-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bocholt_Minoritenkirche.JPG/1200px-Bocholt_Minoritenkirche.JPG
 ---
 
 ## Overview

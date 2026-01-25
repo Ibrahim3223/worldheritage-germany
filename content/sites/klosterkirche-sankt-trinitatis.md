@@ -5,6 +5,12 @@ slug: "klosterkirche-sankt-trinitatis"
 region: "Brandenburg"
 
 # Location
+image_srcset:
+  Neuruppin%20Blick%20vom%20Schiff%20asv2023-09%20img4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Neuruppin_Blick_vom_Schiff_asv2023-09_img4.jpg/400px-Neuruppin_Blick_vom_Schiff_asv2023-09_img4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Neuruppin_Blick_vom_Schiff_asv2023-09_img4.jpg/800px-Neuruppin_Blick_vom_Schiff_asv2023-09_img4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Neuruppin_Blick_vom_Schiff_asv2023-09_img4.jpg/1200px-Neuruppin_Blick_vom_Schiff_asv2023-09_img4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Neuruppin_Blick_vom_Schiff_asv2023-09_img4.jpg/1920px-Neuruppin_Blick_vom_Schiff_asv2023-09_img4.jpg
 latitude: 52.9226
 longitude: 12.81
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1228469"
 description: "In the heart of Brandenburg, Germany, the Klosterkirche Sankt Trinitatis stands as a remarkable example of Brick Gothic architecture. This church, chara..."
 images:
-  - "/images/klosterkirche-sankt-trinitatis/01-2c2d80f5-1920w.webp"
-  - "/images/klosterkirche-sankt-trinitatis/02-ffb8c264-1920w.webp"
-  - "/images/klosterkirche-sankt-trinitatis/03-ac3b33a3-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Neuruppin_Blick_vom_Schiff_asv2023-09_img4.jpg/1200px-Neuruppin_Blick_vom_Schiff_asv2023-09_img4.jpg
 ---
 
 ## Overview

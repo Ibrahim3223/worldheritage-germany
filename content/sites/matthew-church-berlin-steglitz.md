@@ -5,6 +5,12 @@ slug: "matthew-church-berlin-steglitz"
 region: "Berlin"
 
 # Location
+image_srcset:
+  MatthaeusSteglitz1-Mutter%20Erde%20fec.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/MatthaeusSteglitz1-Mutter_Erde_fec.jpg/400px-MatthaeusSteglitz1-Mutter_Erde_fec.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/MatthaeusSteglitz1-Mutter_Erde_fec.jpg/800px-MatthaeusSteglitz1-Mutter_Erde_fec.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/MatthaeusSteglitz1-Mutter_Erde_fec.jpg/1200px-MatthaeusSteglitz1-Mutter_Erde_fec.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/MatthaeusSteglitz1-Mutter_Erde_fec.jpg/1920px-MatthaeusSteglitz1-Mutter_Erde_fec.jpg
 latitude: 52.4561
 longitude: 13.3182
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q1910575"
 description: "In the heart of Berlin-Steglitz, the Matthew Church stands as a striking example of Gothic Revival architecture, inviting visitors to explore its rich h..."
 images:
-  - "/images/matthew-church-berlin-steglitz/01-66ac3f7d-1920w.webp"
-  - "/images/matthew-church-berlin-steglitz/02-6f2e54e9-1920w.webp"
-  - "/images/matthew-church-berlin-steglitz/03-79c945c0-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/MatthaeusSteglitz1-Mutter_Erde_fec.jpg/1200px-MatthaeusSteglitz1-Mutter_Erde_fec.jpg
 ---
 
 ## Overview

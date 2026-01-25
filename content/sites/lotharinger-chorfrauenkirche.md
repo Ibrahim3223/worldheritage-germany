@@ -5,6 +5,12 @@ slug: "lotharinger-chorfrauenkirche"
 region: "North Rhine-Westphalia"
 
 # Location
+image_srcset:
+  MuensterLotharingerChorfrauenkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/MuensterLotharingerChorfrauenkirche.jpg/400px-MuensterLotharingerChorfrauenkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/MuensterLotharingerChorfrauenkirche.jpg/800px-MuensterLotharingerChorfrauenkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/MuensterLotharingerChorfrauenkirche.jpg/1200px-MuensterLotharingerChorfrauenkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/MuensterLotharingerChorfrauenkirche.jpg/1920px-MuensterLotharingerChorfrauenkirche.jpg
 latitude: 51.9653
 longitude: 7.63271
 regions:
@@ -16,8 +22,7 @@ categories:
 wikidata_id: "Q1871062"
 description: "In the heart of Münster, Germany, the Lotharinger Chorfrauenkirche stands as a remarkable example of Baroque architecture. This church building, designe..."
 images:
-  - "/images/lotharinger-chorfrauenkirche/01-b0c9af12-1920w.webp"
-  - "/images/lotharinger-chorfrauenkirche/02-dfec71a4-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/MuensterLotharingerChorfrauenkirche.jpg/1200px-MuensterLotharingerChorfrauenkirche.jpg
 ---
 
 ## Overview

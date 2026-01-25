@@ -5,6 +5,12 @@ slug: "new-nazareth-church"
 region: "Berlin"
 
 # Location
+image_srcset:
+  Berlin-wed-neue-nazarethkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Berlin-wed-neue-nazarethkirche.jpg/400px-Berlin-wed-neue-nazarethkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Berlin-wed-neue-nazarethkirche.jpg/800px-Berlin-wed-neue-nazarethkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Berlin-wed-neue-nazarethkirche.jpg/1200px-Berlin-wed-neue-nazarethkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Berlin-wed-neue-nazarethkirche.jpg/1920px-Berlin-wed-neue-nazarethkirche.jpg
 latitude: 52.548497
 longitude: 13.362106
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q1979671"
 description: "In the heart of Berlin, the New Nazareth Church stands as a striking example of Gothic Revival architecture. Founded in 1893, this church building not o..."
 images:
-  - "/images/new-nazareth-church/01-61d23438-1920w.webp"
-  - "/images/new-nazareth-church/02-a2e569b8-1920w.webp"
-  - "/images/new-nazareth-church/03-b0ccbdf3-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Berlin-wed-neue-nazarethkirche.jpg/1200px-Berlin-wed-neue-nazarethkirche.jpg
 ---
 
 ## Overview

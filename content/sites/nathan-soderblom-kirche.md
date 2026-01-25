@@ -5,6 +5,12 @@ slug: "nathan-soderblom-kirche"
 region: "Hamburg"
 
 # Location
+image_srcset:
+  Ahrend%20Orgel%20Reinbek.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ahrend_Orgel_Reinbek.JPG/400px-Ahrend_Orgel_Reinbek.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ahrend_Orgel_Reinbek.JPG/800px-Ahrend_Orgel_Reinbek.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ahrend_Orgel_Reinbek.JPG/1200px-Ahrend_Orgel_Reinbek.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ahrend_Orgel_Reinbek.JPG/1920px-Ahrend_Orgel_Reinbek.JPG
 latitude: 53.5122
 longitude: 10.2356
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1256930"
 description: "In the tranquil town of Reinbek, Germany, the Nathan-Söderblom-Kirche stands as a striking example of modern ecclesiastical architecture. This church, m..."
 images:
-  - "/images/nathan-soderblom-kirche/01-6f58ed35-1920w.webp"
-  - "/images/nathan-soderblom-kirche/02-f3845d2d-1920w.webp"
-  - "/images/nathan-soderblom-kirche/03-7eeb15df-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ahrend_Orgel_Reinbek.JPG/1200px-Ahrend_Orgel_Reinbek.JPG
 ---
 
 ## Overview

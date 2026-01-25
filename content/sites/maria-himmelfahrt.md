@@ -5,6 +5,12 @@ slug: "maria-himmelfahrt"
 region: "Baden-Württemberg"
 
 # Location
+image_srcset:
+  Talheim-kath-kirche-1887-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Talheim-kath-kirche-1887-2.jpg/400px-Talheim-kath-kirche-1887-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Talheim-kath-kirche-1887-2.jpg/800px-Talheim-kath-kirche-1887-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Talheim-kath-kirche-1887-2.jpg/1200px-Talheim-kath-kirche-1887-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Talheim-kath-kirche-1887-2.jpg/1920px-Talheim-kath-kirche-1887-2.jpg
 latitude: 49.0833
 longitude: 9.19843
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q1899696"
 description: "In the heart of Talheim, a small village within the Stuttgart Government Region of Baden-Württemberg, stands the Mariä Himmelfahrt church. This architec..."
 images:
-  - "/images/maria-himmelfahrt/01-e6f62852-1920w.webp"
-  - "/images/maria-himmelfahrt/02-f23c3222-1920w.webp"
-  - "/images/maria-himmelfahrt/03-da848890-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Talheim-kath-kirche-1887-2.jpg/1200px-Talheim-kath-kirche-1887-2.jpg
 ---
 
 ## Overview

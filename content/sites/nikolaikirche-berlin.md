@@ -20,6 +20,12 @@ regions:
 tags:
 
 # Location
+image_srcset:
+  View%20Berlin%20TV%20Tower%20Jan2015%20img4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/View_Berlin_TV_Tower_Jan2015_img4.jpg/400px-View_Berlin_TV_Tower_Jan2015_img4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/View_Berlin_TV_Tower_Jan2015_img4.jpg/800px-View_Berlin_TV_Tower_Jan2015_img4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/View_Berlin_TV_Tower_Jan2015_img4.jpg/1200px-View_Berlin_TV_Tower_Jan2015_img4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/View_Berlin_TV_Tower_Jan2015_img4.jpg/1920px-View_Berlin_TV_Tower_Jan2015_img4.jpg
 latitude: 52.516816
 longitude: 13.40751
 
@@ -28,8 +34,7 @@ website: "https://www.stadtmuseum.de/museum/museum-nikolaikirche"
 
 # Images
 images:
-  - "/images/nikolaikirche-berlin/wikimedia-1920w.webp"
-  - "/images/nikolaikirche-berlin/satellite-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/View_Berlin_TV_Tower_Jan2015_img4.jpg/1200px-View_Berlin_TV_Tower_Jan2015_img4.jpg
 ---
 
 ## Overview
@@ -137,4 +142,3 @@ It is recommended to check the official website for information on amenities suc
 Dress comfortably but respectfully, as Nikolaikirche is a place of worship. It's advisable to wear attire that is suitable for a religious setting.
 
 Visiting Nikolaikirche not only offers a glimpse into Berlin's architectural splendor but also connects you to the profound history that shapes the city today.
-

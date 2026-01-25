@@ -5,6 +5,12 @@ slug: "loschwitzer-kirche"
 region: "Saxony"
 
 # Location
+image_srcset:
+  Loschwitzer%20Kirche%203.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Loschwitzer_Kirche_3.jpg/400px-Loschwitzer_Kirche_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Loschwitzer_Kirche_3.jpg/800px-Loschwitzer_Kirche_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Loschwitzer_Kirche_3.jpg/1200px-Loschwitzer_Kirche_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Loschwitzer_Kirche_3.jpg/1920px-Loschwitzer_Kirche_3.jpg
 latitude: 51.053
 longitude: 13.8173
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1870615"
 description: "In the heart of Dresden, Germany, lies Loschwitzer Kirche, a church building that showcases the grandeur of baroque architecture. Built in 1708, this Lu..."
 images:
-  - "/images/loschwitzer-kirche/01-de3e13df-1920w.webp"
-  - "/images/loschwitzer-kirche/02-aaf52c16-1920w.webp"
-  - "/images/loschwitzer-kirche/03-48266543-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Loschwitzer_Kirche_3.jpg/1200px-Loschwitzer_Kirche_3.jpg
 ---
 
 ## Overview

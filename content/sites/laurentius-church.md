@@ -5,6 +5,12 @@ slug: "laurentius-church"
 region: "Schleswig-Holstein"
 
 # Location
+image_srcset:
+  Fahretoft%20kirche2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fahretoft_kirche2.jpg/400px-Fahretoft_kirche2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fahretoft_kirche2.jpg/800px-Fahretoft_kirche2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fahretoft_kirche2.jpg/1200px-Fahretoft_kirche2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fahretoft_kirche2.jpg/1920px-Fahretoft_kirche2.jpg
 latitude: 54.705761
 longitude: 8.790716
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q2320205"
 description: "Laurentius Church, a striking example of Baroque architecture, stands proudly in the heart of Dagebüll, Germany. Founded in 1703, this wooden church off..."
 images:
-  - "/images/laurentius-church/01-0db88a79-1920w.webp"
-  - "/images/laurentius-church/02-d6ceb48d-1920w.webp"
-  - "/images/laurentius-church/03-4664a6c0-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fahretoft_kirche2.jpg/1200px-Fahretoft_kirche2.jpg
 ---
 
 ## Overview

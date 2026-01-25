@@ -5,6 +5,12 @@ slug: "ludwigskirche"
 region: "Hesse"
 
 # Location
+image_srcset:
+  Darmstadt%20Georg-Büchner-Platz%2004%20St%20Ludwig.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Darmstadt_Georg-Büchner-Platz_04_St_Ludwig.jpg/400px-Darmstadt_Georg-Büchner-Platz_04_St_Ludwig.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Darmstadt_Georg-Büchner-Platz_04_St_Ludwig.jpg/800px-Darmstadt_Georg-Büchner-Platz_04_St_Ludwig.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Darmstadt_Georg-Büchner-Platz_04_St_Ludwig.jpg/1200px-Darmstadt_Georg-Büchner-Platz_04_St_Ludwig.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Darmstadt_Georg-Büchner-Platz_04_St_Ludwig.jpg/1920px-Darmstadt_Georg-Büchner-Platz_04_St_Ludwig.jpg
 latitude: 49.868022
 longitude: 8.652322
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q895479"
 description: "In the heart of Darmstadt, Germany, the Ludwigskirche presents a striking example of Neoclassical architecture, capturing the attention of those who wan..."
 images:
-  - "/images/ludwigskirche/01-5f369281-1920w.webp"
-  - "/images/ludwigskirche/02-08479d2c-1920w.webp"
-  - "/images/ludwigskirche/03-7722e664-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Darmstadt_Georg-Büchner-Platz_04_St_Ludwig.jpg/1200px-Darmstadt_Georg-Büchner-Platz_04_St_Ludwig.jpg
 ---
 
 ## Overview

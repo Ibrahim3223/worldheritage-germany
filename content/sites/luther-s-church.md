@@ -5,6 +5,12 @@ slug: "luther-s-church"
 region: "Saxony"
 
 # Location
+image_srcset:
+  Görlitz%20-%20Jochmannstraße%20-%20Lutherkirche%2001%20ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Görlitz_-_Jochmannstraße_-_Lutherkirche_01_ies.jpg/400px-Görlitz_-_Jochmannstraße_-_Lutherkirche_01_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Görlitz_-_Jochmannstraße_-_Lutherkirche_01_ies.jpg/800px-Görlitz_-_Jochmannstraße_-_Lutherkirche_01_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Görlitz_-_Jochmannstraße_-_Lutherkirche_01_ies.jpg/1200px-Görlitz_-_Jochmannstraße_-_Lutherkirche_01_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Görlitz_-_Jochmannstraße_-_Lutherkirche_01_ies.jpg/1920px-Görlitz_-_Jochmannstraße_-_Lutherkirche_01_ies.jpg
 latitude: 51.1527
 longitude: 14.978
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q1669890"
 description: "In the heart of Görlitz, Germany, Luthers Church stands as an impressive example of Romanesque Revival architecture, a style that evokes the grandeur of..."
 images:
-  - "/images/luther-s-church/01-1094563b-1920w.webp"
-  - "/images/luther-s-church/02-3ea9be3f-1920w.webp"
-  - "/images/luther-s-church/03-973e818a-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Görlitz_-_Jochmannstraße_-_Lutherkirche_01_ies.jpg/1200px-Görlitz_-_Jochmannstraße_-_Lutherkirche_01_ies.jpg
 ---
 
 ## Overview

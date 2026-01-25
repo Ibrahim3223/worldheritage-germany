@@ -5,6 +5,12 @@ slug: "midlumer-kirche"
 region: "Lower Saxony"
 
 # Location
+image_srcset:
+  Jemgum%20Midlum%20-%20Denkmalstraße%20-%20Friedhof%20+%20Kirche%2004%20ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg/400px-Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg/800px-Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg/1200px-Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg/1920px-Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg
 latitude: 53.2849
 longitude: 7.37252
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1932007"
 description: "The Midlumer Kirche, located in the quaint village of Midlum within the municipality of Jemgum in East Frisia, Germany, is a remarkable example of Roman..."
 images:
-  - "/images/midlumer-kirche/01-3b0294e6-1920w.webp"
-  - "/images/midlumer-kirche/02-ace8bf75-1920w.webp"
-  - "/images/midlumer-kirche/03-838e349f-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg/1200px-Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg
 ---
 
 ## Overview

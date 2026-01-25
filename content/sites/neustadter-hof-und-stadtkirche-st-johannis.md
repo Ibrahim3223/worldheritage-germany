@@ -5,6 +5,12 @@ slug: "neustadter-hof-und-stadtkirche-st-johannis"
 region: "Lower Saxony"
 
 # Location
+image_srcset:
+  Neustädter%20Kirche%20St.%20Johannes%20Hannover.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Neustädter_Kirche_St._Johannes_Hannover.jpg/400px-Neustädter_Kirche_St._Johannes_Hannover.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Neustädter_Kirche_St._Johannes_Hannover.jpg/800px-Neustädter_Kirche_St._Johannes_Hannover.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Neustädter_Kirche_St._Johannes_Hannover.jpg/1200px-Neustädter_Kirche_St._Johannes_Hannover.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Neustädter_Kirche_St._Johannes_Hannover.jpg/1920px-Neustädter_Kirche_St._Johannes_Hannover.jpg
 latitude: 52.37116520619351
 longitude: 9.72852206576324
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1981782"
 description: "In the heart of Hanover, Germany, the Neustädter Hof- und Stadtkirche St. Johannis presents a captivating blend of spirituality and architectural elegan..."
 images:
-  - "/images/neustadter-hof-und-stadtkirche-st-johannis/01-e88e716c-1920w.webp"
-  - "/images/neustadter-hof-und-stadtkirche-st-johannis/02-825b13e2-1920w.webp"
-  - "/images/neustadter-hof-und-stadtkirche-st-johannis/03-d248b8a1-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Neustädter_Kirche_St._Johannes_Hannover.jpg/1200px-Neustädter_Kirche_St._Johannes_Hannover.jpg
 ---
 
 ## Overview

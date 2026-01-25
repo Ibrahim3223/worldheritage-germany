@@ -5,6 +5,12 @@ slug: "maria-rosenkranz-church"
 region: "Hesse"
 
 # Location
+image_srcset:
+  Maria-Rosenkranz.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Maria-Rosenkranz.JPG/400px-Maria-Rosenkranz.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Maria-Rosenkranz.JPG/800px-Maria-Rosenkranz.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Maria-Rosenkranz.JPG/1200px-Maria-Rosenkranz.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Maria-Rosenkranz.JPG/1920px-Maria-Rosenkranz.JPG
 latitude: 50.1412
 longitude: 8.7216
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q1895582"
 description: "In the vibrant district of Seckbach, the Maria Rosenkranz Church stands as a striking example of modernist architecture, captivating visitors with its u..."
 images:
-  - "/images/maria-rosenkranz-church/01-c8c2c108-1920w.webp"
-  - "/images/maria-rosenkranz-church/02-0bf1a3e6-1920w.webp"
-  - "/images/maria-rosenkranz-church/03-9ee20569-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Maria-Rosenkranz.JPG/1200px-Maria-Rosenkranz.JPG
 ---
 
 ## Overview

@@ -5,6 +5,12 @@ slug: "old-catholic-parish-church-of-st-anthony-abbas"
 region: "North Rhine-Westphalia"
 
 # Location
+image_srcset:
+  Alt%20St.%20Antonius%20Abbas%20(Hau)3.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alt_St._Antonius_Abbas_(Hau)3.JPG/400px-Alt_St._Antonius_Abbas_(Hau)3.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alt_St._Antonius_Abbas_(Hau)3.JPG/800px-Alt_St._Antonius_Abbas_(Hau)3.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alt_St._Antonius_Abbas_(Hau)3.JPG/1200px-Alt_St._Antonius_Abbas_(Hau)3.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alt_St._Antonius_Abbas_(Hau)3.JPG/1920px-Alt_St._Antonius_Abbas_(Hau)3.JPG
 latitude: 51.7576
 longitude: 6.16184
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q436421"
 description: "The Old Catholic parish church of St. Anthony Abbas stands as a striking example of Gothic Revival architecture in the region of Bedburg-Hau, Germany. T..."
 images:
-  - "/images/old-catholic-parish-church-of-st-anthony-abbas/01-0e9c4799-1920w.webp"
-  - "/images/old-catholic-parish-church-of-st-anthony-abbas/02-28d5e28a-1920w.webp"
-  - "/images/old-catholic-parish-church-of-st-anthony-abbas/03-47803251-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alt_St._Antonius_Abbas_(Hau)3.JPG/1200px-Alt_St._Antonius_Abbas_(Hau)3.JPG
 ---
 
 ## Overview

@@ -5,6 +5,12 @@ slug: "mountain-church"
 region: "Hesse"
 
 # Location
+image_srcset:
+  Bergkirche-wiesbaden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bergkirche-wiesbaden.jpg/400px-Bergkirche-wiesbaden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bergkirche-wiesbaden.jpg/800px-Bergkirche-wiesbaden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bergkirche-wiesbaden.jpg/1200px-Bergkirche-wiesbaden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bergkirche-wiesbaden.jpg/1920px-Bergkirche-wiesbaden.jpg
 latitude: 50.086894
 longitude: 8.239194
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q819898"
 description: "In the heart of Wiesbaden, Germany, the Mountain Church stands as a striking example of Gothic Revival architecture. The church, built under the design ..."
 images:
-  - "/images/mountain-church/01-1b31af7b-1920w.webp"
-  - "/images/mountain-church/02-1840dcc0-1920w.webp"
-  - "/images/mountain-church/03-10783e7f-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bergkirche-wiesbaden.jpg/1200px-Bergkirche-wiesbaden.jpg
 ---
 
 ## Overview

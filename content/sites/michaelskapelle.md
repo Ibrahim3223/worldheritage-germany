@@ -5,6 +5,12 @@ slug: "michaelskapelle"
 region: "Baden-Württemberg"
 
 # Location
+image_srcset:
+  MichaelsbergKapelle7-Okt2007.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/MichaelsbergKapelle7-Okt2007.JPG/400px-MichaelsbergKapelle7-Okt2007.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/MichaelsbergKapelle7-Okt2007.JPG/800px-MichaelsbergKapelle7-Okt2007.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/MichaelsbergKapelle7-Okt2007.JPG/1200px-MichaelsbergKapelle7-Okt2007.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/MichaelsbergKapelle7-Okt2007.JPG/1920px-MichaelsbergKapelle7-Okt2007.JPG
 latitude: 49.0878
 longitude: 8.56128
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q1292307"
 description: "Michaelskapelle, a captivating church building located in Bruchsal, Germany, stands as a remarkable example of baroque architecture. As you approach thi..."
 images:
-  - "/images/michaelskapelle/01-6d05c2f8-1920w.webp"
-  - "/images/michaelskapelle/02-9fa9ba50-1920w.webp"
-  - "/images/michaelskapelle/03-a530bc0c-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/MichaelsbergKapelle7-Okt2007.JPG/1200px-MichaelsbergKapelle7-Okt2007.JPG
 ---
 
 ## Overview

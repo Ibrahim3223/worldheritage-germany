@@ -5,6 +5,12 @@ slug: "laurentius-church-dirmstein"
 region: "Hesse"
 
 # Location
+image_srcset:
+  2006-Dirmstein-Laurentiuskirche-060910-1710.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2006-Dirmstein-Laurentiuskirche-060910-1710.jpg/400px-2006-Dirmstein-Laurentiuskirche-060910-1710.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2006-Dirmstein-Laurentiuskirche-060910-1710.jpg/800px-2006-Dirmstein-Laurentiuskirche-060910-1710.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2006-Dirmstein-Laurentiuskirche-060910-1710.jpg/1200px-2006-Dirmstein-Laurentiuskirche-060910-1710.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2006-Dirmstein-Laurentiuskirche-060910-1710.jpg/1920px-2006-Dirmstein-Laurentiuskirche-060910-1710.jpg
 latitude: 49.563
 longitude: 8.24742
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q1808218"
 description: "In the heart of Dirmstein, Germany, the Laurentius Church rises to a height of 34 meters, captivating visitors with its striking baroque architecture. T..."
 images:
-  - "/images/laurentius-church-dirmstein/01-d468aeb1-1920w.webp"
-  - "/images/laurentius-church-dirmstein/02-310996c0-1920w.webp"
-  - "/images/laurentius-church-dirmstein/03-cd97126c-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2006-Dirmstein-Laurentiuskirche-060910-1710.jpg/1200px-2006-Dirmstein-Laurentiuskirche-060910-1710.jpg
 ---
 
 ## Overview

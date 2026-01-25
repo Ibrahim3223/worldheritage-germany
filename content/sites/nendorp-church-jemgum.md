@@ -5,6 +5,12 @@ slug: "nendorp-church-jemgum"
 region: "Lower Saxony"
 
 # Location
+image_srcset:
+  ChurchNendorp.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ChurchNendorp.jpg/400px-ChurchNendorp.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ChurchNendorp.jpg/800px-ChurchNendorp.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ChurchNendorp.jpg/1200px-ChurchNendorp.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ChurchNendorp.jpg/1920px-ChurchNendorp.jpg
 latitude: 53.3097
 longitude: 7.31443
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q1977303"
 description: "At the heart of Nendorp, Germany, stands a remarkable structure known as Nendorp Church, an example of Neoclassical architecture that captivates visitor..."
 images:
-  - "/images/nendorp-church-jemgum/01-f28d7138-1920w.webp"
-  - "/images/nendorp-church-jemgum/02-98a3b7fe-1920w.webp"
-  - "/images/nendorp-church-jemgum/03-51e143ca-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ChurchNendorp.jpg/1200px-ChurchNendorp.jpg
 ---
 
 ## Overview

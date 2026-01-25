@@ -5,6 +5,12 @@ slug: "marienkapelle-wurzburg"
 region: "Hesse"
 
 # Location
+image_srcset:
+  Marienkapelle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Marienkapelle.JPG/400px-Marienkapelle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Marienkapelle.JPG/800px-Marienkapelle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Marienkapelle.JPG/1200px-Marienkapelle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Marienkapelle.JPG/1920px-Marienkapelle.JPG
 latitude: 49.7948
 longitude: 9.92958
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q220038"
 description: "In the heart of Würzburg, a striking example of Gothic architecture awaits discovery: the Marienkapelle, or Mary’s Chapel. This cultural heritage monume..."
 images:
-  - "/images/marienkapelle-wurzburg/01-f1617ad1-1920w.webp"
-  - "/images/marienkapelle-wurzburg/02-116eb581-1920w.webp"
-  - "/images/marienkapelle-wurzburg/03-73685134-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Marienkapelle.JPG/1200px-Marienkapelle.JPG
 ---
 
 ## Overview

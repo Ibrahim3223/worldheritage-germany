@@ -5,6 +5,12 @@ slug: "nieuwe-kerk"
 region: "Lower Saxony"
 
 # Location
+image_srcset:
+  Emden%20Neue%20Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Emden_Neue_Kirche.jpg/400px-Emden_Neue_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Emden_Neue_Kirche.jpg/800px-Emden_Neue_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Emden_Neue_Kirche.jpg/1200px-Emden_Neue_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Emden_Neue_Kirche.jpg/1920px-Emden_Neue_Kirche.jpg
 latitude: 53.367517
 longitude: 7.21415
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q1979591"
 description: "In the heart of Emden, Germany, the Nieuwe Kerk stands as a remarkable example of baroque architecture, inviting visitors to explore its historical and ..."
 images:
-  - "/images/nieuwe-kerk/01-3ffa8f6a-1920w.webp"
-  - "/images/nieuwe-kerk/02-f34f1d7c-1920w.webp"
-  - "/images/nieuwe-kerk/03-e5740ea3-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Emden_Neue_Kirche.jpg/1200px-Emden_Neue_Kirche.jpg
 ---
 
 ## Overview

@@ -5,6 +5,12 @@ slug: "market-church-of-our-dear-ladies"
 region: "Brandenburg"
 
 # Location
+image_srcset:
+  MarienkircheHalle%20Ostseite%202.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/MarienkircheHalle_Ostseite_2.jpg/400px-MarienkircheHalle_Ostseite_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/MarienkircheHalle_Ostseite_2.jpg/800px-MarienkircheHalle_Ostseite_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/MarienkircheHalle_Ostseite_2.jpg/1200px-MarienkircheHalle_Ostseite_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/MarienkircheHalle_Ostseite_2.jpg/1920px-MarienkircheHalle_Ostseite_2.jpg
 latitude: 51.482555555556
 longitude: 11.968094444444
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q538370"
 description: "The Market Church of Our Dear Ladies, a striking example of Gothic architecture, rises majestically in Halle (Saale), Germany. Founded in 1554, this Lut..."
 images:
-  - "/images/market-church-of-our-dear-ladies/01-733dacf2-1920w.webp"
-  - "/images/market-church-of-our-dear-ladies/02-6922aca0-1920w.webp"
-  - "/images/market-church-of-our-dear-ladies/03-3f06025c-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/MarienkircheHalle_Ostseite_2.jpg/1200px-MarienkircheHalle_Ostseite_2.jpg
 ---
 
 ## Overview

@@ -5,6 +5,12 @@ slug: "liebfrauenmunster"
 region: "Bavaria"
 
 # Location
+image_srcset:
+  Ingolstadt%20Münster%202012-04%20(cropped).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ingolstadt_Münster_2012-04_(cropped).jpg/400px-Ingolstadt_Münster_2012-04_(cropped).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ingolstadt_Münster_2012-04_(cropped).jpg/800px-Ingolstadt_Münster_2012-04_(cropped).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ingolstadt_Münster_2012-04_(cropped).jpg/1200px-Ingolstadt_Münster_2012-04_(cropped).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ingolstadt_Münster_2012-04_(cropped).jpg/1920px-Ingolstadt_Münster_2012-04_(cropped).jpg
 latitude: 48.764251
 longitude: 11.420503
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q877491"
 description: "In the heart of Ingolstadt, Germany, lies Liebfrauenmünster, a striking parish church that captivates visitors with its Gothic architecture and rich his..."
 images:
-  - "/images/liebfrauenmunster/01-6155fe6c-1920w.webp"
-  - "/images/liebfrauenmunster/02-d9d447af-1920w.webp"
-  - "/images/liebfrauenmunster/03-7a942d5d-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ingolstadt_Münster_2012-04_(cropped).jpg/1200px-Ingolstadt_Münster_2012-04_(cropped).jpg
 ---
 
 ## Overview

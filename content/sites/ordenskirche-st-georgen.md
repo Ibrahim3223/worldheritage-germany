@@ -5,6 +5,12 @@ slug: "ordenskirche-st-georgen"
 region: "Bavaria"
 
 # Location
+image_srcset:
+  St.%20Georgen%20Bayreuth.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/St._Georgen_Bayreuth.jpg/400px-St._Georgen_Bayreuth.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/St._Georgen_Bayreuth.jpg/800px-St._Georgen_Bayreuth.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/St._Georgen_Bayreuth.jpg/1200px-St._Georgen_Bayreuth.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/St._Georgen_Bayreuth.jpg/1920px-St._Georgen_Bayreuth.jpg
 latitude: 49.9541
 longitude: 11.5929
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q2029138"
 description: "The Ordenskirche St. Georgen is a striking example of baroque architecture located in the enchanting region of Bayreuth, Germany. This church building i..."
 images:
-  - "/images/ordenskirche-st-georgen/01-e96d4588-1920w.webp"
-  - "/images/ordenskirche-st-georgen/02-cdc7b16e-1920w.webp"
-  - "/images/ordenskirche-st-georgen/03-22508f09-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/St._Georgen_Bayreuth.jpg/1200px-St._Georgen_Bayreuth.jpg
 ---
 
 ## Overview

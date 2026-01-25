@@ -5,6 +5,12 @@ slug: "kolumbarium-hl-herz-jesu"
 region: "Lower Saxony"
 
 # Location
+image_srcset:
+  Misburg%20-%20Kolumbarium%20Hl.%20Herz%20Jesu%20-%201.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Misburg_-_Kolumbarium_Hl._Herz_Jesu_-_1.jpg/400px-Misburg_-_Kolumbarium_Hl._Herz_Jesu_-_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Misburg_-_Kolumbarium_Hl._Herz_Jesu_-_1.jpg/800px-Misburg_-_Kolumbarium_Hl._Herz_Jesu_-_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Misburg_-_Kolumbarium_Hl._Herz_Jesu_-_1.jpg/1200px-Misburg_-_Kolumbarium_Hl._Herz_Jesu_-_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Misburg_-_Kolumbarium_Hl._Herz_Jesu_-_1.jpg/1920px-Misburg_-_Kolumbarium_Hl._Herz_Jesu_-_1.jpg
 latitude: 52.3723
 longitude: 9.8605
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q1779695"
 description: "Nestled in the heart of Misburg-Anderten, the Kolumbarium Hl. Herz Jesu stands as a serene reflection of faith and architectural beauty in Hanover, Germ..."
 images:
-  - "/images/kolumbarium-hl-herz-jesu/01-edfe7674-1920w.webp"
-  - "/images/kolumbarium-hl-herz-jesu/02-63d1b324-1920w.webp"
-  - "/images/kolumbarium-hl-herz-jesu/03-0576f20a-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Misburg_-_Kolumbarium_Hl._Herz_Jesu_-_1.jpg/1200px-Misburg_-_Kolumbarium_Hl._Herz_Jesu_-_1.jpg
 ---
 
 ## Overview

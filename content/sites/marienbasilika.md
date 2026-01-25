@@ -5,6 +5,12 @@ slug: "marienbasilika"
 region: "North Rhine-Westphalia"
 
 # Location
+image_srcset:
+  Basilika,%20Gnadenkapelle%20in%20Kevelaer.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Basilika,_Gnadenkapelle_in_Kevelaer.JPG/400px-Basilika,_Gnadenkapelle_in_Kevelaer.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Basilika,_Gnadenkapelle_in_Kevelaer.JPG/800px-Basilika,_Gnadenkapelle_in_Kevelaer.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Basilika,_Gnadenkapelle_in_Kevelaer.JPG/1200px-Basilika,_Gnadenkapelle_in_Kevelaer.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Basilika,_Gnadenkapelle_in_Kevelaer.JPG/1920px-Basilika,_Gnadenkapelle_in_Kevelaer.JPG
 latitude: 51.5846
 longitude: 6.24443
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1897617"
 description: "In the heart of Kevelaer, Germany, the Marienbasilika stands as a striking example of Gothic Revival architecture. This church is not merely a place of ..."
 images:
-  - "/images/marienbasilika/01-4eaea88b-1920w.webp"
-  - "/images/marienbasilika/02-aa5df8ff-1920w.webp"
-  - "/images/marienbasilika/03-7a263afe-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Basilika,_Gnadenkapelle_in_Kevelaer.JPG/1200px-Basilika,_Gnadenkapelle_in_Kevelaer.JPG
 ---
 
 ## Overview

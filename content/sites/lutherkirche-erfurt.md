@@ -5,6 +5,12 @@ slug: "lutherkirche-erfurt"
 region: "Saxony-Anhalt"
 
 # Location
+image_srcset:
+  Lutherkirche%20Erfurt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lutherkirche_Erfurt.jpg/400px-Lutherkirche_Erfurt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lutherkirche_Erfurt.jpg/800px-Lutherkirche_Erfurt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lutherkirche_Erfurt.jpg/1200px-Lutherkirche_Erfurt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lutherkirche_Erfurt.jpg/1920px-Lutherkirche_Erfurt.jpg
 latitude: 50.99092095
 longitude: 11.026753071034834
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1877938"
 description: "In the heart of Erfurt, Germany, the Lutherkirche stands as a striking example of Art Deco architecture, completed in 1927. This church, designed by arc..."
 images:
-  - "/images/lutherkirche-erfurt/01-18beea76-1920w.webp"
-  - "/images/lutherkirche-erfurt/02-53156dfd-1920w.webp"
-  - "/images/lutherkirche-erfurt/03-a4fb8d4a-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lutherkirche_Erfurt.jpg/1200px-Lutherkirche_Erfurt.jpg
 ---
 
 ## Overview

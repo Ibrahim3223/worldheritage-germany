@@ -5,6 +5,12 @@ slug: "minster-breisach"
 region: "Baden-Württemberg"
 
 # Location
+image_srcset:
+  BreisachAmRheinMuensterStStephan9.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BreisachAmRheinMuensterStStephan9.jpg/400px-BreisachAmRheinMuensterStStephan9.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BreisachAmRheinMuensterStStephan9.jpg/800px-BreisachAmRheinMuensterStStephan9.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BreisachAmRheinMuensterStStephan9.jpg/1200px-BreisachAmRheinMuensterStStephan9.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BreisachAmRheinMuensterStStephan9.jpg/1920px-BreisachAmRheinMuensterStStephan9.jpg
 latitude: 48.02916667
 longitude: 7.57972222
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q905665"
 description: "Minster Breisach, a remarkable church building located in the heart of Breisach, Germany, invites visitors to explore its rich history and architectural..."
 images:
-  - "/images/minster-breisach/01-8066ad7f-1920w.webp"
-  - "/images/minster-breisach/02-f5a8ce1f-1920w.webp"
-  - "/images/minster-breisach/03-8a31f311-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BreisachAmRheinMuensterStStephan9.jpg/1200px-BreisachAmRheinMuensterStStephan9.jpg
 ---
 
 ## Overview

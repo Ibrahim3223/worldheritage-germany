@@ -5,6 +5,12 @@ slug: "market-church"
 region: "Lower Saxony"
 
 # Location
+image_srcset:
+  Marktkirche%20Hannover.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Marktkirche_Hannover.jpg/400px-Marktkirche_Hannover.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Marktkirche_Hannover.jpg/800px-Marktkirche_Hannover.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Marktkirche_Hannover.jpg/1200px-Marktkirche_Hannover.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Marktkirche_Hannover.jpg/1920px-Marktkirche_Hannover.jpg
 latitude: 52.3717890476101
 longitude: 9.735329191727665
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q895585"
 description: "In the heart of Hanover, Germany, the Market Church (Marktkirche) stands as a striking example of Brick Gothic architecture. Its impressive façade and h..."
 images:
-  - "/images/market-church/01-393feca2-1920w.webp"
-  - "/images/market-church/02-3455e118-1920w.webp"
-  - "/images/market-church/03-c5639787-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Marktkirche_Hannover.jpg/1200px-Marktkirche_Hannover.jpg
 ---
 
 ## Overview

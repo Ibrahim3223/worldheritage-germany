@@ -5,6 +5,12 @@ slug: "kreuzkirche-bonn"
 region: "North Rhine-Westphalia"
 
 # Location
+image_srcset:
+  2013-08-27%20Kreuzkirche,%20Kaiserplatz%201,%20Bonn%20IMG%205242.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg/400px-2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg/800px-2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg/1200px-2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg/1920px-2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg
 latitude: 50.7319
 longitude: 7.10243
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1788329"
 description: "In the heart of Bonn, Germany, the Kreuzkirche stands as a prominent example of Gothic Revival architecture, drawing the eyes of passersby with its intr..."
 images:
-  - "/images/kreuzkirche-bonn/01-02ba80ae-1920w.webp"
-  - "/images/kreuzkirche-bonn/02-0928bb15-1920w.webp"
-  - "/images/kreuzkirche-bonn/03-aeaa196e-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg/1200px-2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg
 ---
 
 ## Overview

@@ -5,6 +5,12 @@ slug: "mennonitenkirche-leer"
 region: "Lower Saxony"
 
 # Location
+image_srcset:
+  Mennonitenkirche-Leer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Mennonitenkirche-Leer.jpg/400px-Mennonitenkirche-Leer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Mennonitenkirche-Leer.jpg/800px-Mennonitenkirche-Leer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Mennonitenkirche-Leer.jpg/1200px-Mennonitenkirche-Leer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Mennonitenkirche-Leer.jpg/1920px-Mennonitenkirche-Leer.jpg
 latitude: 53.2276
 longitude: 7.452
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1526036"
 description: "The Mennonitenkirche Leer, a notable church building founded in 1825, serves as a striking example of Neoclassical architecture in the heart of Leer, Ge..."
 images:
-  - "/images/mennonitenkirche-leer/01-8399272e-1920w.webp"
-  - "/images/mennonitenkirche-leer/02-0c12b417-1920w.webp"
-  - "/images/mennonitenkirche-leer/03-442154d3-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Mennonitenkirche-Leer.jpg/1200px-Mennonitenkirche-Leer.jpg
 ---
 
 ## Overview

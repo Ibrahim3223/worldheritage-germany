@@ -5,6 +5,12 @@ slug: "kronprinzenpalais"
 region: "Baden-Württemberg"
 
 # Location
+image_srcset:
+  Kronprinzenpalais,%20Stuttgart,%20Herrmann%202000,%2001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kronprinzenpalais,_Stuttgart,_Herrmann_2000,_01.jpg/400px-Kronprinzenpalais,_Stuttgart,_Herrmann_2000,_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kronprinzenpalais,_Stuttgart,_Herrmann_2000,_01.jpg/800px-Kronprinzenpalais,_Stuttgart,_Herrmann_2000,_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kronprinzenpalais,_Stuttgart,_Herrmann_2000,_01.jpg/1200px-Kronprinzenpalais,_Stuttgart,_Herrmann_2000,_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kronprinzenpalais,_Stuttgart,_Herrmann_2000,_01.jpg/1920px-Kronprinzenpalais,_Stuttgart,_Herrmann_2000,_01.jpg
 latitude: 48.7782
 longitude: 9.17774
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q1789978"
 description: "The Kronprinzenpalais, an architectural gem located in Stuttgart, is a striking representation of High Renaissance design. This palace, designed by Ludw..."
 images:
-  - "/images/kronprinzenpalais/01-12f58034-1920w.webp"
-  - "/images/kronprinzenpalais/02-25c823e9-1920w.webp"
-  - "/images/kronprinzenpalais/03-70d7f708-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kronprinzenpalais,_Stuttgart,_Herrmann_2000,_01.jpg/1200px-Kronprinzenpalais,_Stuttgart,_Herrmann_2000,_01.jpg
 ---
 
 ## Overview

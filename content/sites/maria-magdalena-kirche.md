@@ -5,6 +5,12 @@ slug: "maria-magdalena-kirche"
 region: "Mecklenburg-Vorpommern"
 
 # Location
+image_srcset:
+  Vilmnitz,%20Kirche%20(2011-05-21)%202.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vilmnitz,_Kirche_(2011-05-21)_2.JPG/400px-Vilmnitz,_Kirche_(2011-05-21)_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vilmnitz,_Kirche_(2011-05-21)_2.JPG/800px-Vilmnitz,_Kirche_(2011-05-21)_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vilmnitz,_Kirche_(2011-05-21)_2.JPG/1200px-Vilmnitz,_Kirche_(2011-05-21)_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vilmnitz,_Kirche_(2011-05-21)_2.JPG/1920px-Vilmnitz,_Kirche_(2011-05-21)_2.JPG
 latitude: 54.3574
 longitude: 13.5178
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1242847"
 description: "Imagine stepping into a sanctuary of peace and history, where the echoes of centuries past linger in the air. The Maria-Magdalena-Kirche, located in the..."
 images:
-  - "/images/maria-magdalena-kirche/01-76cc935a-1920w.webp"
-  - "/images/maria-magdalena-kirche/02-61ad4040-1920w.webp"
-  - "/images/maria-magdalena-kirche/03-034b335c-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vilmnitz,_Kirche_(2011-05-21)_2.JPG/1200px-Vilmnitz,_Kirche_(2011-05-21)_2.JPG
 ---
 
 ## Overview

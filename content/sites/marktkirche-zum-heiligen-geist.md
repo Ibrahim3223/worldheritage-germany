@@ -5,6 +5,27 @@ slug: "marktkirche-zum-heiligen-geist"
 region: "Lower Saxony"
 
 # Location
+image_srcset:
+  Clausthal%20Marktkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Clausthal_Marktkirche.jpg/400px-Clausthal_Marktkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Clausthal_Marktkirche.jpg/800px-Clausthal_Marktkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Clausthal_Marktkirche.jpg/1200px-Clausthal_Marktkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Clausthal_Marktkirche.jpg/1920px-Clausthal_Marktkirche.jpg
+  Clausthal-Zellerfeld%20-%20Marktkirche%20-%20Außenansicht%202014-05%20(1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Clausthal-Zellerfeld_-_Marktkirche_-_Außenansicht_2014-05_(1).jpg/400px-Clausthal-Zellerfeld_-_Marktkirche_-_Außenansicht_2014-05_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Clausthal-Zellerfeld_-_Marktkirche_-_Außenansicht_2014-05_(1).jpg/800px-Clausthal-Zellerfeld_-_Marktkirche_-_Außenansicht_2014-05_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Clausthal-Zellerfeld_-_Marktkirche_-_Außenansicht_2014-05_(1).jpg/1200px-Clausthal-Zellerfeld_-_Marktkirche_-_Außenansicht_2014-05_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Clausthal-Zellerfeld_-_Marktkirche_-_Außenansicht_2014-05_(1).jpg/1920px-Clausthal-Zellerfeld_-_Marktkirche_-_Außenansicht_2014-05_(1).jpg
+  WLM2018%20Marktkirche%20Clausthal-Zellerfeld%2001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/WLM2018_Marktkirche_Clausthal-Zellerfeld_01.jpg/400px-WLM2018_Marktkirche_Clausthal-Zellerfeld_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/WLM2018_Marktkirche_Clausthal-Zellerfeld_01.jpg/800px-WLM2018_Marktkirche_Clausthal-Zellerfeld_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/WLM2018_Marktkirche_Clausthal-Zellerfeld_01.jpg/1200px-WLM2018_Marktkirche_Clausthal-Zellerfeld_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/WLM2018_Marktkirche_Clausthal-Zellerfeld_01.jpg/1920px-WLM2018_Marktkirche_Clausthal-Zellerfeld_01.jpg
+  09137-Clausthal-1907-Marktkirche-Brück%20&%20Sohn%20Kunstverlag.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/09137-Clausthal-1907-Marktkirche-Brück_&_Sohn_Kunstverlag.jpg/400px-09137-Clausthal-1907-Marktkirche-Brück_&_Sohn_Kunstverlag.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/09137-Clausthal-1907-Marktkirche-Brück_&_Sohn_Kunstverlag.jpg/800px-09137-Clausthal-1907-Marktkirche-Brück_&_Sohn_Kunstverlag.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/09137-Clausthal-1907-Marktkirche-Brück_&_Sohn_Kunstverlag.jpg/1200px-09137-Clausthal-1907-Marktkirche-Brück_&_Sohn_Kunstverlag.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/09137-Clausthal-1907-Marktkirche-Brück_&_Sohn_Kunstverlag.jpg/1920px-09137-Clausthal-1907-Marktkirche-Brück_&_Sohn_Kunstverlag.jpg
 latitude: 51.804
 longitude: 10.3341
 regions:
@@ -16,8 +37,10 @@ categories:
 wikidata_id: "Q1901094"
 description: "In the heart of Clausthal-Zellerfeld, Germany, lies the Marktkirche zum Heiligen Geist, a striking example of baroque architecture that draws both the f..."
 images:
-  - "/images/marktkirche-zum-heiligen-geist/02-a1fc0152-1920w.webp"
-  - "/images/marktkirche-zum-heiligen-geist/03-1eae3f04-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Clausthal_Marktkirche.jpg/1200px-Clausthal_Marktkirche.jpg
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Clausthal-Zellerfeld_-_Marktkirche_-_Außenansicht_2014-05_(1).jpg/1200px-Clausthal-Zellerfeld_-_Marktkirche_-_Außenansicht_2014-05_(1).jpg
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/WLM2018_Marktkirche_Clausthal-Zellerfeld_01.jpg/1200px-WLM2018_Marktkirche_Clausthal-Zellerfeld_01.jpg
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/09137-Clausthal-1907-Marktkirche-Brück_&_Sohn_Kunstverlag.jpg/1200px-09137-Clausthal-1907-Marktkirche-Brück_&_Sohn_Kunstverlag.jpg
 ---
 
 ## Overview

@@ -5,6 +5,12 @@ slug: "old-st-nicholas-church"
 region: "Hesse"
 
 # Location
+image_srcset:
+  Frankfurt%20Am%20Main-Alte%20Nikolaikirche-Ansicht%20vom%20Roemerberg-20081230.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg/400px-Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg/800px-Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg/1200px-Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg/1920px-Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg
 latitude: 50.110041666667
 longitude: 8.6824444444444
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q436054"
 description: "In the heart of Frankfurts Altstadt, the Old St. Nicholas Church stands as a striking example of Gothic architecture, a silent witness to the citys vibr..."
 images:
-  - "/images/old-st-nicholas-church/01-544545a4-1920w.webp"
-  - "/images/old-st-nicholas-church/02-a7c4414b-1920w.webp"
-  - "/images/old-st-nicholas-church/03-13dd1412-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg/1200px-Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg
 ---
 
 ## Overview

@@ -5,6 +5,12 @@ slug: "krankenhauskapelle"
 region: "Brandenburg"
 
 # Location
+image_srcset:
+  Klinik%20Kapelle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Klinik_Kapelle.jpg/400px-Klinik_Kapelle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Klinik_Kapelle.jpg/800px-Klinik_Kapelle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Klinik_Kapelle.jpg/1200px-Klinik_Kapelle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Klinik_Kapelle.jpg/1920px-Klinik_Kapelle.jpg
 latitude: 51.4857
 longitude: 11.9782
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q1252594"
 description: "In the heart of Halle (Saale), Germany, stands the Krankenhauskapelle, a striking church building that embodies the elegance of Gothic Revival architect..."
 images:
-  - "/images/krankenhauskapelle/01-e2878207-1920w.webp"
-  - "/images/krankenhauskapelle/02-d35024a4-1920w.webp"
-  - "/images/krankenhauskapelle/03-8f04e12d-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Klinik_Kapelle.jpg/1200px-Klinik_Kapelle.jpg
 ---
 
 ## Overview

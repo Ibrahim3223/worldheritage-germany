@@ -20,6 +20,12 @@ regions:
 tags:
 
 # Location
+image_srcset:
+  Marienkirche%20B-Mitte%2003-2014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Marienkirche_B-Mitte_03-2014.jpg/400px-Marienkirche_B-Mitte_03-2014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Marienkirche_B-Mitte_03-2014.jpg/800px-Marienkirche_B-Mitte_03-2014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Marienkirche_B-Mitte_03-2014.jpg/1200px-Marienkirche_B-Mitte_03-2014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Marienkirche_B-Mitte_03-2014.jpg/1920px-Marienkirche_B-Mitte_03-2014.jpg
 latitude: 52.520556
 longitude: 13.406667
 
@@ -28,8 +34,7 @@ website: "http://www.marienkirche-berlin.de/de/start/"
 
 # Images
 images:
-  - "/images/marienkirche-berlin-mitte/wikimedia-1920w.webp"
-  - "/images/marienkirche-berlin-mitte/satellite-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Marienkirche_B-Mitte_03-2014.jpg/1200px-Marienkirche_B-Mitte_03-2014.jpg
 ---
 
 ## Overview
@@ -127,4 +132,3 @@ Facilities may be limited, so it's advisable to check the official website for t
 
 ### **What should I wear when visiting?**
 Dress comfortably, and consider wearing layers, especially if visiting during the cooler months, as the church can be chilly.
-

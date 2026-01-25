@@ -5,6 +5,12 @@ slug: "koserow-church"
 region: "Mecklenburg-Vorpommern"
 
 # Location
+image_srcset:
+  Koserowkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Koserowkirche.jpg/400px-Koserowkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Koserowkirche.jpg/800px-Koserowkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Koserowkirche.jpg/1200px-Koserowkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Koserowkirche.jpg/1920px-Koserowkirche.jpg
 latitude: 54.0478
 longitude: 13.9984
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q1691689"
 description: "Perched in the charming village of Koserow, the Koserow Church stands as a remarkable example of Brick Gothic architecture in Germany. This church, cons..."
 images:
-  - "/images/koserow-church/01-1f2cba96-1920w.webp"
-  - "/images/koserow-church/02-6c926fac-1920w.webp"
-  - "/images/koserow-church/03-e452b683-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Koserowkirche.jpg/1200px-Koserowkirche.jpg
 ---
 
 ## Overview

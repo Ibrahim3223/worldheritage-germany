@@ -5,6 +5,12 @@ slug: "marktkirche"
 region: "North Rhine-Westphalia"
 
 # Location
+image_srcset:
+  Paderborn%20-%202016-09-14%20-%20Marktkirche%20(11).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Paderborn_-_2016-09-14_-_Marktkirche_(11).jpg/400px-Paderborn_-_2016-09-14_-_Marktkirche_(11).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Paderborn_-_2016-09-14_-_Marktkirche_(11).jpg/800px-Paderborn_-_2016-09-14_-_Marktkirche_(11).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Paderborn_-_2016-09-14_-_Marktkirche_(11).jpg/1200px-Paderborn_-_2016-09-14_-_Marktkirche_(11).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Paderborn_-_2016-09-14_-_Marktkirche_(11).jpg/1920px-Paderborn_-_2016-09-14_-_Marktkirche_(11).jpg
 latitude: 51.7161
 longitude: 8.75368
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1901080"
 description: "In the heart of Paderborn, Germany, stands Marktkirche, a church building that captures the essence of baroque architecture. Its striking façade and int..."
 images:
-  - "/images/marktkirche/01-3417fd0a-1920w.webp"
-  - "/images/marktkirche/02-30e37c0b-1920w.webp"
-  - "/images/marktkirche/03-c0a2fb3b-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Paderborn_-_2016-09-14_-_Marktkirche_(11).jpg/1200px-Paderborn_-_2016-09-14_-_Marktkirche_(11).jpg
 ---
 
 ## Overview

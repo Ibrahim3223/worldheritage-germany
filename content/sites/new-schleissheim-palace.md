@@ -5,6 +5,12 @@ slug: "new-schleissheim-palace"
 region: "Bavaria"
 
 # Location
+image_srcset:
+  Schloss%20Oberschleissheim%20-%20Panorama.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Oberschleissheim_-_Panorama.jpg/400px-Schloss_Oberschleissheim_-_Panorama.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Oberschleissheim_-_Panorama.jpg/800px-Schloss_Oberschleissheim_-_Panorama.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Oberschleissheim_-_Panorama.jpg/1200px-Schloss_Oberschleissheim_-_Panorama.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Oberschleissheim_-_Panorama.jpg/1920px-Schloss_Oberschleissheim_-_Panorama.jpg
 latitude: 48.2488382
 longitude: 11.5610036
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q17121915"
 description: "New Schleissheim Palace, located in Oberschleißheim, Germany, is a remarkable example of neoclassical architecture and a vital part of the larger Schlei..."
 images:
-  - "/images/new-schleissheim-palace/01-db87e120-1920w.webp"
-  - "/images/new-schleissheim-palace/02-111c8110-1920w.webp"
-  - "/images/new-schleissheim-palace/03-a2622def-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Oberschleissheim_-_Panorama.jpg/1200px-Schloss_Oberschleissheim_-_Panorama.jpg
 ---
 
 ## Overview

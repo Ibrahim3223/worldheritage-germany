@@ -5,6 +5,12 @@ slug: "maximilianskirche"
 region: "Bavaria"
 
 # Location
+image_srcset:
+  Ellingen%20Maxkirche1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ellingen_Maxkirche1.jpg/400px-Ellingen_Maxkirche1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ellingen_Maxkirche1.jpg/800px-Ellingen_Maxkirche1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ellingen_Maxkirche1.jpg/1200px-Ellingen_Maxkirche1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ellingen_Maxkirche1.jpg/1920px-Ellingen_Maxkirche1.jpg
 latitude: 49.0602777777778
 longitude: 10.9611111111111
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q721727"
 description: "In the quaint region of Ellingen, Germany, the Maximilianskirche serves as a striking example of Rococo architecture, captivating visitors with its intr..."
 images:
-  - "/images/maximilianskirche/01-7cb8a31b-1920w.webp"
-  - "/images/maximilianskirche/02-c1743bfd-1920w.webp"
-  - "/images/maximilianskirche/03-8bb4c3a3-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ellingen_Maxkirche1.jpg/1200px-Ellingen_Maxkirche1.jpg
 ---
 
 ## Overview

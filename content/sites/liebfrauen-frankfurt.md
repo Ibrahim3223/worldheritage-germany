@@ -5,6 +5,12 @@ slug: "liebfrauen-frankfurt"
 region: "Hesse"
 
 # Location
+image_srcset:
+  Frankfurt%20Am%20Main-Liebfrauenkirche%20von%20Suedwesten-20140501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Frankfurt_Am_Main-Liebfrauenkirche_von_Suedwesten-20140501.jpg/400px-Frankfurt_Am_Main-Liebfrauenkirche_von_Suedwesten-20140501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Frankfurt_Am_Main-Liebfrauenkirche_von_Suedwesten-20140501.jpg/800px-Frankfurt_Am_Main-Liebfrauenkirche_von_Suedwesten-20140501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Frankfurt_Am_Main-Liebfrauenkirche_von_Suedwesten-20140501.jpg/1200px-Frankfurt_Am_Main-Liebfrauenkirche_von_Suedwesten-20140501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Frankfurt_Am_Main-Liebfrauenkirche_von_Suedwesten-20140501.jpg/1920px-Frankfurt_Am_Main-Liebfrauenkirche_von_Suedwesten-20140501.jpg
 latitude: 50.1131
 longitude: 8.68139
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q1423050"
 description: "In the heart of Frankfurt am Main lies the Liebfrauen, a striking Roman Catholic church that serves as a testament to the citys rich architectural herit..."
 images:
-  - "/images/liebfrauen-frankfurt/01-d6f3bafc-1920w.webp"
-  - "/images/liebfrauen-frankfurt/02-1c0bdb23-1920w.webp"
-  - "/images/liebfrauen-frankfurt/03-fdcb322d-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Frankfurt_Am_Main-Liebfrauenkirche_von_Suedwesten-20140501.jpg/1200px-Frankfurt_Am_Main-Liebfrauenkirche_von_Suedwesten-20140501.jpg
 ---
 
 ## Overview

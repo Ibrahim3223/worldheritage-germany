@@ -5,6 +5,12 @@ slug: "lambertikirche-aurich"
 region: "Lower Saxony"
 
 # Location
+image_srcset:
+  Aurich,%20Lambertikirche%20(17).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aurich,_Lambertikirche_(17).jpg/400px-Aurich,_Lambertikirche_(17).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aurich,_Lambertikirche_(17).jpg/800px-Aurich,_Lambertikirche_(17).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aurich,_Lambertikirche_(17).jpg/1200px-Aurich,_Lambertikirche_(17).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aurich,_Lambertikirche_(17).jpg/1920px-Aurich,_Lambertikirche_(17).jpg
 latitude: 53.469606
 longitude: 7.478728
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1801417"
 description: "Lambertikirche Aurich is a striking example of Neoclassical architecture, prominently situated in the heart of Aurich, Germany. This church building is ..."
 images:
-  - "/images/lambertikirche-aurich/01-763ae4c2-1920w.webp"
-  - "/images/lambertikirche-aurich/02-7d613e03-1920w.webp"
-  - "/images/lambertikirche-aurich/03-8a640506-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aurich,_Lambertikirche_(17).jpg/1200px-Aurich,_Lambertikirche_(17).jpg
 ---
 
 ## Overview

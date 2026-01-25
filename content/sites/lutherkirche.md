@@ -5,6 +5,12 @@ slug: "lutherkirche"
 region: "North Rhine-Westphalia"
 
 # Location
+image_srcset:
+  Asseln,%20die%20Lutherkirche%20foto2%202012-03-25%2011.07.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Asseln,_die_Lutherkirche_foto2_2012-03-25_11.07.JPG/400px-Asseln,_die_Lutherkirche_foto2_2012-03-25_11.07.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Asseln,_die_Lutherkirche_foto2_2012-03-25_11.07.JPG/800px-Asseln,_die_Lutherkirche_foto2_2012-03-25_11.07.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Asseln,_die_Lutherkirche_foto2_2012-03-25_11.07.JPG/1200px-Asseln,_die_Lutherkirche_foto2_2012-03-25_11.07.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Asseln,_die_Lutherkirche_foto2_2012-03-25_11.07.JPG/1920px-Asseln,_die_Lutherkirche_foto2_2012-03-25_11.07.JPG
 latitude: 51.5285
 longitude: 7.58791
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1707604"
 description: "In the heart of Dortmund, Germany, the Lutherkirche stands as a remarkable example of Gothic Revival architecture. This church, designed by architect Gu..."
 images:
-  - "/images/lutherkirche/01-da297f8f-1920w.webp"
-  - "/images/lutherkirche/02-cf14fb5c-1920w.webp"
-  - "/images/lutherkirche/03-94b6443c-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Asseln,_die_Lutherkirche_foto2_2012-03-25_11.07.JPG/1200px-Asseln,_die_Lutherkirche_foto2_2012-03-25_11.07.JPG
 ---
 
 ## Overview

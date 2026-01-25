@@ -5,6 +5,12 @@ slug: "liebfrauenkirche-halberstadt"
 region: "Saxony-Anhalt"
 
 # Location
+image_srcset:
+  Liebfrauenkirche%20Halberstadt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Liebfrauenkirche_Halberstadt.jpg/400px-Liebfrauenkirche_Halberstadt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Liebfrauenkirche_Halberstadt.jpg/800px-Liebfrauenkirche_Halberstadt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Liebfrauenkirche_Halberstadt.jpg/1200px-Liebfrauenkirche_Halberstadt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Liebfrauenkirche_Halberstadt.jpg/1920px-Liebfrauenkirche_Halberstadt.jpg
 latitude: 51.895608
 longitude: 11.044406
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q186259"
 description: "Liebfrauenkirche Halberstadt, an exquisite example of Romanesque architecture, invites visitors to explore its historical significance and architectural..."
 images:
-  - "/images/liebfrauenkirche-halberstadt/01-74692f01-1920w.webp"
-  - "/images/liebfrauenkirche-halberstadt/02-9d443d7f-1920w.webp"
-  - "/images/liebfrauenkirche-halberstadt/03-420f7b65-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Liebfrauenkirche_Halberstadt.jpg/1200px-Liebfrauenkirche_Halberstadt.jpg
 ---
 
 ## Overview

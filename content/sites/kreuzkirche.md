@@ -5,6 +5,12 @@ slug: "kreuzkirche"
 region: "Saxony-Anhalt"
 
 # Location
+image_srcset:
+  Kreuzkirche%20Wolfsburg3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Kreuzkirche_Wolfsburg3.jpg/400px-Kreuzkirche_Wolfsburg3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Kreuzkirche_Wolfsburg3.jpg/800px-Kreuzkirche_Wolfsburg3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Kreuzkirche_Wolfsburg3.jpg/1200px-Kreuzkirche_Wolfsburg3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Kreuzkirche_Wolfsburg3.jpg/1920px-Kreuzkirche_Wolfsburg3.jpg
 latitude: 52.4217
 longitude: 10.7685
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1624232"
 description: "Kreuzkirche is a striking example of modern architecture located in Wolfsburg, Germany. This church building stands out in the urban landscape, attracti..."
 images:
-  - "/images/kreuzkirche/01-a80dea93-1920w.webp"
-  - "/images/kreuzkirche/02-3271b3cb-1920w.webp"
-  - "/images/kreuzkirche/03-78085ad9-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Kreuzkirche_Wolfsburg3.jpg/1200px-Kreuzkirche_Wolfsburg3.jpg
 ---
 
 ## Overview

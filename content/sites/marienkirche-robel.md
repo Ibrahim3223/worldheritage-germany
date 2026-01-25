@@ -5,6 +5,32 @@ slug: "marienkirche-robel"
 region: "Mecklenburg-Vorpommern"
 
 # Location
+image_srcset:
+  Röbel%20Marienkirche%20Haupttor%20und%20Turm%20ShiftN.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Röbel_Marienkirche_Haupttor_und_Turm_ShiftN.jpg/400px-Röbel_Marienkirche_Haupttor_und_Turm_ShiftN.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Röbel_Marienkirche_Haupttor_und_Turm_ShiftN.jpg/800px-Röbel_Marienkirche_Haupttor_und_Turm_ShiftN.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Röbel_Marienkirche_Haupttor_und_Turm_ShiftN.jpg/1200px-Röbel_Marienkirche_Haupttor_und_Turm_ShiftN.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Röbel_Marienkirche_Haupttor_und_Turm_ShiftN.jpg/1920px-Röbel_Marienkirche_Haupttor_und_Turm_ShiftN.jpg
+  Röbel,%20Marienkirche,%20die%20Kanzel%201.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Röbel,_Marienkirche,_die_Kanzel_1.jpg/400px-Röbel,_Marienkirche,_die_Kanzel_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Röbel,_Marienkirche,_die_Kanzel_1.jpg/800px-Röbel,_Marienkirche,_die_Kanzel_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Röbel,_Marienkirche,_die_Kanzel_1.jpg/1200px-Röbel,_Marienkirche,_die_Kanzel_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Röbel,_Marienkirche,_die_Kanzel_1.jpg/1920px-Röbel,_Marienkirche,_die_Kanzel_1.jpg
+  Röbel,%20Marienkirche,%20Taufstein%201.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Röbel,_Marienkirche,_Taufstein_1.jpg/400px-Röbel,_Marienkirche,_Taufstein_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Röbel,_Marienkirche,_Taufstein_1.jpg/800px-Röbel,_Marienkirche,_Taufstein_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Röbel,_Marienkirche,_Taufstein_1.jpg/1200px-Röbel,_Marienkirche,_Taufstein_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Röbel,_Marienkirche,_Taufstein_1.jpg/1920px-Röbel,_Marienkirche,_Taufstein_1.jpg
+  Röbel,%20Marienkirche,%20Schnitzaltar%20im%20südlichen%20Seitenschiff,Anfang%2016.%20Jh.%202.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Röbel,_Marienkirche,_Schnitzaltar_im_südlichen_Seitenschiff,Anfang_16._Jh._2.jpg/400px-Röbel,_Marienkirche,_Schnitzaltar_im_südlichen_Seitenschiff,Anfang_16._Jh._2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Röbel,_Marienkirche,_Schnitzaltar_im_südlichen_Seitenschiff,Anfang_16._Jh._2.jpg/800px-Röbel,_Marienkirche,_Schnitzaltar_im_südlichen_Seitenschiff,Anfang_16._Jh._2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Röbel,_Marienkirche,_Schnitzaltar_im_südlichen_Seitenschiff,Anfang_16._Jh._2.jpg/1200px-Röbel,_Marienkirche,_Schnitzaltar_im_südlichen_Seitenschiff,Anfang_16._Jh._2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Röbel,_Marienkirche,_Schnitzaltar_im_südlichen_Seitenschiff,Anfang_16._Jh._2.jpg/1920px-Röbel,_Marienkirche,_Schnitzaltar_im_südlichen_Seitenschiff,Anfang_16._Jh._2.jpg
+  Röbel,%20Marienkirche,%20Kriegerdenkmal%202.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Röbel,_Marienkirche,_Kriegerdenkmal_2.jpg/400px-Röbel,_Marienkirche,_Kriegerdenkmal_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Röbel,_Marienkirche,_Kriegerdenkmal_2.jpg/800px-Röbel,_Marienkirche,_Kriegerdenkmal_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Röbel,_Marienkirche,_Kriegerdenkmal_2.jpg/1200px-Röbel,_Marienkirche,_Kriegerdenkmal_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Röbel,_Marienkirche,_Kriegerdenkmal_2.jpg/1920px-Röbel,_Marienkirche,_Kriegerdenkmal_2.jpg
 latitude: 53.3813
 longitude: 12.6122
 regions:
@@ -16,9 +42,11 @@ categories:
 wikidata_id: "Q1445448"
 description: "The Marienkirche Röbel, a striking example of Brick Gothic architecture, stands prominently in the town of Röbel, Germany. This church, constructed from..."
 images:
-  - "/images/marienkirche-robel/01-1c58546f-1920w.webp"
-  - "/images/marienkirche-robel/02-e50df49e-1920w.webp"
-  - "/images/marienkirche-robel/03-9d8c6606-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Röbel_Marienkirche_Haupttor_und_Turm_ShiftN.jpg/1200px-Röbel_Marienkirche_Haupttor_und_Turm_ShiftN.jpg
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Röbel,_Marienkirche,_die_Kanzel_1.jpg/1200px-Röbel,_Marienkirche,_die_Kanzel_1.jpg
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Röbel,_Marienkirche,_Taufstein_1.jpg/1200px-Röbel,_Marienkirche,_Taufstein_1.jpg
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Röbel,_Marienkirche,_Schnitzaltar_im_südlichen_Seitenschiff,Anfang_16._Jh._2.jpg/1200px-Röbel,_Marienkirche,_Schnitzaltar_im_südlichen_Seitenschiff,Anfang_16._Jh._2.jpg
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Röbel,_Marienkirche,_Kriegerdenkmal_2.jpg/1200px-Röbel,_Marienkirche,_Kriegerdenkmal_2.jpg
 ---
 
 ## Overview

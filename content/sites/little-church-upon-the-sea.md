@@ -5,6 +5,12 @@ slug: "little-church-upon-the-sea"
 region: "Schleswig-Holstein"
 
 # Location
+image_srcset:
+  Husum%20Kirchlein%20am%20Meer%20aussen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Husum_Kirchlein_am_Meer_aussen.jpg/400px-Husum_Kirchlein_am_Meer_aussen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Husum_Kirchlein_am_Meer_aussen.jpg/800px-Husum_Kirchlein_am_Meer_aussen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Husum_Kirchlein_am_Meer_aussen.jpg/1200px-Husum_Kirchlein_am_Meer_aussen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Husum_Kirchlein_am_Meer_aussen.jpg/1920px-Husum_Kirchlein_am_Meer_aussen.jpg
 latitude: 54.50991667
 longitude: 9.00469444
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q1409789"
 description: "In the coastal town of Husum, Germany, you’ll find the Little Church upon the Sea, a remarkable church building that exemplifies the unique Brick Gothic..."
 images:
-  - "/images/little-church-upon-the-sea/01-958e1de9-1920w.webp"
-  - "/images/little-church-upon-the-sea/02-cf7033a7-1920w.webp"
-  - "/images/little-church-upon-the-sea/03-32e65314-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Husum_Kirchlein_am_Meer_aussen.jpg/1200px-Husum_Kirchlein_am_Meer_aussen.jpg
 ---
 
 ## Overview

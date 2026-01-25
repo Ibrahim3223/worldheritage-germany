@@ -5,6 +5,12 @@ slug: "morizkirche"
 region: "Thuringia"
 
 # Location
+image_srcset:
+  Coburg%20006morizkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coburg_006morizkirche.jpg/400px-Coburg_006morizkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coburg_006morizkirche.jpg/800px-Coburg_006morizkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coburg_006morizkirche.jpg/1200px-Coburg_006morizkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coburg_006morizkirche.jpg/1920px-Coburg_006morizkirche.jpg
 latitude: 50.2572
 longitude: 10.9661
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q879697"
 description: "Morizkirche, a stunning example of Gothic architecture, stands as a significant cultural heritage monument in Coburg, Bavaria. This Protestant church, d..."
 images:
-  - "/images/morizkirche/01-2c7b5424-1920w.webp"
-  - "/images/morizkirche/02-7b555fa0-1920w.webp"
-  - "/images/morizkirche/03-57ef2853-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coburg_006morizkirche.jpg/1200px-Coburg_006morizkirche.jpg
 ---
 
 ## Overview

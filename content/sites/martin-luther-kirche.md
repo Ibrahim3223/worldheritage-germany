@@ -5,6 +5,12 @@ slug: "martin-luther-kirche"
 region: "Bremen"
 
 # Location
+image_srcset:
+  Bremen-Blumenthal%20Martin-Luther-Kirche%2001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bremen-Blumenthal_Martin-Luther-Kirche_01.jpg/400px-Bremen-Blumenthal_Martin-Luther-Kirche_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bremen-Blumenthal_Martin-Luther-Kirche_01.jpg/800px-Bremen-Blumenthal_Martin-Luther-Kirche_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bremen-Blumenthal_Martin-Luther-Kirche_01.jpg/1200px-Bremen-Blumenthal_Martin-Luther-Kirche_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bremen-Blumenthal_Martin-Luther-Kirche_01.jpg/1920px-Bremen-Blumenthal_Martin-Luther-Kirche_01.jpg
 latitude: 53.1864
 longitude: 8.57528
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1903213"
 description: "In the heart of Blumenthal, Germany, the Martin-Luther-Kirche stands as a striking example of Gothic Revival architecture. This church, designed by Karl..."
 images:
-  - "/images/martin-luther-kirche/01-49c0b288-1920w.webp"
-  - "/images/martin-luther-kirche/02-76dd8666-1920w.webp"
-  - "/images/martin-luther-kirche/03-d842ef4f-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bremen-Blumenthal_Martin-Luther-Kirche_01.jpg/1200px-Bremen-Blumenthal_Martin-Luther-Kirche_01.jpg
 ---
 
 ## Overview

@@ -5,6 +5,12 @@ slug: "marienkirche"
 region: "Mecklenburg-Vorpommern"
 
 # Location
+image_srcset:
+  2009-06-20-pasewalk-by-RalfR-22.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2009-06-20-pasewalk-by-RalfR-22.jpg/400px-2009-06-20-pasewalk-by-RalfR-22.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2009-06-20-pasewalk-by-RalfR-22.jpg/800px-2009-06-20-pasewalk-by-RalfR-22.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2009-06-20-pasewalk-by-RalfR-22.jpg/1200px-2009-06-20-pasewalk-by-RalfR-22.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2009-06-20-pasewalk-by-RalfR-22.jpg/1920px-2009-06-20-pasewalk-by-RalfR-22.jpg
 latitude: 53.5025
 longitude: 13.9903
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1320471"
 description: "In the heart of Pasewalk, Germany, Marienkirche emerges as a striking example of Brick Gothic architecture, captivating visitors with its historical and..."
 images:
-  - "/images/marienkirche/01-52edde66-1920w.webp"
-  - "/images/marienkirche/02-584a96bd-1920w.webp"
-  - "/images/marienkirche/03-e21543b8-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2009-06-20-pasewalk-by-RalfR-22.jpg/1200px-2009-06-20-pasewalk-by-RalfR-22.jpg
 ---
 
 ## Overview

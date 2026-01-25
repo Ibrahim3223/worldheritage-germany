@@ -5,6 +5,12 @@ slug: "kreuzeskirche"
 region: "North Rhine-Westphalia"
 
 # Location
+image_srcset:
+  NRW,%20Essen,%20Stadtkern%20-%20Kreuzes%20Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg/400px-NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg/800px-NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg/1200px-NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg/1920px-NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg
 latitude: 51.4594
 longitude: 7.01119
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1788260"
 description: "In the heart of Essen, Germany, lies the Kreuzeskirche, a church building that is a prominent example of Romanesque Revival architecture. The structure ..."
 images:
-  - "/images/kreuzeskirche/01-8a0e5c92-1920w.webp"
-  - "/images/kreuzeskirche/02-6b558835-1920w.webp"
-  - "/images/kreuzeskirche/03-587f6c00-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg/1200px-NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg
 ---
 
 ## Overview

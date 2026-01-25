@@ -5,6 +5,12 @@ slug: "marcus-church"
 region: "Lower Saxony"
 
 # Location
+image_srcset:
+  Markuskirche%20Hannover.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Markuskirche_Hannover.jpg/400px-Markuskirche_Hannover.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Markuskirche_Hannover.jpg/800px-Markuskirche_Hannover.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Markuskirche_Hannover.jpg/1200px-Markuskirche_Hannover.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Markuskirche_Hannover.jpg/1920px-Markuskirche_Hannover.jpg
 latitude: 52.3883
 longitude: 9.75227
 regions:
@@ -15,9 +21,7 @@ categories:
 wikidata_id: "Q1597429"
 description: "In the vibrant heart of Hanover, Germany, the Marcus Church stands as a striking example of modern ecclesiastical architecture. This Lutheran church, de..."
 images:
-  - "/images/marcus-church/01-662a649f-1920w.webp"
-  - "/images/marcus-church/02-bc13df98-1920w.webp"
-  - "/images/marcus-church/03-2c7fa298-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Markuskirche_Hannover.jpg/1200px-Markuskirche_Hannover.jpg
 ---
 
 ## Overview

@@ -5,6 +5,12 @@ slug: "maria-und-martha-kirche"
 region: "Saxony"
 
 # Location
+image_srcset:
+  Maria-und-Martha-Kirche%20August-Bebel-Platz%207%20Bautzen%202.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Maria-und-Martha-Kirche_August-Bebel-Platz_7_Bautzen_2.JPG/400px-Maria-und-Martha-Kirche_August-Bebel-Platz_7_Bautzen_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Maria-und-Martha-Kirche_August-Bebel-Platz_7_Bautzen_2.JPG/800px-Maria-und-Martha-Kirche_August-Bebel-Platz_7_Bautzen_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Maria-und-Martha-Kirche_August-Bebel-Platz_7_Bautzen_2.JPG/1200px-Maria-und-Martha-Kirche_August-Bebel-Platz_7_Bautzen_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Maria-und-Martha-Kirche_August-Bebel-Platz_7_Bautzen_2.JPG/1920px-Maria-und-Martha-Kirche_August-Bebel-Platz_7_Bautzen_2.JPG
 latitude: 51.17638
 longitude: 14.43246
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1146679"
 description: "The Maria- und Martha-Kirche, a striking example of Gothic Revival architecture, rises prominently in the heart of Bautzen, Germany. Completed in 1888, ..."
 images:
-  - "/images/maria-und-martha-kirche/01-9779050b-1920w.webp"
-  - "/images/maria-und-martha-kirche/02-394ba03b-1920w.webp"
-  - "/images/maria-und-martha-kirche/03-b2047cff-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Maria-und-Martha-Kirche_August-Bebel-Platz_7_Bautzen_2.JPG/1200px-Maria-und-Martha-Kirche_August-Bebel-Platz_7_Bautzen_2.JPG
 ---
 
 ## Overview

@@ -5,6 +5,12 @@ slug: "neanderkirche"
 region: "North Rhine-Westphalia"
 
 # Location
+image_srcset:
+  Düsseldorf%20(DerHexer)%202010-08-13%20021.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Düsseldorf_(DerHexer)_2010-08-13_021.jpg/400px-Düsseldorf_(DerHexer)_2010-08-13_021.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Düsseldorf_(DerHexer)_2010-08-13_021.jpg/800px-Düsseldorf_(DerHexer)_2010-08-13_021.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Düsseldorf_(DerHexer)_2010-08-13_021.jpg/1200px-Düsseldorf_(DerHexer)_2010-08-13_021.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Düsseldorf_(DerHexer)_2010-08-13_021.jpg/1920px-Düsseldorf_(DerHexer)_2010-08-13_021.jpg
 latitude: 51.2267
 longitude: 6.7745
 regions:
@@ -16,9 +22,7 @@ categories:
 wikidata_id: "Q1973070"
 description: "In the heart of Düsseldorfs Altstadt, the Neanderkirche stands as a remarkable example of Baroque architecture, drawing both history enthusiasts and arc..."
 images:
-  - "/images/neanderkirche/01-1ec4d1d0-1920w.webp"
-  - "/images/neanderkirche/02-35de974d-1920w.webp"
-  - "/images/neanderkirche/03-92716cde-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Düsseldorf_(DerHexer)_2010-08-13_021.jpg/1200px-Düsseldorf_(DerHexer)_2010-08-13_021.jpg
 ---
 
 ## Overview
