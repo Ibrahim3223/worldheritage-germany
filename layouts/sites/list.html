@@ -64,7 +64,7 @@
             >
               <option value="">All Categories</option>
               {{ range .Site.Taxonomies.categories.Alphabetical }}
-                <option value="{{ .Page.Title }}">{{ .Page.Title | title }}</option>
+                <option value="{{ .Page.Title | lower }}">{{ .Page.Title | title }}</option>
               {{ end }}
             </select>
           </div>
@@ -120,13 +120,17 @@
     {{ $paginator := .Paginate $allSites 24 }}
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8" style="grid-auto-rows: 530px;">
       {{ range $paginator.Pages }}
+        {{ $siteName := .Params.site_name | default .Title }}
+        {{ $region := .Params.region | default "Germany" }}
         <div
           class="h-[530px] overflow-hidden"
-          data-site-name="{{ .Params.site_name | lower }}"
-          data-categories="{{ delimit .Params.categories "," }}"
-          data-region="{{ .Params.region }}"
-          data-unesco="{{ if in .Params.tags "unesco" }}true{{ else }}false{{ end }}"
-          x-show="(searchQuery === '' || $el.dataset.siteName.includes(searchQuery.toLowerCase())) && (selectedCategory === '' || (',' + $el.dataset.categories.toLowerCase() + ',').includes(',' + selectedCategory.toLowerCase() + ',')) && (selectedRegion === '' || $el.dataset.region === selectedRegion) && (selectedUNESCO === '' || $el.dataset.unesco === selectedUNESCO)"
+          data-site-name="{{ $siteName | lower }}"
+          data-title="{{ .Title | lower }}"
+          data-categories="{{ delimit .Params.categories "," | lower }}"
+          data-heritage-type="{{ .Params.heritage_type | lower }}"
+          data-region="{{ $region }}"
+          data-unesco="{{ if or .Params.unesco (in .Params.tags "unesco") }}true{{ else }}false{{ end }}"
+          x-show="(searchQuery === '' || $el.dataset.siteName.includes(searchQuery.toLowerCase()) || $el.dataset.title.includes(searchQuery.toLowerCase())) && (selectedCategory === '' || $el.dataset.categories.includes(selectedCategory.toLowerCase()) || $el.dataset.heritageType.includes(selectedCategory.toLowerCase())) && (selectedRegion === '' || $el.dataset.region === selectedRegion) && (selectedUNESCO === '' || $el.dataset.unesco === selectedUNESCO)"
           x-transition:enter="transition ease-out duration-200"
           x-transition:enter-start="opacity-0 transform scale-95"
           x-transition:enter-end="opacity-100 transform scale-100"

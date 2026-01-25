@@ -2,7 +2,9 @@
 {{ with .Params.images }}
   {{ $imgURL = partial "image-url.html" (dict "src" (index . 0) "site" $.Site) }}
 {{ end }}
-<a href="{{ .Permalink }}" class="card group flex flex-col" style="height: 530px; max-height: 530px;" aria-label="View details about {{ .Params.site_name }}, {{ .Params.heritage_type }} in {{ .Params.region }}">
+{{ $siteName := .Params.site_name | default .Title }}
+{{ $region := .Params.region | default "Germany" }}
+<a href="{{ .Permalink }}" class="card group flex flex-col" style="height: 530px; max-height: 530px;" aria-label="View details about {{ $siteName }}, {{ .Params.heritage_type }} in {{ $region }}">
   {{ with .Params.images }}
     <div class="relative bg-sand h-64 overflow-hidden flex-shrink-0">
       <img
@@ -12,13 +14,13 @@
                 {{ $imgURL }} 320w"
         sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 400px"
         src="{{ $imgURL }}"
-        alt="{{ $.Params.site_name }} - {{ $.Params.heritage_type }} in {{ $.Params.region }}, Germany"
+        alt="{{ $siteName }} - {{ $.Params.heritage_type }} in {{ $region }}, Germany"
         class="w-full h-64 object-cover object-center"
         loading="lazy"
         decoding="async"
         width="400"
         height="225"
-        onerror="this.onerror=null; this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22400%22 height=%22225%22%3E%3Crect fill=%22%23E8D5B7%22 width=%22400%22 height=%22225%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial, sans-serif%22 font-size=%2218%22 fill=%22%238B7E74%22%3E{{ $.Params.site_name | truncate 30 }}%3C/text%3E%3C/svg%3E';"
+        onerror="this.onerror=null; this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22400%22 height=%22225%22%3E%3Crect fill=%22%23E8D5B7%22 width=%22400%22 height=%22225%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial, sans-serif%22 font-size=%2218%22 fill=%22%238B7E74%22%3E{{ $siteName | truncate 30 }}%3C/text%3E%3C/svg%3E';"
       >
       {{ if $.Params.unesco }}
         <div class="absolute top-3 right-3 z-10">
@@ -42,11 +44,11 @@
 
   <div class="card-body flex-grow flex flex-col">
     <h3 class="card-title group-hover:text-forest-600 transition-colors">
-      {{ .Params.site_name }}
+      {{ $siteName }}
     </h3>
 
-    {{ if and .Params.region (ne .Params.region "Germany") }}
-      <p class="text-sm text-stone mb-3">📍 {{ .Params.region }}</p>
+    {{ if and $region (ne $region "Germany") }}
+      <p class="text-sm text-stone mb-3">📍 {{ $region }}</p>
     {{ end }}
 
     <p class="card-text line-clamp-4 overflow-hidden mb-4">
