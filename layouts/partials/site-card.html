@@ -49,11 +49,11 @@
       <p class="text-sm text-stone mb-3">📍 {{ .Params.region }}</p>
     {{ end }}
 
-    <p class="card-text line-clamp-3 overflow-hidden mb-4">
+    <p class="card-text line-clamp-4 overflow-hidden mb-4">
       {{ if .Description }}
-        {{ .Description }}
+        {{ .Description | truncate 180 }}
       {{ else if .Summary }}
-        {{ .Summary | plainify | truncate 150 }}
+        {{ .Summary | plainify | truncate 180 }}
       {{ else }}
         Explore this {{ .Params.heritage_type | lower }} in Germany's rich cultural landscape.
       {{ end }}

@@ -81,15 +81,15 @@
   }
 
   .card-body {
-    @apply p-6;
+    @apply p-5;
   }
 
   .card-title {
-    @apply text-xl font-serif font-bold text-charcoal mb-2;
+    @apply text-lg font-serif font-bold text-charcoal mb-2 leading-tight;
   }
 
   .card-text {
-    @apply text-stone text-base;
+    @apply text-charcoal/80 text-sm leading-relaxed;
   }
 
   /* Badge */
