@@ -1,0 +1,647 @@
+{
+  "types": [
+    {
+      "id": "Q1497375",
+      "label": "architectural ensemble",
+      "count": 12
+    },
+    {
+      "id": "Q18247357",
+      "label": "group of structures or buildings",
+      "count": 9
+    },
+    {
+      "id": "Q33506",
+      "label": "museum",
+      "count": 9
+    },
+    {
+      "id": "Q16970",
+      "label": "church building",
+      "count": 8
+    },
+    {
+      "id": "Q41176",
+      "label": "building",
+      "count": 8
+    },
+    {
+      "id": "Q751876",
+      "label": "château",
+      "count": 5
+    },
+    {
+      "id": "Q22698",
+      "label": "park",
+      "count": 5
+    },
+    {
+      "id": "Q811979",
+      "label": "architectural structure",
+      "count": 5
+    },
+    {
+      "id": "Q12783",
+      "label": "English garden",
+      "count": 4
+    },
+    {
+      "id": "Q44613",
+      "label": "monastery",
+      "count": 4
+    },
+    {
+      "id": "Q570116",
+      "label": "tourist attraction",
+      "count": 4
+    },
+    {
+      "id": "Q839954",
+      "label": "archaeological site",
+      "count": 4
+    },
+    {
+      "id": "Q1129474",
+      "label": "cultural landscape",
+      "count": 4
+    },
+    {
+      "id": "Q16560",
+      "label": "palace",
+      "count": 4
+    },
+    {
+      "id": "Q676050",
+      "label": "old town",
+      "count": 3
+    },
+    {
+      "id": "Q27891162",
+      "label": "water drainage gallery",
+      "count": 3
+    },
+    {
+      "id": "Q16887380",
+      "label": "group",
+      "count": 3
+    },
+    {
+      "id": "Q358",
+      "label": "heritage site",
+      "count": 3
+    },
+    {
+      "id": "Q9259",
+      "label": "World Heritage Site",
+      "count": 3
+    },
+    {
+      "id": "Q23442",
+      "label": "island",
+      "count": 2
+    },
+    {
+      "id": "Q2742167",
+      "label": "religious community",
+      "count": 2
+    },
+    {
+      "id": "Q146924",
+      "label": "Roman limes",
+      "count": 2
+    },
+    {
+      "id": "Q58917",
+      "label": "adit",
+      "count": 2
+    },
+    {
+      "id": "Q88205",
+      "label": "castrum",
+      "count": 2
+    },
+    {
+      "id": "Q702492",
+      "label": "urban area",
+      "count": 2
+    },
+    {
+      "id": "Q947103",
+      "label": "watchtower",
+      "count": 2
+    },
+    {
+      "id": "Q56242215",
+      "label": "Catholic cathedral",
+      "count": 2
+    },
+    {
+      "id": "Q678552",
+      "label": "imperial cathedral",
+      "count": 2
+    },
+    {
+      "id": "Q160742",
+      "label": "abbey",
+      "count": 2
+    },
+    {
+      "id": "Q473972",
+      "label": "protected area",
+      "count": 2
+    },
+    {
+      "id": "Q207694",
+      "label": "art museum",
+      "count": 2
+    },
+    {
+      "id": "Q372363",
+      "label": "geotope",
+      "count": 1
+    },
+    {
+      "id": "Q9096832",
+      "label": "paleontological site",
+      "count": 1
+    },
+    {
+      "id": "Q708751",
+      "label": "imperial abbey",
+      "count": 1
+    },
+    {
+      "id": "Q26830017",
+      "label": "state in the Holy Roman Empire",
+      "count": 1
+    },
+    {
+      "id": "Q83405",
+      "label": "factory",
+      "count": 1
+    },
+    {
+      "id": "Q57346",
+      "label": "defensive wall",
+      "count": 1
+    },
+    {
+      "id": "Q108325",
+      "label": "chapel",
+      "count": 1
+    },
+    {
+      "id": "Q3393392",
+      "label": "highest point",
+      "count": 1
+    },
+    {
+      "id": "Q14752696",
+      "label": "ancient Roman structure",
+      "count": 1
+    },
+    {
+      "id": "Q321053",
+      "label": "cenotaph",
+      "count": 1
+    },
+    {
+      "id": "Q4989906",
+      "label": "monument",
+      "count": 1
+    },
+    {
+      "id": "Q756102",
+      "label": "open-air museum",
+      "count": 1
+    },
+    {
+      "id": "Q12518",
+      "label": "tower",
+      "count": 1
+    },
+    {
+      "id": "Q819435",
+      "label": "mining region",
+      "count": 1
+    },
+    {
+      "id": "Q7257985",
+      "label": "public service company",
+      "count": 1
+    },
+    {
+      "id": "Q1371789",
+      "label": "vacation home",
+      "count": 1
+    },
+    {
+      "id": "Q179700",
+      "label": "statue",
+      "count": 1
+    },
+    {
+      "id": "Q1292279",
+      "label": "political border",
+      "count": 1
+    },
+    {
+      "id": "Q2977",
+      "label": "cathedral",
+      "count": 1
+    },
+    {
+      "id": "Q107637871",
+      "label": "transboundary site",
+      "count": 1
+    },
+    {
+      "id": "Q56242235",
+      "label": "Lutheran cathedral",
+      "count": 1
+    },
+    {
+      "id": "Q543654",
+      "label": "Rathaus",
+      "count": 1
+    },
+    {
+      "id": "Q3950",
+      "label": "villa",
+      "count": 1
+    },
+    {
+      "id": "Q136689",
+      "label": "chalet",
+      "count": 1
+    },
+    {
+      "id": "Q167346",
+      "label": "botanical garden",
+      "count": 1
+    },
+    {
+      "id": "Q182676",
+      "label": "mountain hut",
+      "count": 1
+    },
+    {
+      "id": "Q253019",
+      "label": "Ortsteil",
+      "count": 1
+    },
+    {
+      "id": "Q2319498",
+      "label": "architectural landmark",
+      "count": 1
+    },
+    {
+      "id": "Q7138926",
+      "label": "parliament building",
+      "count": 1
+    },
+    {
+      "id": "Q16823155",
+      "label": "Schloss",
+      "count": 1
+    },
+    {
+      "id": "Q1438040",
+      "label": "research library",
+      "count": 1
+    },
+    {
+      "id": "Q53536964",
+      "label": "royal palace",
+      "count": 1
+    },
+    {
+      "id": "Q959309",
+      "label": "coal mine",
+      "count": 1
+    },
+    {
+      "id": "Q1569871",
+      "label": "industrial heritage site",
+      "count": 1
+    },
+    {
+      "id": "Q10832530",
+      "label": "ironworks",
+      "count": 1
+    },
+    {
+      "id": "Q18674739",
+      "label": "event venue",
+      "count": 1
+    },
+    {
+      "id": "Q23413",
+      "label": "castle",
+      "count": 1
+    },
+    {
+      "id": "Q10631691",
+      "label": "Catholic pilgrimage church",
+      "count": 1
+    },
+    {
+      "id": "Q16735822",
+      "label": "history museum",
+      "count": 1
+    },
+    {
+      "id": "Q19953632",
+      "label": "former administrative territorial entity",
+      "count": 1
+    },
+    {
+      "id": "Q153562",
+      "label": "opera house",
+      "count": 1
+    },
+    {
+      "id": "Q1558054",
+      "label": "art colony",
+      "count": 1
+    },
+    {
+      "id": "Q820084",
+      "label": "mountain park",
+      "count": 1
+    },
+    {
+      "id": "Q746628",
+      "label": "studio",
+      "count": 1
+    },
+    {
+      "id": "Q11755880",
+      "label": "residential building",
+      "count": 1
+    },
+    {
+      "id": "Q17087359",
+      "label": "wilderness hut",
+      "count": 1
+    },
+    {
+      "id": "Q199451",
+      "label": "pagoda",
+      "count": 1
+    },
+    {
+      "id": "Q863679",
+      "label": "chinoiserie",
+      "count": 1
+    },
+    {
+      "id": "Q4990623",
+      "label": "garden tea house",
+      "count": 1
+    },
+    {
+      "id": "Q486972",
+      "label": "human settlement",
+      "count": 1
+    },
+    {
+      "id": "Q820477",
+      "label": "mine",
+      "count": 1
+    },
+    {
+      "id": "Q1731837",
+      "label": "church treasure",
+      "count": 1
+    },
+    {
+      "id": "Q1516079",
+      "label": "cultural heritage ensemble",
+      "count": 1
+    },
+    {
+      "id": "Q25964111",
+      "label": "group of settlements",
+      "count": 1
+    },
+    {
+      "id": "Q11691318",
+      "label": "cultural heritage monument in Germany",
+      "count": 1
+    },
+    {
+      "id": "Q28777651",
+      "label": "group of protected areas",
+      "count": 1
+    },
+    {
+      "id": "Q22715",
+      "label": "vineyard",
+      "count": 1
+    },
+    {
+      "id": "Q1436181",
+      "label": "maison de plaisance",
+      "count": 1
+    },
+    {
+      "id": "Q132732244",
+      "label": "Archaeological complex",
+      "count": 1
+    },
+    {
+      "id": "Q21503788",
+      "label": "Landschaftsschutzgebiet",
+      "count": 1
+    }
+  ],
+  "sites_by_type": {
+    "English garden": [
+      "Wörlitzer Park",
+      "Park an der Ilm",
+      "Muskau Park",
+      "Bergpark Wilhelmshöhe"
+    ],
+    "island": [
+      "Pfaueninsel",
+      "Reichenau Island"
+    ],
+    "monastery": [
+      "Abbey of Reichenau",
+      "Princely Abbey of Corvey",
+      "Abbey and Altenmünster of Lorsch",
+      "Maulbronn Monastery"
+    ],
+    "religious community": [
+      "Abbey of Reichenau",
+      "Princely Abbey of Corvey"
+    ],
+    "tourist attraction": [
+      "Danevirke",
+      "Limeskastell Pohl",
+      "Cologne Cathedral",
+      "Museum Island"
+    ],
+    "archaeological site": [
+      "Danevirke",
+      "Lower German Limes",
+      "Castra of Gunzenhausen",
+      "Upper German-Raetian Limes"
+    ],
+    "château": [
+      "Babelsberg Palace",
+      "Schloss Großkühnau",
+      "Herrenchiemsee",
+      "Bergpark Wilhelmshöhe",
+      "Schloss Wörlitz"
+    ],
+    "cultural landscape": [
+      "Palaces and Parks of Potsdam and Berlin",
+      "Rhine Gorge",
+      "Dessau-Wörlitz Garden Realm",
+      "Naumburg Cathedral and the High Medieval Cultural Landscape of the Rivers Saale and Unstrut"
+    ],
+    "park": [
+      "Sieglitzer Berg",
+      "Muskau Park",
+      "Dessau-Wörlitz Garden Realm",
+      "Babelsberg Park",
+      "Kühnauer Park"
+    ],
+    "church building": [
+      "Church of St. George",
+      "St Mary's Cathedral and St Michael's Church at Hildesheim",
+      "Cologne Cathedral",
+      "Aachen Cathedral",
+      "Naumburg Cathedral",
+      "Church of the Redeemer",
+      "Wieskirche",
+      "St. Petrikirche"
+    ],
+    "old town": [
+      "Old town of Regensburg with Stadtamhof",
+      "Hanseatic City of Lübeck",
+      "Speicherstadt and Kontorhaus District with Chilehaus"
+    ],
+    "architectural ensemble": [
+      "Old town of Regensburg with Stadtamhof",
+      "borders of the Roman Empire",
+      "Berlin Modernism Housing Estates",
+      "Classical Weimar",
+      "Augustusburg and Falkenlust Palaces",
+      "Roman Monuments, Cathedral of St. Peter and Church of Our Lady in Trier UNESCO World Heritage Site",
+      "Frontiers of the Roman Empire – The Danube Limes (Western Segment)",
+      "ShUM Sites of Speyer, Worms and Mainz",
+      "Town of Bamberg",
+      "Jewish-Medieval Heritage of Erfurt",
+      "Residence Ensemble Schwerin",
+      "Würzburg Residence with the Court Gardens and Residence Square"
+    ],
+    "Roman limes": [
+      "Lower German Limes",
+      "Upper German-Raetian Limes"
+    ],
+    "group of structures or buildings": [
+      "Lower German Limes",
+      "Luther Memorials in Eisleben and Wittenberg",
+      "St Mary's Cathedral and St Michael's Church at Hildesheim",
+      "Collegiate Church, Castle, and Old Town of Quedlinburg",
+      "Jüdisch-Mittelalterliches Erbe in Erfurt",
+      "Bauhaus and its Sites in Weimar, Dessau and Bernau",
+      "Water Management System of Augsburg",
+      "The Architectural Work of Le Corbusier",
+      "The Palaces of King Ludwig II of Bavaria: Neuschwanstein, Linderhof, Schachen and Herrenchiemsee"
+    ],
+    "adit": [
+      "Ernst-August-Stollen",
+      "Grünhirscher Stollen"
+    ],
+    "water drainage gallery": [
+      "Ernst-August-Stollen",
+      "Tiefer Georg-Stollen",
+      "Grünhirscher Stollen"
+    ],
+    "castrum": [
+      "Castra of Gunzenhausen",
+      "Limeskastell Pohl"
+    ],
+    "urban area": [
+      "Historic Centres of Stralsund and Wismar",
+      "Hanseatic City of Lübeck"
+    ],
+    "watchtower": [
+      "Limeskastell Pohl",
+      "Limes Tower I"
+    ],
+    "building": [
+      "Römisches Haus, Weimar",
+      "Wartburg",
+      "Kavaliershaus",
+      "Meierei auf der Pfaueninsel",
+      "Pagode Oranienbaum",
+      "Schwedenhaus",
+      "Naumburg Cathedral and the High Medieval Cultural Landscape of the Rivers Saale and Unstrut",
+      "Gotisches Haus"
+    ],
+    "Catholic cathedral": [
+      "Cologne Cathedral",
+      "Speyer Cathedral"
+    ],
+    "group": [
+      "prehistoric pile dwellings around the Alps",
+      "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+      "Archaeological Border complex of Hedeby and the Danevirke"
+    ],
+    "imperial cathedral": [
+      "Aachen Cathedral",
+      "Speyer Cathedral"
+    ],
+    "heritage site": [
+      "Berlin Modernism Housing Estates",
+      "Bergpark Wilhelmshöhe",
+      "Muskauer Park (Sachgesamtheit)"
+    ],
+    "museum": [
+      "Schwerin Castle",
+      "Wartburg",
+      "Abbey and Altenmünster of Lorsch",
+      "Maulbronn Monastery",
+      "Linderhof Palace",
+      "Margravial Opera House",
+      "Bergpark Wilhelmshöhe",
+      "Belvedere on the Pfingstberg",
+      "Gotisches Haus"
+    ],
+    "abbey": [
+      "Princely Abbey of Corvey",
+      "Abbey and Altenmünster of Lorsch"
+    ],
+    "palace": [
+      "Herrenchiemsee",
+      "Linderhof Palace",
+      "Glienicke Palace",
+      "Belvedere on the Pfingstberg"
+    ],
+    "protected area": [
+      "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+      "Römerkastell Halheim"
+    ],
+    "art museum": [
+      "Altes Museum",
+      "Aachen Cathedral Treasury"
+    ],
+    "World Heritage Site": [
+      "Dessau-Wörlitz Garden Realm",
+      "Artists' Colony in Darmstadt",
+      "Wadden Sea"
+    ],
+    "architectural structure": [
+      "Artists' Colony in Darmstadt",
+      "Ernst Ludwig House",
+      "Beelitzer Jagdschirm",
+      "Weinberghaus",
+      "Chinesisches Teehaus"
+    ]
+  }
+}

@@ -116,6 +116,12 @@ CATEGORY_LIMITS = {
     "roman_villa": 30,
     "prehistoric_site": 20,
 
+    # UNESCO Heritage (100 target) - New categories for UNESCO sites
+    "architectural_ensemble": 50,
+    "cultural_landscape": 30,
+    "old_town": 30,
+    "roman_limes": 20,
+
     # Markets & Commercial (150 target)
     "market_hall": 80,
     "shopping_arcade": 50,
@@ -628,6 +634,33 @@ CATEGORIES = {
         "category_tags": ["prehistoric site", "archaeological site"],
         "description": "Prehistoric sites",
         "priority": "medium",
+    },
+
+    # ========== UNESCO HERITAGE CATEGORIES ==========
+
+    "architectural_ensemble": {
+        "wikidata_classes": ["Q1497375"],  # architectural ensemble
+        "category_tags": ["architectural ensemble", "unesco", "heritage site"],
+        "description": "Architectural ensembles",
+        "priority": "very_high",
+    },
+    "cultural_landscape": {
+        "wikidata_classes": ["Q1129474"],  # cultural landscape
+        "category_tags": ["cultural landscape", "unesco", "heritage site"],
+        "description": "Cultural landscapes",
+        "priority": "very_high",
+    },
+    "old_town": {
+        "wikidata_classes": ["Q676050"],  # old town
+        "category_tags": ["old town", "historic district", "heritage site"],
+        "description": "Historic old towns",
+        "priority": "very_high",
+    },
+    "roman_limes": {
+        "wikidata_classes": ["Q146924"],  # Roman limes
+        "category_tags": ["roman limes", "fortification", "archaeological site", "unesco"],
+        "description": "Roman frontier fortifications",
+        "priority": "very_high",
     },
 
     # ========== MARKETS & COMMERCIAL ==========

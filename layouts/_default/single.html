@@ -5,12 +5,20 @@
   <!-- Hero Header -->
   <div class="relative h-96 md:h-[32rem] bg-forest-900">
     {{ with .Params.images }}
+      {{/* Skip thumbnail images for hero */}}
+      {{ $heroImg := index . 0 }}
+      {{ if gt (len .) 1 }}
+        {{ if or (in $heroImg "Thumbnail") (in $heroImg "thumbnail") (in $heroImg "thumb") (in $heroImg ".svg") }}
+          {{ $heroImg = index . 1 }}
+        {{ end }}
+      {{ end }}
       <img
-        src="{{ partial "image-url.html" (dict "src" (index . 0) "site" $.Site) }}"
+        src="{{ partial "image-url.html" (dict "src" $heroImg "site" $.Site) }}"
         alt="{{ $.Params.site_name }} - {{ $.Params.heritage_type }} in {{ $.Params.region }}, Germany"
         class="w-full h-full object-cover opacity-90"
         loading="eager"
         decoding="async"
+        onerror="this.onerror=null; this.style.display='none';"
       >
     {{ end }}
     <div class="absolute inset-0 bg-gradient-to-t from-forest-900 via-transparent to-transparent"></div>
@@ -63,7 +71,13 @@
 
         <!-- Photo Gallery Section -->
         {{ if and .Params.images (gt (len .Params.images) 1) }}
-        <div class="mt-12" x-data="{ currentImage: 0, totalImages: {{ len .Params.images }}, lightboxOpen: false }">
+        {{/* Calculate starting image - skip first if it's a thumbnail */}}
+        {{ $startImage := 0 }}
+        {{ $firstImg := index .Params.images 0 }}
+        {{ if or (in $firstImg "Thumbnail") (in $firstImg "thumbnail") (in $firstImg "thumb") (in $firstImg ".svg") }}
+          {{ $startImage = 1 }}
+        {{ end }}
+        <div class="mt-12" x-data="{ currentImage: {{ $startImage }}, totalImages: {{ len .Params.images }}, lightboxOpen: false }">
           <h2 class="text-2xl font-serif font-bold text-charcoal mb-6">Photo Gallery</h2>
 
           <!-- Large Image Carousel -->
@@ -82,6 +96,7 @@
                     alt="{{ $.Params.site_name }} - Photo {{ add $index 1 }}"
                     class="w-full h-full object-cover"
                     loading="{{ if eq $index 0 }}eager{{ else }}lazy{{ end }}"
+                    onerror="this.parentElement.style.display='none'; if (currentImage === {{ $index }}) { currentImage = (currentImage + 1) % totalImages; }"
                   >
                 </div>
               {{ end }}
@@ -125,6 +140,9 @@
             <!-- Thumbnail Navigation -->
             <div class="mt-4 flex gap-2 overflow-x-auto pb-2 scrollbar-thin max-w-4xl mx-auto">
               {{ range $index, $image := .Params.images }}
+                {{/* Skip thumbnail images in navigation */}}
+                {{ $isThumbnail := or (in $image "Thumbnail") (in $image "thumbnail") (in $image "thumb") (in $image ".svg") }}
+                {{ if not $isThumbnail }}
                 <button
                   @click="currentImage = {{ $index }}"
                   :class="currentImage === {{ $index }} ? 'ring-2 ring-forest-500' : 'opacity-60 hover:opacity-100'"
@@ -135,8 +153,10 @@
                     alt="Thumbnail {{ add $index 1 }}"
                     class="w-full h-full object-cover"
                     loading="lazy"
+                    onerror="this.parentElement.style.display='none';"
                   >
                 </button>
+                {{ end }}
               {{ end }}
             </div>
           </div>
