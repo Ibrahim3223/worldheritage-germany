@@ -2,10 +2,6 @@ baseURL = "https://de.worldheritage.guide/"
 languageCode = "en-us"
 title = "WorldHeritage.guide - Germany | Comprehensive Heritage Travel Guide"
 
-# Disable aliases to reduce file count for Cloudflare Pages (20k limit)
-# Using static/_redirects for all redirects instead
-disableAliases = true
-
 # Ignore files (logs, temp files)
 ignoreFiles = ["\\.log$", "logs/", "\\.bak$", "\\.tmp$"]
 
@@ -20,8 +16,8 @@ publishDir = "public"
 [build]
 writeStats = true
 
-# Pagination
-paginate = 12
+# Pagination (increased to reduce file count)
+paginate = 100
 
 # Permalinks
 [permalinks]
@@ -99,13 +95,13 @@ paginate = 12
     style = "monokai"
     lineNos = false
 
-# Output formats
+# Output formats (minimized to reduce file count for Cloudflare 20k limit)
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
-  section = ["HTML", "RSS"]
+  home = ["HTML"]
+  section = ["HTML"]
   page = ["HTML"]
-  taxonomy = ["HTML", "RSS"]
-  term = ["HTML", "RSS"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
 
 # Minification
 [minify]
