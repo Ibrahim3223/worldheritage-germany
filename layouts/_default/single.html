@@ -439,7 +439,7 @@
     </div>
 
     <!-- Related Sites by Region -->
-    {{ $relatedRegion := where .Site.RegularPages "Params.region" .Params.region | first 5 }}
+    {{ $relatedRegion := where .Site.RegularPages "Params.region" .Params.region | first 4 }}
     {{ if gt (len $relatedRegion) 1 }}
     <div class="mt-16 pt-12 border-t border-sand">
       <h2 class="text-3xl font-serif font-bold text-charcoal mb-8">More in {{ .Params.region }}</h2>

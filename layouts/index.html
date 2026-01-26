@@ -54,19 +54,29 @@
     </div>
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12" style="grid-auto-rows: 530px;">
-      {{/* Get UNESCO sites with images for featured section */}}
+      {{/* Get UNESCO sites with valid images for featured section */}}
       {{ $allSites := where .Site.RegularPages "Section" "sites" }}
-      {{/* Filter for UNESCO sites - check both unesco param and unesco tag */}}
+      {{/* Filter for UNESCO sites with valid non-thumbnail images */}}
       {{ $unescoSites := slice }}
       {{ range $allSites }}
         {{ if or .Params.unesco (in .Params.tags "unesco") }}
-          {{ $unescoSites = $unescoSites | append . }}
+          {{ if .Params.images }}
+            {{/* Check if has at least one valid image */}}
+            {{ $hasValidImage := false }}
+            {{ range .Params.images }}
+              {{ if not (or (in . "Thumbnail") (in . "thumbnail") (in . "thumb") (in . ".svg")) }}
+                {{ $hasValidImage = true }}
+              {{ end }}
+            {{ end }}
+            {{ if $hasValidImage }}
+              {{ $unescoSites = $unescoSites | append . }}
+            {{ end }}
+          {{ end }}
         {{ end }}
       {{ end }}
-      {{ $unescoWithImages := where $unescoSites "Params.images" "!=" nil }}
 
       {{/* Shuffle and show 6 UNESCO sites */}}
-      {{ $featuredSites := $unescoWithImages | shuffle }}
+      {{ $featuredSites := $unescoSites | shuffle }}
       {{ range first 6 $featuredSites }}
         {{ partial "site-card.html" . }}
       {{ end }}

@@ -65,28 +65,26 @@
     <p class="card-text line-clamp-4 overflow-hidden mb-4">
       {{ $excerpt := "" }}
       {{ if .Content }}
-        {{/* Extract first paragraph from content, skip Overview heading */}}
+        {{/* Extract content after Overview heading */}}
         {{ $content := .Content | plainify }}
-        {{/* Remove everything up to and including ## Overview */}}
-        {{ $content = replaceRE "(?s).*?##\\s*Overview\\s*" "" $content }}
-        {{/* Clean up extra whitespace and newlines */}}
+        {{/* Remove everything up to and including ## Overview heading */}}
+        {{ $content = replaceRE "(?s).*?##\\s*Overview\\s*\n+" "" $content }}
+        {{/* Remove any remaining headings and content after them */}}
+        {{ $content = replaceRE "(?s)##.*" "" $content }}
+        {{/* Clean up extra whitespace */}}
         {{ $content = replaceRE "\\s+" " " $content }}
         {{ $content = strings.TrimSpace $content }}
-        {{/* Get first 2-3 sentences */}}
-        {{ $sentences := replaceRE "(?s)^((?:[^.!?]+[.!?]\\s*){1,2}).*" "$1" $content }}
-        {{/* If regex didn't match, take first 180 chars */}}
-        {{ if eq $sentences $content }}
-          {{ $excerpt = $content | truncate 180 }}
-        {{ else }}
-          {{ $excerpt = $sentences | truncate 180 }}
+        {{/* Take first 200 characters to get full sentences */}}
+        {{ if gt (len $content) 20 }}
+          {{ $excerpt = $content | truncate 200 }}
         {{ end }}
       {{ end }}
-      {{ if and $excerpt (gt (len $excerpt) 10) }}
+      {{ if and $excerpt (gt (len $excerpt) 20) }}
         {{ $excerpt }}
-      {{ else if and .Description (gt (len .Description) 10) }}
-        {{ .Description | truncate 180 }}
+      {{ else if .Description }}
+        {{ .Description | truncate 200 }}
       {{ else if .Summary }}
-        {{ .Summary | plainify | truncate 180 }}
+        {{ .Summary | plainify | truncate 200 }}
       {{ else }}
         Explore this {{ .Params.heritage_type | lower }} in Germany's rich cultural landscape.
       {{ end }}
