@@ -16,6 +16,10 @@ publishDir = "public"
 [build]
 writeStats = true
 
+# Disable aliases to reduce file count for Cloudflare Pages (20k limit)
+# Using static/_redirects for all redirects instead
+disableAliases = true
+
 # Pagination
 paginate = 12
 
