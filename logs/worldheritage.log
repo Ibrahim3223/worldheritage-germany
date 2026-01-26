@@ -34902,3 +34902,178 @@ b'SPARQL-QUERY: queryStr=\njava.util.concurrent.ExecutionException: org.openrdf.
 2026-01-16 20:57:33,377 - utils - INFO - Script 5 complete!
 2026-01-16 20:57:33,377 - utils - INFO - 
 2026-01-16 20:57:33,377 - utils - INFO - Next: Run 'hugo server' to preview the site
+2026-01-26 02:02:00,160 - utils.helpers - INFO - ============================================================
+2026-01-26 02:02:00,161 - utils.helpers - INFO - SCRIPT 1: FETCH WIKIDATA
+2026-01-26 02:02:00,161 - utils.helpers - INFO - ============================================================
+2026-01-26 02:02:00,161 - utils.helpers - INFO - Country: Germany
+2026-01-26 02:02:00,161 - utils.helpers - INFO - Wikidata ID: Q183
+2026-01-26 02:02:00,161 - utils.helpers - INFO - Heritage types: 49
+2026-01-26 02:02:00,161 - utils.helpers - INFO - 
+2026-01-26 02:02:00,161 - utils.helpers - INFO - Executing Wikidata query...
+2026-01-26 02:03:01,581 - utils.helpers - ERROR - Query failed: Invalid control character at: line 131628 column 69 (char 3731683)
+2026-01-26 02:03:01,581 - utils.helpers - ERROR - No results. Exiting.
+2026-01-26 02:04:35,436 - utils.helpers - INFO - ============================================================
+2026-01-26 02:04:35,436 - utils.helpers - INFO - SCRIPT 1: FETCH WIKIDATA
+2026-01-26 02:04:35,436 - utils.helpers - INFO - ============================================================
+2026-01-26 02:04:35,437 - utils.helpers - INFO - Country: Germany
+2026-01-26 02:04:35,437 - utils.helpers - INFO - Wikidata ID: Q183
+2026-01-26 02:04:35,437 - utils.helpers - INFO - Heritage types: 81
+2026-01-26 02:04:35,437 - utils.helpers - INFO - 
+2026-01-26 02:04:35,437 - utils.helpers - INFO - Executing Wikidata query...
+2026-01-26 02:05:40,805 - utils.helpers - ERROR - Query failed: HTTP Error 504: Gateway Timeout
+2026-01-26 02:05:40,828 - utils.helpers - ERROR - Traceback (most recent call last):
+  File "C:\Users\Dante\Desktop\Yeniden\WebSite\worldheritage-projects\worldheritage-germany\scripts\1_fetch_wikidata.py", line 142, in query_wikidata
+    response = sparql.query()
+  File "C:\Users\Dante\AppData\Roaming\Python\Python313\site-packages\SPARQLWrapper\Wrapper.py", line 960, in query
+    return QueryResult(self._query())
+                       ~~~~~~~~~~~^^
+  File "C:\Users\Dante\AppData\Roaming\Python\Python313\site-packages\SPARQLWrapper\Wrapper.py", line 940, in _query
+    raise e
+  File "C:\Users\Dante\AppData\Roaming\Python\Python313\site-packages\SPARQLWrapper\Wrapper.py", line 924, in _query
+    response = urlopener(request, timeout=self.timeout)
+  File "C:\Python313\Lib\urllib\request.py", line 189, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\urllib\request.py", line 495, in open
+    response = meth(req, response)
+  File "C:\Python313\Lib\urllib\request.py", line 604, in http_response
+    response = self.parent.error(
+        'http', request, response, code, msg, hdrs)
+  File "C:\Python313\Lib\urllib\request.py", line 533, in error
+    return self._call_chain(*args)
+           ~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Python313\Lib\urllib\request.py", line 466, in _call_chain
+    result = func(*args)
+  File "C:\Python313\Lib\urllib\request.py", line 613, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 504: Gateway Timeout
+
+2026-01-26 02:05:40,830 - utils.helpers - ERROR - No results. Exiting.
+2026-01-26 02:06:22,513 - utils.helpers - INFO - ============================================================
+2026-01-26 02:06:22,513 - utils.helpers - INFO - SCRIPT 1: FETCH WIKIDATA (BATCHED)
+2026-01-26 02:06:22,513 - utils.helpers - INFO - ============================================================
+2026-01-26 02:06:22,513 - utils.helpers - INFO - Country: Germany
+2026-01-26 02:06:22,513 - utils.helpers - INFO - Wikidata ID: Q183
+2026-01-26 02:06:22,513 - utils.helpers - INFO - Total heritage types: 81
+2026-01-26 02:06:22,513 - utils.helpers - INFO - 
+2026-01-26 02:06:22,513 - utils.helpers - INFO - Querying in 9 batches (batch size: 10)
+2026-01-26 02:06:22,513 - utils.helpers - INFO - 
+2026-01-26 02:06:22,514 - utils.helpers - INFO - Batch 1/9: 10 types
+2026-01-26 02:06:22,514 - utils.helpers - INFO - Executing Wikidata query...
+2026-01-26 02:07:27,871 - utils.helpers - ERROR - Query failed: HTTP Error 504: Gateway Timeout
+2026-01-26 02:07:27,874 - utils.helpers - ERROR - Traceback (most recent call last):
+  File "C:\Users\Dante\Desktop\Yeniden\WebSite\worldheritage-projects\worldheritage-germany\scripts\1_fetch_wikidata.py", line 142, in query_wikidata
+    response = sparql.query()
+  File "C:\Users\Dante\AppData\Roaming\Python\Python313\site-packages\SPARQLWrapper\Wrapper.py", line 960, in query
+    return QueryResult(self._query())
+                       ~~~~~~~~~~~^^
+  File "C:\Users\Dante\AppData\Roaming\Python\Python313\site-packages\SPARQLWrapper\Wrapper.py", line 940, in _query
+    raise e
+  File "C:\Users\Dante\AppData\Roaming\Python\Python313\site-packages\SPARQLWrapper\Wrapper.py", line 924, in _query
+    response = urlopener(request, timeout=self.timeout)
+  File "C:\Python313\Lib\urllib\request.py", line 189, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\urllib\request.py", line 495, in open
+    response = meth(req, response)
+  File "C:\Python313\Lib\urllib\request.py", line 604, in http_response
+    response = self.parent.error(
+        'http', request, response, code, msg, hdrs)
+  File "C:\Python313\Lib\urllib\request.py", line 533, in error
+    return self._call_chain(*args)
+           ~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Python313\Lib\urllib\request.py", line 466, in _call_chain
+    result = func(*args)
+  File "C:\Python313\Lib\urllib\request.py", line 613, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 504: Gateway Timeout
+
+2026-01-26 02:07:27,875 - utils.helpers - INFO -   -> Got 0 results
+2026-01-26 02:07:29,875 - utils.helpers - INFO - Batch 2/9: 10 types
+2026-01-26 02:07:29,875 - utils.helpers - INFO - Executing Wikidata query...
+2026-01-26 02:08:36,206 - utils.helpers - ERROR - Query failed: IncompleteRead(4292608 bytes read)
+2026-01-26 02:08:36,232 - utils.helpers - ERROR - Traceback (most recent call last):
+  File "C:\Python313\Lib\http\client.py", line 579, in _get_chunk_left
+    chunk_left = self._read_next_chunk_size()
+  File "C:\Python313\Lib\http\client.py", line 546, in _read_next_chunk_size
+    return int(line, 16)
+ValueError: invalid literal for int() with base 16: b''
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python313\Lib\http\client.py", line 597, in _read_chunked
+    while (chunk_left := self._get_chunk_left()) is not None:
+                         ~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\http\client.py", line 581, in _get_chunk_left
+    raise IncompleteRead(b'')
+http.client.IncompleteRead: IncompleteRead(0 bytes read)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Dante\Desktop\Yeniden\WebSite\worldheritage-projects\worldheritage-germany\scripts\1_fetch_wikidata.py", line 143, in query_wikidata
+    raw_data = response.response.read()
+  File "C:\Python313\Lib\http\client.py", line 473, in read
+    return self._read_chunked(amt)
+           ~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Python313\Lib\http\client.py", line 609, in _read_chunked
+    raise IncompleteRead(b''.join(value)) from exc
+http.client.IncompleteRead: IncompleteRead(4292608 bytes read)
+
+2026-01-26 02:08:36,233 - utils.helpers - INFO -   -> Got 0 results
+2026-01-26 02:08:38,234 - utils.helpers - INFO - Batch 3/9: 10 types
+2026-01-26 02:08:38,234 - utils.helpers - INFO - Executing Wikidata query...
+2026-01-26 02:09:14,000 - utils.helpers - INFO - ============================================================
+2026-01-26 02:09:14,000 - utils.helpers - INFO - SCRIPT 1: FETCH WIKIDATA (BATCHED)
+2026-01-26 02:09:14,000 - utils.helpers - INFO - ============================================================
+2026-01-26 02:09:14,000 - utils.helpers - INFO - Country: Germany
+2026-01-26 02:09:14,000 - utils.helpers - INFO - Wikidata ID: Q183
+2026-01-26 02:09:14,000 - utils.helpers - INFO - Total heritage types: 81
+2026-01-26 02:09:14,000 - utils.helpers - INFO - 
+2026-01-26 02:09:14,000 - utils.helpers - INFO - Querying in 9 batches (batch size: 10)
+2026-01-26 02:09:14,000 - utils.helpers - INFO - 
+2026-01-26 02:09:14,000 - utils.helpers - INFO - Batch 1/9: 10 types
+2026-01-26 02:09:14,000 - utils.helpers - INFO - Executing Wikidata query...
+2026-01-26 02:10:14,355 - utils.helpers - ERROR - Query failed: EndPointInternalError: The endpoint returned the HTTP status code 500. 
+
+Response:
+b'SPARQL-QUERY: queryStr=\nSELECT DISTINCT\n  ?item ?itemLabel ?itemDescription\n  ?coords ?image\n  ?heritage_type ?heritage_typeLabel\n  ?admin ?adminLabel\n  ?inception\n  ?website\n  ?unesco\n\nWHERE {\n  VALUES ?heritage_type { wd:Q34038 wd:Q23397 wd:Q4022 wd:Q35509 wd:Q8502 wd:Q133056 wd:Q39816 wd:Q40080 wd:Q23442 wd:Q1301686 }\n\n  ?item wdt:P31 ?heritage_type .\n  ?item wdt:P17 wd:Q183 .\n  ?item wdt:P625 ?coords .\n\n  # Essential fields only\n  OPTIONAL { ?item wdt:P18 ?image . }\n  OPTIONAL { ?item wdt:P131 ?admin . }\n  OPTIONAL { ?item wdt:P571 ?inception . }\n  OPTIONAL { ?item wdt:P856 ?website . }\n\n  # UNESCO status - CRITICAL\n  OPTIONAL {\n    ?item wdt:P1435 wd:Q9259 .\n    BIND(true AS ?unesco)\n  }\n\n  SERVICE wikibase:label {\n    bd:serviceParam wikibase:language "en,de" .\n  }\n}\nLIMIT 10000\n\njava.util.concurrent.TimeoutException\n\tat java.util.concurrent.FutureTask.get(FutureTask.java:205)\n\tat com.bigdata.rdf.sail.webapp.BigdataServlet.submitApiTask(BigdataServlet.java:292)\n\tat com.bigdata.rdf.sail.webapp.QueryServlet.doSparqlQuery(QueryServlet.java:678)\n\tat com.bigdata.rdf.sail.webapp.QueryServlet.doPost(QueryServlet.java:275)\n\tat com.bigdata.rdf.sail.webapp.RESTServlet.doPost(RESTServlet.java:269)\n\tat com.bigdata.rdf.sail.webapp.MultiTenancyServlet.doPost(MultiTenancyServlet.java:195)\n\tat javax.servlet.http.HttpServlet.service(HttpServlet.java:707)\n\tat javax.servlet.http.HttpServlet.service(HttpServlet.java:790)\n\tat org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:865)\n\tat org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1655)\n\tat org.wikidata.query.rdf.blazegraph.throttling.ThrottlingFilter.doFilter(ThrottlingFilter.java:322)\n\tat org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1642)\n\tat org.wikidata.query.rdf.blazegraph.throttling.SystemOverloadFilter.doFilter(SystemOverloadFilter.java:84)\n\tat org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1642)\n\tat ch.qos.logback.classic.helpers.MDCInsertingServletFilter.doFilter(MDCInsertingServletFilter.java:50)\n\tat org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1642)\n\tat org.wikidata.query.rdf.blazegraph.filters.QueryEventSenderFilter.doFilter(QueryEventSenderFilter.java:125)\n\tat org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1642)\n\tat org.wikidata.query.rdf.blazegraph.filters.ClientIPFilter.doFilter(ClientIPFilter.java:43)\n\tat org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1642)\n\tat org.wikidata.query.rdf.blazegraph.filters.JWTIdentityFilter.doFilter(JWTIdentityFilter.java:66)\n\tat org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1642)\n\tat org.wikidata.query.rdf.blazegraph.filters.RealAgentFilter.doFilter(RealAgentFilter.java:33)\n\tat org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1642)\n\tat org.wikidata.query.rdf.blazegraph.filters.RequestConcurrencyFilter.doFilter(RequestConcurrencyFilter.java:50)\n\tat org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1634)\n\tat org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:533)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:146)\n\tat org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:548)\n\tat org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:132)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:257)\n\tat org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1595)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:255)\n\tat org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1340)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:203)\n\tat org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:473)\n\tat org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1564)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:201)\n\tat org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1242)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:144)\n\tat org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:220)\n\tat org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:126)\n\tat org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:132)\n\tat org.eclipse.jetty.server.Server.handle(Server.java:503)\n\tat org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:364)\n\tat org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:260)\n\tat org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:305)\n\tat org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:103)\n\tat org.eclipse.jetty.io.ChannelEndPoint$2.run(ChannelEndPoint.java:118)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:333)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:310)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:168)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:126)\n\tat org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:366)\n\tat org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:765)\n\tat org.eclipse.jetty.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:683)\n\tat java.lang.Thread.run(Thread.java:750)\n'
+2026-01-26 02:10:14,357 - utils.helpers - ERROR - Traceback (most recent call last):
+  File "C:\Users\Dante\AppData\Roaming\Python\Python313\site-packages\SPARQLWrapper\Wrapper.py", line 924, in _query
+    response = urlopener(request, timeout=self.timeout)
+  File "C:\Python313\Lib\urllib\request.py", line 189, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\urllib\request.py", line 495, in open
+    response = meth(req, response)
+  File "C:\Python313\Lib\urllib\request.py", line 604, in http_response
+    response = self.parent.error(
+        'http', request, response, code, msg, hdrs)
+  File "C:\Python313\Lib\urllib\request.py", line 533, in error
+    return self._call_chain(*args)
+           ~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Python313\Lib\urllib\request.py", line 466, in _call_chain
+    result = func(*args)
+  File "C:\Python313\Lib\urllib\request.py", line 613, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 500: Internal Server Error
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Dante\Desktop\Yeniden\WebSite\worldheritage-projects\worldheritage-germany\scripts\1_fetch_wikidata.py", line 121, in query_wikidata
+    response = sparql.query()
+  File "C:\Users\Dante\AppData\Roaming\Python\Python313\site-packages\SPARQLWrapper\Wrapper.py", line 960, in query
+    return QueryResult(self._query())
+                       ~~~~~~~~~~~^^
+  File "C:\Users\Dante\AppData\Roaming\Python\Python313\site-packages\SPARQLWrapper\Wrapper.py", line 938, in _query
+    raise EndPointInternalError(e.read())
+SPARQLWrapper.SPARQLExceptions.EndPointInternalError: EndPointInternalError: The endpoint returned the HTTP status code 500. 
+
+Response:
+b'SPARQL-QUERY: queryStr=\nSELECT DISTINCT\n  ?item ?itemLabel ?itemDescription\n  ?coords ?image\n  ?heritage_type ?heritage_typeLabel\n  ?admin ?adminLabel\n  ?inception\n  ?website\n  ?unesco\n\nWHERE {\n  VALUES ?heritage_type { wd:Q34038 wd:Q23397 wd:Q4022 wd:Q35509 wd:Q8502 wd:Q133056 wd:Q39816 wd:Q40080 wd:Q23442 wd:Q1301686 }\n\n  ?item wdt:P31 ?heritage_type .\n  ?item wdt:P17 wd:Q183 .\n  ?item wdt:P625 ?coords .\n\n  # Essential fields only\n  OPTIONAL { ?item wdt:P18 ?image . }\n  OPTIONAL { ?item wdt:P131 ?admin . }\n  OPTIONAL { ?item wdt:P571 ?inception . }\n  OPTIONAL { ?item wdt:P856 ?website . }\n\n  # UNESCO status - CRITICAL\n  OPTIONAL {\n    ?item wdt:P1435 wd:Q9259 .\n    BIND(true AS ?unesco)\n  }\n\n  SERVICE wikibase:label {\n    bd:serviceParam wikibase:language "en,de" .\n  }\n}\nLIMIT 10000\n\njava.util.concurrent.TimeoutException\n\tat java.util.concurrent.FutureTask.get(FutureTask.java:205)\n\tat com.bigdata.rdf.sail.webapp.BigdataServlet.submitApiTask(BigdataServlet.java:292)\n\tat com.bigdata.rdf.sail.webapp.QueryServlet.doSparqlQuery(QueryServlet.java:678)\n\tat com.bigdata.rdf.sail.webapp.QueryServlet.doPost(QueryServlet.java:275)\n\tat com.bigdata.rdf.sail.webapp.RESTServlet.doPost(RESTServlet.java:269)\n\tat com.bigdata.rdf.sail.webapp.MultiTenancyServlet.doPost(MultiTenancyServlet.java:195)\n\tat javax.servlet.http.HttpServlet.service(HttpServlet.java:707)\n\tat javax.servlet.http.HttpServlet.service(HttpServlet.java:790)\n\tat org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:865)\n\tat org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1655)\n\tat org.wikidata.query.rdf.blazegraph.throttling.ThrottlingFilter.doFilter(ThrottlingFilter.java:322)\n\tat org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1642)\n\tat org.wikidata.query.rdf.blazegraph.throttling.SystemOverloadFilter.doFilter(SystemOverloadFilter.java:84)\n\tat org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1642)\n\tat ch.qos.logback.classic.helpers.MDCInsertingServletFilter.doFilter(MDCInsertingServletFilter.java:50)\n\tat org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1642)\n\tat org.wikidata.query.rdf.blazegraph.filters.QueryEventSenderFilter.doFilter(QueryEventSenderFilter.java:125)\n\tat org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1642)\n\tat org.wikidata.query.rdf.blazegraph.filters.ClientIPFilter.doFilter(ClientIPFilter.java:43)\n\tat org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1642)\n\tat org.wikidata.query.rdf.blazegraph.filters.JWTIdentityFilter.doFilter(JWTIdentityFilter.java:66)\n\tat org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1642)\n\tat org.wikidata.query.rdf.blazegraph.filters.RealAgentFilter.doFilter(RealAgentFilter.java:33)\n\tat org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1642)\n\tat org.wikidata.query.rdf.blazegraph.filters.RequestConcurrencyFilter.doFilter(RequestConcurrencyFilter.java:50)\n\tat org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1634)\n\tat org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:533)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:146)\n\tat org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:548)\n\tat org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:132)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:257)\n\tat org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1595)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:255)\n\tat org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1340)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:203)\n\tat org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:473)\n\tat org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1564)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:201)\n\tat org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1242)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:144)\n\tat org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:220)\n\tat org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:126)\n\tat org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:132)\n\tat org.eclipse.jetty.server.Server.handle(Server.java:503)\n\tat org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:364)\n\tat org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:260)\n\tat org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:305)\n\tat org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:103)\n\tat org.eclipse.jetty.io.ChannelEndPoint$2.run(ChannelEndPoint.java:118)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:333)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:310)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:168)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:126)\n\tat org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:366)\n\tat org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:765)\n\tat org.eclipse.jetty.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:683)\n\tat java.lang.Thread.run(Thread.java:750)\n'
+
+2026-01-26 02:10:14,357 - utils.helpers - INFO -   -> Got 0 results
+2026-01-26 02:10:16,358 - utils.helpers - INFO - Batch 2/9: 10 types
+2026-01-26 02:10:16,358 - utils.helpers - INFO - Executing Wikidata query...

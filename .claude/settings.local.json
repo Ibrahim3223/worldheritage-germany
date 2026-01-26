@@ -73,7 +73,12 @@
       "Bash(do wc -l \"$file\")",
       "Bash(kill:*)",
       "Bash(git config:*)",
-      "Bash(xargs git add)"
+      "Bash(xargs git add)",
+      "Bash(git ls-files:*)",
+      "Bash(git show:*)",
+      "Bash(git ls-tree:*)",
+      "Bash(gh run list:*)",
+      "Bash(head:*)"
     ]
   }
 }
